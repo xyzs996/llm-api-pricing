@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/43) — that copy has a reply box under it, and this one does not.*
+
 As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates more maintenance overhead than it saves. Loop Engineering is notoriously difficult to land in production unless you narrow down your tooling to a few core operational primitives, which is a workflow strictly built for solo indie hackers who need to offload background maintenance to autonomous routines without building bloated enterprise CI/CD pipelines. It is definitely not suited for large engineering teams looking for complex multi-tier human approval matrices or heavy compliance frameworks.
 
 ## Setting Up /loop for Unattended Background Processing
@@ -80,6 +82,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** 40 sources a night is my number, and the night it goes wrong is the one nobody publishes. Have you ever left an agent running unattended and come back to a mess? Yes or no in a reply — "yes" plus what it touched is the part that never gets written up. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/43).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fstop-doing-manual-devops-how-i-use-loop-and-hook-to.md). One required field, and the page you came from is already filled

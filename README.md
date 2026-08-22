@@ -266,7 +266,7 @@ If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, a
 
 As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor…
 
-`Indie Hacking` `Artificial Intelligence` `Software Development` `Automation`
+`Indie Hacking` `Artificial Intelligence` `Software Development` `Automation` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/43)
 
 ### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
