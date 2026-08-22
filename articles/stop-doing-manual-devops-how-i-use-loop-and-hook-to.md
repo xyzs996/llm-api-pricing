@@ -14,7 +14,7 @@ To control token costs and system complexity, Step 2 is to set strict structural
 
 Still, I'd say the Pi base framework's 1000-token limit seems overstated.
 
-The most common way this step blows up is running unattended tasks without containerization. > 🔴 Because lightweight bases like Pi do not feature built-in sandboxing and inherit current user system permissions, running them blindly on unfamiliar code or unattended tasks can risk local environment safety. Official recommendations state you should place untrusted or autonomous agent loops inside a container, virtual machine, or restricted-policy sandbox with only required directories mounted. For example, if an agent loop handles sensitive data or operates in a production environment, without proper isolation, it could potentially access and modify critical system files.
+The most common way this step blows up is running unattended tasks without containerization. Because lightweight bases like Pi do not feature built-in sandboxing and inherit current user system permissions, running them blindly on unfamiliar code or unattended tasks can risk local environment safety. Official recommendations state you should place untrusted or autonomous agent loops inside a container, virtual machine, or restricted-policy sandbox with only required directories mounted. For example, if an agent loop handles sensitive data or operates in a production environment, without proper isolation, it could potentially access and modify critical system files.
 
 In addition to the above points, it's important to note the role of documentation in this process. According to the principle that Documentation is more important than Prompt, it can reduce rework and token waste. For projects using `/loop` and Pi, it is recommended to maintain documentation for requirements, architecture, API, testing, and progress. This way, new agents won't repeat mistakes due to unclear requirements or inconsistent interface standards. It helps in ensuring the long-term stability and efficiency of the automated tasks.
 
@@ -28,7 +28,7 @@ Step 1 is to implement event-triggered safety guardrails using `/hook` to interc
 
 Beyond basic security, Step 2 asks you to use inline `/hook` routines to enforce writing style guides and remove repetitive mechanical text formatting issues. An AI-tone scanner hook can automatically inspect text drafts, flag banned corporate buzzwords, and rewrite paragraphs to sound natural before final publication.
 
-Over-relying on default smart-approval wrappers without custom exception handling will eventually break your deployment pipeline during edge-case errors. > 🔴 While smart approval features using independent LLMs help reduce manual confirmation fatigue, they do not completely resolve underlying safety disputes unless flexibly configured.
+Over-relying on default smart-approval wrappers without custom exception handling will eventually break your deployment pipeline during edge-case errors. While smart approval features using independent LLMs help reduce manual confirmation fatigue, they do not completely resolve underlying safety disputes unless flexibly configured.
 
 As a developer, I bet on NEEDS.
 
@@ -52,7 +52,7 @@ Knowing when to step away from automation is just as important as writing the sc
 
 If your current project is still a loose, exploratory prototype experiencing rapid pivoting, skip building complex agentic automation. Trying to prematurely codify volatile business logic into automated background cron jobs will only multiply your debugging hours instead of saving them.
 
-**Beyond core architecture and early prototypes, manual oversight is key for operations involving sensitive permissions, financial transactions, or unverified external dependencies.** When systems connect to dozens of external tools and APIs, automated agents must still pause for human confirmation before executing critical state changes to ensure absolute security. Establishing strict human-in-the-loop boundaries prevents background scripts from compounding minor errors into critical production failures. > 🔴.
+**Beyond core architecture and early prototypes, manual oversight is key for operations involving sensitive permissions, financial transactions, or unverified external dependencies.** When systems connect to dozens of external tools and APIs, automated agents must still pause for human confirmation before executing critical state changes to ensure absolute security. Establishing strict human-in-the-loop boundaries prevents background scripts from compounding minor errors into critical production failures.
 
 *Also readable on [Telegraph](https://telegra.ph/Stop-Doing-Manual-DevOps-How-I-Use-loop-and-hook-to-Automate-My-Daily-Indie-Hacker-Tasks-08-22).*
 

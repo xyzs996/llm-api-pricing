@@ -34,7 +34,73 @@
       "weekend_off_peak_from": "2026-08-23",
       "weekend_timezone": "Asia/Shanghai",
       "effective_off_peak": 0.053645,
-      "effective_peak": 0.10729
+      "effective_peak": 0.10729,
+      "in_catalog": true,
+      "weekend_off_peak_from_utc": "2026-08-22T16:00:00Z",
+      "weekend_edges_utc": [
+        "16:00 UTC Friday",
+        "16:00 UTC Sunday"
+      ]
+    },
+    "deepseek/deepseek-v4-flash": {
+      "vendor": "DeepSeek",
+      "vendor_model": "deepseek-v4-flash",
+      "vendor_page": "https://api-docs.deepseek.com/quick_start/pricing/",
+      "checked": "2026-08-22",
+      "off_peak": {
+        "cache_read": 0.007,
+        "input": 0.22,
+        "output": 0.66
+      },
+      "peak": {
+        "cache_read": 0.014,
+        "input": 0.44,
+        "output": 1.32
+      },
+      "peak_windows_utc": [
+        "01:00-04:00",
+        "06:00-10:00"
+      ],
+      "weekend_off_peak_from": "2026-08-23",
+      "weekend_timezone": "Asia/Shanghai",
+      "effective_off_peak": 0.017563,
+      "effective_peak": 0.035126,
+      "in_catalog": false,
+      "weekend_off_peak_from_utc": "2026-08-22T16:00:00Z",
+      "weekend_edges_utc": [
+        "16:00 UTC Friday",
+        "16:00 UTC Sunday"
+      ]
+    },
+    "deepseek/deepseek-v4-flash-vision-exp": {
+      "vendor": "DeepSeek",
+      "vendor_model": "deepseek-v4-flash-vision-exp",
+      "vendor_page": "https://api-docs.deepseek.com/quick_start/pricing/",
+      "checked": "2026-08-22",
+      "off_peak": {
+        "cache_read": 0.007,
+        "input": 0.22,
+        "output": 0.66
+      },
+      "peak": {
+        "cache_read": 0.014,
+        "input": 0.44,
+        "output": 1.32
+      },
+      "peak_windows_utc": [
+        "01:00-04:00",
+        "06:00-10:00"
+      ],
+      "weekend_off_peak_from": "2026-08-23",
+      "weekend_timezone": "Asia/Shanghai",
+      "effective_off_peak": 0.017563,
+      "effective_peak": 0.035126,
+      "in_catalog": false,
+      "weekend_off_peak_from_utc": "2026-08-22T16:00:00Z",
+      "weekend_edges_utc": [
+        "16:00 UTC Friday",
+        "16:00 UTC Sunday"
+      ]
     }
   },
   "long_context_pricing": {
