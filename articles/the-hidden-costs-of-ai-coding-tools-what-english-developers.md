@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/50) — that copy has a reply box under it, and this one does not.*
+
 English write-ups rank these tools on model quality and price per token. Ask instead when the free tier stops working, or what happens when a session runs into a quota nobody wrote down, and the English side goes quiet. The Chinese release notes and forum threads answer both. I read through them and pulled the numbers out. Each figure below names where it came from.
 
 ## The Price Gap: What English Developers Don't Know About Chinese AI Tools
@@ -78,6 +80,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** How many tokens do you think you'd need to finish a medium-sized project without hitting quotas? Reply with a number. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/50).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-hidden-costs-of-ai-coding-tools-what-english-developers.md). One required field, and the page you came from is already filled

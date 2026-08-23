@@ -183,7 +183,7 @@ A developer in China’s AI community achieved 5x productivity gains using loop 
 
 You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
 
-`AI Tools` `Local SEO` `Niche Market` `Revenue Growth`
+`AI Tools` `Local SEO` `Niche Market` `Revenue Growth` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57)
 
 ### [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
@@ -195,7 +195,7 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking.
 
-`AI Implementation` `AI Costs` `Chinese AI` `Indie Development`
+`AI Implementation` `AI Costs` `Chinese AI` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/45)
 
 ### [Best Practices for AI Agent Skill Management](articles/best-practices-for-ai-agent-skill-management.md)
 
@@ -225,7 +225,7 @@ One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding 
 
 Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…
 
-`Customer Service AI` `Revenue Growth` `SaaS Business` `Automation Systems`
+`Customer Service AI` `Revenue Growth` `SaaS Business` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/46)
 
 ### [Choosing the Right AI Model for Coding: Cost vs. Efficiency](articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
@@ -267,13 +267,13 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 
 Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…
 
-`Recurring Revenue` `Cost Savings` `SaaS Business` `AI Features`
+`Recurring Revenue` `Cost Savings` `SaaS Business` `AI Features` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/47)
 
 ### [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 
 In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.
 
-`Business` `AI Implementation` `Automation Systems` `Enterprise Automation`
+`Business` `AI Implementation` `Automation Systems` `Enterprise Automation` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/58)
 
 ### [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
@@ -285,31 +285,31 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 
 Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
 
-`Technology` `Productivity` `SaaS Business` `AI Features`
+`Technology` `Productivity` `SaaS Business` `AI Features` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59)
 
 ### [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
 Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…
 
-`AI Agents` `Revenue Growth` `Niche Market` `Automation Systems`
+`AI Agents` `Revenue Growth` `Niche Market` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/60)
 
 ### [Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month](articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.md)
 
 The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…
 
-`AI` `Digital Marketing` `Entrepreneurship` `Content Marketing`
+`AI` `Digital Marketing` `Entrepreneurship` `Content Marketing` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/61)
 
 ### [Sell It Before You Build It: How Indie Devs Validate AI Products](articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
 
-`Productivity` `AI Costs` `Automation Systems` `Indie Development`
+`Productivity` `AI Costs` `Automation Systems` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48)
 
 ### [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
 
 The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
 
-`Automation` `Passive Income` `Niche Market` `Indie Development`
+`Automation` `Passive Income` `Niche Market` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
 
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
@@ -351,7 +351,7 @@ MonkeyCode ships with 900 million free tokens and supports private deployment, w
 
 English write-ups rank these tools on model quality and price per token.
 
-`AI Productivity` `Development Tools` `AI Pricing` `Chinese AI`
+`AI Productivity` `Development Tools` `AI Pricing` `Chinese AI` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/50)
 
 ### [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
@@ -369,7 +369,7 @@ Klarna's AI customer service experiment, which replaced 700 human agents, initia
 
 The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as…
 
-`AI` `Artificial Intelligence` `Startup` `Business`
+`AI` `Artificial Intelligence` `Startup` `Business` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51)
 
 ### [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
@@ -393,7 +393,7 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 
 Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you.
 
-`Automation` `Indie Development` `AI Branding` `Merchants`
+`Automation` `Indie Development` `AI Branding` `Merchants` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/52)
 
 ### [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 
@@ -411,13 +411,13 @@ When the Claude Code team decided to slash 80% of their system prompts, most dev
 
 In special-purpose vehicles — tankers, sweepers, the trucks nobody films for fun — one effective sales lead costs somewhere between 100 and 1,000 yuan, and a buyer who actually signs wires a hundre…
 
-`Revenue Growth` `Automation Systems` `Niche Market` `AI Startups`
+`Revenue Growth` `Automation Systems` `Niche Market` `AI Startups` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/53)
 
 ### [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
 
 One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology:…
 
-`AI Agents` `AI Implementation` `AI Programming` `AI Limits`
+`AI Agents` `AI Implementation` `AI Programming` `AI Limits` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/54)
 
 ### [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
@@ -429,13 +429,13 @@ The videos run about 60 seconds.
 
 Most people budgeting for a coding assistant reason about it the way they reason about a printer, as though the cost tracked how much comes out.
 
-`AI` `Artificial Intelligence` `Programming` `Software Engineering`
+`AI` `Artificial Intelligence` `Programming` `Software Engineering` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/56)
 
 ### [Your Agent Writes Code Faster Than Anyone Can Review It](articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
 
 The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it.
 
-`AI` `Artificial Intelligence` `Startup` `Programming`
+`AI` `Artificial Intelligence` `Startup` `Programming` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/55)
 
 ## Related
 

@@ -39,6 +39,8 @@ Klarna's AI customer service experiment, which replaced 700 human agents, initia
 
 The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51)
+
 ### [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
 On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
@@ -49,9 +51,13 @@ On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
 
 Most people budgeting for a coding assistant reason about it the way they reason about a printer, as though the cost tracked how much comes out.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/56)
+
 ### [Your Agent Writes Code Faster Than Anyone Can Review It](../articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
 
 The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/55)
 
 ---
 

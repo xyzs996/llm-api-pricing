@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/45) — that copy has a reply box under it, and this one does not.*
+
 One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking. Those two sentences sat next to each other in the same post, and I think most of the English-language coverage of agent adoption has picked up the first one and dropped the second. The replacement is the announcement. The shrinking is the part that shows up eighteen months later, and by then nobody connects it back to the tooling decision that caused it.
 
 ## What Gets Expensive When Code Gets Cheap
@@ -88,6 +90,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** reply with, what percentage of your coding work is now done by AI, and what percentage remains human-manual? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/45).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fai-took-over-my-coding-what-broke-was-how-i-learn.md). One required field, and the page you came from is already filled

@@ -33,6 +33,8 @@ A developer in China’s AI community achieved 5x productivity gains using loop 
 
 One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/45)
+
 ### [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
 
 Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
@@ -67,9 +69,13 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48)
+
 ### [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](../articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
 
 The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
 
 ### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
@@ -86,6 +92,8 @@ Chris launched WiseMindAI last year and came out of a single session with Miora'
 ### [When the AI Picks for the Customer, You Become a Supplier](../articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
 
 Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/52)
 
 ### [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](../articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 

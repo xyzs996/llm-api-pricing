@@ -39,9 +39,13 @@ The agent processes 40-plus podcast channels overnight, transcribed and summariz
 
 Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59)
+
 ### [Sell It Before You Build It: How Indie Devs Validate AI Products](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48)
 
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 

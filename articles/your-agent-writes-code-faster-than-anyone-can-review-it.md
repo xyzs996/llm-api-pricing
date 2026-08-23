@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/55) — that copy has a reply box under it, and this one does not.*
+
 The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it. Coding agents made producing a change dramatically faster; the cost of reviewing that change, running the tests, fixing the lint, writing a pull request description a maintainer will accept, and getting CI green did not fall by anything like the same amount. So the queue backs up one step later than it used to, which feels like progress right up until you notice the pile. I think this is the single most common way an agent rollout ends up net-negative, and nobody announces it, because nobody is measuring the step where it happens.
 
 ## The Gate Is the Product Now
@@ -88,6 +90,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** How many of your merges last month were gated by an automated check rather than by someone reading the diff? Reply with a number. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/55).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fyour-agent-writes-code-faster-than-anyone-can-review-it.md). One required field, and the page you came from is already filled

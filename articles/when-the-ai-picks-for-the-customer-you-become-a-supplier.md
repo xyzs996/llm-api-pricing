@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/52) — that copy has a reply box under it, and this one does not.*
+
 Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you. When an AI assistant completes a purchase on someone's behalf, the identity of that person, their behavior and their intent to buy again all settle on the platform side by default. What reaches the merchant is an isolated order. Not a customer, an order, and the difference between those two things is the difference between a business with a future and a contract manufacturer with good margins this quarter.
 
 ## The Default Is Disintermediation
@@ -92,6 +94,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** Can you reply with a number between 1 and 10 to indicate how concerned you are about this shift in customer relationships? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/52).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fwhen-the-ai-picks-for-the-customer-you-become-a-supplier.md). One required field, and the page you came from is already filled

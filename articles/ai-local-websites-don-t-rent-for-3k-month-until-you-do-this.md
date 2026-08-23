@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/57) — that copy has a reply box under it, and this one does not.*
+
 You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. That’s the viral pitch. It’s true for about 1 in 20 people who try it.
 
 The claim leaves out the gap: **90% of beginners quit during the first 90–180 days** because traffic never arrives and the invoices never land. The channel works, but the timeline doesn’t match the hype.
@@ -109,6 +111,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** If you have ever rented out a site you ranked yourself, what monthly rent did the client actually agree to? Reply with a number. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/57).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md). One required field, and the page you came from is already filled

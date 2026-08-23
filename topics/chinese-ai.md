@@ -27,6 +27,8 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/45)
+
 ### [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
 A monthly report that used to take four hours now takes a few minutes.
@@ -36,6 +38,8 @@ A monthly report that used to take four hours now takes a few minutes.
 ### [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
 
 English write-ups rank these tools on model quality and price per token.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/50)
 
 ### [Token Optimization for Indie Developers' AI API Bills](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 

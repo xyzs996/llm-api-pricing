@@ -27,6 +27,8 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/45)
+
 ### [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
 Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.
@@ -42,6 +44,8 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 ### [Sell It Before You Build It: How Indie Devs Validate AI Products](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48)
 
 ### [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 

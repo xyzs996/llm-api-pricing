@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/59) — that copy has a reply box under it, and this one does not.*
+
 Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity. For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency.
 
 ## Document Processing and Data Analysis
@@ -82,6 +84,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** How many hours a week do you still spend inside Word, Excel or PowerPoint by hand? Reply with a number. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/59).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Foffice-automation-with-claude-code-and-codex.md). One required field, and the page you came from is already filled

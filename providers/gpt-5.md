@@ -19,7 +19,7 @@ Some of these are about GPT-5 and some only measure against it — a competitor'
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12)
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22)
-- [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
+- [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51)
 
 **Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.
 

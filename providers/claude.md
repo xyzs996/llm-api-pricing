@@ -27,8 +27,8 @@ Some of these are about Claude and some only measure against it — a competitor
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12)
 - [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10)
-- [Office Automation with Claude Code and Codex](../articles/office-automation-with-claude-code-and-codex.md)
-- [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
+- [Office Automation with Claude Code and Codex](../articles/office-automation-with-claude-code-and-codex.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59)
+- [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51)
 - [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/40)
 
 **Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.

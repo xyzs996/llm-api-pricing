@@ -27,9 +27,13 @@ Managing AI Agent skills is not merely about tools; it's about designing workflo
 
 Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/47)
+
 ### [Office Automation with Claude Code and Codex](../articles/office-automation-with-claude-code-and-codex.md)
 
 Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59)
 
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 

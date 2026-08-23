@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/48) — that copy has a reply box under it, and this one does not.*
+
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude landing page for Photo AI, fulfilled the first requests by hand, and let the orders answer the question that a month of building would only have postponed. I think most of the advice aimed at solo builders gets the sequence backwards — it treats validation as something you do after shipping, when the cheapest version happens before a line of product code exists. What follows is the sequence that keeps showing up in the cases I read, with the numbers attached where numbers exist.
 
 ## Validate Willingness to Pay, Not Interest
@@ -80,6 +82,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** Can you reply with a number between 1 and 100 to show your agreement with the idea of manual fulfillment for the first customers? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/48).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fsell-it-before-you-build-it-how-indie-devs-validate-ai.md). One required field, and the page you came from is already filled

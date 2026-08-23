@@ -18,6 +18,8 @@
 
 The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
+
 ### [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 
 As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor…
@@ -27,6 +29,8 @@ As a solo developer shipping products alone, manual DevOps and repetitive data p
 ### [When the AI Picks for the Customer, You Become a Supplier](../articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
 
 Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/52)
 
 ---
 

@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/58) — that copy has a reply box under it, and this one does not.*
+
 In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit. A little over a year later the same CEO said publicly that they had gone too far, and the company started hiring people back. I think that pair of announcements is the most useful data point available on agent deployment right now, more useful than any benchmark, because both halves came from the same executive with the same incentives, and the second half cost him something to say.
 
 ## What the Reversal Actually Tells You
@@ -84,6 +86,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** What share of your support tickets does your AI close end to end today, without a person touching them? Reply with a percentage. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/58).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fklarna-replaced-700-support-agents-with-ai-then-it-started.md). One required field, and the page you came from is already filled

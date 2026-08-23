@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/49) — that copy has a reply box under it, and this one does not.*
+
 The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images, another named Aqiang runs 5,000 to 6,000 yuan a month, and the avatars they sell go for 9.9 to 39 yuan each. Do the division and you get a picture that the "quit your job" genre never shows you, which is a lot of small transactions handled quickly. I think those figures are more useful than any success story precisely because they are unimpressive, and because the path from there to something better is visible in the arithmetic itself.
 
 ## The Entry Barrier Really Did Collapse
@@ -86,6 +88,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** Can you reply with a yes or no: Have you ever considered selling plans instead of your time? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/49).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fsell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md). One required field, and the page you came from is already filled

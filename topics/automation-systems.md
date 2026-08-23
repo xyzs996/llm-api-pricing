@@ -57,6 +57,8 @@ Codex's office automation capabilities, which are severely underestimated, can b
 
 Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/46)
+
 ### [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
 The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning.
@@ -79,13 +81,19 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 
 In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/58)
+
 ### [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
 Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/60)
+
 ### [Sell It Before You Build It: How Indie Devs Validate AI Products](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48)
 
 ### [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 
@@ -96,6 +104,8 @@ Klarna's AI customer service experiment, which replaced 700 human agents, initia
 ### [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 
 In special-purpose vehicles — tankers, sweepers, the trucks nobody films for fun — one effective sales lead costs somewhere between 100 and 1,000 yuan, and a buyer who actually signs wires a hundre…
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/53)
 
 ---
 

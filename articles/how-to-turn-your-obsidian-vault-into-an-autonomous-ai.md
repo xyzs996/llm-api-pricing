@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/47) — that copy has a reply box under it, and this one does not.*
+
 Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold is your calendar rather than the artifact. That is the whole argument for packaging a local AI setup instead of shipping another subscription app, and I think it holds up better than most of the passive-income advice attached to it. The open-source `claude-obsidian` project is one of those setups: it wires a local Markdown vault to Claude so that research, archiving and knowledge-graph generation happen while you are somewhere else. What follows is how the pieces fit, what they cost, and the case for not building any of it.
 
 ## Structuring Your Local Knowledge Base for AI Integration
@@ -78,6 +80,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** reply with how many of the four methodologies (LYT, PARA, Zettelkasten, others) you personally use in your Obsidian vault, and which one you recommend for a newbie. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/47).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fhow-to-turn-your-obsidian-vault-into-an-autonomous-ai.md). One required field, and the page you came from is already filled

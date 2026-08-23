@@ -39,6 +39,8 @@ Two brothers ran a single short-video account until one piece of content took of
 
 Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/46)
+
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 A six-hour Chrome extension pays $400 a month.
@@ -55,9 +57,13 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 
 Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/47)
+
 ### [Office Automation with Claude Code and Codex](../articles/office-automation-with-claude-code-and-codex.md)
 
 Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59)
 
 ### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 

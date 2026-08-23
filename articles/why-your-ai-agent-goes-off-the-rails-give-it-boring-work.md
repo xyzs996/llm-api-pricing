@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/54) — that copy has a reply box under it, and this one does not.*
+
 One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology: 300 million tokens on day one, about 200 million on day two, about 100 million on day three. Nothing about the models changed in those 72 hours. What changed was that the requirements and the project rules stopped moving, and once the documents, the division of labor and the project constraints were stable, the wasted back-and-forth went away. I think most stories about agents "going off the rails" are really stories about that day one, repeated indefinitely, by someone who never wrote the rules down.
 
 ## Pick a Job That Can Be Checked
@@ -80,6 +82,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** Can you reply with a number between 1 and 100 that represents your confidence in your AI agent's ability to handle repetitive tasks? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/54).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fwhy-your-ai-agent-goes-off-the-rails-give-it-boring-work.md). One required field, and the page you came from is already filled

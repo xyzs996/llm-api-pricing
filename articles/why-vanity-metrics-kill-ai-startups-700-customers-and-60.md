@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/53) — that copy has a reply box under it, and this one does not.*
+
 In special-purpose vehicles — tankers, sweepers, the trucks nobody films for fun — one effective sales lead costs somewhere between 100 and 1,000 yuan, and a buyer who actually signs wires a hundred thousand or more. I think that single ratio is why the follower dashboards in this category lie to you, and why every acquisition tactic borrowed from consumer apps inverts the moment you carry it into a low-frequency industrial niche where the whole country holds maybe a few thousand real buyers. A handful of operators in this category have built their funnels around that inversion, and their numbers are unusually specific, so I want to walk through them and mark the places where they stop being checkable.
 
 ## Breaking the Traditional Trap: Why Generic Followers Fail in High-Ticket Niches
@@ -88,6 +90,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** How many minutes does it take for a human reply to a stranger's first click in your niche, and is it under 15 minutes? Reply with a yes or no. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/53).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fwhy-vanity-metrics-kill-ai-startups-700-customers-and-60.md). One required field, and the page you came from is already filled

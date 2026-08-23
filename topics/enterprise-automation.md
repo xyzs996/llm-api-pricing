@@ -25,6 +25,8 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/58)
+
 ### [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 
 Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading…

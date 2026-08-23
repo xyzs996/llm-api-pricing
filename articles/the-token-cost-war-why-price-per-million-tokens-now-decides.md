@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/51) — that copy has a reply box under it, and this one does not.*
+
 The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as low as $0.19 per million tokens against $5 to $12 for comparable American offerings, which is not a discount so much as a different category of product. I think that single spread explains more about the last six months than any leaderboard does. What changed is not that models got cheaper in the abstract, but that the unit everyone negotiates over moved from raw compute to the effective token production efficiency of a cluster. Below is what that shift looks like at each layer, from silicon to the invoice a solo developer actually pays.
 
 ## The Metric Moved From Chips to Clusters
@@ -82,6 +84,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** What do you actually pay per million input tokens on the model you use most? Reply with a number. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/51).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-token-cost-war-why-price-per-million-tokens-now-decides.md). One required field, and the page you came from is already filled

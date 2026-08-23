@@ -27,6 +27,8 @@
 
 You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57)
+
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 A six-hour Chrome extension pays $400 a month.
@@ -37,9 +39,13 @@ A six-hour Chrome extension pays $400 a month.
 
 Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/60)
+
 ### [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](../articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
 
 The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
 
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
@@ -62,6 +68,8 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 ### [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 
 In special-purpose vehicles — tankers, sweepers, the trucks nobody films for fun — one effective sales lead costs somewhere between 100 and 1,000 yuan, and a buyer who actually signs wires a hundre…
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/53)
 
 ---
 

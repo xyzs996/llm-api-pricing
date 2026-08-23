@@ -27,6 +27,8 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/45)
+
 ### [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
 
 Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
@@ -49,6 +51,8 @@ The agent processes 40-plus podcast channels overnight, transcribed and summariz
 
 In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/58)
+
 ### [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
 "Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option."
@@ -64,6 +68,8 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 ### [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](../articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
 
 One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology:…
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/54)
 
 ---
 

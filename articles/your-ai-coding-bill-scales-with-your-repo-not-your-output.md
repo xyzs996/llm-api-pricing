@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/56) — that copy has a reply box under it, and this one does not.*
+
 Most people budgeting for a coding assistant reason about it the way they reason about a printer, as though the cost tracked how much comes out. It does not, and the mismatch is why the bill surprises people in month three rather than month one. The dominant consumption in an AI coding workflow is the repeated reading and re-processing of project context, not the length of the code the model writes, and once you see that clearly a lot of otherwise confusing advice about file structure and rules files turns out to be cost engineering wearing a different hat.
 
 ## The Loop Feeds Itself
@@ -88,6 +90,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** How many files are in your largest repo? Reply with a number. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/56).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fyour-ai-coding-bill-scales-with-your-repo-not-your-output.md). One required field, and the page you came from is already filled

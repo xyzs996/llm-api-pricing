@@ -45,6 +45,8 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 
 English write-ups rank these tools on model quality and price per token.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/50)
+
 ---
 
 [All 49 write-ups](../README.md)

@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/46) — that copy has a reply box under it, and this one does not.*
+
 Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's position than any feature on its comparison page. Seat-based pricing ties a vendor's revenue to the size of a customer's support team, which is a strange thing to bet on in a year when everyone is trying to shrink that team. Conversation-based pricing ties revenue to message volume instead, so a customer who automates half their replies and doubles their conversation count is worth more to the vendor, not less. That alignment is rare, and it is worth copying.
 
 ## The Problem Underneath Is Boring and Universal
@@ -86,6 +88,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** reply with the exact number of conversations your current AI support platform bills per month, and compare it to the conversation-based model used by Respond.io. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/46).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fcharge-per-conversation-not-per-seat-the-billing-model.md). One required field, and the page you came from is already filled

@@ -39,6 +39,8 @@ OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free token
 
 Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/47)
+
 ### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 
 Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…

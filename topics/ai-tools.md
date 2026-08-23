@@ -18,6 +18,8 @@
 
 You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57)
+
 ### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
 Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab.

@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/60) — that copy has a reply box under it, and this one does not.*
+
 Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South America at roughly the throughput of a 9-person team. The numbers underneath that headline are the interesting part: 3 minutes for a deep market research pass, 1,800 designs produced in a month, 12 minutes from a customer request to a rendering, and orders signed on the spot while the buyer was still in the conversation. I think the last one is the actual mechanism, and almost nobody talks about it.
 
 ## Speed Is a Closing Tactic
@@ -86,6 +88,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** How long does it take you today to get a custom mockup back in front of a buyer who is still in the conversation? Reply with a number of minutes. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/60).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fone-person-8-ai-agents-3-000-baseball-caps-in-two-months.md). One required field, and the page you came from is already filled

@@ -51,6 +51,8 @@ Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which
 
 One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology:…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/54)
+
 ---
 
 [All 49 write-ups](../README.md)
