@@ -342,6 +342,7 @@ The videos run about 60 seconds.
 
 ## Related
 
+- [llm-cost-calculator](https://github.com/xyzs996/llm-cost-calculator) — the same price table as a calculator: put your own token counts in and get a bill, with peak/off-peak and the long-context cliff handled.
 - [free-llm-api](https://github.com/xyzs996/free-llm-api) — verified free LLM API tiers, rate limits, and no-card options.
 
 ## Reuse

@@ -241,6 +241,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 
 ## Elsewhere
 
+- [https://xyzs996.github.io/llm-cost-calculator/llms.txt](https://xyzs996.github.io/llm-cost-calculator/llms.txt): a browser-side calculator over this same price table: peak/off-peak billing resolved live, the long-context cliff, and the measured cache-heavy agent token mix.
 - [https://xyzs996.github.io/free-llm-api/llms.txt](https://xyzs996.github.io/free-llm-api/llms.txt): which LLM APIs still have a free tier, and what the limit is: every figure dated and linked to the page it was read from.
 - [https://xyzs996.github.io/free-proxy-health-list/llms.txt](https://xyzs996.github.io/free-proxy-health-list/llms.txt): free HTTP/SOCKS proxies, re-checked and re-published on a schedule, as TXT, JSON and CSV.
 - [https://xyzs996.github.io/iptv-doctor/llms.txt](https://xyzs996.github.io/iptv-doctor/llms.txt): which public IPTV channels answer right now, per country and per channel. No stream URL is published.
