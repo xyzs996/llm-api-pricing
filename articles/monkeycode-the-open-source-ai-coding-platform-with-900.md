@@ -71,9 +71,9 @@ For anyone in a regulated industry, I think the calculation is different and pro
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
 
-[All 33 write-ups](../README.md)
+[All 34 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 333 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 334 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Costs](../topics/ai-costs.md) · [Development Tools](../topics/development-tools.md)
 

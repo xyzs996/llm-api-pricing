@@ -1,6 +1,6 @@
 # Cost Savings
 
-5 of the 33 write-ups here are tagged Cost Savings. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 34 write-ups here are tagged Cost Savings. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **60%** — It integrates with GitHub Actions and CircleCI, and its structured review comments cut false positives by 60% — which is the number I'd actually optimize for, because a review tool that cries wolf gets muted inside a week, and a muted tool reviews nothing at all while still showing green on every dashboard I own. [→](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 - **$0.19** — Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All figures, 337 rows](../figures.md)
+[All figures, 338 rows](../figures.md)
 
 ## The write-ups
 
@@ -49,7 +49,7 @@ Chris launched WiseMindAI last year and came out of a single session with Miora'
 
 ---
 
-[All 33 write-ups](../README.md)
+[All 34 write-ups](../README.md)
 
 ---
 

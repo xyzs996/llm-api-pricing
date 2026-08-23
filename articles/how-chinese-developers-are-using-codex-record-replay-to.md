@@ -87,9 +87,9 @@ That last habit is the one I'd argue matters most, and it is the one nobody sets
 - [How to Build a Micro-SaaS Without Spending a Dime on Ads](how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 - [The First Line of Defense in AI Programming: Environment Variable Management](the-first-line-of-defense-in-ai-programming-environment.md)
 
-[All 33 write-ups](../README.md)
+[All 34 write-ups](../README.md)
 
-The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 331 more, as JSON and CSV.
+The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 332 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Chinese AI](../topics/chinese-ai.md)
 

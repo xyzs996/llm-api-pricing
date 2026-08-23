@@ -1,6 +1,6 @@
 # Niche Market
 
-6 of the 33 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 34 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$4 million** — Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - **$4 million** — This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
-[All figures, 337 rows](../figures.md)
+[All figures, 338 rows](../figures.md)
 
 ## The write-ups
 
@@ -55,7 +55,7 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 
 ---
 
-[All 33 write-ups](../README.md)
+[All 34 write-ups](../README.md)
 
 ---
 

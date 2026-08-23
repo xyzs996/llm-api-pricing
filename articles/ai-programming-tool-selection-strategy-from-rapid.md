@@ -75,9 +75,9 @@ Start hosted if you are still deciding what to build. Move to files when the pro
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
-[All 33 write-ups](../README.md)
+[All 34 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 334 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 335 more, as JSON and CSV.
 
 Topics: [AI Costs](../topics/ai-costs.md) · [AI Implementation](../topics/ai-implementation.md) · [Development Tools](../topics/development-tools.md)
 

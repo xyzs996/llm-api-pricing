@@ -1,6 +1,6 @@
 # Automation Systems
 
-10 of the 33 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+10 of the 34 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **2 hours** — One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. [→](../articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 - **$63,000** — Jordan's Resellbot started as 30 lines of JavaScript written because his partner was manually reposting listings every day, and it now runs at roughly $63,000 a month, which probably says more about picking a visible problem than about any distribution tactic. [→](../articles/58-million-plays-started-with-one-account-not-four.md)
 
-[All figures, 337 rows](../figures.md)
+[All figures, 338 rows](../figures.md)
 
 ## The write-ups
 
@@ -79,7 +79,7 @@ Klarna's AI customer service experiment, which replaced 700 human agents, initia
 
 ---
 
-[All 33 write-ups](../README.md)
+[All 34 write-ups](../README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # AI Coding Field Notes
 
-> 33 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
+> 34 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
 
 Every number in these notes traces back to a named source. Figures without one were cut before publishing.
 
@@ -18,7 +18,7 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 ## Dataset
 
-- [Every published figure, 337 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
+- [Every published figure, 338 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv): the same rows, one line each.
 
@@ -165,8 +165,8 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 
 - [GPT-5.6](https://xyzs996.github.io/llm-api-pricing/providers/gpt-5-6.html): 18 figures from 4 write-ups.
 - [Klarna](https://xyzs996.github.io/llm-api-pricing/providers/klarna.html): 9 figures from 2 write-ups.
+- [Claude](https://xyzs996.github.io/llm-api-pricing/providers/claude.html): 8 figures from 5 write-ups.
 - [BrowserAct](https://xyzs996.github.io/llm-api-pricing/providers/browseract.html): 7 figures from 7 write-ups.
-- [Claude](https://xyzs996.github.io/llm-api-pricing/providers/claude.html): 7 figures from 4 write-ups.
 - [WorkBuddy](https://xyzs996.github.io/llm-api-pricing/providers/workbuddy.html): 7 figures from 7 write-ups.
 - [Fable 5](https://xyzs996.github.io/llm-api-pricing/providers/fable-5.html): 6 figures from 3 write-ups.
 - [ChatGPT](https://xyzs996.github.io/llm-api-pricing/providers/chatgpt.html): 4 figures from 4 write-ups.
@@ -175,16 +175,16 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 
 - [Indie Development](https://xyzs996.github.io/llm-api-pricing/topics/indie-development.html): 12 write-ups.
 - [Automation Systems](https://xyzs996.github.io/llm-api-pricing/topics/automation-systems.html): 10 write-ups.
-- [SaaS Business](https://xyzs996.github.io/llm-api-pricing/topics/saas-business.html): 7 write-ups.
+- [SaaS Business](https://xyzs996.github.io/llm-api-pricing/topics/saas-business.html): 8 write-ups.
 - [AI Costs](https://xyzs996.github.io/llm-api-pricing/topics/ai-costs.html): 6 write-ups.
 - [AI Implementation](https://xyzs996.github.io/llm-api-pricing/topics/ai-implementation.html): 6 write-ups.
 - [Niche Market](https://xyzs996.github.io/llm-api-pricing/topics/niche-market.html): 6 write-ups.
+- [Productivity](https://xyzs996.github.io/llm-api-pricing/topics/productivity.html): 6 write-ups.
 - [AI Programming](https://xyzs996.github.io/llm-api-pricing/topics/ai-programming.html): 5 write-ups.
 - [Cost Savings](https://xyzs996.github.io/llm-api-pricing/topics/cost-savings.html): 5 write-ups.
-- [Productivity](https://xyzs996.github.io/llm-api-pricing/topics/productivity.html): 5 write-ups.
+- [AI Features](https://xyzs996.github.io/llm-api-pricing/topics/ai-features.html): 4 write-ups.
 - [Artificial Intelligence](https://xyzs996.github.io/llm-api-pricing/topics/artificial-intelligence.html): 4 write-ups.
 - [Development Tools](https://xyzs996.github.io/llm-api-pricing/topics/development-tools.html): 4 write-ups.
-- [AI Features](https://xyzs996.github.io/llm-api-pricing/topics/ai-features.html): 3 write-ups.
 - [AI Tools](https://xyzs996.github.io/llm-api-pricing/topics/ai-tools.html): 3 write-ups.
 - [Chinese AI](https://xyzs996.github.io/llm-api-pricing/topics/chinese-ai.html): 3 write-ups.
 - [Code Review](https://xyzs996.github.io/llm-api-pricing/topics/code-review.html): 3 write-ups.
@@ -212,6 +212,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](https://xyzs996.github.io/llm-api-pricing/articles/how-indie-developers-are-building-ai-powered-digital.html): Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly ren… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/26
 - [How to Build a Micro-SaaS Without Spending a Dime on Ads](https://xyzs996.github.io/llm-api-pricing/articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.html): Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 people asking for access within days, at zero cost, and those users stuck around better than the paid traffic he never bo… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/27
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://xyzs996.github.io/llm-api-pricing/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html): MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/28
+- [Office Automation with Claude Code and Codex](https://xyzs996.github.io/llm-api-pricing/articles/office-automation-with-claude-code-and-codex.html): Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](https://xyzs996.github.io/llm-api-pricing/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html): If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/29
 - [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](https://xyzs996.github.io/llm-api-pricing/articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.html): As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/43
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](https://xyzs996.github.io/llm-api-pricing/articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.html): Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/30

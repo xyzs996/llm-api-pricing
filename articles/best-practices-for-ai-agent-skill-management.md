@@ -69,13 +69,13 @@ Another advantageous tool is OpenWorker. It automates tasks across 25+ tools. Ho
 
 - [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
-- [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
+- [Office Automation with Claude Code and Codex](office-automation-with-claude-code-and-codex.md)
 
-[All 33 write-ups](../README.md)
+[All 34 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 326 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 327 more, as JSON and CSV.
 
-Topics: [Automation Systems](../topics/automation-systems.md) · [AI Programming](../topics/ai-programming.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md)
+Topics: [Automation Systems](../topics/automation-systems.md) · [Productivity](../topics/productivity.md) · [AI Programming](../topics/ai-programming.md) · [AI Features](../topics/ai-features.md)
 
 
 ---

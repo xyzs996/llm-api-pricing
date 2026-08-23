@@ -5,7 +5,7 @@
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-33 write-ups on what those bills looked like in production.
+34 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (60 models)
 
@@ -51,9 +51,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (337 rows)
+## The figures, as data (338 rows)
 
-Every figure published across the 33 write-ups —
+Every figure published across the 34 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -64,6 +64,7 @@ recent write-ups — quoted verbatim, not summarised:
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
 | `1000-token` | Still, I'd say the Pi base framework's 1000-token limit seems overstated. | [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md) |
+| `80%` | For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. | [Office Automation with Claude Code and Codex](articles/office-automation-with-claude-code-and-codex.md) |
 | `$1.43` | The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. | [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) |
 | `$29` | Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. | [Debunking the Myth of Overnight Success in Micro-SaaS](articles/debunking-the-myth-of-overnight-success-in-micro-saas.md) |
 | `90%` | 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. | [Best Practices for AI Agent Skill Management](articles/best-practices-for-ai-agent-skill-management.md) |
@@ -74,9 +75,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `9.1%` | One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed users were doing. | [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md) |
 | `$1.25` | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) |
 | `9x` | Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. | [Token Optimization for Indie Developers' AI API Bills](articles/token-optimization-for-indie-developers-ai-api-bills.md) |
-| `87 percent` | The 87 percent figure and those two cases are measuring the same thing from different angles, which is time spent moving data by hand between a system that knows the answer and a system that needs it. | [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md) |
 
-[All 337 rows](figures.md) — or as data:
+[All 338 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -137,9 +137,9 @@ write-ups land there first.
 **Reading this with a model?** [llms.txt](https://xyzs996.github.io/llm-api-pricing/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
-**By provider.** [GPT-5.6](providers/gpt-5-6.md) (18) · [Klarna](providers/klarna.md) (9) · [BrowserAct](providers/browseract.md) (7) · [Claude](providers/claude.md) (7) · [WorkBuddy](providers/workbuddy.md) (7) · [Fable 5](providers/fable-5.md) (6) · [ChatGPT](providers/chatgpt.md) (4) — every figure whose sentence names it, with the date.
+**By provider.** [GPT-5.6](providers/gpt-5-6.md) (18) · [Klarna](providers/klarna.md) (9) · [Claude](providers/claude.md) (8) · [BrowserAct](providers/browseract.md) (7) · [WorkBuddy](providers/workbuddy.md) (7) · [Fable 5](providers/fable-5.md) (6) · [ChatGPT](providers/chatgpt.md) (4) — every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (12) · [Automation Systems](topics/automation-systems.md) (10) · [SaaS Business](topics/saas-business.md) (7) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [Niche Market](topics/niche-market.md) (6) · [AI Programming](topics/ai-programming.md) (5) · [Cost Savings](topics/cost-savings.md) (5) · [Productivity](topics/productivity.md) (5) · [Artificial Intelligence](topics/artificial-intelligence.md) (4) · [Development Tools](topics/development-tools.md) (4) · [AI Features](topics/ai-features.md) (3) · [AI Tools](topics/ai-tools.md) (3) · [Chinese AI](topics/chinese-ai.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (12) · [Automation Systems](topics/automation-systems.md) (10) · [SaaS Business](topics/saas-business.md) (8) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [Niche Market](topics/niche-market.md) (6) · [Productivity](topics/productivity.md) (6) · [AI Programming](topics/ai-programming.md) (5) · [Cost Savings](topics/cost-savings.md) (5) · [AI Features](topics/ai-features.md) (4) · [Artificial Intelligence](topics/artificial-intelligence.md) (4) · [Development Tools](topics/development-tools.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Chinese AI](topics/chinese-ai.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -256,6 +256,12 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read.
 
 `Open-Source` `AI Costs` `Indie Development` `Development Tools` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/28)
+
+### [Office Automation with Claude Code and Codex](articles/office-automation-with-claude-code-and-codex.md)
+
+Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
+
+`Technology` `Productivity` `SaaS Business` `AI Features`
 
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 

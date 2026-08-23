@@ -2277,6 +2277,17 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/28"
   },
   {
+    "value": "80%",
+    "kind": "percent",
+    "unit": "",
+    "context": "For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency.",
+    "article": "Office Automation with Claude Code and Codex",
+    "published": "2026-08-22",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/office-automation-with-claude-code-and-codex.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "40-second",
     "kind": "duration",
     "unit": "",
