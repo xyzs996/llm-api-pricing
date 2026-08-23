@@ -81,9 +81,9 @@
 
 Peak hours are **09:00–12:00 and 14:00–18:00 Beijing time, Monday to Friday** — that is `01:00-04:00` UTC and `06:00-10:00` UTC. Every other hour is off-peak, and **off-peak is half of peak**, on every rate: cache hit, cache miss and output.
 
-Since **00:00 on 2026-08-23 Asia/Shanghai** the whole weekend is off-peak as well — all day Saturday and all day Sunday. That weekend is bounded on the vendor's own clock (`Asia/Shanghai`), not in UTC: it runs from **16:00 UTC Friday** to **16:00 UTC Sunday**.
+The whole weekend is off-peak as well — all day Saturday and all day Sunday. That weekend is bounded on the vendor's own clock (`Asia/Shanghai`), not in UTC: it runs from **16:00 UTC Friday** to **16:00 UTC Sunday**.
 
-Read off DeepSeek's own pricing page on **2026-08-23**: <https://api-docs.deepseek.com/quick_start/pricing/>.
+**DeepSeek publishes no effective date for this.** The page states the rule in the present tense in both languages and gives no "in effect from" anywhere, so what is verified is only that it read this way on **2026-08-23**, when we last checked it: <https://api-docs.deepseek.com/quick_start/pricing/>. When it changed is not something the vendor tells you — which matters mostly for one decision, below.
 
 ## The rates
 
@@ -128,7 +128,7 @@ They failed in four distinct ways, and they are worth knowing because the first 
 
 **2. The weekday read on the wrong clock.** Fixing (1) with `getUTCDay()` or `.weekday()` in UTC is correct *today* and silently wrong later, for the reason in the section above. It cannot be caught by any test written against the published windows, which means it will be found by a bill.
 
-**3. The rule applied retroactively.** The weekend rule took effect 2026-08-23. Halve every past weekend along with it and historical usage is under-reported by half — the opposite sign from (1), and much harder to notice, because a bill that looks cheap does not generate a support ticket.
+**3. The rule applied retroactively.** Halve every past weekend along with the current one and historical usage is under-reported by half — the opposite sign from (1), and much harder to notice, because a bill that looks cheap does not generate a support ticket. The usual patch for this is an effective date, and here is the awkward part: **the vendor does not publish one**, so any date in your code is somebody's guess, including the one that used to be in this paragraph. The safe shape is a schedule with an `effective_from` field you can leave *unset*, and a repricer that refuses to reprice anything before the earliest date you have actually verified rather than assuming the current rule always held.
 
 **4. Unknown models falling back to the priciest row.** Several projects resolve an unrecognised model id to a default that happens to be the expensive tier. `deepseek-v4-flash-vision-exp` shipped 2026-08-21 at flash rates; falling back to v4-pro is exactly **3×** on all three numbers, and **6×** stacked on top of (1) on a weekend.
 

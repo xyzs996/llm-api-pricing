@@ -23,7 +23,7 @@ defaults:
   - scope:
       path: "deepseek-peak-hours.md"
     values:
-      description: "DeepSeek peak pricing runs Monday to Friday only — since 2026-08-23 the whole weekend is off-peak, Saturday and Sunday. Peak is 09:00–12:00 and 14:00–18:00 Beijing time (01:00-04:00 and 06:00-10:00 UTC); off-peak is half price."
+      description: "DeepSeek peak pricing runs Monday to Friday only — the whole weekend is off-peak, all day Saturday and all day Sunday. Peak is 09:00–12:00 and 14:00–18:00 Beijing time (01:00-04:00 and 06:00-10:00 UTC); off-peak is half price."
   - scope:
       path: "README_CN.md"
     values:
