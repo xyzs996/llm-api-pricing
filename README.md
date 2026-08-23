@@ -355,7 +355,7 @@ Ninety percent of the people who open an AI tool type a question into it.
 
 StoryShort hit $22,000 a month in its first three months.
 
-`AI Tools` `Indie Hacking` `SEO` `YouTube Marketing` · [telegra.ph](https://telegra.ph/The-22K-a-Month-AI-Tool-That-Never-Bought-a-Single-Ad-08-23)
+`AI Tools` `Indie Hacking` `SEO` `YouTube Marketing` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/64) · [telegra.ph](https://telegra.ph/The-22K-a-Month-AI-Tool-That-Never-Bought-a-Single-Ad-08-23)
 
 ### [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 

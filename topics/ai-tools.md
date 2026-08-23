@@ -32,7 +32,7 @@ Most indie developers open SimilarWeb, look at the big monthly visits number, an
 
 StoryShort hit $22,000 a month in its first three months.
 
-[telegra.ph](https://telegra.ph/The-22K-a-Month-AI-Tool-That-Never-Bought-a-Single-Ad-08-23)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/64) · [telegra.ph](https://telegra.ph/The-22K-a-Month-AI-Tool-That-Never-Bought-a-Single-Ad-08-23)
 
 ### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 

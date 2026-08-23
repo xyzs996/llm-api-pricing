@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/64) — that copy has a reply box under it, and this one does not.*
+
 StoryShort hit $22,000 a month in its first three months. A B2B tool called useArtemis needed two years to reach the same figure. The revenue is Stripe-verified rather than founder-reported, and none of it came from advertising.
 
 ## What Three Months Actually Bought
@@ -114,6 +116,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** which channel brought you your most recent user? Reply with just the channel name — search, a forum post, a store listing, word of mouth — and "none yet" is a real answer, the one I learn most from. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/64).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-22k-a-month-ai-tool-that-never-bought-a-single-ad.md). One required field, and the page you came from is already filled
