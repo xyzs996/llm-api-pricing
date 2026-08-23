@@ -1,6 +1,6 @@
 # Micro SaaS
 
-3 of the 49 write-ups here are tagged Micro SaaS. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 50 write-ups here are tagged Micro SaaS. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -10,7 +10,7 @@
 - **$500** — Using AI tools to batch generate local SEO content reduces development costs for independent developers, accelerating website ranking on Google, after which the optimized site can be rented to local businesses for monthly revenue ranging from $500 to $3,000. [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 - **$10,000** — Sam Shore's experience with Typeshare, which shows how sharing equity with KOLs can accelerate growth, is a prime example; by granting three-fifths of his company's stock to two influential figures, he achieved a remarkable increase in monthly revenue, jumping from $10,000 to $15,000 in only 30 days. [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 
-[All figures, 408 rows](../figures.md)
+[All figures, 415 rows](../figures.md)
 
 ## The write-ups
 
@@ -34,7 +34,7 @@ Of the 27 AI-powered micro-SaaS projects that generated predictable monthly reve
 
 ---
 
-[All 49 write-ups](../README.md)
+[All 50 write-ups](../README.md)
 
 ---
 

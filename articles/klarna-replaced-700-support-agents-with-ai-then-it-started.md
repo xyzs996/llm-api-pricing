@@ -71,9 +71,9 @@ Klarna's $40 million was probably accurate on the day it was published. The ques
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
-[All 49 write-ups](../README.md)
+[All 50 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 401 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 408 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [AI Implementation](../topics/ai-implementation.md) · [Enterprise Automation](../topics/enterprise-automation.md)
 

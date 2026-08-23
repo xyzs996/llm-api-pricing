@@ -1,6 +1,6 @@
 # WorkBuddy costs and claims: every figure from a sentence that names it
 
-12 of the 408 figures in these field notes come from a sentence that names WorkBuddy. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+13 of the 415 figures in these field notes come from a sentence that names WorkBuddy. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about WorkBuddy and some only measure against it — a competitor's price quoted next to WorkBuddy's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -8,6 +8,7 @@ Some of these are about WorkBuddy and some only measure against it — a competi
 
 ## The figures
 
+- **5 minutes** — “WorkBuddy and BrowserAct put numbers on the same shift for e-commerce sellers: a competitor pricing table in 5 minutes, a product opportunity report in 7.” (2026-08-23) [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 - **5 minutes** — “Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7.” (2026-08-23) [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **20%** — “Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy.” (2026-08-23) [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **5 minutes** — “Tools like WorkBuddy + BrowserAct can expedite competitor analysis by extracting data to generate price tables in just 5 minutes and opportunity reports in 7 minutes.” (2026-08-21) [→](../articles/best-practices-for-ai-agent-skill-management.md)
@@ -21,9 +22,9 @@ Some of these are about WorkBuddy and some only measure against it — a competi
 - **5 minutes** — “WorkBuddy paired with BrowserAct produces a competitor pricing table in about 5 minutes and a product-opportunity report in about 7, and a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, so the first 10 experiments cost attention rather than money.” (2026-08-08) [→](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 - **5 minutes** — “The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All 408 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 415 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
-## Where these 12 came from
+## Where these 13 came from
 
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14) · [telegra.ph](https://telegra.ph/A-30-Line-Script-200-Users-and-a-Niche-Nobody-Wanted-08-19)
 - [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57) · [telegra.ph](https://telegra.ph/AI-Generated-Local-Business-Websites-Dont-Rent-for-3000Month-Until-You-Do-This-08-19)
@@ -35,13 +36,14 @@ Some of these are about WorkBuddy and some only measure against it — a competi
 - [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/58) · [telegra.ph](https://telegra.ph/Klarna-Replaced-700-Support-Agents-With-AI-Then-It-Started-Hiring-Again-08-23)
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48) · [telegra.ph](https://telegra.ph/Sell-It-Before-You-Build-It-How-Indie-Devs-Validate-AI-Products-08-23)
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/30) · [telegra.ph](https://telegra.ph/Stop-Reading-SimilarWeb-Like-a-Traffic-Dashboard--Read-It-Like-a-Feasibility-Test-08-21)
+- [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md) · [telegra.ph](https://telegra.ph/Stop-Using-AI-as-a-Chatbot-How-to-Build-an-Indie-Workstation-with-Skills-and-Automation-08-23)
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/41) · [telegra.ph](https://telegra.ph/Why-Your-Indie-App-Needs-Short-Form-Video-Marketing-And-How-to-Get-Started-08-19)
 
 **Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.
 
 **A WorkBuddy figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=WorkBuddy). The form already knows it is about WorkBuddy.
 
-**Or is one of the 12 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=WorkBuddy&title=%5Bcorrection%5D+WorkBuddy) — the form already knows it is about WorkBuddy; you only have to say what the number is now.
+**Or is one of the 13 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=WorkBuddy&title=%5Bcorrection%5D+WorkBuddy) — the form already knows it is about WorkBuddy; you only have to say what the number is now.
 
 ---
 

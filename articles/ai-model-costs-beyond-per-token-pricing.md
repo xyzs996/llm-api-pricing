@@ -71,9 +71,9 @@ Measure the loop. The unit price is the part of the bill you can see, and on Mic
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
 
-[All 49 write-ups](../README.md)
+[All 50 write-ups](../README.md)
 
-The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 395 more, as JSON and CSV.
+The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 402 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Implementation](../topics/ai-implementation.md)
 

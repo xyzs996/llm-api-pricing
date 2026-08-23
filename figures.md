@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-408 figures pulled out of 49 write-ups in
+415 figures pulled out of 50 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -519,6 +519,20 @@ Published 2026-08-20.
 | `5 minutes` | duration | WorkBuddy combined with BrowserAct can produce a competitive price table in 5 minutes and an opportunity report in 7, which is roughly the difference between checking a hypothesis during a coffee break and scheduling an afternoon for it. |
 | `5-minute` | duration | I remain a little skeptical of how well those reports hold up on messy niches, but for a first pass on pricing structure the speed is hard to argue with, and a 5-minute price table you can throw away costs you nothing when the niche turns out to be wrong. |
 
+## [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](https://xyzs996.github.io/llm-api-pricing/articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.html)
+
+Published 2026-08-23.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$24,000` | price | A former Alibaba P8 engineer, laid off and three months into a job hunt that went nowhere, ended up running three AI instances on timers — one watching competitor prices, one producing ad creative, one answering customer mail — and pulled 170,000 yuan a month out of them, somewhere near $24,000. |
+| `90%` | percent | I would not defend the 90% too hard — nobody audited it, and it reads like a number someone rounded up on stage. |
+| `30%` | percent | The Agency Agents project keeps 232 structured expert persona files, each one pinning down an identity, a workflow, a delivery standard and a definition of success; the project claims over 30% better output across the 14 AI tools it supports. |
+| `30%` | percent | I have no idea how they measured that 30%, and I suspect nobody outside the project does either. |
+| `1000 tokens` | tokens | Under 1000 tokens of system prompt is not a ceiling, though — it is a starting position, and a deliberate one. |
+| `90 minutes` | duration | The results people report from this are unglamorous and large: a security team that froze its vulnerability-scanning routine into a package watched its bug bounty income triple, and a daily-report routine standardised the same way dropped from 90 minutes to 8. |
+| `5 minutes` | duration | WorkBuddy and BrowserAct put numbers on the same shift for e-commerce sellers: a competitor pricing table in 5 minutes, a product opportunity report in 7. |
+
 ## [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://xyzs996.github.io/llm-api-pricing/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html)
 
 Published 2026-08-18.
@@ -806,5 +820,5 @@ Published 2026-08-11.
 | `30%` | percent | Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "408 figures pulled out of 49 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "415 figures pulled out of 50 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
 </script>

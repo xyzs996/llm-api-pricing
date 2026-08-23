@@ -1,6 +1,6 @@
 # AI Coding Field Notes
 
-> 49 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
+> 50 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
 
 Every number in these notes traces back to a named source. Figures without one were cut before publishing.
 
@@ -18,7 +18,7 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 ## Dataset
 
-- [Every published figure, 408 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
+- [Every published figure, 415 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv): the same rows, one line each.
 
@@ -91,7 +91,7 @@ Per million tokens, for models ranked in an agents category of the Design Arena.
 
 - [When DeepSeek bills double, and when it halves](https://xyzs996.github.io/llm-api-pricing/deepseek-peak-hours.html): peak is Beijing 09:00–12:00 and 14:00–18:00, Monday to Friday (01:00-04:00 and 06:00-10:00 UTC); off-peak is half of peak on every rate; the whole weekend is off-peak, bounded 16:00 UTC Friday to 16:00 UTC Sunday. The two language versions of the vendor's page anchor that weekday to different clocks — the Chinese one says 北京时间周一至周五 (Beijing time, Monday to Friday), the English one says "UTC, Monday through Friday" — so implementations written from the English page read the weekday in UTC. Both readings agree at all 168 hours today, because both windows close before 16:00 UTC, the earliest instant the two calendars can differ; they stop agreeing the day a window moves. Neither page carries an effective date today; the weekend rule started 00:00 Beijing time on 2026-08-23, which the page announced the day before and stopped saying once it took effect, so that date is a dated observation rather than something you can still read off the vendor. Dated conformance vectors and a dependency-free reference implementation in Python and JavaScript: <https://github.com/xyzs996/deepseek-peak-hours>, public domain. That repository also runs those vectors against the peak predicate of 9 published DeepSeek billing plugins (`node conformance/run.mjs`); on 2026-08-23, 2 of 9 passed every vector they could run, and every failure was the weekend.
 
-## Every price figure (79)
+## Every price figure (80)
 
 Quoted, not paraphrased: each is the sentence it was published in, with the date it was published. Nothing here is a vendor price sheet — it is what a working developer wrote down about what they paid.
 
@@ -157,6 +157,7 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 - **$500** — “Every figure in this article comes from operators describing their own results, and the $500 to $3,000 range is a report rather than a distribution — I have no idea what the median is, or how many sites never rent at all.” (2026-08-09) https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html
 - **$30 per day** — “A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test.” (2026-08-12) https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html
 - **$30 per day** — “With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4.” (2026-08-20) https://xyzs996.github.io/llm-api-pricing/articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.html
+- **$24,000** — “A former Alibaba P8 engineer, laid off and three months into a job hunt that went nowhere, ended up running three AI instances on timers — one watching competitor prices, one producing ad creative, one answering customer mail — and pulled 170,000 yuan a month out of them, somewhere near $24,000.” (2026-08-23) https://xyzs996.github.io/llm-api-pricing/articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.html
 - **$40 million** — “Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months.” (2026-08-10) https://xyzs996.github.io/llm-api-pricing/articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.html
 - **$0.19 per million tokens** — “The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as low as $0.19 per million tokens against $5 to $12 for comparable American offerings, which is not a discount so much as a different category of product.” (2026-08-10) https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html
 - **$19 billion** — “Anthropic's $19 billion data center lease locks in five to eight years of compute, which reframes the competition as a contest over power and floor space rather than architecture.” (2026-08-10) https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html
@@ -180,9 +181,9 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 Every figure whose quoted sentence names that provider, on one page, each with the date the write-up went out. None of these is a vendor price sheet — read every row as of its own date. Klarna is not a vendor here but a company these write-ups are about; those rows are what it did, not what it charges.
 
 - [GPT-5.6](https://xyzs996.github.io/llm-api-pricing/providers/gpt-5-6.html): 19 figures from 5 write-ups.
+- [WorkBuddy](https://xyzs996.github.io/llm-api-pricing/providers/workbuddy.html): 13 figures from 12 write-ups.
+- [BrowserAct](https://xyzs996.github.io/llm-api-pricing/providers/browseract.html): 12 figures from 12 write-ups.
 - [Klarna](https://xyzs996.github.io/llm-api-pricing/providers/klarna.html): 12 figures from 4 write-ups.
-- [WorkBuddy](https://xyzs996.github.io/llm-api-pricing/providers/workbuddy.html): 12 figures from 11 write-ups.
-- [BrowserAct](https://xyzs996.github.io/llm-api-pricing/providers/browseract.html): 11 figures from 11 write-ups.
 - [Claude](https://xyzs996.github.io/llm-api-pricing/providers/claude.html): 11 figures from 6 write-ups.
 - [Fable 5](https://xyzs996.github.io/llm-api-pricing/providers/fable-5.html): 7 figures from 4 write-ups.
 - [ChatGPT](https://xyzs996.github.io/llm-api-pricing/providers/chatgpt.html): 4 figures from 4 write-ups.
@@ -196,14 +197,14 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [AI Implementation](https://xyzs996.github.io/llm-api-pricing/topics/ai-implementation.html): 9 write-ups.
 - [Niche Market](https://xyzs996.github.io/llm-api-pricing/topics/niche-market.html): 9 write-ups.
 - [AI Costs](https://xyzs996.github.io/llm-api-pricing/topics/ai-costs.html): 8 write-ups.
+- [Productivity](https://xyzs996.github.io/llm-api-pricing/topics/productivity.html): 8 write-ups.
 - [Artificial Intelligence](https://xyzs996.github.io/llm-api-pricing/topics/artificial-intelligence.html): 7 write-ups.
-- [Productivity](https://xyzs996.github.io/llm-api-pricing/topics/productivity.html): 7 write-ups.
 - [AI Programming](https://xyzs996.github.io/llm-api-pricing/topics/ai-programming.html): 6 write-ups.
 - [Cost Savings](https://xyzs996.github.io/llm-api-pricing/topics/cost-savings.html): 6 write-ups.
+- [AI](https://xyzs996.github.io/llm-api-pricing/topics/ai.html): 5 write-ups.
 - [AI Features](https://xyzs996.github.io/llm-api-pricing/topics/ai-features.html): 5 write-ups.
 - [Chinese AI](https://xyzs996.github.io/llm-api-pricing/topics/chinese-ai.html): 5 write-ups.
 - [Development Tools](https://xyzs996.github.io/llm-api-pricing/topics/development-tools.html): 5 write-ups.
-- [AI](https://xyzs996.github.io/llm-api-pricing/topics/ai.html): 4 write-ups.
 - [Revenue Growth](https://xyzs996.github.io/llm-api-pricing/topics/revenue-growth.html): 4 write-ups.
 - [AI Tools](https://xyzs996.github.io/llm-api-pricing/topics/ai-tools.html): 3 write-ups.
 - [Automation](https://xyzs996.github.io/llm-api-pricing/topics/automation.html): 3 write-ups.
@@ -245,6 +246,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](https://xyzs996.github.io/llm-api-pricing/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html): If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/29 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/Stop-Chatting-With-AI-How-I-Use-loop-and-hook-to-Automate-My-Indie-Dev-Workflow-08-19
 - [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](https://xyzs996.github.io/llm-api-pricing/articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.html): As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/43 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/Stop-Doing-Manual-DevOps-How-I-Use-loop-and-hook-to-Automate-My-Daily-Indie-Hacker-Tasks-08-22
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](https://xyzs996.github.io/llm-api-pricing/articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.html): Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/30 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/Stop-Reading-SimilarWeb-Like-a-Traffic-Dashboard--Read-It-Like-a-Feasibility-Test-08-21
+- [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](https://xyzs996.github.io/llm-api-pricing/articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.html): Ninety percent of the people who open an AI tool type a question into it. Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/Stop-Using-AI-as-a-Chatbot-How-to-Build-an-Indie-Workstation-with-Skills-and-Automation-08-23
 - [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://xyzs996.github.io/llm-api-pricing/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html): Of the 27 AI-powered micro-SaaS projects that generated predictable monthly revenue in a recent analysis, every profitable one used at least three of the same five architectural components. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/31 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/The-5-AI-Features-That-Separated-27-Profitable-Solopreneurs-From-the-Rest-08-19
 - [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](https://xyzs996.github.io/llm-api-pricing/articles/the-ai-branding-revolution-how-indie-developers-are.html): Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/32 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/The-AI-Branding-Revolution-How-Indie-Developers-Are-Ditching-Design-Costs-with-AI-08-19
 - [The First Line of Defense in AI Programming: Environment Variable Management](https://xyzs996.github.io/llm-api-pricing/articles/the-first-line-of-defense-in-ai-programming-environment.html): MonkeyCode ships with 900 million free tokens and supports private deployment, which tells you exactly what its users are doing: pointing an AI coding tool at their own keys, on their own infrastru… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/33 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/The-First-Line-of-Defense-in-AI-Programming-Environment-Variable-Management-08-19

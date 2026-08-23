@@ -75,9 +75,9 @@ Build the connector layer, charge for volume rather than seats, and keep a perso
 - [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 - [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 
-[All 49 write-ups](../README.md)
+[All 50 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 407 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 414 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [SaaS Business](../topics/saas-business.md) · [Revenue Growth](../topics/revenue-growth.md)
 

@@ -75,9 +75,9 @@ Cheap code did not make engineering cheap. It moved the whole cost into the part
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
-[All 49 write-ups](../README.md)
+[All 50 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 407 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 414 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Implementation](../topics/ai-implementation.md) · [AI Costs](../topics/ai-costs.md) · [Chinese AI](../topics/chinese-ai.md)
 

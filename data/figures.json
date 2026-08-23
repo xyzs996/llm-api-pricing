@@ -2728,6 +2728,83 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/30"
   },
   {
+    "value": "$24,000",
+    "kind": "price",
+    "unit": "",
+    "context": "A former Alibaba P8 engineer, laid off and three months into a job hunt that went nowhere, ended up running three AI instances on timers — one watching competitor prices, one producing ad creative, one answering customer mail — and pulled 170,000 yuan a month out of them, somewhere near $24,000.",
+    "article": "Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "90%",
+    "kind": "percent",
+    "unit": "",
+    "context": "I would not defend the 90% too hard — nobody audited it, and it reads like a number someone rounded up on stage.",
+    "article": "Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "30%",
+    "kind": "percent",
+    "unit": "",
+    "context": "The Agency Agents project keeps 232 structured expert persona files, each one pinning down an identity, a workflow, a delivery standard and a definition of success; the project claims over 30% better output across the 14 AI tools it supports.",
+    "article": "Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "30%",
+    "kind": "percent",
+    "unit": "",
+    "context": "I have no idea how they measured that 30%, and I suspect nobody outside the project does either.",
+    "article": "Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "1000 tokens",
+    "kind": "tokens",
+    "unit": "",
+    "context": "Under 1000 tokens of system prompt is not a ceiling, though — it is a starting position, and a deliberate one.",
+    "article": "Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "90 minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "The results people report from this are unglamorous and large: a security team that froze its vulnerability-scanning routine into a package watched its bug bounty income triple, and a daily-report routine standardised the same way dropped from 90 minutes to 8.",
+    "article": "Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "5 minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "WorkBuddy and BrowserAct put numbers on the same shift for e-commerce sellers: a competitor pricing table in 5 minutes, a product opportunity report in 7.",
+    "article": "Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "2 hours",
     "kind": "duration",
     "unit": "",

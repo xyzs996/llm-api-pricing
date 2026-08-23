@@ -1,19 +1,19 @@
 # Productivity
 
-7 of the 49 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 50 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **30%** — The Agency Agents project keeps 232 structured expert persona files, each one pinning down an identity, a workflow, a delivery standard and a definition of success; the project claims over 30% better output across the 14 AI tools it supports. [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
+- **$24,000** — A former Alibaba P8 engineer, laid off and three months into a job hunt that went nowhere, ended up running three AI instances on timers — one watching competitor prices, one producing ad creative, one answering customer mail — and pulled 170,000 yuan a month out of them, somewhere near $24,000. [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 - **80%** — For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. [→](../articles/claude-code-and-codex-for-office-automation.md)
 - **$55k** — James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **90%** — 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. [→](../articles/best-practices-for-ai-agent-skill-management.md)
 - **90%** — 90% of beginners fixate on tools (e.g., Pi's 4 default tools: read/write/edit/bash) instead of defining clear task boundaries. [→](../articles/best-practices-for-ai-agent-skill-management.md)
 - **40-second** — When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
-- **40-second** — The 40-second number I cannot check. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
-- **5 minutes** — WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
-[All figures, 408 rows](../figures.md)
+[All figures, 415 rows](../figures.md)
 
 ## The write-ups
 
@@ -53,6 +53,12 @@ If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, a
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/29) · [telegra.ph](https://telegra.ph/Stop-Chatting-With-AI-How-I-Use-loop-and-hook-to-Automate-My-Indie-Dev-Workflow-08-19)
 
+### [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
+
+Ninety percent of the people who open an AI tool type a question into it.
+
+[telegra.ph](https://telegra.ph/Stop-Using-AI-as-a-Chatbot-How-to-Build-an-Indie-Workstation-with-Skills-and-Automation-08-23)
+
 ### [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
 The videos run about 60 seconds.
@@ -61,7 +67,7 @@ The videos run about 60 seconds.
 
 ---
 
-[All 49 write-ups](../README.md)
+[All 50 write-ups](../README.md)
 
 ---
 

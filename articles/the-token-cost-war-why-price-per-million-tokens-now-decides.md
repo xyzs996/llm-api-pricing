@@ -69,9 +69,9 @@ What I would take from all of this is narrower than the headlines suggest: stop 
 - [Your AI Coding Bill Scales With Your Repo, Not Your Output](your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
-[All 49 write-ups](../README.md)
+[All 50 write-ups](../README.md)
 
-The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 393 more, as JSON and CSV.
+The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 400 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [AI](../topics/ai.md)
 

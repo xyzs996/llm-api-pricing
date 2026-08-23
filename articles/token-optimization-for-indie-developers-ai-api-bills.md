@@ -71,9 +71,9 @@ That trade is usually worth making, and it is worth making deliberately. Start w
 - [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 - [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
-[All 49 write-ups](../README.md)
+[All 50 write-ups](../README.md)
 
-The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 402 more, as JSON and CSV.
+The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 409 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [AI Costs](../topics/ai-costs.md) · [Chinese AI](../topics/chinese-ai.md) · [Token Optimization](../topics/token-optimization.md)
 
