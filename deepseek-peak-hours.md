@@ -37,7 +37,7 @@ The hours agree. The calendar does not: the Chinese sentence puts the weekday in
 
 Worse, nothing catches it. Both peak windows sit clear of 16:00–24:00 UTC, so the two calendars produce **identical prices at all 168 hours** of the current schedule. Code written from the English sentence is wrong in a way no test against the published windows can show — until a window moves past 16:00 UTC, and then it is wrong about money.
 
-A dated table that pins those edges, public domain: <https://github.com/xyzs996/deepseek-peak-offpeak-vectors>. The two vectors that discriminate are `2026-08-28T16:30:00Z` and `2026-08-30T16:30:00Z`.
+A dated table that pins those edges, public domain: <https://github.com/xyzs996/deepseek-peak-hours>. The two vectors that discriminate are `2026-08-28T16:30:00Z` and `2026-08-30T16:30:00Z`.
 
 The daily price table these rates sit in, re-read every day: [the full catalog](https://xyzs996.github.io/llm-api-pricing/prices.html).
 
