@@ -1,6 +1,6 @@
 # AI Coding Field Notes
 
-> 51 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
+> 52 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
 
 Every number in these notes traces back to a named source. Figures without one were cut before publishing.
 
@@ -18,7 +18,7 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 ## Dataset
 
-- [Every published figure, 426 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
+- [Every published figure, 429 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv): the same rows, one line each.
 
@@ -206,9 +206,9 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [AI Costs](https://xyzs996.github.io/llm-api-pricing/topics/ai-costs.html): 8 write-ups.
 - [Productivity](https://xyzs996.github.io/llm-api-pricing/topics/productivity.html): 8 write-ups.
 - [Artificial Intelligence](https://xyzs996.github.io/llm-api-pricing/topics/artificial-intelligence.html): 7 write-ups.
+- [AI](https://xyzs996.github.io/llm-api-pricing/topics/ai.html): 6 write-ups.
 - [AI Programming](https://xyzs996.github.io/llm-api-pricing/topics/ai-programming.html): 6 write-ups.
 - [Cost Savings](https://xyzs996.github.io/llm-api-pricing/topics/cost-savings.html): 6 write-ups.
-- [AI](https://xyzs996.github.io/llm-api-pricing/topics/ai.html): 5 write-ups.
 - [AI Features](https://xyzs996.github.io/llm-api-pricing/topics/ai-features.html): 5 write-ups.
 - [Chinese AI](https://xyzs996.github.io/llm-api-pricing/topics/chinese-ai.html): 5 write-ups.
 - [Development Tools](https://xyzs996.github.io/llm-api-pricing/topics/development-tools.html): 5 write-ups.
@@ -247,6 +247,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.html): Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/47 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/How-to-Turn-Your-Obsidian-Vault-Into-an-Autonomous-AI-Research-Agent-08-23
 - [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](https://xyzs996.github.io/llm-api-pricing/articles/klarna-replaced-700-support-agents-with-ai-then-it-started.html): In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/58 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/Klarna-Replaced-700-Support-Agents-With-AI-Then-It-Started-Hiring-Again-08-23
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://xyzs996.github.io/llm-api-pricing/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html): MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/28 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/MonkeyCode-The-Open-Source-AI-Coding-Platform-With-900-Million-Free-Tokens-08-19
+- [Never Use a Model Where Code Can Decide](https://xyzs996.github.io/llm-api-pricing/articles/never-use-a-model-where-code-can-decide.html): Writing code got cheap. Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/Never-Use-a-Model-Where-Code-Can-Decide-08-23
 - [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](https://xyzs996.github.io/llm-api-pricing/articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.html): Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/60 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/One-Person-8-AI-Agents-3000-Baseball-Caps-in-Two-Months-08-23
 - [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html): The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/61 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/Rank-and-Rent-Building-Local-SEO-Sites-That-Earn-500-to-3000-a-Month-08-23
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html): The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/48 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/Sell-It-Before-You-Build-It-How-Indie-Devs-Validate-AI-Products-08-23

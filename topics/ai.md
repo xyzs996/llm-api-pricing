@@ -1,21 +1,27 @@
 # AI
 
-5 of the 51 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 52 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
 - **30%** — The Agency Agents project keeps 232 structured expert persona files, each one pinning down an identity, a workflow, a delivery standard and a definition of success; the project claims over 30% better output across the 14 AI tools it supports. [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 - **$24,000** — A former Alibaba P8 engineer, laid off and three months into a job hunt that went nowhere, ended up running three AI instances on timers — one watching competitor prices, one producing ad creative, one answering customer mail — and pulled 170,000 yuan a month out of them, somewhere near $24,000. [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
+- **30%** — Agency Agents goes wider still, with 232 structured expert persona files, each carrying an identity, a workflow, delivery criteria and success metrics, compatible with 14 mainstream tools, and claiming an output-quality improvement of over 30%. [→](../articles/never-use-a-model-where-code-can-decide.md)
+- **30%** — I do not believe the 30%. [→](../articles/never-use-a-model-where-code-can-decide.md)
 - **30%** — Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%. [→](../articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
 - **9x** — Alibaba's Open Code Review was benchmarked against general-purpose agents on 200 real pull requests drawn from 50 open-source repositories across 10 languages, and it scored higher on accuracy and F1 while consuming roughly one-ninth the tokens, a 9x gap on identical work. [→](../articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
 - **$1.25** — Meta's Muse Spark 1.1 agent model API is priced at $1.25 per million input tokens and $4.25 per million output tokens — roughly 75% and 83% below Anthropic Opus on input and output respectively — and the target is explicit: become the cheap entry point for agent workflows and pull developers into the ecosystem. [→](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 - **$0.19** — The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as low as $0.19 per million tokens against $5 to $12 for comparable American offerings, which is not a discount so much as a different category of product. [→](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
-- **$500** — The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, you rank it in Google for the searches that category gets, and then you rent the finished site to one business in that town for somewhere between $500 and $3,000 a month. [→](../articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
-- **$500** — Every figure in this article comes from operators describing their own results, and the $500 to $3,000 range is a report rather than a distribution — I have no idea what the median is, or how many sites never rent at all. [→](../articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
 
-[All figures, 426 rows](../figures.md)
+[All figures, 429 rows](../figures.md)
 
 ## The write-ups
+
+### [Never Use a Model Where Code Can Decide](../articles/never-use-a-model-where-code-can-decide.md)
+
+Writing code got cheap.
+
+[telegra.ph](https://telegra.ph/Never-Use-a-Model-Where-Code-Can-Decide-08-23)
 
 ### [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](../articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
 
@@ -49,7 +55,7 @@ The bottleneck in AI-assisted development moved, and most teams have not moved t
 
 ---
 
-[All 51 write-ups](../README.md)
+[All 52 write-ups](../README.md)
 
 ---
 

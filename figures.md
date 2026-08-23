@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-426 figures pulled out of 51 write-ups in
+429 figures pulled out of 52 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -450,6 +450,16 @@ Published 2026-08-16.
 | `900 million tokens` | tokens | Which means the honest answer to "how long does 900 million tokens last" is that it depends on your repository rather than on your discipline. |
 | `80 percent` | percent | Track consumption from the first week rather than from the first warning at 80 percent. |
 
+## [Never Use a Model Where Code Can Decide](https://xyzs996.github.io/llm-api-pricing/articles/never-use-a-model-where-code-can-decide.html)
+
+Published 2026-08-23.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `30%` | percent | Agency Agents goes wider still, with 232 structured expert persona files, each carrying an identity, a workflow, delivery criteria and success metrics, compatible with 14 mainstream tools, and claiming an output-quality improvement of over 30%. |
+| `30%` | percent | I do not believe the 30%. |
+| `1,000 tokens` | tokens | One counterweight runs against all of this, and it comes from a coding agent built on an open base called Pi with only four tools, namely read, write, edit and bash, whose initial system prompt and tool descriptions together came to under 1,000 tokens. |
+
 ## [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](https://xyzs996.github.io/llm-api-pricing/articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.html)
 
 Published 2026-08-05.
@@ -838,5 +848,5 @@ Published 2026-08-11.
 | `30%` | percent | Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "426 figures pulled out of 51 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "429 figures pulled out of 52 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
 </script>

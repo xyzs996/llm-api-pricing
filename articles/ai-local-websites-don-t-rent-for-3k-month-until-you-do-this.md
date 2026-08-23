@@ -96,9 +96,9 @@ That’s not passive income. It’s **delayed income**. The tutorials omit the d
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 
-[All 51 write-ups](../README.md)
+[All 52 write-ups](../README.md)
 
-The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 411 more, as JSON and CSV.
+The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 414 more, as JSON and CSV.
 
 Topics: [Niche Market](../topics/niche-market.md) · [AI Tools](../topics/ai-tools.md) · [Revenue Growth](../topics/revenue-growth.md)
 

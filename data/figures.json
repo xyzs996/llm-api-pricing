@@ -2431,6 +2431,39 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/28"
   },
   {
+    "value": "30%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Agency Agents goes wider still, with 232 structured expert persona files, each carrying an identity, a workflow, delivery criteria and success metrics, compatible with 14 mainstream tools, and claiming an output-quality improvement of over 30%.",
+    "article": "Never Use a Model Where Code Can Decide",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/never-use-a-model-where-code-can-decide.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "30%",
+    "kind": "percent",
+    "unit": "",
+    "context": "I do not believe the 30%.",
+    "article": "Never Use a Model Where Code Can Decide",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/never-use-a-model-where-code-can-decide.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "1,000 tokens",
+    "kind": "tokens",
+    "unit": "",
+    "context": "One counterweight runs against all of this, and it comes from a coding agent built on an open base called Pi with only four tools, namely read, write, edit and bash, whose initial system prompt and tool descriptions together came to under 1,000 tokens.",
+    "article": "Never Use a Model Where Code Can Decide",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/never-use-a-model-where-code-can-decide.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "2 months",
     "kind": "duration",
     "unit": "",

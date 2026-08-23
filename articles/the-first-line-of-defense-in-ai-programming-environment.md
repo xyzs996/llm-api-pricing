@@ -80,9 +80,9 @@ The credential your AI tool never saw is the one you never have to rotate.
 - [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 - [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
 
-[All 51 write-ups](../README.md)
+[All 52 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 422 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 425 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md)
 

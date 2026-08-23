@@ -83,9 +83,9 @@ In those setups the person you talk to is the owner, the operator, and the one h
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
-[All 51 write-ups](../README.md)
+[All 52 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 412 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 415 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md)
 
