@@ -89,9 +89,9 @@ The honest catch is that a workstation demands something a chat box never does: 
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 - [Your AI Coding Bill Scales With Your Repo, Not Your Output](your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
 
-[All 50 write-ups](../README.md)
+[All 51 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 408 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 419 more, as JSON and CSV.
 
 Topics: [Productivity](../topics/productivity.md) · [AI](../topics/ai.md)
 

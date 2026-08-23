@@ -107,9 +107,9 @@ These principles apply whether working with AI agents or managing human teams.
 - [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
-[All 50 write-ups](../README.md)
+[All 51 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 412 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 423 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Enterprise Automation](../topics/enterprise-automation.md)
 

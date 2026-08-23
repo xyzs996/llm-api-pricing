@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-415 figures pulled out of 50 write-ups in
+426 figures pulled out of 51 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -533,6 +533,24 @@ Published 2026-08-23.
 | `90 minutes` | duration | The results people report from this are unglamorous and large: a security team that froze its vulnerability-scanning routine into a package watched its bug bounty income triple, and a daily-report routine standardised the same way dropped from 90 minutes to 8. |
 | `5 minutes` | duration | WorkBuddy and BrowserAct put numbers on the same shift for e-commerce sellers: a competitor pricing table in 5 minutes, a product opportunity report in 7. |
 
+## [The $22K-a-Month AI Tool That Never Bought a Single Ad](https://xyzs996.github.io/llm-api-pricing/articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.html)
+
+Published 2026-08-23.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$22,000` per month | price | StoryShort hit $22,000 a month in its first three months. |
+| `$500,000` | price | Cumulative revenue was close to $500,000 by the time the product went up for sale. |
+| `$63,000` per month | price | That script became Resellbot, which runs at $63,000 a month. |
+| `95%` | percent | Across four independent cases, roughly 95% of users arrived through content rather than paid placement, and the operators who sustained it did so on a fixed publishing cadence with a repeatable hook rather than on inspiration. |
+| `$83,333` per month | price | A million dollars a year is $83,333 a month, or $2,777 a day. |
+| `$2,777` per day | price | A million dollars a year is $83,333 a month, or $2,777 a day. |
+| `$150` | price | On a $150 product that is 18 sales a day, and at a 2.5% landing-page conversion rate, 18 sales needs 720 visitors a day. |
+| `2.5%` | percent | On a $150 product that is 18 sales a day, and at a 2.5% landing-page conversion rate, 18 sales needs 720 visitors a day. |
+| `$22,000` per month | price | The organic channel that produced $22,000 a month is running at roughly half the traffic a million-dollar year would need, and it took three months to get there. |
+| `$1.2 million` | price | StoryShort was listed at $1.2 million, about 4.4 times annual revenue, at a point when its most recent thirty days were running 11% below the thirty before them. |
+| `11%` | percent | StoryShort was listed at $1.2 million, about 4.4 times annual revenue, at a point when its most recent thirty days were running 11% below the thirty before them. |
+
 ## [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://xyzs996.github.io/llm-api-pricing/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html)
 
 Published 2026-08-18.
@@ -820,5 +838,5 @@ Published 2026-08-11.
 | `30%` | percent | Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "415 figures pulled out of 50 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "426 figures pulled out of 51 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
 </script>

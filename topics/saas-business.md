@@ -1,6 +1,6 @@
 # SaaS Business
 
-10 of the 50 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+10 of the 51 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **10,000 tokens** — Long coding sessions push entire directory trees into the prompt on every iteration, so gateways have started applying compression algorithms such as RTK and Caveman, which OmniRoute reports can shrink 10,000 tokens to 1,080. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **$10,000** — Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. [→](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 
-[All figures, 415 rows](../figures.md)
+[All figures, 426 rows](../figures.md)
 
 ## The write-ups
 
@@ -79,7 +79,7 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 50 write-ups](../README.md)
+[All 51 write-ups](../README.md)
 
 ---
 

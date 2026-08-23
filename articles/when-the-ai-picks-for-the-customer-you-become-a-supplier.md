@@ -79,9 +79,9 @@ That last number is the one I would put on the wall. Revenue can look healthy wh
 - [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 - [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
-[All 50 write-ups](../README.md)
+[All 51 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 414 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 425 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Automation](../topics/automation.md)
 

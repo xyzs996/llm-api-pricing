@@ -1,6 +1,6 @@
 # AI
 
-5 of the 50 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 51 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$500** — The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, you rank it in Google for the searches that category gets, and then you rent the finished site to one business in that town for somewhere between $500 and $3,000 a month. [→](../articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
 - **$500** — Every figure in this article comes from operators describing their own results, and the $500 to $3,000 range is a report rather than a distribution — I have no idea what the median is, or how many sites never rent at all. [→](../articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
 
-[All figures, 415 rows](../figures.md)
+[All figures, 426 rows](../figures.md)
 
 ## The write-ups
 
@@ -49,7 +49,7 @@ The bottleneck in AI-assisted development moved, and most teams have not moved t
 
 ---
 
-[All 50 write-ups](../README.md)
+[All 51 write-ups](../README.md)
 
 ---
 

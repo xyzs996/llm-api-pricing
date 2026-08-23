@@ -1,6 +1,6 @@
 # Klarna by the numbers: every figure from a sentence that names it
 
-12 of the 415 figures in these field notes come from a sentence that names Klarna. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+12 of the 426 figures in these field notes come from a sentence that names Klarna. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about what Klarna did and some come from pieces that only cite it as precedent — a figure quoted while arguing about someone else's rollout belongs here too, because that is the sentence someone searching for the case is looking for. The sentence tells you which is which.
 
@@ -21,7 +21,7 @@ Some of these are about what Klarna did and some come from pieces that only cite
 - **$40 million per year** — “In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.” (2026-08-08) [→](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 - **$40 million** — “Klarna's $40 million was probably accurate on the day it was published.” (2026-08-08) [→](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 
-[All 415 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 426 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
 ## Where these 12 came from
 

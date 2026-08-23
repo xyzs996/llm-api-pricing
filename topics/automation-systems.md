@@ -1,6 +1,6 @@
 # Automation Systems
 
-15 of the 50 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+15 of the 51 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$10,000** — Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. [→](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 - **70%** — Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF data extraction to PPT report generation, cutting document processing time by 70%. [→](../articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 
-[All figures, 415 rows](../figures.md)
+[All figures, 426 rows](../figures.md)
 
 ## The write-ups
 
@@ -109,7 +109,7 @@ In special-purpose vehicles — tankers, sweepers, the trucks nobody films for f
 
 ---
 
-[All 50 write-ups](../README.md)
+[All 51 write-ups](../README.md)
 
 ---
 
