@@ -88,11 +88,11 @@ I could be wrong here. This is one company, one quarter, and Klarna had reasons 
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 - [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 
-[All 37 write-ups](../README.md)
+[All 40 write-ups](../README.md)
 
-The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 335 more, as JSON and CSV.
+The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 357 more, as JSON and CSV.
 
-Topics: [Niche Market](../topics/niche-market.md) · [AI Costs](../topics/ai-costs.md) · [AI Implementation](../topics/ai-implementation.md)
+Topics: [AI Costs](../topics/ai-costs.md) · [AI Implementation](../topics/ai-implementation.md) · [Niche Market](../topics/niche-market.md)
 
 
 ---

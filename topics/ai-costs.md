@@ -1,6 +1,6 @@
 # AI Costs
 
-6 of the 37 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 40 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **95%** — Terra's document processing capabilities might seem cost-effective initially, but Luna's 95% accuracy on basic QA tasks and faster response times mean fewer errors and rework, whereas Terra's higher failure rate on complex tasks can lead to time wasted fixing mistakes, and Luna's superior accuracy and reliability make it a better long-term choice, even though Terra often requires more tokens for similar tasks. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 - **95%** — For example, Luna's 95% accuracy rate for basic questions drops when faced with more complex queries, and Terra's document analysis accuracy can vary depending on document structure and content. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
-[All figures, 358 rows](../figures.md)
+[All figures, 380 rows](../figures.md)
 
 ## The write-ups
 
@@ -35,6 +35,10 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/28)
 
+### [Sell It Before You Build It: How Indie Devs Validate AI Products](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
+
+The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
+
 ### [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
 "Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option."
@@ -55,7 +59,7 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 
 ---
 
-[All 37 write-ups](../README.md)
+[All 40 write-ups](../README.md)
 
 ---
 

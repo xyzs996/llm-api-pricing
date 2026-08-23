@@ -1,6 +1,6 @@
 # Indie Development
 
-12 of the 37 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+13 of the 40 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All figures, 358 rows](../figures.md)
+[All figures, 380 rows](../figures.md)
 
 ## The write-ups
 
@@ -59,6 +59,10 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/28)
 
+### [Sell It Before You Build It: How Indie Devs Validate AI Products](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
+
+The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
+
 ### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
 Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab.
@@ -91,7 +95,7 @@ The videos run about 60 seconds.
 
 ---
 
-[All 37 write-ups](../README.md)
+[All 40 write-ups](../README.md)
 
 ---
 

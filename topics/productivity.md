@@ -1,6 +1,6 @@
 # Productivity
 
-6 of the 37 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 40 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **40-second** — The 40-second number I cannot check. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - **5 minutes** — WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
-[All figures, 358 rows](../figures.md)
+[All figures, 380 rows](../figures.md)
 
 ## The write-ups
 
@@ -39,6 +39,10 @@ The agent processes 40-plus podcast channels overnight, transcribed and summariz
 
 Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
 
+### [Sell It Before You Build It: How Indie Devs Validate AI Products](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
+
+The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
+
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
 If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
@@ -53,7 +57,7 @@ The videos run about 60 seconds.
 
 ---
 
-[All 37 write-ups](../README.md)
+[All 40 write-ups](../README.md)
 
 ---
 

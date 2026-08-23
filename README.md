@@ -5,7 +5,7 @@
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-37 write-ups on what those bills looked like in production.
+40 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (60 models)
 
@@ -51,9 +51,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (358 rows)
+## The figures, as data (380 rows)
 
-Every figure published across the 37 write-ups —
+Every figure published across the 40 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -76,7 +76,7 @@ recent write-ups — quoted verbatim, not summarised:
 | `$1,000` | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. | [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](articles/how-indie-developers-are-building-ai-powered-digital.md) |
 | `40-second` | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. | [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md) |
 
-[All 358 rows](figures.md) — or as data:
+[All 380 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -137,9 +137,9 @@ write-ups land there first.
 **Reading this with a model?** [llms.txt](https://xyzs996.github.io/llm-api-pricing/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
-**By provider.** [GPT-5.6](providers/gpt-5-6.md) (18) · [Klarna](providers/klarna.md) (9) · [WorkBuddy](providers/workbuddy.md) (9) · [BrowserAct](providers/browseract.md) (8) · [Claude](providers/claude.md) (8) · [Fable 5](providers/fable-5.md) (6) · [ChatGPT](providers/chatgpt.md) (4) — every figure whose sentence names it, with the date.
+**By provider.** [GPT-5.6](providers/gpt-5-6.md) (19) · [Claude](providers/claude.md) (11) · [WorkBuddy](providers/workbuddy.md) (10) · [BrowserAct](providers/browseract.md) (9) · [Klarna](providers/klarna.md) (9) · [Fable 5](providers/fable-5.md) (7) · [ChatGPT](providers/chatgpt.md) (4) · [GPT-5](providers/gpt-5.md) (4) — every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (12) · [Automation Systems](topics/automation-systems.md) (11) · [SaaS Business](topics/saas-business.md) (9) · [Niche Market](topics/niche-market.md) (7) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [Productivity](topics/productivity.md) (6) · [AI Features](topics/ai-features.md) (5) · [AI Programming](topics/ai-programming.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Artificial Intelligence](topics/artificial-intelligence.md) (4) · [Chinese AI](topics/chinese-ai.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (13) · [Automation Systems](topics/automation-systems.md) (12) · [SaaS Business](topics/saas-business.md) (9) · [AI Costs](topics/ai-costs.md) (7) · [AI Implementation](topics/ai-implementation.md) (7) · [Niche Market](topics/niche-market.md) (7) · [Productivity](topics/productivity.md) (7) · [AI Programming](topics/ai-programming.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Features](topics/ai-features.md) (5) · [Artificial Intelligence](topics/artificial-intelligence.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -269,6 +269,12 @@ Claude Code and Codex offer powerful tools for office automation, improving task
 
 `Technology` `Productivity` `SaaS Business` `AI Features`
 
+### [Sell It Before You Build It: How Indie Devs Validate AI Products](articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
+
+The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
+
+`Productivity` `AI Costs` `Automation Systems` `Indie Development`
+
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
 If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
@@ -323,6 +329,12 @@ Klarna's AI customer service experiment, which replaced 700 human agents, initia
 
 `Artificial Intelligence` `AI Systems` `Automation Systems` `Enterprise Automation` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/35)
 
+### [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
+
+The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as…
+
+`AI` `Artificial Intelligence` `Startup` `Business`
+
 ### [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
 On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
@@ -358,6 +370,12 @@ When the Claude Code team decided to slash 80% of their system prompts, most dev
 In special-purpose vehicles — tankers, sweepers, the trucks nobody films for fun — one effective sales lead costs somewhere between 100 and 1,000 yuan, and a buyer who actually signs wires a hundre…
 
 `Revenue Growth` `Automation Systems` `Niche Market` `AI Startups`
+
+### [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
+
+One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology:…
+
+`AI Agents` `AI Implementation` `AI Programming` `AI Limits`
 
 ### [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 

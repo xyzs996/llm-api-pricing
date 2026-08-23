@@ -1,6 +1,6 @@
 # AI Implementation
 
-6 of the 37 write-ups here are tagged AI Implementation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 40 write-ups here are tagged AI Implementation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **95%** — Terra's document processing capabilities might seem cost-effective initially, but Luna's 95% accuracy on basic QA tasks and faster response times mean fewer errors and rework, whereas Terra's higher failure rate on complex tasks can lead to time wasted fixing mistakes, and Luna's superior accuracy and reliability make it a better long-term choice, even though Terra often requires more tokens for similar tasks. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 - **95%** — For example, Luna's 95% accuracy rate for basic questions drops when faced with more complex queries, and Terra's document analysis accuracy can vary depending on document structure and content. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
-[All figures, 358 rows](../figures.md)
+[All figures, 380 rows](../figures.md)
 
 ## The write-ups
 
@@ -53,9 +53,13 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/38)
 
+### [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](../articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
+
+One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology:…
+
 ---
 
-[All 37 write-ups](../README.md)
+[All 40 write-ups](../README.md)
 
 ---
 

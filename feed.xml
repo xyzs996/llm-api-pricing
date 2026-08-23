@@ -206,6 +206,14 @@
     <summary>"Solving a niche problem is the secret to building a profitable Micro-SaaS." This common advice ignores the power of focusing on a single, well-defined pain point in a specific market.</summary>
   </entry>
   <entry>
+    <title>Sell It Before You Build It: How Indie Devs Validate AI Products</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html</id>
+    <updated>2026-08-12T11:39:00Z</updated>
+    <published>2026-08-12T11:39:00Z</published>
+    <summary>The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…</summary>
+  </entry>
+  <entry>
     <title>58 Million Plays Started With One Account, Not Four</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/58-million-plays-started-with-one-account-not-four.html"/>
     <id>https://xyzs996.github.io/llm-api-pricing/articles/58-million-plays-started-with-one-account-not-four.html</id>
@@ -262,6 +270,14 @@
     <summary>You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.</summary>
   </entry>
   <entry>
+    <title>The Token Cost War: Why Price per Million Tokens Now Decides the AI Market</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html</id>
+    <updated>2026-08-10T07:44:00Z</updated>
+    <published>2026-08-10T07:44:00Z</published>
+    <summary>The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as…</summary>
+  </entry>
+  <entry>
     <title>AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.html"/>
     <id>https://xyzs996.github.io/llm-api-pricing/articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.html</id>
@@ -308,5 +324,13 @@
     <updated>2026-08-05T10:17:00Z</updated>
     <published>2026-08-05T10:17:00Z</published>
     <summary>Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…</summary>
+  </entry>
+  <entry>
+    <title>Why Your AI Agent Goes Off the Rails: Give It Boring Work First</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.html</id>
+    <updated>2026-08-05T05:44:00Z</updated>
+    <published>2026-08-05T05:44:00Z</published>
+    <summary>One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology:…</summary>
   </entry>
 </feed>

@@ -85,11 +85,11 @@ That last habit is the one I'd argue matters most, and it is the one nobody sets
 
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - [How to Build a Micro-SaaS Without Spending a Dime on Ads](how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
-- [The First Line of Defense in AI Programming: Environment Variable Management](the-first-line-of-defense-in-ai-programming-environment.md)
+- [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
-[All 37 write-ups](../README.md)
+[All 40 write-ups](../README.md)
 
-The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 352 more, as JSON and CSV.
+The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 374 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Chinese AI](../topics/chinese-ai.md)
 

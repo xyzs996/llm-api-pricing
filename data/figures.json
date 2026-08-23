@@ -2310,6 +2310,50 @@
     "thread": ""
   },
   {
+    "value": "5 minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "Pairing WorkBuddy with BrowserAct produces a competitive pricing table in about 5 minutes and a product opportunity report in about 7, which is the difference between researching a niche and researching twelve.",
+    "article": "Sell It Before You Build It: How Indie Devs Validate AI Products",
+    "published": "2026-08-12",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$30",
+    "kind": "price",
+    "unit": "per day",
+    "context": "A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test.",
+    "article": "Sell It Before You Build It: How Indie Devs Validate AI Products",
+    "published": "2026-08-12",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$3",
+    "kind": "price",
+    "unit": "",
+    "context": "A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test.",
+    "article": "Sell It Before You Build It: How Indie Devs Validate AI Products",
+    "published": "2026-08-12",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$4",
+    "kind": "price",
+    "unit": "",
+    "context": "A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test.",
+    "article": "Sell It Before You Build It: How Indie Devs Validate AI Products",
+    "published": "2026-08-12",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "40-second",
     "kind": "duration",
     "unit": "",
@@ -2814,6 +2858,171 @@
     "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.html",
     "medium": "",
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/35"
+  },
+  {
+    "value": "$0.19",
+    "kind": "price",
+    "unit": "per million tokens",
+    "context": "The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as low as $0.19 per million tokens against $5 to $12 for comparable American offerings, which is not a discount so much as a different category of product.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$5",
+    "kind": "price",
+    "unit": "per million tokens",
+    "context": "The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as low as $0.19 per million tokens against $5 to $12 for comparable American offerings, which is not a discount so much as a different category of product.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$12",
+    "kind": "price",
+    "unit": "",
+    "context": "The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as low as $0.19 per million tokens against $5 to $12 for comparable American offerings, which is not a discount so much as a different category of product.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$19 billion",
+    "kind": "price",
+    "unit": "",
+    "context": "Anthropic's $19 billion data center lease locks in five to eight years of compute, which reframes the competition as a contest over power and floor space rather than architecture.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$1.25",
+    "kind": "price",
+    "unit": "per million input tokens",
+    "context": "Meta's Muse Spark 1.1 agent model API is priced at $1.25 per million input tokens and $4.25 per million output tokens — roughly 75% and 83% below Anthropic Opus on input and output respectively — and the target is explicit: become the cheap entry point for agent workflows and pull developers into the ecosystem.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$4.25",
+    "kind": "price",
+    "unit": "per million output tokens",
+    "context": "Meta's Muse Spark 1.1 agent model API is priced at $1.25 per million input tokens and $4.25 per million output tokens — roughly 75% and 83% below Anthropic Opus on input and output respectively — and the target is explicit: become the cheap entry point for agent workflows and pull developers into the ecosystem.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "75%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Meta's Muse Spark 1.1 agent model API is priced at $1.25 per million input tokens and $4.25 per million output tokens — roughly 75% and 83% below Anthropic Opus on input and output respectively — and the target is explicit: become the cheap entry point for agent workflows and pull developers into the ecosystem.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "83%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Meta's Muse Spark 1.1 agent model API is priced at $1.25 per million input tokens and $4.25 per million output tokens — roughly 75% and 83% below Anthropic Opus on input and output respectively — and the target is explicit: become the cheap entry point for agent workflows and pull developers into the ecosystem.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "80%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Aggressive pricing at the agent tier is a different move from aggressive pricing at the chat tier, because agent workloads consume tokens in volumes where an 80% cut changes what is economically possible rather than just what is comfortable.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$1.43",
+    "kind": "price",
+    "unit": "",
+    "context": "On ReactBench, one run of GPT-5.6 Sol costs about $1.43 while Fable 5 costs $9.05 for the same work — a gap that no per-token price list would have predicted, because the expensive model is not six times more expensive per token, it is six times less efficient at finishing the job.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$9.05",
+    "kind": "price",
+    "unit": "",
+    "context": "On ReactBench, one run of GPT-5.6 Sol costs about $1.43 while Fable 5 costs $9.05 for the same work — a gap that no per-token price list would have predicted, because the expensive model is not six times more expensive per token, it is six times less efficient at finishing the job.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "10,000 tokens",
+    "kind": "tokens",
+    "unit": "",
+    "context": "OmniRoute pools 237 providers into around 1.6 billion free tokens a month and applies RTK plus Caveman compression to squeeze 10,000 tokens down to 1,080, which effectively multiplies whatever free allowance you have by ten.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "400 tokens",
+    "kind": "tokens",
+    "unit": "",
+    "context": "Anthropic's SKILL.md file is 400 tokens of aesthetic guidance and a two-pass working method, and it has been installed over 1.08 million times — a return on 400 tokens that argues taste-shaping is worth more than tool-building, at least in front-end generation.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$13 billion",
+    "kind": "price",
+    "unit": "",
+    "context": "Deloitte figures suggest an enterprise with $13 billion in annual revenue may put as much as $700 million into AI, while Jellyfish research finds high token consumption badly out of balance with productivity gains.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$700 million",
+    "kind": "price",
+    "unit": "",
+    "context": "Deloitte figures suggest an enterprise with $13 billion in annual revenue may put as much as $700 million into AI, while Jellyfish research finds high token consumption badly out of balance with productivity gains.",
+    "article": "The Token Cost War: Why Price per Million Tokens Now Decides the AI Market",
+    "published": "2026-08-10",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html",
+    "medium": "",
+    "thread": ""
   },
   {
     "value": "43.1%",
@@ -3527,6 +3736,39 @@
     "article": "Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account",
     "published": "2026-08-22",
     "url": "https://xyzs996.github.io/llm-api-pricing/articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "300 million tokens",
+    "kind": "tokens",
+    "unit": "",
+    "context": "One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology: 300 million tokens on day one, about 200 million on day two, about 100 million on day three.",
+    "article": "Why Your AI Agent Goes Off the Rails: Give It Boring Work First",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "72 hours",
+    "kind": "duration",
+    "unit": "",
+    "context": "Nothing about the models changed in those 72 hours.",
+    "article": "Why Your AI Agent Goes Off the Rails: Give It Boring Work First",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "3 weeks",
+    "kind": "duration",
+    "unit": "",
+    "context": "Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago.",
+    "article": "Why Your AI Agent Goes Off the Rails: Give It Boring Work First",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.html",
     "medium": "",
     "thread": ""
   },

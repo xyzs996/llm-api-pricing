@@ -1,6 +1,6 @@
 # Automation Systems
 
-11 of the 37 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+12 of the 40 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$10,000** — Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. [→](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 - **70%** — Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF data extraction to PPT report generation, cutting document processing time by 70%. [→](../articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 
-[All figures, 358 rows](../figures.md)
+[All figures, 380 rows](../figures.md)
 
 ## The write-ups
 
@@ -71,6 +71,10 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/27)
 
+### [Sell It Before You Build It: How Indie Devs Validate AI Products](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
+
+The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
+
 ### [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 
 Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading…
@@ -83,7 +87,7 @@ In special-purpose vehicles — tankers, sweepers, the trucks nobody films for f
 
 ---
 
-[All 37 write-ups](../README.md)
+[All 40 write-ups](../README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-358 figures pulled out of 37 write-ups in
+380 figures pulled out of 40 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -411,6 +411,17 @@ Published 2026-08-22.
 | --- | --- | --- |
 | `80%` | percent | For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. |
 
+## [Sell It Before You Build It: How Indie Devs Validate AI Products](https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html)
+
+Published 2026-08-12.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `5 minutes` | duration | Pairing WorkBuddy with BrowserAct produces a competitive pricing table in about 5 minutes and a product opportunity report in about 7, which is the difference between researching a niche and researching twelve. |
+| `$30` per day | price | A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test. |
+| `$3` | price | A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test. |
+| `$4` | price | A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test. |
+
 ## [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](https://xyzs996.github.io/llm-api-pricing/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html)
 
 Published 2026-08-19.
@@ -520,6 +531,28 @@ Published 2026-08-10.
 | `12 months` | duration | Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months. |
 | `12 months` | duration | Quality degradation typically appears 6-12 months after full automation—long after the press releases have been sent. |
 
+## [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html)
+
+Published 2026-08-10.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$0.19` per million tokens | price | The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as low as $0.19 per million tokens against $5 to $12 for comparable American offerings, which is not a discount so much as a different category of product. |
+| `$5` per million tokens | price | The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as low as $0.19 per million tokens against $5 to $12 for comparable American offerings, which is not a discount so much as a different category of product. |
+| `$12` | price | The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as low as $0.19 per million tokens against $5 to $12 for comparable American offerings, which is not a discount so much as a different category of product. |
+| `$19 billion` | price | Anthropic's $19 billion data center lease locks in five to eight years of compute, which reframes the competition as a contest over power and floor space rather than architecture. |
+| `$1.25` per million input tokens | price | Meta's Muse Spark 1.1 agent model API is priced at $1.25 per million input tokens and $4.25 per million output tokens — roughly 75% and 83% below Anthropic Opus on input and output respectively — and the target is explicit: become the cheap entry point for agent workflows and pull developers into the ecosystem. |
+| `$4.25` per million output tokens | price | Meta's Muse Spark 1.1 agent model API is priced at $1.25 per million input tokens and $4.25 per million output tokens — roughly 75% and 83% below Anthropic Opus on input and output respectively — and the target is explicit: become the cheap entry point for agent workflows and pull developers into the ecosystem. |
+| `75%` | percent | Meta's Muse Spark 1.1 agent model API is priced at $1.25 per million input tokens and $4.25 per million output tokens — roughly 75% and 83% below Anthropic Opus on input and output respectively — and the target is explicit: become the cheap entry point for agent workflows and pull developers into the ecosystem. |
+| `83%` | percent | Meta's Muse Spark 1.1 agent model API is priced at $1.25 per million input tokens and $4.25 per million output tokens — roughly 75% and 83% below Anthropic Opus on input and output respectively — and the target is explicit: become the cheap entry point for agent workflows and pull developers into the ecosystem. |
+| `80%` | percent | Aggressive pricing at the agent tier is a different move from aggressive pricing at the chat tier, because agent workloads consume tokens in volumes where an 80% cut changes what is economically possible rather than just what is comfortable. |
+| `$1.43` | price | On ReactBench, one run of GPT-5.6 Sol costs about $1.43 while Fable 5 costs $9.05 for the same work — a gap that no per-token price list would have predicted, because the expensive model is not six times more expensive per token, it is six times less efficient at finishing the job. |
+| `$9.05` | price | On ReactBench, one run of GPT-5.6 Sol costs about $1.43 while Fable 5 costs $9.05 for the same work — a gap that no per-token price list would have predicted, because the expensive model is not six times more expensive per token, it is six times less efficient at finishing the job. |
+| `10,000 tokens` | tokens | OmniRoute pools 237 providers into around 1.6 billion free tokens a month and applies RTK plus Caveman compression to squeeze 10,000 tokens down to 1,080, which effectively multiplies whatever free allowance you have by ten. |
+| `400 tokens` | tokens | Anthropic's SKILL.md file is 400 tokens of aesthetic guidance and a two-pass working method, and it has been installed over 1.08 million times — a return on 400 tokens that argues taste-shaping is worth more than tool-building, at least in front-end generation. |
+| `$13 billion` | price | Deloitte figures suggest an enterprise with $13 billion in annual revenue may put as much as $700 million into AI, while Jellyfish research finds high token consumption badly out of balance with productivity gains. |
+| `$700 million` | price | Deloitte figures suggest an enterprise with $13 billion in annual revenue may put as much as $700 million into AI, while Jellyfish research finds high token consumption badly out of balance with productivity gains. |
+
 ## [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](https://xyzs996.github.io/llm-api-pricing/articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.html)
 
 Published 2026-08-21.
@@ -627,6 +660,16 @@ Published 2026-08-22.
 | `$22,000` | price | Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative. |
 | `$500,000` | price | Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative. |
 
+## [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](https://xyzs996.github.io/llm-api-pricing/articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.html)
+
+Published 2026-08-05.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `300 million tokens` | tokens | One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology: 300 million tokens on day one, about 200 million on day two, about 100 million on day three. |
+| `72 hours` | duration | Nothing about the models changed in those 72 hours. |
+| `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
+
 ## [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](https://xyzs996.github.io/llm-api-pricing/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html)
 
 Published 2026-08-11.
@@ -672,5 +715,5 @@ Published 2026-08-11.
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "358 figures pulled out of 37 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "380 figures pulled out of 40 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
 </script>
