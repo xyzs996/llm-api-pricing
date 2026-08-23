@@ -1,4 +1,4 @@
-# DeepSeek peak and off-peak hours
+# DeepSeek peak and off-peak hours — weekdays only, weekends are off-peak all day
 
 Peak hours are **09:00–12:00 and 14:00–18:00 Beijing time, Monday to Friday** — that is `01:00-04:00` UTC and `06:00-10:00` UTC. Every other hour is off-peak, and **off-peak is half of peak**, on every rate: cache hit, cache miss and output.
 
