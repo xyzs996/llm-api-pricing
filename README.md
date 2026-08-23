@@ -37,6 +37,20 @@ the table cannot answer, and answering it takes one word:
 
 That page has a reply box; this one does not.
 
+## Take the table
+
+```shell
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json
+```
+
+60 models, 19 columns per row: list input, output and **cache-read** price per million tokens, the context window and
+the long-context step, the vendor, and where the model places in the agent benchmark. Rebuilt every day from
+OpenRouter's catalog at paths that do not move.
+
+The CDN serves a branch reference and refreshes about every 12 hours; for today's build without the cache, read [`prices.csv`](https://xyzs996.github.io/llm-api-pricing/prices.csv) off the site. CC BY 4.0 — take it, no attribution ceremony needed
+beyond the license.
+
 **Star this repository** to bookmark the table and follow releases.
 The data is CC BY: a star changes nothing about what you can do with
 it. What a star does change is whether the next person looking for
