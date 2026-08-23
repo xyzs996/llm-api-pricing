@@ -5,7 +5,7 @@
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-43 write-ups on what those bills looked like in production.
+45 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (60 models)
 
@@ -51,9 +51,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (396 rows)
+## The figures, as data (403 rows)
 
-Every figure published across the 43 write-ups —
+Every figure published across the 45 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -76,7 +76,7 @@ recent write-ups — quoted verbatim, not summarised:
 | `$1,000` | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. | [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](articles/how-indie-developers-are-building-ai-powered-digital.md) |
 | `40-second` | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. | [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md) |
 
-[All 396 rows](figures.md) — or as data:
+[All 403 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -139,7 +139,7 @@ write-ups land there first.
 
 **By provider.** [GPT-5.6](providers/gpt-5-6.md) (19) · [WorkBuddy](providers/workbuddy.md) (12) · [BrowserAct](providers/browseract.md) (11) · [Claude](providers/claude.md) (11) · [Klarna](providers/klarna.md) (11) · [Fable 5](providers/fable-5.md) (7) · [ChatGPT](providers/chatgpt.md) (4) · [GPT-5](providers/gpt-5.md) (4) — every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (14) · [Automation Systems](topics/automation-systems.md) (13) · [SaaS Business](topics/saas-business.md) (9) · [AI Implementation](topics/ai-implementation.md) (8) · [Niche Market](topics/niche-market.md) (8) · [AI Costs](topics/ai-costs.md) (7) · [Productivity](topics/productivity.md) (7) · [AI Programming](topics/ai-programming.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Features](topics/ai-features.md) (5) · [Artificial Intelligence](topics/artificial-intelligence.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Code Review](topics/code-review.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Automation Systems](topics/automation-systems.md) (15) · [Indie Development](topics/indie-development.md) (14) · [SaaS Business](topics/saas-business.md) (10) · [Niche Market](topics/niche-market.md) (9) · [AI Implementation](topics/ai-implementation.md) (8) · [AI Costs](topics/ai-costs.md) (7) · [Productivity](topics/productivity.md) (7) · [AI Programming](topics/ai-programming.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Features](topics/ai-features.md) (5) · [Artificial Intelligence](topics/artificial-intelligence.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (4) · [Revenue Growth](topics/revenue-growth.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Code Review](topics/code-review.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -215,6 +215,12 @@ One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding 
 
 `AI Implementation` `AI Bot Conversion` `Funnel Data Analysis` `Enterprise AI Adoption` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/21)
 
+### [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](articles/charge-per-conversation-not-per-seat-the-billing-model.md)
+
+Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…
+
+`Customer Service AI` `Revenue Growth` `SaaS Business` `Automation Systems`
+
 ### [Choosing the Right AI Model for Coding: Cost vs. Efficiency](articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
 Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.
@@ -274,6 +280,12 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
 
 `Technology` `Productivity` `SaaS Business` `AI Features`
+
+### [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
+
+Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…
+
+`AI Agents` `Revenue Growth` `Niche Market` `Automation Systems`
 
 ### [Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month](articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.md)
 

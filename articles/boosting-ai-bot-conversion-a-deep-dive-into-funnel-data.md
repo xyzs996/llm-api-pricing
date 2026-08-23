@@ -76,9 +76,9 @@ The reported enterprise case reached 55.1% from 9.1% through exactly that loop: 
 - [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
-[All 43 write-ups](../README.md)
+[All 45 write-ups](../README.md)
 
-The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 388 more, as JSON and CSV.
+The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 395 more, as JSON and CSV.
 
 Topics: [AI Implementation](../topics/ai-implementation.md)
 

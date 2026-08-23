@@ -1,6 +1,6 @@
 # AI Coding Field Notes
 
-> 43 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
+> 45 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
 
 Every number in these notes traces back to a named source. Figures without one were cut before publishing.
 
@@ -18,7 +18,7 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 ## Dataset
 
-- [Every published figure, 396 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
+- [Every published figure, 403 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv): the same rows, one line each.
 
@@ -189,11 +189,11 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 
 ## Topics
 
+- [Automation Systems](https://xyzs996.github.io/llm-api-pricing/topics/automation-systems.html): 15 write-ups.
 - [Indie Development](https://xyzs996.github.io/llm-api-pricing/topics/indie-development.html): 14 write-ups.
-- [Automation Systems](https://xyzs996.github.io/llm-api-pricing/topics/automation-systems.html): 13 write-ups.
-- [SaaS Business](https://xyzs996.github.io/llm-api-pricing/topics/saas-business.html): 9 write-ups.
+- [SaaS Business](https://xyzs996.github.io/llm-api-pricing/topics/saas-business.html): 10 write-ups.
+- [Niche Market](https://xyzs996.github.io/llm-api-pricing/topics/niche-market.html): 9 write-ups.
 - [AI Implementation](https://xyzs996.github.io/llm-api-pricing/topics/ai-implementation.html): 8 write-ups.
-- [Niche Market](https://xyzs996.github.io/llm-api-pricing/topics/niche-market.html): 8 write-ups.
 - [AI Costs](https://xyzs996.github.io/llm-api-pricing/topics/ai-costs.html): 7 write-ups.
 - [Productivity](https://xyzs996.github.io/llm-api-pricing/topics/productivity.html): 7 write-ups.
 - [AI Programming](https://xyzs996.github.io/llm-api-pricing/topics/ai-programming.html): 6 write-ups.
@@ -202,6 +202,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [Artificial Intelligence](https://xyzs996.github.io/llm-api-pricing/topics/artificial-intelligence.html): 5 write-ups.
 - [Development Tools](https://xyzs996.github.io/llm-api-pricing/topics/development-tools.html): 5 write-ups.
 - [Chinese AI](https://xyzs996.github.io/llm-api-pricing/topics/chinese-ai.html): 4 write-ups.
+- [Revenue Growth](https://xyzs996.github.io/llm-api-pricing/topics/revenue-growth.html): 4 write-ups.
 - [AI Tools](https://xyzs996.github.io/llm-api-pricing/topics/ai-tools.html): 3 write-ups.
 - [Code Review](https://xyzs996.github.io/llm-api-pricing/topics/code-review.html): 3 write-ups.
 - [Enterprise Automation](https://xyzs996.github.io/llm-api-pricing/topics/enterprise-automation.html): 3 write-ups.
@@ -222,6 +223,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](https://xyzs996.github.io/llm-api-pricing/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html): Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/19
 - [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html): Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/20
 - [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](https://xyzs996.github.io/llm-api-pricing/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html): One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed us… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/21
+- [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](https://xyzs996.github.io/llm-api-pricing/articles/charge-per-conversation-not-per-seat-the-billing-model.html): Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://xyzs996.github.io/llm-api-pricing/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html): Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/22
 - [Debunking the Myth of Overnight Success in Micro-SaaS](https://xyzs996.github.io/llm-api-pricing/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html): A six-hour Chrome extension pays $400 a month. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/23
 - [From AI Demo to Product: Loop Engineering for Indie Devs](https://xyzs996.github.io/llm-api-pricing/articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.html): The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/24
@@ -232,6 +234,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](https://xyzs996.github.io/llm-api-pricing/articles/klarna-replaced-700-support-agents-with-ai-then-it-started.html): In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://xyzs996.github.io/llm-api-pricing/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html): MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/28
 - [Office Automation with Claude Code and Codex](https://xyzs996.github.io/llm-api-pricing/articles/office-automation-with-claude-code-and-codex.html): Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
+- [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](https://xyzs996.github.io/llm-api-pricing/articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.html): Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…
 - [Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month](https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html): The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html): The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
 - [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](https://xyzs996.github.io/llm-api-pricing/articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.html): The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…

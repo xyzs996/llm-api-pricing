@@ -69,15 +69,15 @@ One honest caveat before you copy any of this. Every figure above comes from ope
 
 **Read next**
 
+- [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 - [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](ai-generated-local-business-websites-don-t-rent-for-3-000.md)
-- [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
-- [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
+- [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](charge-per-conversation-not-per-seat-the-billing-model.md)
 
-[All 43 write-ups](../README.md)
+[All 45 write-ups](../README.md)
 
-The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 381 more, as JSON and CSV.
+The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 388 more, as JSON and CSV.
 
-Topics: [Automation Systems](../topics/automation-systems.md) · [Niche Market](../topics/niche-market.md)
+Topics: [Automation Systems](../topics/automation-systems.md) · [Niche Market](../topics/niche-market.md) · [Revenue Growth](../topics/revenue-growth.md)
 
 
 ---

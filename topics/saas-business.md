@@ -1,6 +1,6 @@
 # SaaS Business
 
-9 of the 43 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+10 of the 45 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **10,000 tokens** — Long coding sessions push entire directory trees into the prompt on every iteration, so gateways have started applying compression algorithms such as RTK and Caveman, which OmniRoute reports can shrink 10,000 tokens to 1,080. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **$10,000** — Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. [→](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 
-[All figures, 396 rows](../figures.md)
+[All figures, 403 rows](../figures.md)
 
 ## The write-ups
 
@@ -34,6 +34,10 @@ Two brothers ran a single short-video account until one piece of content took of
 "Solving a niche problem is the secret to building a profitable Micro-SaaS." This common advice ignores the power of focusing on a single, well-defined pain point in a specific market.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14)
+
+### [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](../articles/charge-per-conversation-not-per-seat-the-billing-model.md)
+
+Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…
 
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
@@ -69,7 +73,7 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 43 write-ups](../README.md)
+[All 45 write-ups](../README.md)
 
 ---
 

@@ -198,6 +198,14 @@
     <summary>MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read.</summary>
   </entry>
   <entry>
+    <title>Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/charge-per-conversation-not-per-seat-the-billing-model.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/charge-per-conversation-not-per-seat-the-billing-model.html</id>
+    <updated>2026-08-15T11:20:00Z</updated>
+    <published>2026-08-15T11:20:00Z</published>
+    <summary>Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…</summary>
+  </entry>
+  <entry>
     <title>A 30-Line Script, 200 Users, and a Niche Nobody Wanted</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html"/>
     <id>https://xyzs996.github.io/llm-api-pricing/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html</id>
@@ -348,6 +356,14 @@
     <updated>2026-08-05T10:17:00Z</updated>
     <published>2026-08-05T10:17:00Z</published>
     <summary>Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…</summary>
+  </entry>
+  <entry>
+    <title>One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.html</id>
+    <updated>2026-08-05T06:08:00Z</updated>
+    <published>2026-08-05T06:08:00Z</published>
+    <summary>Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…</summary>
   </entry>
   <entry>
     <title>Why Your AI Agent Goes Off the Rails: Give It Boring Work First</title>

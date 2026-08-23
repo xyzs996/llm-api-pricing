@@ -1,6 +1,6 @@
 # Productivity
 
-7 of the 43 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 45 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **40-second** — The 40-second number I cannot check. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - **5 minutes** — WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
-[All figures, 396 rows](../figures.md)
+[All figures, 403 rows](../figures.md)
 
 ## The write-ups
 
@@ -57,7 +57,7 @@ The videos run about 60 seconds.
 
 ---
 
-[All 43 write-ups](../README.md)
+[All 45 write-ups](../README.md)
 
 ---
 

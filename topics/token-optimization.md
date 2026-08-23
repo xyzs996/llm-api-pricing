@@ -1,6 +1,6 @@
 # Token Optimization
 
-3 of the 43 write-ups here are tagged Token Optimization. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 45 write-ups here are tagged Token Optimization. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -11,7 +11,7 @@
 - **$0.19** — Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - **$0.06** — It offers a price range of $0.06-0.2 per million tokens, targeting global small and medium-sized enterprises and individual users. [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All figures, 396 rows](../figures.md)
+[All figures, 403 rows](../figures.md)
 
 ## The write-ups
 
@@ -35,7 +35,7 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 43 write-ups](../README.md)
+[All 45 write-ups](../README.md)
 
 ---
 

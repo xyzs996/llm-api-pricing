@@ -1,6 +1,6 @@
 # Automation Systems
 
-13 of the 43 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+15 of the 45 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$10,000** — Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. [→](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 - **70%** — Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF data extraction to PPT report generation, cutting document processing time by 70%. [→](../articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 
-[All figures, 396 rows](../figures.md)
+[All figures, 403 rows](../figures.md)
 
 ## The write-ups
 
@@ -53,6 +53,10 @@ Codex's office automation capabilities, which are severely underestimated, can b
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/19)
 
+### [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](../articles/charge-per-conversation-not-per-seat-the-billing-model.md)
+
+Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…
+
 ### [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
 The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning.
@@ -75,6 +79,10 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 
 In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.
 
+### [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
+
+Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…
+
 ### [Sell It Before You Build It: How Indie Devs Validate AI Products](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
@@ -91,7 +99,7 @@ In special-purpose vehicles — tankers, sweepers, the trucks nobody films for f
 
 ---
 
-[All 43 write-ups](../README.md)
+[All 45 write-ups](../README.md)
 
 ---
 
