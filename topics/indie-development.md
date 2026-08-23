@@ -21,97 +21,97 @@
 
 OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free tokens a month, and that figure is arithmetic rather than a promotion, because the RTK+Caveman layer compresses 10,000 tok…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 
 ### [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](../articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.md)
 
 A developer in China’s AI community achieved 5x productivity gains using loop engineering, reducing MVP development time from four prompt tuning sessions to a single command installation.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/15)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/15) · [telegra.ph](https://telegra.ph/AI-Agent-Loop-Engineering-Karpathys-Method-for-5x-Productivity-Gains-08-19)
 
 ### [AI Model Costs: Beyond Per-Token Pricing](../articles/ai-model-costs-beyond-per-token-pricing.md)
 
 Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20) · [telegra.ph](https://telegra.ph/Beyond-Token-Pricing-How-Indie-Devs-Should-Really-Evaluate-AI-Model-Costs-08-19)
 
 ### [AI Side Hustle: Stop Selling Hours, Start Selling Plans](../articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md)
 
 The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49) · [telegra.ph](https://telegra.ph/Sell-Plans-Not-Hours-What-an-AI-Side-Hustle-Actually-Earns-08-23)
 
 ### [AI Took Over My Coding. What Broke Was How I Learn.](../articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 
 One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/45)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/45) · [telegra.ph](https://telegra.ph/AI-Took-Over-My-Coding-What-Broke-Was-How-I-Learn-08-23)
 
 ### [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
 Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Model-for-Coding-Cost-vs-Efficiency-08-19)
 
 ### [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
 The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/24)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/24) · [telegra.ph](https://telegra.ph/From-AI-Demo-to-Product-Loop-Engineering-for-Indie-Devs-08-19)
 
 ### [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](../articles/how-indie-developers-are-building-ai-powered-digital.md)
 
 Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly ren…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/26)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/26) · [telegra.ph](https://telegra.ph/How-Indie-Developers-Are-Building-AI-Powered-Digital-Landlords-and-Renting-Them-Out-for-Monthly-Cash-Flow-08-21)
 
 ### [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
 MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/28)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/28) · [telegra.ph](https://telegra.ph/MonkeyCode-The-Open-Source-AI-Coding-Platform-With-900-Million-Free-Tokens-08-19)
 
 ### [Sell It Before You Build It: How Indie Devs Validate AI Products](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48) · [telegra.ph](https://telegra.ph/Sell-It-Before-You-Build-It-How-Indie-Devs-Validate-AI-Products-08-23)
 
 ### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
 Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/30)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/30) · [telegra.ph](https://telegra.ph/Stop-Reading-SimilarWeb-Like-a-Traffic-Dashboard--Read-It-Like-a-Feasibility-Test-08-21)
 
 ### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 
 Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32) · [telegra.ph](https://telegra.ph/The-AI-Branding-Revolution-How-Indie-Developers-Are-Ditching-Design-Costs-with-AI-08-19)
 
 ### [When the AI Picks for the Customer, You Become a Supplier](../articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
 
 WeChat's Xiaowei agent went into closed testing this year, and Qwen's brand agents already have Luckin Coffee and KFC connected to them.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/52)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/52) · [telegra.ph](https://telegra.ph/When-the-AI-Picks-for-the-Customer-You-Become-a-Supplier-08-23)
 
 ### [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](../articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 
 Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/39)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/39) · [telegra.ph](https://telegra.ph/Why-Pis-1000-Token-Agent-Engine-Needs-a-Sandbox-Before-You-Touch-It-08-19)
 
 ### [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
 When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/40)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/40) · [telegra.ph](https://telegra.ph/Why-Stripping-80-of-System-Prompts-Actually-Improved-Claude-Codes-Performance-08-21)
 
 ### [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
 The videos run about 60 seconds.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/41)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/41) · [telegra.ph](https://telegra.ph/Why-Your-Indie-App-Needs-Short-Form-Video-Marketing-And-How-to-Get-Started-08-19)
 
 ---
 

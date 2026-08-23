@@ -19,25 +19,25 @@
 
 The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/61)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/61) · [telegra.ph](https://telegra.ph/Rank-and-Rent-Building-Local-SEO-Sites-That-Earn-500-to-3000-a-Month-08-23)
 
 ### [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 
 The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)
 
 ### [Your AI Coding Bill Scales With Your Repo, Not Your Output](../articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
 
 Most people budgeting for a coding assistant reason about it the way they reason about a printer, as though the cost tracked how much comes out.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/56)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/56) · [telegra.ph](https://telegra.ph/Your-AI-Coding-Bill-Scales-With-Your-Repo-Not-Your-Output-08-23)
 
 ### [Your Agent Writes Code Faster Than Anyone Can Review It](../articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
 
 The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/55)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/55) · [telegra.ph](https://telegra.ph/Your-Agent-Writes-Code-Faster-Than-Anyone-Can-Review-It-08-23)
 
 ---
 

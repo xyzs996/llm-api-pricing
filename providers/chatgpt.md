@@ -17,10 +17,10 @@ Some of these are about ChatGPT and some only measure against it — a competito
 
 ## Where these 4 came from
 
-- [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12)
-- [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](../articles/ai-programming-tool-selection-strategy-from-rapid.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/16)
-- [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22)
-- [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10)
+- [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
+- [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](../articles/ai-programming-tool-selection-strategy-from-rapid.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/16) · [telegra.ph](https://telegra.ph/AI-Programming-Tool-Selection-Strategy-From-Rapid-Prototyping-to-Long-term-Collaboration-08-19)
+- [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Model-for-Coding-Cost-vs-Efficiency-08-19)
+- [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
 
 **Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.
 

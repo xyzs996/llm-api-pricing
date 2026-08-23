@@ -21,61 +21,61 @@
 
 Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/11)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/11) · [telegra.ph](https://telegra.ph/The-Cost-Effective-Guide-to-Using-Open-Code-Review-for-AI-Programming-Tools-08-19)
 
 ### [58 Million Plays Started With One Account, Not Four](../articles/58-million-plays-started-with-one-account-not-four.md)
 
 Two brothers ran a single short-video account until one piece of content took off, and only then copied it across several accounts, which is how the cumulative play count passed 58 million.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/13)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/13) · [telegra.ph](https://telegra.ph/Why-Most-Indie-Dev-Short-Videos-Never-Make-Money-08-19)
 
 ### [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 
 "Solving a niche problem is the secret to building a profitable Micro-SaaS." This common advice ignores the power of focusing on a single, well-defined pain point in a specific market.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14) · [telegra.ph](https://telegra.ph/A-30-Line-Script-200-Users-and-a-Niche-Nobody-Wanted-08-19)
 
 ### [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](../articles/charge-per-conversation-not-per-seat-the-billing-model.md)
 
 Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/46)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/46) · [telegra.ph](https://telegra.ph/Charge-Per-Conversation-Not-Per-Seat-The-Billing-Model-Behind-AI-Support-08-23)
 
 ### [Claude Code and Codex for Office Automation](../articles/claude-code-and-codex-for-office-automation.md)
 
 Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59) · [telegra.ph](https://telegra.ph/Office-Automation-with-Claude-Code-and-Codex-08-23)
 
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 A six-hour Chrome extension pays $400 a month.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/23)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/23) · [telegra.ph](https://telegra.ph/Debunking-the-Myth-of-Overnight-Success-in-Micro-SaaS-08-21)
 
 ### [How to Build a Micro-SaaS Without Spending a Dime on Ads](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 
 Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 people asking for access within days, at zero cost, and those users stuck around better than the paid traffic he never bo…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/27)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/27) · [telegra.ph](https://telegra.ph/How-to-Build-a-Micro-SaaS-Without-Spending-a-Dime-on-Ads-08-19)
 
 ### [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
 Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/47)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/47) · [telegra.ph](https://telegra.ph/How-to-Turn-Your-Obsidian-Vault-Into-an-Autonomous-AI-Research-Agent-08-23)
 
 ### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 
 Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32) · [telegra.ph](https://telegra.ph/The-AI-Branding-Revolution-How-Indie-Developers-Are-Ditching-Design-Costs-with-AI-08-19)
 
 ### [Token Optimization for Indie Developers' AI API Bills](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 
 In July 2026, while indie developers building AI coding products full-time watched their API burn rate climb toward their revenue, a quieter shift in the Chinese developer stack showed a different…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/37)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/37) · [telegra.ph](https://telegra.ph/Token-Optimization-for-Indie-Developers-AI-API-Bills-08-19)
 
 ---
 

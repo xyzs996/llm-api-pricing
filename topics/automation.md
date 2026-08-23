@@ -18,19 +18,19 @@
 
 The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49) · [telegra.ph](https://telegra.ph/Sell-Plans-Not-Hours-What-an-AI-Side-Hustle-Actually-Earns-08-23)
 
 ### [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 
 As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/43)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/43) · [telegra.ph](https://telegra.ph/Stop-Doing-Manual-DevOps-How-I-Use-loop-and-hook-to-Automate-My-Daily-Indie-Hacker-Tasks-08-22)
 
 ### [When the AI Picks for the Customer, You Become a Supplier](../articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
 
 WeChat's Xiaowei agent went into closed testing this year, and Qwen's brand agents already have Luckin Coffee and KFC connected to them.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/52)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/52) · [telegra.ph](https://telegra.ph/When-the-AI-Picks-for-the-Customer-You-Become-a-Supplier-08-23)
 
 ---
 

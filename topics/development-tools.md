@@ -21,31 +21,31 @@
 
 OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free tokens a month, and that figure is arithmetic rather than a promotion, because the RTK+Caveman layer compresses 10,000 tok…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 
 ### [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
 A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/16)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/16) · [telegra.ph](https://telegra.ph/AI-Programming-Tool-Selection-Strategy-From-Rapid-Prototyping-to-Long-term-Collaboration-08-19)
 
 ### [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
 Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Model-for-Coding-Cost-vs-Efficiency-08-19)
 
 ### [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
 MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/28)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/28) · [telegra.ph](https://telegra.ph/MonkeyCode-The-Open-Source-AI-Coding-Platform-With-900-Million-Free-Tokens-08-19)
 
 ### [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
 
 English write-ups rank these tools on model quality and price per token.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/50)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/50) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-AI-Coding-Tools-What-English-Developers-Dont-Know-08-23)
 
 ---
 

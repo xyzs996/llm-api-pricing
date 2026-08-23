@@ -18,19 +18,19 @@
 
 You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57) · [telegra.ph](https://telegra.ph/AI-Generated-Local-Business-Websites-Dont-Rent-for-3000Month-Until-You-Do-This-08-19)
 
 ### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
 Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/30)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/30) · [telegra.ph](https://telegra.ph/Stop-Reading-SimilarWeb-Like-a-Traffic-Dashboard--Read-It-Like-a-Feasibility-Test-08-21)
 
 ### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 
 Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32) · [telegra.ph](https://telegra.ph/The-AI-Branding-Revolution-How-Indie-Developers-Are-Ditching-Design-Costs-with-AI-08-19)
 
 ---
 

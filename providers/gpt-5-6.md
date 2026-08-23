@@ -32,11 +32,11 @@ Some of these are about GPT-5.6 and some only measure against it — a competito
 
 ## Where these 19 came from
 
-- [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12)
-- [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22)
-- [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/34)
-- [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51)
-- [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/36)
+- [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
+- [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Model-for-Coding-Cost-vs-Efficiency-08-19)
+- [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/34) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-GPT-56-Model-Selection-A-Developers-Real-World-Guide-08-19)
+- [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)
+- [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/36) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Code-Review-Tool-A-Developers-Guide-08-21)
 
 **Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.
 

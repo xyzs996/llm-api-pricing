@@ -21,91 +21,91 @@
 
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
 
 ### [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
 Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/11)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/11) · [telegra.ph](https://telegra.ph/The-Cost-Effective-Guide-to-Using-Open-Code-Review-for-AI-Programming-Tools-08-19)
 
 ### [58 Million Plays Started With One Account, Not Four](../articles/58-million-plays-started-with-one-account-not-four.md)
 
 Two brothers ran a single short-video account until one piece of content took off, and only then copied it across several accounts, which is how the cumulative play count passed 58 million.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/13)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/13) · [telegra.ph](https://telegra.ph/Why-Most-Indie-Dev-Short-Videos-Never-Make-Money-08-19)
 
 ### [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](../articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.md)
 
 A developer in China’s AI community achieved 5x productivity gains using loop engineering, reducing MVP development time from four prompt tuning sessions to a single command installation.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/15)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/15) · [telegra.ph](https://telegra.ph/AI-Agent-Loop-Engineering-Karpathys-Method-for-5x-Productivity-Gains-08-19)
 
 ### [Best Practices for AI Agent Skill Management](../articles/best-practices-for-ai-agent-skill-management.md)
 
 Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18) · [telegra.ph](https://telegra.ph/Best-Practices-for-AI-Agent-Skill-Management-08-21)
 
 ### [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](../articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 
 Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/19)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/19) · [telegra.ph](https://telegra.ph/Beyond-Chat-How-Codex-Can-Automate-Your-WordExcelPPTPDF-Workflows-08-19)
 
 ### [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](../articles/charge-per-conversation-not-per-seat-the-billing-model.md)
 
 Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/46)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/46) · [telegra.ph](https://telegra.ph/Charge-Per-Conversation-Not-Per-Seat-The-Billing-Model-Behind-AI-Support-08-23)
 
 ### [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
 The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/24)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/24) · [telegra.ph](https://telegra.ph/From-AI-Demo-to-Product-Loop-Engineering-for-Indie-Devs-08-19)
 
 ### [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
 A monthly report that used to take four hours now takes a few minutes.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/25)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/25) · [telegra.ph](https://telegra.ph/How-Chinese-Developers-Are-Using-Codex-Record--Replay-to-Streamline-Repetitive-Workflows-08-19)
 
 ### [How to Build a Micro-SaaS Without Spending a Dime on Ads](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 
 Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 people asking for access within days, at zero cost, and those users stuck around better than the paid traffic he never bo…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/27)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/27) · [telegra.ph](https://telegra.ph/How-to-Build-a-Micro-SaaS-Without-Spending-a-Dime-on-Ads-08-19)
 
 ### [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 
 In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/58)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/58) · [telegra.ph](https://telegra.ph/Klarna-Replaced-700-Support-Agents-With-AI-Then-It-Started-Hiring-Again-08-23)
 
 ### [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
 Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/60)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/60) · [telegra.ph](https://telegra.ph/One-Person-8-AI-Agents-3000-Baseball-Caps-in-Two-Months-08-23)
 
 ### [Sell It Before You Build It: How Indie Devs Validate AI Products](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48) · [telegra.ph](https://telegra.ph/Sell-It-Before-You-Build-It-How-Indie-Devs-Validate-AI-Products-08-23)
 
 ### [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 
 Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/35)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/35) · [telegra.ph](https://telegra.ph/The-Klarna-Lesson-Why-AI-Implementation-Needs-a-Staircase-Not-a-Leap-08-19)
 
 ### [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 
 In special-purpose vehicles — tankers, sweepers, the trucks nobody films for fun — one effective sales lead costs somewhere between 100 and 1,000 yuan, and a buyer who actually signs wires a hundre…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/53)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/53) · [telegra.ph](https://telegra.ph/Why-Vanity-Metrics-Kill-AI-Startups-700-Customers-and-60000-RMB-From-One-Niche-Account-08-23)
 
 ---
 

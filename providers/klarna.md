@@ -25,10 +25,10 @@ Some of these are about what Klarna did and some come from pieces that only cite
 
 ## Where these 12 came from
 
-- [AI Took Over My Coding. What Broke Was How I Learn.](../articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/45)
-- [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/58)
-- [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/35)
-- [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/38)
+- [AI Took Over My Coding. What Broke Was How I Learn.](../articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/45) · [telegra.ph](https://telegra.ph/AI-Took-Over-My-Coding-What-Broke-Was-How-I-Learn-08-23)
+- [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/58) · [telegra.ph](https://telegra.ph/Klarna-Replaced-700-Support-Agents-With-AI-Then-It-Started-Hiring-Again-08-23)
+- [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/35) · [telegra.ph](https://telegra.ph/The-Klarna-Lesson-Why-AI-Implementation-Needs-a-Staircase-Not-a-Leap-08-19)
+- [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/38) · [telegra.ph](https://telegra.ph/When-AI-Customer-Service-Backfired-Klarnas-Case-and-the-Four-Stage-Path-to-Enterprise-AI-Adoption-08-19)
 
 **Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.
 

@@ -19,19 +19,19 @@
 
 A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/16)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/16) · [telegra.ph](https://telegra.ph/AI-Programming-Tool-Selection-Strategy-From-Rapid-Prototyping-to-Long-term-Collaboration-08-19)
 
 ### [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 
 In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/58)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/58) · [telegra.ph](https://telegra.ph/Klarna-Replaced-700-Support-Agents-With-AI-Then-It-Started-Hiring-Again-08-23)
 
 ### [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 
 Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/35)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/35) · [telegra.ph](https://telegra.ph/The-Klarna-Lesson-Why-AI-Implementation-Needs-a-Staircase-Not-a-Leap-08-19)
 
 ---
 
