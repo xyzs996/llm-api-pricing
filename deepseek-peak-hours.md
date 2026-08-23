@@ -83,6 +83,16 @@ Peak hours are **09:00–12:00 and 14:00–18:00 Beijing time, Monday to Friday*
 
 The whole weekend is off-peak as well — all day Saturday and all day Sunday. That weekend is bounded on the vendor's own clock (`Asia/Shanghai`), not in UTC: it runs from **16:00 UTC Friday** to **16:00 UTC Sunday**.
 
+Don't take the above on faith — it takes about thirty seconds to check, offline, with no account:
+
+```
+git clone https://github.com/xyzs996/deepseek-peak-hours && cd deepseek-peak-hours
+python3 check_vectors.py            # the rule, checked offline
+node conformance/run.mjs --detail   # nine published plugins. two pass.
+```
+
+Eighteen dated boundary instants with the expected side of the rate card for each, a reference implementation of the rule in about thirty lines of Python and of dependency-free JavaScript, and the same vectors run against the actual peak predicate of nine published DeepSeek billing plugins. Public domain. If a vector is wrong, that is worth more to us than a star: [say so](https://github.com/xyzs996/deepseek-peak-hours/issues/1).
+
 **The page carries no effective date today.** It states the rule in the present tense in both languages, with no "in effect from" anywhere: <https://api-docs.deepseek.com/quick_start/pricing/>, re-read **2026-08-23**. It did carry one. On **2026-08-22**, hours before the rule went live, the same page ran an announcement line — *Effective 00:00 (Beijing Time) on Sunday, August 23* — and that line was pulled once the rule took effect. So **2026-08-23** Beijing time is a dated first-hand observation, not a citation you can re-check: the notice it came from is gone, and the archived copies of this page are script-only shells with none of the text in them. That distinction decides exactly one thing, below.
 
 ## The rates
