@@ -101,7 +101,7 @@ take our word for it. A rank without its category is unverifiable.
 | **$0.3857** | $2.00 | $6.00 | [Grok 4.5](https://openrouter.ai/x-ai/grok-4.5) | 500K | #3 godotgamedev |  |
 | **$0.4525** | $3.00 | $15.00 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5) | 1M | #26 mobileapps |  |
 | **$0.4525** | $3.00 | $15.00 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6) | 1M | #4 mobileapps |  |
-| **$0.4525** | $3.00 | $15.00 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3) | 1M | #1 mobileapps | [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html) |
+| **$0.4525** | $3.00 | $15.00 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3) | 1M | #1 mobileapps | [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html) |
 | **$0.577** | $2.00 | $6.00 | [Grok 4.6](https://openrouter.ai/x-ai/grok-4.6) | 500K | #1 androidnative |  |
 | **$0.7542** | $5.00 | $25.00 | [Claude Fable 5](https://openrouter.ai/anthropic/claude-fable-5:batch) `batch` | 1M | #1 agenticgamedev |  |
 | **$0.7542** | $5.00 | $25.00 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5) | 200K | #11 mobileapps |  |

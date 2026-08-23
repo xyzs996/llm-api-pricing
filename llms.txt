@@ -77,7 +77,7 @@ Per million tokens, for models ranked in an agents category of the Design Arena.
 - **GPT-5.5 (batch)** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #7 in agenticslides (2026-08-23).
 - **Claude Sonnet 4.5** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #26 in mobileapps (2026-08-23).
 - **Claude Sonnet 4.6** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #4 in mobileapps (2026-08-23).
-- **Kimi K3** — $3.0 in / $15.0 out per 1M tokens, 1048576 token context, best agents rank #1 in mobileapps (2026-08-23). Written up: https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html
+- **Kimi K3** — $3.0 in / $15.0 out per 1M tokens, 1048576 token context, best agents rank #1 in mobileapps (2026-08-23). Written up: https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html
 - **Claude Fable 5 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticgamedev (2026-08-23).
 - **Claude Opus 4.5** — $5.0 in / $25.0 out per 1M tokens, 200000 token context, best agents rank #11 in mobileapps (2026-08-23).
 - **Claude Opus 4.6** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #6 in mobileapps (2026-08-23).
