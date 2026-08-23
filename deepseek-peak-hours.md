@@ -43,4 +43,10 @@ The daily price table these rates sit in, re-read every day: [the full catalog](
 
 ---
 
-Something here out of date or wrong? [Say so in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=deepseek-peak-hours.md) — a rate, a window, or an edge. It gets fixed the same day.
+**Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — it is what puts these in front of the next person looking; the data is CC BY and does not require starring.
+
+**Does your own number disagree?** [This same table has a reply box](https://github.com/xyzs996/llm-api-pricing/discussions/44) — one line answers it. No template, no title, nothing to organise first.
+
+**Want a figure that is not here yet?** [Say which metric, which provider, which unit](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=deepseek-peak-hours.md) — one required field, and the page you came from is already filled in.
+
+**Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=deepseek-peak-hours.md) — corrections and counter-data are the point.
