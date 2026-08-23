@@ -83,9 +83,9 @@ In those setups the person you talk to is the owner, the operator, and the one h
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
 
-[All 35 write-ups](../README.md)
+[All 36 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 327 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 329 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md)
 

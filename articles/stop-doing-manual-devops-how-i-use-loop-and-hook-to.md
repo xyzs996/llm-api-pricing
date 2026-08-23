@@ -67,9 +67,9 @@ If your current project is still a loose, exploratory prototype experiencing rap
 - [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-[All 35 write-ups](../README.md)
+[All 36 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 339 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 341 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md)
 

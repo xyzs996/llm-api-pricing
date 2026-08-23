@@ -1,6 +1,6 @@
 # Chinese AI
 
-4 of the 35 write-ups here are tagged Chinese AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 36 write-ups here are tagged Chinese AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **80%** — The skill automates the workflow, reducing manual effort by 80%, and adapts to different document formats and storage options. [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 - **80 percent** — Most of what feels repetitive in a week does not, which is why the 80 percent figure describes a narrow slice of the work rather than 80 percent of anyone's day. [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
-[All figures, 341 rows](../figures.md)
+[All figures, 343 rows](../figures.md)
 
 ## The write-ups
 
@@ -41,7 +41,7 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 35 write-ups](../README.md)
+[All 36 write-ups](../README.md)
 
 ---
 

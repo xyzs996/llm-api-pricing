@@ -1,6 +1,6 @@
 # BrowserAct costs and claims: every figure from a sentence that names it
 
-7 of the 341 figures in these field notes come from a sentence that names BrowserAct. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+8 of the 343 figures in these field notes come from a sentence that names BrowserAct. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about BrowserAct and some only measure against it — a competitor's price quoted next to BrowserAct's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -8,6 +8,7 @@ Some of these are about BrowserAct and some only measure against it — a compet
 
 ## The figures
 
+- **5 minutes** — “Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7.” (2026-08-23) [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **5 minutes** — “Tools like WorkBuddy + BrowserAct can expedite competitor analysis by extracting data to generate price tables in just 5 minutes and opportunity reports in 7 minutes.” (2026-08-21) [→](../articles/best-practices-for-ai-agent-skill-management.md)
 - **5 minutes** — “WorkBuddy combined with BrowserAct can produce a competitive price table in 5 minutes and an opportunity report in 7, which is roughly the difference between checking a hypothesis during a coffee break and scheduling an afternoon for it.” (2026-08-20) [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - **5 minutes** — “WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes.” (2026-08-18) [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
@@ -16,15 +17,16 @@ Some of these are about BrowserAct and some only measure against it — a compet
 - **7 minutes** — “Similarly, WorkBuddy and BrowserAct can automate competitor price tracking and generate product opportunity reports in under 7 minutes — something to put in front of a skeptical client while the sandbox clock runs.” (2026-08-10) [→](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
 - **5 minutes** — “The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All 341 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 343 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
-## Where these 7 came from
+## Where these 8 came from
 
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14)
 - [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/17)
 - [Best Practices for AI Agent Skill Management](../articles/best-practices-for-ai-agent-skill-management.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18)
 - [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/24)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10)
+- [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/30)
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/41)
 
@@ -32,7 +34,7 @@ Some of these are about BrowserAct and some only measure against it — a compet
 
 **A BrowserAct figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=BrowserAct). The form already knows it is about BrowserAct.
 
-**Or is one of the 7 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=BrowserAct&title=%5Bcorrection%5D+BrowserAct) — the form already knows it is about BrowserAct; you only have to say what the number is now.
+**Or is one of the 8 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=BrowserAct&title=%5Bcorrection%5D+BrowserAct) — the form already knows it is about BrowserAct; you only have to say what the number is now.
 
 ---
 

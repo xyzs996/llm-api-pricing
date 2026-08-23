@@ -1,19 +1,19 @@
 # SaaS Business
 
-8 of the 35 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 36 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **5 minutes** — Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
+- **20%** — Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **80%** — For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. [→](../articles/office-automation-with-claude-code-and-codex.md)
 - **$55k** — James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **9x** — Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **10,000 tokens** — Long coding sessions push entire directory trees into the prompt on every iteration, so gateways have started applying compression algorithms such as RTK and Caveman, which OmniRoute reports can shrink 10,000 tokens to 1,080. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **$10,000** — Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. [→](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
-- **90%** — AI branding tools like Miora let indie developers cut design costs by 90%. [→](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
-- **$500** — Using AI tools to batch generate local SEO content reduces development costs for independent developers, accelerating website ranking on Google, after which the optimized site can be rented to local businesses for monthly revenue ranging from $500 to $3,000. [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 
-[All figures, 341 rows](../figures.md)
+[All figures, 343 rows](../figures.md)
 
 ## The write-ups
 
@@ -47,6 +47,10 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/27)
 
+### [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
+
+Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…
+
 ### [Office Automation with Claude Code and Codex](../articles/office-automation-with-claude-code-and-codex.md)
 
 Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
@@ -65,7 +69,7 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 35 write-ups](../README.md)
+[All 36 write-ups](../README.md)
 
 ---
 

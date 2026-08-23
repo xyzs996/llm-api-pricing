@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-341 figures pulled out of 35 write-ups in
+343 figures pulled out of 36 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -383,6 +383,15 @@ Published 2026-08-17.
 | `$15,000` | price | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
 | `30 days` | duration | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
 
+## [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.html)
+
+Published 2026-08-23.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `20%` | percent | Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. |
+| `5 minutes` | duration | Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. |
+
 ## [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://xyzs996.github.io/llm-api-pricing/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html)
 
 Published 2026-08-16.
@@ -641,5 +650,5 @@ Published 2026-08-11.
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "341 figures pulled out of 35 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "343 figures pulled out of 36 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
 </script>

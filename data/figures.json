@@ -2233,6 +2233,28 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/27"
   },
   {
+    "value": "20%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy.",
+    "article": "How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "5 minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7.",
+    "article": "How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "900 million tokens",
     "kind": "tokens",
     "unit": "",

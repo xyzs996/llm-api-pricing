@@ -1,19 +1,19 @@
 # Cost Savings
 
-5 of the 35 write-ups here are tagged Cost Savings. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 36 write-ups here are tagged Cost Savings. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **5 minutes** — Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
+- **20%** — Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **90%** — AI branding tools like Miora let indie developers cut design costs by 90%. [→](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 - **95%** — Terra's document processing capabilities might seem cost-effective initially, but Luna's 95% accuracy on basic QA tasks and faster response times mean fewer errors and rework, whereas Terra's higher failure rate on complex tasks can lead to time wasted fixing mistakes, and Luna's superior accuracy and reliability make it a better long-term choice, even though Terra often requires more tokens for similar tasks. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 - **95%** — For example, Luna's 95% accuracy rate for basic questions drops when faced with more complex queries, and Terra's document analysis accuracy can vary depending on document structure and content. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 - **95%** — That 95% export-issue figure gets quoted everywhere. [→](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
-- **60%** — It integrates with GitHub Actions and CircleCI, and its structured review comments cut false positives by 60% — which is the number I'd actually optimize for, because a review tool that cries wolf gets muted inside a week, and a muted tool reviews nothing at all while still showing green on every dashboard I own. [→](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
-- **$0.19** — Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All figures, 341 rows](../figures.md)
+[All figures, 343 rows](../figures.md)
 
 ## The write-ups
 
@@ -35,6 +35,10 @@ OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free token
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12)
 
+### [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
+
+Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…
+
 ### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 
 Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
@@ -49,7 +53,7 @@ Chris launched WiseMindAI last year and came out of a single session with Miora'
 
 ---
 
-[All 35 write-ups](../README.md)
+[All 36 write-ups](../README.md)
 
 ---
 
