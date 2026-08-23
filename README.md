@@ -313,7 +313,7 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 
 Writing code got cheap.
 
-`AI` `SoftwareDevelopment` `IndieDev` `Coding` · [telegra.ph](https://telegra.ph/Never-Use-a-Model-Where-Code-Can-Decide-08-23)
+`AI` `SoftwareDevelopment` `IndieDev` `Coding` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/65) · [telegra.ph](https://telegra.ph/Never-Use-a-Model-Where-Code-Can-Decide-08-23)
 
 ### [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 

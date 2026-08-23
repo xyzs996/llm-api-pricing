@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/65) — that copy has a reply box under it, and this one does not.*
+
 Writing code got cheap. Checking it did not. That gap is where the CI failures live, and the fix is not a better agent. It is a second program that does not trust the first one.
 
 ## The Bottleneck Moved and Nobody Moved With It
@@ -130,6 +132,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** does anything in your pipeline right now ask a model to judge something code could have checked instead? Reply with yes or no — and if yes, one word for what it judges: style, naming, docs, tests. "no" is a real answer, and the cleanest one. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/65).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fnever-use-a-model-where-code-can-decide.md). One required field, and the page you came from is already filled

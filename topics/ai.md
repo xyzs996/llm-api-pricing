@@ -21,7 +21,7 @@
 
 Writing code got cheap.
 
-[telegra.ph](https://telegra.ph/Never-Use-a-Model-Where-Code-Can-Decide-08-23)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/65) · [telegra.ph](https://telegra.ph/Never-Use-a-Model-Where-Code-Can-Decide-08-23)
 
 ### [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](../articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
 
