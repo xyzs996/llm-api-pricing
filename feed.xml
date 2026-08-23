@@ -11,7 +11,7 @@
     <link href="https://xyzs996.github.io/llm-api-pricing/deepseek-peak-hours.html"/>
     <id>https://xyzs996.github.io/llm-api-pricing/deepseek-peak-hours.html</id>
     <updated>2026-08-23T00:00:00Z</updated>
-    <summary>Peak hours are 09:00–12:00 and 14:00–18:00 Beijing time, Monday to Friday — that is 01:00-04:00 UTC and 06:00-10:00 UTC. Every other hour is off-peak, and off-peak is half of peak, on every rate: cache hit, cache miss and output.</summary>
+    <summary>&lt;div id="ds-now" data-windows="01:00-04:00,06:00-10:00" data-tz="Asia/Shanghai" data-clock="Beijing time" data-weekend-from="2026-08-22T16:00:00Z" style="border:1px solid currentColor;border-radius:6px;padding:.75em 1em;margin:1em 0"&gt;</summary>
   </entry>
   <entry>
     <title>Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks</title>
