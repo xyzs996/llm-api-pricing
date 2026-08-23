@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-4 of the 36 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 37 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **12 months** — Quality degradation typically appears 6-12 months after full automation—long after the press releases have been sent. [→](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 - **$40 million** — Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months. [→](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 
-[All figures, 343 rows](../figures.md)
+[All figures, 358 rows](../figures.md)
 
 ## The write-ups
 
@@ -43,7 +43,7 @@ On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
 
 ---
 
-[All 36 write-ups](../README.md)
+[All 37 write-ups](../README.md)
 
 ---
 

@@ -5,7 +5,7 @@
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-36 write-ups on what those bills looked like in production.
+37 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (60 models)
 
@@ -51,9 +51,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (343 rows)
+## The figures, as data (358 rows)
 
-Every figure published across the 36 write-ups —
+Every figure published across the 37 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -65,6 +65,7 @@ recent write-ups — quoted verbatim, not summarised:
 | --- | --- | --- |
 | `20%` | Developers should build buffer time into their workflows when using Chinese AI coding tools, which is illustrated by the fact that one developer added 20% extra time to their coding sessions when using these tools because of the higher frequency of stability issues. | [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md) |
 | `20%` | Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. | [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md) |
+| `$22,000` | Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative. | [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md) |
 | `1000-token` | Still, I'd say the Pi base framework's 1000-token limit seems overstated. | [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md) |
 | `80%` | For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. | [Office Automation with Claude Code and Codex](articles/office-automation-with-claude-code-and-codex.md) |
 | `$1.43` | The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. | [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) |
@@ -74,9 +75,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `$30` | With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. | [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md) |
 | `$1,000` | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. | [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](articles/how-indie-developers-are-building-ai-powered-digital.md) |
 | `40-second` | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. | [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md) |
-| `9.1%` | One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed users were doing. | [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md) |
 
-[All 343 rows](figures.md) — or as data:
+[All 358 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -139,7 +139,7 @@ write-ups land there first.
 
 **By provider.** [GPT-5.6](providers/gpt-5-6.md) (18) · [Klarna](providers/klarna.md) (9) · [WorkBuddy](providers/workbuddy.md) (9) · [BrowserAct](providers/browseract.md) (8) · [Claude](providers/claude.md) (8) · [Fable 5](providers/fable-5.md) (6) · [ChatGPT](providers/chatgpt.md) (4) — every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (12) · [Automation Systems](topics/automation-systems.md) (10) · [SaaS Business](topics/saas-business.md) (9) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [Niche Market](topics/niche-market.md) (6) · [Productivity](topics/productivity.md) (6) · [AI Features](topics/ai-features.md) (5) · [AI Programming](topics/ai-programming.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Artificial Intelligence](topics/artificial-intelligence.md) (4) · [Chinese AI](topics/chinese-ai.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (12) · [Automation Systems](topics/automation-systems.md) (11) · [SaaS Business](topics/saas-business.md) (9) · [Niche Market](topics/niche-market.md) (7) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [Productivity](topics/productivity.md) (6) · [AI Features](topics/ai-features.md) (5) · [AI Programming](topics/ai-programming.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Artificial Intelligence](topics/artificial-intelligence.md) (4) · [Chinese AI](topics/chinese-ai.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -352,6 +352,12 @@ Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which
 When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks.
 
 `Developer Productivity` `Code Review` `AI Features` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/40)
+
+### [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
+
+In special-purpose vehicles — tankers, sweepers, the trucks nobody films for fun — one effective sales lead costs somewhere between 100 and 1,000 yuan, and a buyer who actually signs wires a hundre…
+
+`Revenue Growth` `Automation Systems` `Niche Market` `AI Startups`
 
 ### [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 

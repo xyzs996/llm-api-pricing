@@ -168,9 +168,9 @@ Loop engineering offers several key advantages.
 - [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 - [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 
-[All 36 write-ups](../README.md)
+[All 37 write-ups](../README.md)
 
-The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 330 more, as JSON and CSV.
+The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 345 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Automation Systems](../topics/automation-systems.md)
 

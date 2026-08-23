@@ -1,6 +1,6 @@
 # Claude costs and claims: every figure from a sentence that names it
 
-8 of the 343 figures in these field notes come from a sentence that names Claude. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+8 of the 358 figures in these field notes come from a sentence that names Claude. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about Claude and some only measure against it — a competitor's price quoted next to Claude's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -17,7 +17,7 @@ Some of these are about Claude and some only measure against it — a competitor
 - **$19 billion** — “Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years.” (2026-08-05) [→](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
 - **$19 billion** — “Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months.” (2026-08-05) [→](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
 
-[All 343 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 358 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
 ## Where these 8 came from
 

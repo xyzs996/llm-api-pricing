@@ -67,9 +67,9 @@ The system reads local project directories and applies modifications directly to
 - [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-[All 36 write-ups](../README.md)
+[All 37 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 342 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 357 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md)
 

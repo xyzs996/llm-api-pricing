@@ -1,6 +1,6 @@
 # AI Coding Field Notes
 
-> 36 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
+> 37 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
 
 Every number in these notes traces back to a named source. Figures without one were cut before publishing.
 
@@ -18,7 +18,7 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 ## Dataset
 
-- [Every published figure, 343 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
+- [Every published figure, 358 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv): the same rows, one line each.
 
@@ -91,7 +91,7 @@ Per million tokens, for models ranked in an agents category of the Design Arena.
 
 - [When DeepSeek bills double, and when it halves](https://xyzs996.github.io/llm-api-pricing/deepseek-peak-hours.html): peak is Beijing 09:00–12:00 and 14:00–18:00, Monday to Friday (01:00-04:00 and 06:00-10:00 UTC); off-peak is half of peak on every rate; since 2026-08-23 the whole weekend is off-peak, bounded 16:00 UTC Friday to 16:00 UTC Sunday. The English pricing page leaves the weekday's timezone off, so implementations written from it read the weekday in UTC and are wrong for sixteen hours a week.
 
-## Every price figure (63)
+## Every price figure (65)
 
 Quoted, not paraphrased: each is the sentence it was published in, with the date it was published. Nothing here is a vendor price sheet — it is what a working developer wrote down about what they paid.
 
@@ -156,6 +156,8 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 - **$4 million** — “Klarna ran that sequence backwards, and the $4 million showed up on the books months before the CSAT number showed up to argue with it.” (2026-08-16) https://xyzs996.github.io/llm-api-pricing/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html
 - **$4 million** — “The company reported $4 million in annual savings after the switch, which is the number that frees up budget for everything else on the roadmap.” (2026-08-16) https://xyzs996.github.io/llm-api-pricing/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html
 - **$4 million** — “This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one.” (2026-08-16) https://xyzs996.github.io/llm-api-pricing/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html
+- **$1,000,000** — “Breaking a $1,000,000 annual revenue goal into a daily intake of $2,777 — eighteen standardized units at $150 a day — is the same discipline applied with a bigger numerator, and it works for the same reason: it converts an ambition into a countable daily event.” (2026-08-22) https://xyzs996.github.io/llm-api-pricing/articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.html
+- **$22,000** — “Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative.” (2026-08-22) https://xyzs996.github.io/llm-api-pricing/articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.html
 - **$1 million** — “The revenue arithmetic behind a $1 million annual target is simple enough to do on a napkin.” (2026-08-11) https://xyzs996.github.io/llm-api-pricing/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html
 - **$150** — “Selling 18 units of a $150 product every day gets you there, and 18 daily sales at a 2.5 percent landing-page conversion rate requires roughly 720 visitors a day.” (2026-08-11) https://xyzs996.github.io/llm-api-pricing/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html
 
@@ -174,12 +176,12 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 ## Topics
 
 - [Indie Development](https://xyzs996.github.io/llm-api-pricing/topics/indie-development.html): 12 write-ups.
-- [Automation Systems](https://xyzs996.github.io/llm-api-pricing/topics/automation-systems.html): 10 write-ups.
+- [Automation Systems](https://xyzs996.github.io/llm-api-pricing/topics/automation-systems.html): 11 write-ups.
 - [SaaS Business](https://xyzs996.github.io/llm-api-pricing/topics/saas-business.html): 9 write-ups.
+- [Niche Market](https://xyzs996.github.io/llm-api-pricing/topics/niche-market.html): 7 write-ups.
 - [AI Costs](https://xyzs996.github.io/llm-api-pricing/topics/ai-costs.html): 6 write-ups.
 - [AI Implementation](https://xyzs996.github.io/llm-api-pricing/topics/ai-implementation.html): 6 write-ups.
 - [Cost Savings](https://xyzs996.github.io/llm-api-pricing/topics/cost-savings.html): 6 write-ups.
-- [Niche Market](https://xyzs996.github.io/llm-api-pricing/topics/niche-market.html): 6 write-ups.
 - [Productivity](https://xyzs996.github.io/llm-api-pricing/topics/productivity.html): 6 write-ups.
 - [AI Features](https://xyzs996.github.io/llm-api-pricing/topics/ai-features.html): 5 write-ups.
 - [AI Programming](https://xyzs996.github.io/llm-api-pricing/topics/ai-programming.html): 5 write-ups.
@@ -228,6 +230,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](https://xyzs996.github.io/llm-api-pricing/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html): Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/38
 - [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](https://xyzs996.github.io/llm-api-pricing/articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.html): Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/39
 - [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](https://xyzs996.github.io/llm-api-pricing/articles/why-stripping-80-of-system-prompts-actually-improved-claude.html): When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/40
+- [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](https://xyzs996.github.io/llm-api-pricing/articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.html): In special-purpose vehicles — tankers, sweepers, the trucks nobody films for fun — one effective sales lead costs somewhere between 100 and 1,000 yuan, and a buyer who actually signs wires a hundre…
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](https://xyzs996.github.io/llm-api-pricing/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html): The videos run about 60 seconds. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/41
 ## Questions answered in full, with the figures behind them
 

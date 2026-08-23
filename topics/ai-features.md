@@ -1,6 +1,6 @@
 # AI Features
 
-5 of the 36 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 37 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **80%** — Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - **40-second** — When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-[All figures, 343 rows](../figures.md)
+[All figures, 358 rows](../figures.md)
 
 ## The write-ups
 
@@ -45,7 +45,7 @@ When the Claude Code team decided to slash 80% of their system prompts, most dev
 
 ---
 
-[All 36 write-ups](../README.md)
+[All 37 write-ups](../README.md)
 
 ---
 

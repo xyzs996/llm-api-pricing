@@ -103,9 +103,9 @@ The future of indie development lies in combining AI tools with human judgment. 
 - [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](ai-agent-loop-engineering-karpathy-s-method-for-5x.md)
 - [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 
-[All 36 write-ups](../README.md)
+[All 37 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 338 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 353 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Automation Systems](../topics/automation-systems.md) · [AI Implementation](../topics/ai-implementation.md) · [Productivity](../topics/productivity.md)
 

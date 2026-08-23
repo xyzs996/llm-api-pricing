@@ -27,39 +27,39 @@ defaults:
   - scope:
       path: "README_CN.md"
     values:
-      description: "这是一份公开数表。36 篇实测笔记里出现过的每一个数 —— 价格、百分比、倍数、token 数、耗时 —— 都抽成一行,每行都附上它原来所在的那句话和发布日期。"
+      description: "这是一份公开数表。37 篇实测笔记里出现过的每一个数 —— 价格、百分比、倍数、token 数、耗时 —— 都抽成一行,每行都附上它原来所在的那句话和发布日期。"
   - scope:
       path: "README_ES.md"
     values:
-      description: "Un conjunto de datos abierto. Cada cifra publicada en 36 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, con la frase completa de la que salió y la fecha de publicación."
+      description: "Un conjunto de datos abierto. Cada cifra publicada en 37 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, con la frase completa de la que salió y la fecha de publicación."
   - scope:
       path: "README_JA.md"
     values:
-      description: "オープンなデータセットです。36 本の実測ノートに出てきた数字 —— 料金、割合、倍率、トークン数、所要時間 —— をすべて 1 行ずつに抜き出し、元の一文と公開日を必ず添えてあります。"
+      description: "オープンなデータセットです。37 本の実測ノートに出てきた数字 —— 料金、割合、倍率、トークン数、所要時間 —— をすべて 1 行ずつに抜き出し、元の一文と公開日を必ず添えてあります。"
   - scope:
       path: "README_KO.md"
     values:
-      description: "공개 데이터셋입니다. 36편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 원래 문장 전체와 게시 날짜를 함께 실었습니다."
+      description: "공개 데이터셋입니다. 37편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 원래 문장 전체와 게시 날짜를 함께 실었습니다."
   - scope:
       path: "README_VI.md"
     values:
-      description: "Một bộ dữ liệu mở. Mọi con số xuất hiện trong 36 ghi chép thực đo — giá, phần trăm, bội số, số token, thời lượng — đều được tách thành một dòng, kèm nguyên câu chứa nó và ngày công bố."
+      description: "Một bộ dữ liệu mở. Mọi con số xuất hiện trong 37 ghi chép thực đo — giá, phần trăm, bội số, số token, thời lượng — đều được tách thành một dòng, kèm nguyên câu chứa nó và ngày công bố."
   - scope:
       path: "README_FR.md"
     values:
-      description: "Un jeu de données ouvert. Chaque chiffre publié dans 36 notes de terrain — prix, pourcentages, multiples, nombres de tokens et durées — extrait en une ligne, avec la phrase entière dont il provient et sa date de publication."
+      description: "Un jeu de données ouvert. Chaque chiffre publié dans 37 notes de terrain — prix, pourcentages, multiples, nombres de tokens et durées — extrait en une ligne, avec la phrase entière dont il provient et sa date de publication."
   - scope:
       path: "README_DE.md"
     values:
-      description: "Ein offener Datensatz. Jede Zahl aus 36 Praxisnotizen — Preise, Prozentsätze, Vielfache, Token-Zahlen und Laufzeiten — als eigene Zeile, mit dem vollständigen Satz, aus dem sie stammt, und dem Veröffentlichungsdatum."
+      description: "Ein offener Datensatz. Jede Zahl aus 37 Praxisnotizen — Preise, Prozentsätze, Vielfache, Token-Zahlen und Laufzeiten — als eigene Zeile, mit dem vollständigen Satz, aus dem sie stammt, und dem Veröffentlichungsdatum."
   - scope:
       path: "README_RU.md"
     values:
-      description: "Открытый набор данных. Каждая цифра из 36 полевых заметок — цены, проценты, кратности, количество токенов и длительности — вынесена в отдельную строку, вместе с полной фразой, откуда она взята, и датой публикации."
+      description: "Открытый набор данных. Каждая цифра из 37 полевых заметок — цены, проценты, кратности, количество токенов и длительности — вынесена в отдельную строку, вместе с полной фразой, откуда она взята, и датой публикации."
   - scope:
       path: "README_ID.md"
     values:
-      description: "Kumpulan data terbuka. Setiap angka dari 36 catatan lapangan — harga, persentase, kelipatan, jumlah token, dan durasi — ditarik menjadi satu baris, lengkap dengan kalimat asalnya dan tanggal terbitnya."
+      description: "Kumpulan data terbuka. Setiap angka dari 37 catatan lapangan — harga, persentase, kelipatan, jumlah token, dan durasi — ditarik menjadi satu baris, lengkap dengan kalimat asalnya dan tanggal terbitnya."
   - scope:
       path: "topics/indie-development.md"
     values:
@@ -67,11 +67,15 @@ defaults:
   - scope:
       path: "topics/automation-systems.md"
     values:
-      description: "The 10 write-ups in these AI coding field notes tagged Automation Systems — each with the figures it cited and the sentence every figure came from."
+      description: "The 11 write-ups in these AI coding field notes tagged Automation Systems — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/saas-business.md"
     values:
       description: "The 9 write-ups in these AI coding field notes tagged SaaS Business — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/niche-market.md"
+    values:
+      description: "The 7 write-ups in these AI coding field notes tagged Niche Market — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/ai-costs.md"
     values:
@@ -84,10 +88,6 @@ defaults:
       path: "topics/cost-savings.md"
     values:
       description: "The 6 write-ups in these AI coding field notes tagged Cost Savings — each with the figures it cited and the sentence every figure came from."
-  - scope:
-      path: "topics/niche-market.md"
-    values:
-      description: "The 6 write-ups in these AI coding field notes tagged Niche Market — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/productivity.md"
     values:
@@ -436,6 +436,14 @@ defaults:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/why-stripping-80-of-system-prompts-actually-improved-claude.png"
       description: "When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks."
       date: "2026-08-20T07:45:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/why-vanity-metrics-kill-ai-startups-700-customers-and-60.png"
+      description: "In special-purpose vehicles — tankers, sweepers, the trucks nobody films for fun — one effective sales lead costs somewhere between 100 and 1,000 yuan, and a buyer who actually signs wires a hundre…"
+      date: "2026-08-22T09:56:00Z"
       seo:
         type: BlogPosting
   - scope:

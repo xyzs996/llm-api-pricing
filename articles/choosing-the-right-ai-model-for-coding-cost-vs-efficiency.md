@@ -86,9 +86,9 @@ When choosing tools and models, developers should also consider the user-profile
 - [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All 36 write-ups](../README.md)
+[All 37 write-ups](../README.md)
 
-The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 324 more, as JSON and CSV.
+The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 339 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Costs](../topics/ai-costs.md) · [Development Tools](../topics/development-tools.md) · [Code Review](../topics/code-review.md)
 

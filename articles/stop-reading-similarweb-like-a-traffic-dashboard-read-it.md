@@ -97,9 +97,9 @@ Either way you spent an afternoon instead of a quarter, and you have data instea
 - [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](ai-generated-local-business-websites-don-t-rent-for-3-000.md)
 - [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
-[All 36 write-ups](../README.md)
+[All 37 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 338 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 353 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Niche Market](../topics/niche-market.md) · [AI Tools](../topics/ai-tools.md)
 

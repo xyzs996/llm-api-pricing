@@ -1,19 +1,19 @@
 # Automation Systems
 
-10 of the 36 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+11 of the 37 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$22,000** — Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative. [→](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
+- **$1,000,000** — Breaking a $1,000,000 annual revenue goal into a daily intake of $2,777 — eighteen standardized units at $150 a day — is the same discipline applied with a bigger numerator, and it works for the same reason: it converts an ambition into a countable daily event. [→](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 - **90%** — 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. [→](../articles/best-practices-for-ai-agent-skill-management.md)
 - **90%** — 90% of beginners fixate on tools (e.g., Pi's 4 default tools: read/write/edit/bash) instead of defining clear task boundaries. [→](../articles/best-practices-for-ai-agent-skill-management.md)
 - **5 minutes** — WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 - **40 seconds** — By using an AI agent to automate responses, negotiation, and price adjustment, the average response time can be reduced to within 40 seconds. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 - **$10,000** — Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. [→](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 - **70%** — Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF data extraction to PPT report generation, cutting document processing time by 70%. [→](../articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
-- **2 hours** — One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. [→](../articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
-- **$63,000** — Jordan's Resellbot started as 30 lines of JavaScript written because his partner was manually reposting listings every day, and it now runs at roughly $63,000 a month, which probably says more about picking a visible problem than about any distribution tactic. [→](../articles/58-million-plays-started-with-one-account-not-four.md)
 
-[All figures, 343 rows](../figures.md)
+[All figures, 358 rows](../figures.md)
 
 ## The write-ups
 
@@ -77,9 +77,13 @@ Klarna's AI customer service experiment, which replaced 700 human agents, initia
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/35)
 
+### [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
+
+In special-purpose vehicles — tankers, sweepers, the trucks nobody films for fun — one effective sales lead costs somewhere between 100 and 1,000 yuan, and a buyer who actually signs wires a hundre…
+
 ---
 
-[All 36 write-ups](../README.md)
+[All 37 write-ups](../README.md)
 
 ---
 

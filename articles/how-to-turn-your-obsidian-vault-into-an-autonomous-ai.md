@@ -63,9 +63,9 @@ Skip this entirely if what you want is income that arrives on a schedule. Freela
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
 
-[All 36 write-ups](../README.md)
+[All 37 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 341 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 356 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Cost Savings](../topics/cost-savings.md) · [AI Features](../topics/ai-features.md)
 

@@ -71,9 +71,9 @@ The takeaway from the 27 cases is not that you should use all five. It is that t
 - [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
 - [The First Line of Defense in AI Programming: Environment Variable Management](the-first-line-of-defense-in-ai-programming-environment.md)
 
-[All 36 write-ups](../README.md)
+[All 37 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 329 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 344 more, as JSON and CSV.
 
 Topics: [Micro SaaS](../topics/micro-saas.md)
 
