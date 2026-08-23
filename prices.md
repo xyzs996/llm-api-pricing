@@ -119,6 +119,12 @@ The empty cells are not an oversight — they are the models nobody
 here has written about yet, which is also the honest answer to which
 one to write about next.
 
+## Put your own numbers in
+
+Everything above is a rate card, read on one date. The three things that actually decide your bill — which side of a vendor's clock the call lands on, whether the prompt crosses a long-context threshold, and what share of your tokens are cache reads — depend on your usage, and no price column can carry them.
+
+[The same table, as a calculator](https://xyzs996.github.io/llm-cost-calculator/) — one page, nothing to install, no account. It reads the JSON linked above, so it is never a day behind this table: it resolves the clock for the moment you are asking, applies the cliff to the request you describe instead of quoting the row, and lets you replace the cache-read share assumed above with the one your own logs say.
+
 ---
 
 **Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — it is what puts these in front of the next person looking; the data is CC BY and does not require starring.
