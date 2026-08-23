@@ -167,6 +167,8 @@ Two of the nine pass everything they can run, and both encode something the pric
 
 If a transcription is wrong, that is a bug in the harness and not a finding about anyone's project — say so and it gets fixed and re-run. Each of the seven has an issue open on its own tracker with its failing instants and a patch in its own language; the table follows the vectors, so a row moves when the code does.
 
+That table is kept current in the open, one row per project, each linked to its own tracker: [the scoreboard](https://github.com/xyzs996/deepseek-peak-hours/issues/1). If you maintain one of the nine and have fixed it, or think the transcription of your code is wrong, or think a vector's expectation is wrong — that is the thread. It is the only place on this page where you can answer back, which is the point.
+
 The daily price table these rates sit in, re-read every day: [the full catalog](https://xyzs996.github.io/llm-api-pricing/prices.html).
 
 ## If you came here because the bill surprised you
