@@ -1,6 +1,6 @@
 # Niche Market
 
-9 of the 46 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 49 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **40-second** — When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - **40-second** — The 40-second number I cannot check. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-[All figures, 404 rows](../figures.md)
+[All figures, 405 rows](../figures.md)
 
 ## The write-ups
 
@@ -23,11 +23,9 @@
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14)
 
-### [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
+### [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 
 You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/17)
 
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
@@ -67,7 +65,7 @@ In special-purpose vehicles — tankers, sweepers, the trucks nobody films for f
 
 ---
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
 ---
 

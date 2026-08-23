@@ -124,11 +124,11 @@ Independent developers can validate product demand quickly by creating a Minimum
 
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
-- [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](ai-generated-local-business-websites-don-t-rent-for-3-000.md)
+- [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 393 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 394 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Micro SaaS](../topics/micro-saas.md)
 

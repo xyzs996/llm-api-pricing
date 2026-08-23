@@ -168,11 +168,11 @@ Loop engineering offers several key advantages.
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 - [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
-The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 391 more, as JSON and CSV.
+The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 392 more, as JSON and CSV.
 
-Topics: [Automation Systems](../topics/automation-systems.md) · [Indie Development](../topics/indie-development.md)
+Topics: [Indie Development](../topics/indie-development.md) · [Automation Systems](../topics/automation-systems.md)
 
 
 ---

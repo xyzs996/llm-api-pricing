@@ -1,6 +1,6 @@
 # Enterprise Automation
 
-3 of the 46 write-ups here are tagged Enterprise Automation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 49 write-ups here are tagged Enterprise Automation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -11,7 +11,7 @@
 - **70%** — The 70% figure is real for the finance analyst pulling numbers across four applications, and it is close to meaningless for the person maintaining a service, because their bottleneck was never the typing. [→](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 - **70%** — Meanwhile ChatGPT Work saves non-technical staff up to 70% of their time on cross-application tasks, and those same people would get nothing out of an IDE. [→](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
-[All figures, 404 rows](../figures.md)
+[All figures, 405 rows](../figures.md)
 
 ## The write-ups
 
@@ -33,7 +33,7 @@ Klarna's AI customer service experiment, which replaced 700 human agents, initia
 
 ---
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Indie Development
 
-15 of the 46 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+16 of the 49 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All figures, 404 rows](../figures.md)
+[All figures, 405 rows](../figures.md)
 
 ## The write-ups
 
@@ -83,6 +83,10 @@ Chris launched WiseMindAI last year and came out of a single session with Miora'
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32)
 
+### [When the AI Picks for the Customer, You Become a Supplier](../articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
+
+Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you.
+
 ### [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](../articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 
 Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it.
@@ -103,7 +107,7 @@ The videos run about 60 seconds.
 
 ---
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
 ---
 

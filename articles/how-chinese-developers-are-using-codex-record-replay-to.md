@@ -87,9 +87,9 @@ That last habit is the one I'd argue matters most, and it is the one nobody sets
 - [How to Build a Micro-SaaS Without Spending a Dime on Ads](how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 - [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
-The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 398 more, as JSON and CSV.
+The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 399 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Chinese AI](../topics/chinese-ai.md)
 

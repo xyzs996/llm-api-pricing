@@ -68,14 +68,14 @@ The figures in this piece all come from operators reporting on themselves, and n
 **Read next**
 
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
+- [When the AI Picks for the Customer, You Become a Supplier](when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
 - [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](how-indie-developers-are-building-ai-powered-digital.md)
-- [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 402 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 403 more, as JSON and CSV.
 
-Topics: [Indie Development](../topics/indie-development.md) · [Niche Market](../topics/niche-market.md)
+Topics: [Indie Development](../topics/indie-development.md) · [Niche Market](../topics/niche-market.md) · [Automation](../topics/automation.md)
 
 
 ---

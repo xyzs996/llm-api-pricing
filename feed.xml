@@ -206,6 +206,14 @@
     <summary>Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…</summary>
   </entry>
   <entry>
+    <title>When the AI Picks for the Customer, You Become a Supplier</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.html</id>
+    <updated>2026-08-15T10:08:00Z</updated>
+    <published>2026-08-15T10:08:00Z</published>
+    <summary>Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you.</summary>
+  </entry>
+  <entry>
     <title>A 30-Line Script, 200 Users, and a Niche Nobody Wanted</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html"/>
     <id>https://xyzs996.github.io/llm-api-pricing/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html</id>
@@ -262,12 +270,28 @@
     <summary>"Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option."</summary>
   </entry>
   <entry>
+    <title>Your Agent Writes Code Faster Than Anyone Can Review It</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/your-agent-writes-code-faster-than-anyone-can-review-it.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/your-agent-writes-code-faster-than-anyone-can-review-it.html</id>
+    <updated>2026-08-11T11:57:00Z</updated>
+    <published>2026-08-11T11:57:00Z</published>
+    <summary>The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it.</summary>
+  </entry>
+  <entry>
     <title>Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html"/>
     <id>https://xyzs996.github.io/llm-api-pricing/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html</id>
     <updated>2026-08-11T09:42:00Z</updated>
     <published>2026-08-11T09:42:00Z</published>
     <summary>The videos run about 60 seconds.</summary>
+  </entry>
+  <entry>
+    <title>Your AI Coding Bill Scales With Your Repo, Not Your Output</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.html</id>
+    <updated>2026-08-11T08:01:00Z</updated>
+    <published>2026-08-11T08:01:00Z</published>
+    <summary>Most people budgeting for a coding assistant reason about it the way they reason about a printer, as though the cost tracked how much comes out.</summary>
   </entry>
   <entry>
     <title>The Cost-Effective Guide to Using Open Code Review for AI Programming Tools</title>
@@ -286,9 +310,9 @@
     <summary>Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading…</summary>
   </entry>
   <entry>
-    <title>AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)</title>
-    <link href="https://xyzs996.github.io/llm-api-pricing/articles/ai-generated-local-business-websites-don-t-rent-for-3-000.html"/>
-    <id>https://xyzs996.github.io/llm-api-pricing/articles/ai-generated-local-business-websites-don-t-rent-for-3-000.html</id>
+    <title>AI Local Websites Don’t Rent for $3K/Month—Until You Do This</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.html</id>
     <updated>2026-08-10T09:46:00Z</updated>
     <published>2026-08-10T09:46:00Z</published>
     <summary>You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.</summary>

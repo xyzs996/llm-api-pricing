@@ -27,47 +27,47 @@ defaults:
   - scope:
       path: "README_CN.md"
     values:
-      description: "这是一份公开数表。46 篇实测笔记里出现过的每一个数 —— 价格、百分比、倍数、token 数、耗时 —— 都抽成一行,每行都附上它原来所在的那句话和发布日期。"
+      description: "这是一份公开数表。49 篇实测笔记里出现过的每一个数 —— 价格、百分比、倍数、token 数、耗时 —— 都抽成一行,每行都附上它原来所在的那句话和发布日期。"
   - scope:
       path: "README_ES.md"
     values:
-      description: "Un conjunto de datos abierto. Cada cifra publicada en 46 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, con la frase completa de la que salió y la fecha de publicación."
+      description: "Un conjunto de datos abierto. Cada cifra publicada en 49 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, con la frase completa de la que salió y la fecha de publicación."
   - scope:
       path: "README_JA.md"
     values:
-      description: "オープンなデータセットです。46 本の実測ノートに出てきた数字 —— 料金、割合、倍率、トークン数、所要時間 —— をすべて 1 行ずつに抜き出し、元の一文と公開日を必ず添えてあります。"
+      description: "オープンなデータセットです。49 本の実測ノートに出てきた数字 —— 料金、割合、倍率、トークン数、所要時間 —— をすべて 1 行ずつに抜き出し、元の一文と公開日を必ず添えてあります。"
   - scope:
       path: "README_KO.md"
     values:
-      description: "공개 데이터셋입니다. 46편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 원래 문장 전체와 게시 날짜를 함께 실었습니다."
+      description: "공개 데이터셋입니다. 49편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 원래 문장 전체와 게시 날짜를 함께 실었습니다."
   - scope:
       path: "README_VI.md"
     values:
-      description: "Một bộ dữ liệu mở. Mọi con số xuất hiện trong 46 ghi chép thực đo — giá, phần trăm, bội số, số token, thời lượng — đều được tách thành một dòng, kèm nguyên câu chứa nó và ngày công bố."
+      description: "Một bộ dữ liệu mở. Mọi con số xuất hiện trong 49 ghi chép thực đo — giá, phần trăm, bội số, số token, thời lượng — đều được tách thành một dòng, kèm nguyên câu chứa nó và ngày công bố."
   - scope:
       path: "README_FR.md"
     values:
-      description: "Un jeu de données ouvert. Chaque chiffre publié dans 46 notes de terrain — prix, pourcentages, multiples, nombres de tokens et durées — extrait en une ligne, avec la phrase entière dont il provient et sa date de publication."
+      description: "Un jeu de données ouvert. Chaque chiffre publié dans 49 notes de terrain — prix, pourcentages, multiples, nombres de tokens et durées — extrait en une ligne, avec la phrase entière dont il provient et sa date de publication."
   - scope:
       path: "README_DE.md"
     values:
-      description: "Ein offener Datensatz. Jede Zahl aus 46 Praxisnotizen — Preise, Prozentsätze, Vielfache, Token-Zahlen und Laufzeiten — als eigene Zeile, mit dem vollständigen Satz, aus dem sie stammt, und dem Veröffentlichungsdatum."
+      description: "Ein offener Datensatz. Jede Zahl aus 49 Praxisnotizen — Preise, Prozentsätze, Vielfache, Token-Zahlen und Laufzeiten — als eigene Zeile, mit dem vollständigen Satz, aus dem sie stammt, und dem Veröffentlichungsdatum."
   - scope:
       path: "README_RU.md"
     values:
-      description: "Открытый набор данных. Каждая цифра из 46 полевых заметок — цены, проценты, кратности, количество токенов и длительности — вынесена в отдельную строку, вместе с полной фразой, откуда она взята, и датой публикации."
+      description: "Открытый набор данных. Каждая цифра из 49 полевых заметок — цены, проценты, кратности, количество токенов и длительности — вынесена в отдельную строку, вместе с полной фразой, откуда она взята, и датой публикации."
   - scope:
       path: "README_ID.md"
     values:
-      description: "Kumpulan data terbuka. Setiap angka dari 46 catatan lapangan — harga, persentase, kelipatan, jumlah token, dan durasi — ditarik menjadi satu baris, lengkap dengan kalimat asalnya dan tanggal terbitnya."
+      description: "Kumpulan data terbuka. Setiap angka dari 49 catatan lapangan — harga, persentase, kelipatan, jumlah token, dan durasi — ditarik menjadi satu baris, lengkap dengan kalimat asalnya dan tanggal terbitnya."
+  - scope:
+      path: "topics/indie-development.md"
+    values:
+      description: "The 16 write-ups in these AI coding field notes tagged Indie Development — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/automation-systems.md"
     values:
       description: "The 15 write-ups in these AI coding field notes tagged Automation Systems — each with the figures it cited and the sentence every figure came from."
-  - scope:
-      path: "topics/indie-development.md"
-    values:
-      description: "The 15 write-ups in these AI coding field notes tagged Indie Development — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/saas-business.md"
     values:
@@ -85,6 +85,10 @@ defaults:
     values:
       description: "The 8 write-ups in these AI coding field notes tagged AI Costs — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "topics/artificial-intelligence.md"
+    values:
+      description: "The 7 write-ups in these AI coding field notes tagged Artificial Intelligence — each with the figures it cited and the sentence every figure came from."
+  - scope:
       path: "topics/productivity.md"
     values:
       description: "The 7 write-ups in these AI coding field notes tagged Productivity — each with the figures it cited and the sentence every figure came from."
@@ -101,10 +105,6 @@ defaults:
     values:
       description: "The 5 write-ups in these AI coding field notes tagged AI Features — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/artificial-intelligence.md"
-    values:
-      description: "The 5 write-ups in these AI coding field notes tagged Artificial Intelligence — each with the figures it cited and the sentence every figure came from."
-  - scope:
       path: "topics/chinese-ai.md"
     values:
       description: "The 5 write-ups in these AI coding field notes tagged Chinese AI — each with the figures it cited and the sentence every figure came from."
@@ -113,6 +113,10 @@ defaults:
     values:
       description: "The 5 write-ups in these AI coding field notes tagged Development Tools — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "topics/ai.md"
+    values:
+      description: "The 4 write-ups in these AI coding field notes tagged AI — each with the figures it cited and the sentence every figure came from."
+  - scope:
       path: "topics/revenue-growth.md"
     values:
       description: "The 4 write-ups in these AI coding field notes tagged Revenue Growth — each with the figures it cited and the sentence every figure came from."
@@ -120,6 +124,10 @@ defaults:
       path: "topics/ai-tools.md"
     values:
       description: "The 3 write-ups in these AI coding field notes tagged AI Tools — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/automation.md"
+    values:
+      description: "The 3 write-ups in these AI coding field notes tagged Automation — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/code-review.md"
     values:
@@ -219,6 +227,14 @@ defaults:
       seo:
         type: BlogPosting
   - scope:
+      path: "articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.png"
+      description: "You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income."
+      date: "2026-08-10T09:46:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
       path: "articles/ai-programming-tool-selection-strategy-from-rapid.md"
     values:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-programming-tool-selection-strategy-from-rapid.png"
@@ -232,14 +248,6 @@ defaults:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-took-over-my-coding-what-broke-was-how-i-learn.png"
       description: "One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking."
       date: "2026-08-13T11:30:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-generated-local-business-websites-don-t-rent-for-3-000.png"
-      description: "You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income."
-      date: "2026-08-10T09:46:00Z"
       seo:
         type: BlogPosting
   - scope:
@@ -499,6 +507,14 @@ defaults:
       seo:
         type: BlogPosting
   - scope:
+      path: "articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/when-the-ai-picks-for-the-customer-you-become-a-supplier.png"
+      description: "Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you."
+      date: "2026-08-15T10:08:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
       path: "articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md"
     values:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.png"
@@ -536,5 +552,21 @@ defaults:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/why-your-indie-app-needs-short-form-video-marketing-and-how.png"
       description: "The videos run about 60 seconds."
       date: "2026-08-11T09:42:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/your-ai-coding-bill-scales-with-your-repo-not-your-output.png"
+      description: "Most people budgeting for a coding assistant reason about it the way they reason about a printer, as though the cost tracked how much comes out."
+      date: "2026-08-11T08:01:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/your-agent-writes-code-faster-than-anyone-can-review-it.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/your-agent-writes-code-faster-than-anyone-can-review-it.png"
+      description: "The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it."
+      date: "2026-08-11T11:57:00Z"
       seo:
         type: BlogPosting

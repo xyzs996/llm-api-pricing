@@ -63,15 +63,15 @@ What I would take from all of this is narrower than the headlines suggest: stop 
 
 **Read next**
 
+- [Your Agent Writes Code Faster Than Anyone Can Review It](your-agent-writes-code-faster-than-anyone-can-review-it.md)
+- [Your AI Coding Bill Scales With Your Repo, Not Your Output](your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
-- [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
-- [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
-The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 389 more, as JSON and CSV.
+The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 390 more, as JSON and CSV.
 
-Topics: [Artificial Intelligence](../topics/artificial-intelligence.md)
+Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [AI](../topics/ai.md)
 
 
 ---

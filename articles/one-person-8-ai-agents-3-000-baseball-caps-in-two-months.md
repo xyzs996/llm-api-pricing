@@ -68,12 +68,12 @@ If you have the domain knowledge, the relay structure is worth building and the 
 **Read next**
 
 - [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
-- [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](ai-generated-local-business-websites-don-t-rent-for-3-000.md)
+- [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 - [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](charge-per-conversation-not-per-seat-the-billing-model.md)
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 397 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 398 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Niche Market](../topics/niche-market.md) · [Revenue Growth](../topics/revenue-growth.md)
 

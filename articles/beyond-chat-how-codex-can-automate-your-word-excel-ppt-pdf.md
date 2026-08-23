@@ -98,9 +98,9 @@ For independent developers using Codex for document automation, the cost is a sm
 - [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](charge-per-conversation-not-per-seat-the-billing-model.md)
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 401 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 402 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [AI Programming](../topics/ai-programming.md)
 

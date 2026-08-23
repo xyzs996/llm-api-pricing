@@ -65,9 +65,9 @@ None of that requires the agent to be clever. It requires the task to be bounded
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
 - [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 401 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 402 more, as JSON and CSV.
 
 Topics: [AI Implementation](../topics/ai-implementation.md) · [AI Programming](../topics/ai-programming.md)
 

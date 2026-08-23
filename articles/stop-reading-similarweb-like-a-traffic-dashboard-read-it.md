@@ -94,12 +94,12 @@ Either way you spent an afternoon instead of a quarter, and you have data instea
 **Read next**
 
 - [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
-- [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](ai-generated-local-business-websites-don-t-rent-for-3-000.md)
+- [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 - [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 399 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 400 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Niche Market](../topics/niche-market.md) · [AI Tools](../topics/ai-tools.md)
 

@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-5 of the 46 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 49 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$1.25** — Meta's Muse Spark 1.1 agent model API is priced at $1.25 per million input tokens and $4.25 per million output tokens — roughly 75% and 83% below Anthropic Opus on input and output respectively — and the target is explicit: become the cheap entry point for agent workflows and pull developers into the ecosystem. [→](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 - **$0.19** — The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as low as $0.19 per million tokens against $5 to $12 for comparable American offerings, which is not a discount so much as a different category of product. [→](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 
-[All figures, 404 rows](../figures.md)
+[All figures, 405 rows](../figures.md)
 
 ## The write-ups
 
@@ -45,9 +45,17 @@ On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/36)
 
+### [Your AI Coding Bill Scales With Your Repo, Not Your Output](../articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
+
+Most people budgeting for a coding assistant reason about it the way they reason about a printer, as though the cost tracked how much comes out.
+
+### [Your Agent Writes Code Faster Than Anyone Can Review It](../articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
+
+The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it.
+
 ---
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
 ---
 

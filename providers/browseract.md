@@ -1,6 +1,6 @@
 # BrowserAct costs and claims: every figure from a sentence that names it
 
-11 of the 404 figures in these field notes come from a sentence that names BrowserAct. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+11 of the 405 figures in these field notes come from a sentence that names BrowserAct. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about BrowserAct and some only measure against it — a competitor's price quoted next to BrowserAct's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -16,16 +16,16 @@ Some of these are about BrowserAct and some only measure against it — a compet
 - **5 minutes** — “Pairing WorkBuddy with BrowserAct gets a competitor pricing table in roughly 5 minutes and a product-opportunity report in about 7; a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, which leaves room for around 10 research runs daily before money enters the conversation at all.” (2026-08-13) [→](../articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
 - **5 minutes** — “Pairing WorkBuddy with BrowserAct produces a competitive pricing table in about 5 minutes and a product opportunity report in about 7, which is the difference between researching a niche and researching twelve.” (2026-08-12) [→](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 - **5 minutes** — “WorkBuddy and BrowserAct together generate a complete competitor price list in about 5 minutes and a product opportunity report in about 7, which replaces the browser-tab afternoon that most solo developers either do badly or skip entirely.” (2026-08-11) [→](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
-- **7 minutes** — “Similarly, WorkBuddy and BrowserAct can automate competitor price tracking and generate product opportunity reports in under 7 minutes — something to put in front of a skeptical client while the sandbox clock runs.” (2026-08-10) [→](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
+- **7 minutes** — “Similarly, WorkBuddy and BrowserAct can automate competitor price tracking and generate product opportunity reports in under 7 minutes — something to put in front of a skeptical client while the sandbox clock runs.” (2026-08-10) [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 - **5 minutes** — “WorkBuddy paired with BrowserAct produces a competitor pricing table in about 5 minutes and a product-opportunity report in about 7, and a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, so the first 10 experiments cost attention rather than money.” (2026-08-08) [→](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 - **5 minutes** — “The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All 404 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 405 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
 ## Where these 11 came from
 
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14)
-- [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/17)
+- [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 - [Best Practices for AI Agent Skill Management](../articles/best-practices-for-ai-agent-skill-management.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18)
 - [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/24)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10)

@@ -5,7 +5,7 @@
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-46 write-ups on what those bills looked like in production.
+49 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (60 models)
 
@@ -51,9 +51,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (404 rows)
+## The figures, as data (405 rows)
 
-Every figure published across the 46 write-ups —
+Every figure published across the 49 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -76,7 +76,7 @@ recent write-ups — quoted verbatim, not summarised:
 | `$1,000` | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. | [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](articles/how-indie-developers-are-building-ai-powered-digital.md) |
 | `40-second` | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. | [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md) |
 
-[All 404 rows](figures.md) — or as data:
+[All 405 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -139,7 +139,7 @@ write-ups land there first.
 
 **By provider.** [GPT-5.6](providers/gpt-5-6.md) (19) · [Klarna](providers/klarna.md) (12) · [WorkBuddy](providers/workbuddy.md) (12) · [BrowserAct](providers/browseract.md) (11) · [Claude](providers/claude.md) (11) · [Fable 5](providers/fable-5.md) (7) · [ChatGPT](providers/chatgpt.md) (4) · [GPT-5](providers/gpt-5.md) (4) — every figure whose sentence names it, with the date.
 
-**By topic.** [Automation Systems](topics/automation-systems.md) (15) · [Indie Development](topics/indie-development.md) (15) · [SaaS Business](topics/saas-business.md) (10) · [AI Implementation](topics/ai-implementation.md) (9) · [Niche Market](topics/niche-market.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [Productivity](topics/productivity.md) (7) · [AI Programming](topics/ai-programming.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Features](topics/ai-features.md) (5) · [Artificial Intelligence](topics/artificial-intelligence.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Revenue Growth](topics/revenue-growth.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Code Review](topics/code-review.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (16) · [Automation Systems](topics/automation-systems.md) (15) · [SaaS Business](topics/saas-business.md) (10) · [AI Implementation](topics/ai-implementation.md) (9) · [Niche Market](topics/niche-market.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [Artificial Intelligence](topics/artificial-intelligence.md) (7) · [Productivity](topics/productivity.md) (7) · [AI Programming](topics/ai-programming.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Features](topics/ai-features.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Development Tools](topics/development-tools.md) (5) · [AI](topics/ai.md) (4) · [Revenue Growth](topics/revenue-growth.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Automation](topics/automation.md) (3) · [Code Review](topics/code-review.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -179,6 +179,12 @@ A developer in China’s AI community achieved 5x productivity gains using loop 
 
 `Enterprise AI` `Developer Tools` `Automation Systems` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/15)
 
+### [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
+
+You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
+
+`AI Tools` `Local SEO` `Niche Market` `Revenue Growth`
+
 ### [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
 A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens.
@@ -190,12 +196,6 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking.
 
 `AI Implementation` `AI Costs` `Chinese AI` `Indie Development`
-
-### [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
-
-You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
-
-`AI Tools` `Local SEO` `Niche Market` `Revenue Growth` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/17)
 
 ### [Best Practices for AI Agent Skill Management](articles/best-practices-for-ai-agent-skill-management.md)
 
@@ -389,6 +389,12 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 
 `AI Implementation` `AI Costs` `Niche Market` `Profitable Business` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/38)
 
+### [When the AI Picks for the Customer, You Become a Supplier](articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
+
+Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you.
+
+`Automation` `Indie Development` `AI Branding` `Merchants`
+
 ### [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 
 Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it.
@@ -418,6 +424,18 @@ One developer logged token consumption across the first three days of an agent-d
 The videos run about 60 seconds.
 
 `Productivity` `Content Creation` `Indie Development` `Short Form Video` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/41)
+
+### [Your AI Coding Bill Scales With Your Repo, Not Your Output](articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
+
+Most people budgeting for a coding assistant reason about it the way they reason about a printer, as though the cost tracked how much comes out.
+
+`AI` `Artificial Intelligence` `Programming` `Software Engineering`
+
+### [Your Agent Writes Code Faster Than Anyone Can Review It](articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
+
+The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it.
+
+`AI` `Artificial Intelligence` `Startup` `Programming`
 
 ## Related
 

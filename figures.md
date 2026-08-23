@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-404 figures pulled out of 45 write-ups in
+405 figures pulled out of 46 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -181,25 +181,7 @@ Published 2026-08-09.
 | `48%` | percent | The retention rate improved from 20% to 35%, with natural search traffic accounting for 48% and user sessions making up 88% of the total. |
 | `88%` | percent | The retention rate improved from 20% to 35%, with natural search traffic accounting for 48% and user sessions making up 88% of the total. |
 
-## [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](https://xyzs996.github.io/llm-api-pricing/articles/ai-programming-tool-selection-strategy-from-rapid.html)
-
-Published 2026-08-07.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `70%` | percent | Meanwhile ChatGPT Work saves non-technical staff up to 70% of their time on cross-application tasks, and those same people would get nothing out of an IDE. |
-| `70%` | percent | They need the 70% time saving, and they need it without a repository. |
-| `70%` | percent | The 70% figure is real for the finance analyst pulling numbers across four applications, and it is close to meaningless for the person maintaining a service, because their bottleneck was never the typing. |
-
-## [AI Took Over My Coding. What Broke Was How I Learn.](https://xyzs996.github.io/llm-api-pricing/articles/ai-took-over-my-coding-what-broke-was-how-i-learn.html)
-
-Published 2026-08-13.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `$40 million` per year | price | Klarna replaced roughly 700 support agents with an AI assistant in early 2024, claimed about $40 million a year, and a bit over a year later the same CEO said they had overshot and started hiring back. |
-
-## [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](https://xyzs996.github.io/llm-api-pricing/articles/ai-generated-local-business-websites-don-t-rent-for-3-000.html)
+## [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](https://xyzs996.github.io/llm-api-pricing/articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.html)
 
 Published 2026-08-10.
 
@@ -220,6 +202,24 @@ Published 2026-08-10.
 | `$3,000` | price | If more than five paid ads appear above the organic results, the cost per lead will outstrip your $500–$3,000 margin. |
 | `$0` | price | Outreach: $0 if you send the emails yourself; a monthly fee once you automate with Lemlist |
 | `2 hours` | duration | - Month 4+: 2 hours/week for maintenance |
+
+## [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](https://xyzs996.github.io/llm-api-pricing/articles/ai-programming-tool-selection-strategy-from-rapid.html)
+
+Published 2026-08-07.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `70%` | percent | Meanwhile ChatGPT Work saves non-technical staff up to 70% of their time on cross-application tasks, and those same people would get nothing out of an IDE. |
+| `70%` | percent | They need the 70% time saving, and they need it without a repository. |
+| `70%` | percent | The 70% figure is real for the finance analyst pulling numbers across four applications, and it is close to meaningless for the person maintaining a service, because their bottleneck was never the typing. |
+
+## [AI Took Over My Coding. What Broke Was How I Learn.](https://xyzs996.github.io/llm-api-pricing/articles/ai-took-over-my-coding-what-broke-was-how-i-learn.html)
+
+Published 2026-08-13.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$40 million` per year | price | Klarna replaced roughly 700 support agents with an AI assistant in early 2024, claimed about $40 million a year, and a bit over a year later the same CEO said they had overshot and started hiring back. |
 
 ## [Best Practices for AI Agent Skill Management](https://xyzs996.github.io/llm-api-pricing/articles/best-practices-for-ai-agent-skill-management.html)
 
@@ -677,6 +677,14 @@ Published 2026-08-16.
 | `10%` | percent | Klarna's 10% and 18% are exactly those two counters, and they are the only numbers in this story that would have predicted the rehiring before it happened. |
 | `18%` | percent | Klarna's 10% and 18% are exactly those two counters, and they are the only numbers in this story that would have predicted the rehiring before it happened. |
 
+## [When the AI Picks for the Customer, You Become a Supplier](https://xyzs996.github.io/llm-api-pricing/articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.html)
+
+Published 2026-08-15.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `15 minutes` | duration | "Order hot or iced coffee for pickup within 15 minutes, 7 a.m. to 8 p.m., at 3 locations in this district, with member pricing applied at checkout" matches a request, and it also happens to tell the assistant that member pricing exists, which is how a brand agent like the one Luckin Coffee and KFC connected to keeps its loyalty economics visible instead of getting flattened into a generic listing. |
+
 ## [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](https://xyzs996.github.io/llm-api-pricing/articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.html)
 
 Published 2026-08-17.
@@ -774,5 +782,5 @@ Published 2026-08-11.
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "404 figures pulled out of 45 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "405 figures pulled out of 46 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
 </script>

@@ -66,12 +66,14 @@ What I would take from the model regardless is the ordering. Choose the pair bef
 **Read next**
 
 - [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](the-token-cost-war-why-price-per-million-tokens-now-decides.md)
-- [58 Million Plays Started With One Account, Not Four](58-million-plays-started-with-one-account-not-four.md)
-- [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
+- [Your AI Coding Bill Scales With Your Repo, Not Your Output](your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
+- [Your Agent Writes Code Faster Than Anyone Can Review It](your-agent-writes-code-faster-than-anyone-can-review-it.md)
 
-[All 46 write-ups](../README.md)
+[All 49 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 397 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 398 more, as JSON and CSV.
+
+Topics: [AI](../topics/ai.md)
 
 
 ---
