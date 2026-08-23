@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/20) — that copy has a reply box under it, and this one does not.*
+
 Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requires, not from the price per token. That is the whole argument in one line. The number on the landing page is the smallest of the two variables you are actually paying for.
 
 Here is what thinking depth costs in practice, why project context rather than generated code drives most of the bill, and what the $1-per-million tier tells you about where this market is heading.
@@ -84,6 +86,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** the claim is that thinking depth drives most of the cost gap, and almost nobody checks their own split. Off the top of your head: is your bill mostly context you resend, or output you generate? Reply with a guess and say it's a guess. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/20).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fai-model-costs-beyond-per-token-pricing.md). One required field, and the page you came from is already filled

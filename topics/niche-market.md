@@ -33,6 +33,8 @@ You can build AI-generated local business websites, rent them to plumbers or den
 
 The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
+
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 A six-hour Chrome extension pays $400 a month.

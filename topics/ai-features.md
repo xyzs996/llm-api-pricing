@@ -27,6 +27,8 @@ Managing AI Agent skills is not merely about tools; it's about designing workflo
 
 Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59)
+
 ### [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
 Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…

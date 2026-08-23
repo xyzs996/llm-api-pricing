@@ -189,7 +189,7 @@ You can build AI-generated local business websites, rent them to plumbers or den
 
 Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
 
-`AI Systems` `AI Implementation` `AI Pricing` `Indie Development`
+`AI Systems` `AI Implementation` `AI Pricing` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20)
 
 ### [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
@@ -201,7 +201,7 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
 
-`Automation` `Passive Income` `Niche Market` `Indie Development`
+`Automation` `Passive Income` `Niche Market` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
 
 ### [AI Took Over My Coding. What Broke Was How I Learn.](articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 
@@ -243,7 +243,7 @@ Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in R
 
 Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
 
-`Technology` `Productivity` `SaaS Business` `AI Features`
+`Technology` `Productivity` `SaaS Business` `AI Features` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59)
 
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
@@ -303,7 +303,7 @@ Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 
 
 The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…
 
-`AI` `Digital Marketing` `Entrepreneurship` `Content Marketing`
+`AI` `Digital Marketing` `Entrepreneurship` `Content Marketing` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/61)
 
 ### [Sell It Before You Build It: How Indie Devs Validate AI Products](articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 

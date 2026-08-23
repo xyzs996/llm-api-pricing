@@ -27,6 +27,8 @@ Managing AI Agent skills is not merely about tools; it's about designing workflo
 
 Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59)
+
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 A six-hour Chrome extension pays $400 a month.

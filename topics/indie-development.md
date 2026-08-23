@@ -33,9 +33,13 @@ A developer in China’s AI community achieved 5x productivity gains using loop 
 
 Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20)
+
 ### [AI Side Hustle: Stop Selling Hours, Start Selling Plans](../articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md)
 
 The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
 
 ### [AI Took Over My Coding. What Broke Was How I Learn.](../articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 

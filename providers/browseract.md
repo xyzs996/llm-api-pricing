@@ -26,7 +26,7 @@ Some of these are about BrowserAct and some only measure against it — a compet
 
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14)
 - [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57)
-- [AI Side Hustle: Stop Selling Hours, Start Selling Plans](../articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md)
+- [AI Side Hustle: Stop Selling Hours, Start Selling Plans](../articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
 - [Best Practices for AI Agent Skill Management](../articles/best-practices-for-ai-agent-skill-management.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18)
 - [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/24)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10)
