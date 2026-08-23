@@ -136,6 +136,37 @@ One finding did not fit any of the four. In one project the regression test for 
 
 Maintainers were, almost without exception, quick and gracious about it; several shipped the same day. If your project is on this list and I have not reached it yet, the four checks above take about five minutes against your own code.
 
+## Nine of them, as a program you can run
+
+Prose about other people's bugs is worth exactly as much as the reader's willingness to take your word for it, so nine of the forty-six are re-runnable. Each is a DeepSeek billing plugin whose peak predicate is a pure function of an instant plus its own window config, which is what makes this possible at all:
+
+```
+git clone https://github.com/xyzs996/deepseek-peak-hours && cd deepseek-peak-hours
+node conformance/run.mjs --detail
+```
+
+No dependencies, no network, Node 16+. `conformance/adapters.mjs` holds a commit-pinned transcription of each project's own predicate — same branches, same operators, type annotations dropped where the original is TypeScript — and the runner puts 15 boundary vectors through all of them. As of **2026-08-23**:
+
+| project | score | not run |
+| --- | --- | --- |
+| [dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) | **15/15** | — |
+| [dsh-deepseek-balance](https://github.com/lancecheney/dsh-plugins) | **12/12** | 3 |
+| [dsh-billing-tui](https://github.com/Ethanz11-creat/dsh-billing-tui) | 9/12 | 3 |
+| [dsh-board](https://github.com/dfkai/dsh-board) | 9/12 | 3 |
+| [dsh-calculator](https://github.com/bobcat848/dsh-calculator) | 9/12 | 3 |
+| [dsh-gauge](https://github.com/noone89A/dsh-gauge) | 10/15 | — |
+| [dsh-token-billing](https://github.com/2006spy/dsh-token-billing) | 10/15 | — |
+| [dsh-token-price](https://github.com/spoon-man569/dsh-token-price) | 10/15 | — |
+| [dsh-whale-meter](https://github.com/Shiye-10Pages/dsh-whale-meter) | 10/15 | — |
+
+Every failure is the same three weekend instants, plus two more wherever the project's windows are configurable enough to be pointed at a second schedule. **`not run`** is not a failure and not a pass: it means that project's windows are written into the function, so it cannot be aimed at another schedule from the outside, and the calendar axis is untestable in it without changing the signature.
+
+That second schedule is the part worth stealing whatever you make of the rest. Three vectors run against a synthetic schedule whose peak window is `16:00-22:00 UTC`, and it is synthetic on purpose: the real windows both close before 16:00 UTC, and `16:00-24:00 UTC` is the only stretch where the two calendars disagree about the date. So failure mode (2) above — patching the weekday in with `getUTCDay()` — passes every vector you can write against the published schedule. The synthetic one is the only way to make it fail in a test instead of in a bill.
+
+Two of the nine pass everything they can run, and both encode something the pricing page does not say: a timezone on the weekday **and** an effective instant for the weekend rule. One spells it `WEEKEND_OFFPEAK_EFFECTIVE_AT = '2026-08-22T16:00:00Z'`, the other `weekendFrom: "2026-08-23T00:00:00+08:00"`. Same instant, two spellings, both right.
+
+If a transcription is wrong, that is a bug in the harness and not a finding about anyone's project — say so and it gets fixed and re-run. Each of the seven has an issue open on its own tracker with its failing instants and a patch in its own language; the table follows the vectors, so a row moves when the code does.
+
 The daily price table these rates sit in, re-read every day: [the full catalog](https://xyzs996.github.io/llm-api-pricing/prices.html).
 
 ## If you came here because the bill surprised you
