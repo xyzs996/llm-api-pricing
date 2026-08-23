@@ -57,7 +57,7 @@ If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, a
 
 Ninety percent of the people who open an AI tool type a question into it.
 
-[telegra.ph](https://telegra.ph/Stop-Using-AI-as-a-Chatbot-How-to-Build-an-Indie-Workstation-with-Skills-and-Automation-08-23)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/63) · [telegra.ph](https://telegra.ph/Stop-Using-AI-as-a-Chatbot-How-to-Build-an-Indie-Workstation-with-Skills-and-Automation-08-23)
 
 ### [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 

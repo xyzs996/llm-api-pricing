@@ -27,7 +27,7 @@ The rank-and-rent model is old enough that most people have heard of it and spec
 
 Ninety percent of the people who open an AI tool type a question into it.
 
-[telegra.ph](https://telegra.ph/Stop-Using-AI-as-a-Chatbot-How-to-Build-an-Indie-Workstation-with-Skills-and-Automation-08-23)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/63) · [telegra.ph](https://telegra.ph/Stop-Using-AI-as-a-Chatbot-How-to-Build-an-Indie-Workstation-with-Skills-and-Automation-08-23)
 
 ### [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 

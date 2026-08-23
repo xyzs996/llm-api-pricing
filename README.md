@@ -349,7 +349,7 @@ Most indie developers open SimilarWeb, look at the big monthly visits number, an
 
 Ninety percent of the people who open an AI tool type a question into it.
 
-`AI` `Productivity` `IndieDev` `AIWorkflows` · [telegra.ph](https://telegra.ph/Stop-Using-AI-as-a-Chatbot-How-to-Build-an-Indie-Workstation-with-Skills-and-Automation-08-23)
+`AI` `Productivity` `IndieDev` `AIWorkflows` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/63) · [telegra.ph](https://telegra.ph/Stop-Using-AI-as-a-Chatbot-How-to-Build-an-Indie-Workstation-with-Skills-and-Automation-08-23)
 
 ### [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 

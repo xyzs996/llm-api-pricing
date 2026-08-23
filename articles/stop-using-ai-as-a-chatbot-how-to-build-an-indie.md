@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/63) — that copy has a reply box under it, and this one does not.*
+
 Ninety percent of the people who open an AI tool type a question into it. The ones earning a living from it type a schedule instead. A former Alibaba P8 engineer, laid off and three months into a job hunt that went nowhere, ended up running three AI instances on timers — one watching competitor prices, one producing ad creative, one answering customer mail — and pulled 170,000 yuan a month out of them, somewhere near $24,000. Not one piece of that setup is a chat window. The skill that separates the two groups is no longer asking a good question; it is handing off a task and walking away.
 
 ## The Chatbot Trap
@@ -102,6 +104,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** the five parts are a schedule, parallel agents, skill packages, connectors, and memory. How many of them are running for you right now? Reply with one digit, 0 to 5 — zero is the answer I most want to see. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/63).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fstop-using-ai-as-a-chatbot-how-to-build-an-indie.md). One required field, and the page you came from is already filled
