@@ -4,8 +4,15 @@
   <id>https://xyzs996.github.io/llm-api-pricing/</id>
   <link href="https://xyzs996.github.io/llm-api-pricing/"/>
   <link rel="self" href="https://xyzs996.github.io/llm-api-pricing/feed.xml"/>
-  <updated>2026-08-22T11:53:00Z</updated>
+  <updated>2026-08-23T00:00:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>DeepSeek peak and off-peak hours — weekdays only, weekends are off-peak all day</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/deepseek-peak-hours.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/deepseek-peak-hours.html</id>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>Peak hours are 09:00–12:00 and 14:00–18:00 Beijing time, Monday to Friday — that is 01:00-04:00 UTC and 06:00-10:00 UTC. Every other hour is off-peak, and off-peak is half of peak, on every rate: cache hit, cache miss and output.</summary>
+  </entry>
   <entry>
     <title>Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.html"/>
