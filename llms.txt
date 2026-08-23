@@ -87,6 +87,10 @@ Per million tokens, for models ranked in an agents category of the Design Arena.
 - **GPT-5.5** — $5.0 in / $30.0 out per 1M tokens, 1050000 token context, best agents rank #7 in agenticslides (2026-08-22).
 - **Claude Fable 5** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticgamedev (2026-08-22).
 
+## DeepSeek peak / off-peak hours
+
+- [When DeepSeek bills double, and when it halves](https://xyzs996.github.io/llm-api-pricing/deepseek-peak-hours.html): peak is Beijing 09:00–12:00 and 14:00–18:00, Monday to Friday (01:00-04:00 and 06:00-10:00 UTC); off-peak is half of peak on every rate; since 2026-08-23 the whole weekend is off-peak, bounded 16:00 UTC Friday to 16:00 UTC Sunday. The English pricing page leaves the weekday's timezone off, so implementations written from it read the weekday in UTC and are wrong for sixteen hours a week.
+
 ## Every price figure (63)
 
 Quoted, not paraphrased: each is the sentence it was published in, with the date it was published. Nothing here is a vendor price sheet — it is what a working developer wrote down about what they paid.
