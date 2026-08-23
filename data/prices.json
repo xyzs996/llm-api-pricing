@@ -16,7 +16,7 @@
       "vendor": "DeepSeek",
       "vendor_model": "deepseek-v4-pro",
       "vendor_page": "https://api-docs.deepseek.com/quick_start/pricing/",
-      "checked": "2026-08-22",
+      "checked": "2026-08-23",
       "off_peak": {
         "cache_read": 0.022,
         "input": 0.66,
@@ -46,7 +46,7 @@
       "vendor": "DeepSeek",
       "vendor_model": "deepseek-v4-flash",
       "vendor_page": "https://api-docs.deepseek.com/quick_start/pricing/",
-      "checked": "2026-08-22",
+      "checked": "2026-08-23",
       "off_peak": {
         "cache_read": 0.007,
         "input": 0.22,
@@ -76,7 +76,7 @@
       "vendor": "DeepSeek",
       "vendor_model": "deepseek-v4-flash-vision-exp",
       "vendor_page": "https://api-docs.deepseek.com/quick_start/pricing/",
-      "checked": "2026-08-22",
+      "checked": "2026-08-23",
       "off_peak": {
         "cache_read": 0.007,
         "input": 0.22,
