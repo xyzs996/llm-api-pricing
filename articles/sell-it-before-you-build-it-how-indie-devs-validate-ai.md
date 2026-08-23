@@ -65,9 +65,9 @@ Start as a side project, accept that the first version fails, and iterate. That 
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 - [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](ai-agent-loop-engineering-karpathy-s-method-for-5x.md)
 
-[All 45 write-ups](../README.md)
+[All 46 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 399 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 400 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Indie Development](../topics/indie-development.md) · [AI Costs](../topics/ai-costs.md) · [Productivity](../topics/productivity.md)
 

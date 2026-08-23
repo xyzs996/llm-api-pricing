@@ -1,6 +1,6 @@
 # Indie Development
 
-14 of the 45 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+15 of the 46 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All figures, 403 rows](../figures.md)
+[All figures, 404 rows](../figures.md)
 
 ## The write-ups
 
@@ -28,6 +28,10 @@ OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free token
 A developer in China’s AI community achieved 5x productivity gains using loop engineering, reducing MVP development time from four prompt tuning sessions to a single command installation.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/15)
+
+### [AI Took Over My Coding. What Broke Was How I Learn.](../articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md)
+
+One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking.
 
 ### [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
 
@@ -99,7 +103,7 @@ The videos run about 60 seconds.
 
 ---
 
-[All 45 write-ups](../README.md)
+[All 46 write-ups](../README.md)
 
 ---
 

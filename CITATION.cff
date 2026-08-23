@@ -3,7 +3,7 @@ message: If you use these figures, cite the collection and link back.
 type: dataset
 title: AI Coding Field Notes
 abstract: >-
-  Figures cited across 45 write-ups on running AI coding agents in
+  Figures cited across 46 write-ups on running AI coding agents in
   production — prices, percentages, multiples, token counts and durations —
   published as JSON and CSV, each row carrying the sentence it came from.
 authors:

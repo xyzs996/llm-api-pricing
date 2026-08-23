@@ -968,6 +968,17 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/16"
   },
   {
+    "value": "$40 million",
+    "kind": "price",
+    "unit": "per year",
+    "context": "Klarna replaced roughly 700 support agents with an AI assistant in early 2024, claimed about $40 million a year, and a bit over a year later the same CEO said they had overshot and started hiring back.",
+    "article": "AI Took Over My Coding. What Broke Was How I Learn.",
+    "published": "2026-08-13",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-took-over-my-coding-what-broke-was-how-i-learn.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "$500",
     "kind": "price",
     "unit": "per month",

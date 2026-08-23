@@ -71,13 +71,13 @@ Start hosted if you are still deciding what to build. Move to files when the pro
 
 **Read next**
 
+- [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](klarna-replaced-700-support-agents-with-ai-then-it-started.md)
-- [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
-[All 45 write-ups](../README.md)
+[All 46 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 400 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 401 more, as JSON and CSV.
 
 Topics: [AI Implementation](../topics/ai-implementation.md) · [AI Costs](../topics/ai-costs.md) · [Development Tools](../topics/development-tools.md) · [Enterprise Automation](../topics/enterprise-automation.md)
 

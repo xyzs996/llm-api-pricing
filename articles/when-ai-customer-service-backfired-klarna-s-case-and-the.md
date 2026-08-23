@@ -85,14 +85,14 @@ I could be wrong here. This is one company, one quarter, and Klarna had reasons 
 **Read next**
 
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
+- [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
-- [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 
-[All 45 write-ups](../README.md)
+[All 46 write-ups](../README.md)
 
-The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 380 more, as JSON and CSV.
+The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 381 more, as JSON and CSV.
 
-Topics: [Niche Market](../topics/niche-market.md) · [AI Implementation](../topics/ai-implementation.md) · [AI Costs](../topics/ai-costs.md)
+Topics: [AI Implementation](../topics/ai-implementation.md) · [Niche Market](../topics/niche-market.md) · [AI Costs](../topics/ai-costs.md)
 
 
 ---

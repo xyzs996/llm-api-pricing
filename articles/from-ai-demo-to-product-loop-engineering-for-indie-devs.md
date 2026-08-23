@@ -103,9 +103,9 @@ The future of indie development lies in combining AI tools with human judgment. 
 - [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
-[All 45 write-ups](../README.md)
+[All 46 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 398 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 399 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Indie Development](../topics/indie-development.md) · [AI Implementation](../topics/ai-implementation.md) · [Productivity](../topics/productivity.md)
 

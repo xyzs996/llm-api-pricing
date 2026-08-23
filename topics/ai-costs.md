@@ -1,6 +1,6 @@
 # AI Costs
 
-7 of the 45 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 46 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -10,10 +10,10 @@
 - **$4 million** — This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - **900 million tokens** — The free allocation is what people notice, since 900 million tokens is well beyond what most competing tools give away and beyond what a solo developer exhausts in normal work. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - **80 percent** — Track consumption from the first week rather than from the first warning at 80 percent. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
+- **$40 million** — Klarna replaced roughly 700 support agents with an AI assistant in early 2024, claimed about $40 million a year, and a bit over a year later the same CEO said they had overshot and started hiring back. [→](../articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 - **95%** — Terra's document processing capabilities might seem cost-effective initially, but Luna's 95% accuracy on basic QA tasks and faster response times mean fewer errors and rework, whereas Terra's higher failure rate on complex tasks can lead to time wasted fixing mistakes, and Luna's superior accuracy and reliability make it a better long-term choice, even though Terra often requires more tokens for similar tasks. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
-- **95%** — For example, Luna's 95% accuracy rate for basic questions drops when faced with more complex queries, and Terra's document analysis accuracy can vary depending on document structure and content. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
-[All figures, 403 rows](../figures.md)
+[All figures, 404 rows](../figures.md)
 
 ## The write-ups
 
@@ -22,6 +22,10 @@
 A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/16)
+
+### [AI Took Over My Coding. What Broke Was How I Learn.](../articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md)
+
+One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking.
 
 ### [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
@@ -59,7 +63,7 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 
 ---
 
-[All 45 write-ups](../README.md)
+[All 46 write-ups](../README.md)
 
 ---
 
