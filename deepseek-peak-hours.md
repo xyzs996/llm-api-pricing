@@ -201,7 +201,7 @@ A schedule is one of four things that move an agent bill, and it is the smallest
 
 ---
 
-**Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — it is what puts these in front of the next person looking; the data is CC BY and does not require starring.
+**Did this answer it?** [A star](https://github.com/xyzs996/deepseek-peak-hours) on the harness you just cloned is the whole ask — it is what puts it in front of the next person billing this wrong; the vectors are public domain and do not require starring.
 
 **Does your own number disagree?** [This same table has a reply box](https://github.com/xyzs996/llm-api-pricing/discussions/44) — one line answers it. No template, no title, nothing to organise first.
 
