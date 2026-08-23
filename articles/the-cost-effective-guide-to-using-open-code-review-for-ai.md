@@ -79,7 +79,7 @@ It solves a problem you solved another way.
 
 [All 49 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 403 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 406 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [SaaS Business](../topics/saas-business.md) · [Cost Savings](../topics/cost-savings.md) · [Code Review](../topics/code-review.md)
 

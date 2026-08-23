@@ -51,7 +51,7 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (405 rows)
+## The figures, as data (408 rows)
 
 Every figure published across the 49 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
@@ -76,7 +76,7 @@ recent write-ups — quoted verbatim, not summarised:
 | `$1,000` | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. | [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](articles/how-indie-developers-are-building-ai-powered-digital.md) |
 | `40-second` | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. | [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md) |
 
-[All 405 rows](figures.md) — or as data:
+[All 408 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -391,7 +391,7 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 
 ### [When the AI Picks for the Customer, You Become a Supplier](articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
 
-Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you.
+WeChat's Xiaowei agent went into closed testing this year, and Qwen's brand agents already have Luckin Coffee and KFC connected to them.
 
 `Automation` `Indie Development` `AI Branding` `Merchants` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/52)
 

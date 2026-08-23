@@ -73,7 +73,7 @@ Start with one account and one format. Multiply after the numbers give you permi
 
 [All 49 write-ups](../README.md)
 
-The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 392 more, as JSON and CSV.
+The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 395 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [SaaS Business](../topics/saas-business.md)
 

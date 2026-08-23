@@ -10,7 +10,7 @@
 - **5 minutes** — Pairing WorkBuddy with BrowserAct gets a competitor pricing table in roughly 5 minutes and a product-opportunity report in about 7; a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, which leaves room for around 10 research runs daily before money enters the conversation at all. [→](../articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
 - **20%** — The efficiency target one operator set for themselves is specific and aggressive: compress delivery time to 20% of what it was. [→](../articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
 
-[All figures, 405 rows](../figures.md)
+[All figures, 408 rows](../figures.md)
 
 ## The write-ups
 
@@ -28,7 +28,7 @@ As a solo developer shipping products alone, manual DevOps and repetitive data p
 
 ### [When the AI Picks for the Customer, You Become a Supplier](../articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
 
-Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you.
+WeChat's Xiaowei agent went into closed testing this year, and Qwen's brand agents already have Luckin Coffee and KFC connected to them.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/52)
 

@@ -13,7 +13,7 @@
 - **10,000 tokens** — Long coding sessions push entire directory trees into the prompt on every iteration, so gateways have started applying compression algorithms such as RTK and Caveman, which OmniRoute reports can shrink 10,000 tokens to 1,080. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **$10,000** — Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. [→](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 
-[All figures, 405 rows](../figures.md)
+[All figures, 408 rows](../figures.md)
 
 ## The write-ups
 

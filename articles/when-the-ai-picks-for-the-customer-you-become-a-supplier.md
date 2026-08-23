@@ -6,7 +6,7 @@
 
 *The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/52) — that copy has a reply box under it, and this one does not.*
 
-Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you. When an AI assistant completes a purchase on someone's behalf, the identity of that person, their behavior and their intent to buy again all settle on the platform side by default. What reaches the merchant is an isolated order. Not a customer, an order, and the difference between those two things is the difference between a business with a future and a contract manufacturer with good margins this quarter.
+WeChat's Xiaowei agent went into closed testing this year, and Qwen's brand agents already have Luckin Coffee and KFC connected to them. Those are the same shift arriving in 2 different shapes, and which shape your business ends up with gets decided by a wiring choice nobody in the room thinks of as strategic. Here is what is at stake in it. When an AI assistant completes a purchase for somebody, that person's identity, their behavior and their intent to buy again settle on the platform side by default, and what reaches the merchant is an isolated order. Not a customer. An order, and the gap between those 2 words is the gap between a business with a future and a contract manufacturer with good margins this quarter.
 
 ## The Default Is Disintermediation
 
@@ -81,7 +81,7 @@ That last number is the one I would put on the wall. Revenue can look healthy wh
 
 [All 49 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 404 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 407 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Automation](../topics/automation.md)
 

@@ -13,7 +13,7 @@
 - **$1.43** — For instance, GPT-5.6 Sol, while more expensive at $1.43 per run, shows superior performance with a 43.1% accuracy rate in the same ReactBench tests, which shows that cheaper models may save money upfront but can lead to longer development cycles due to frequent errors and rework. [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - **$1.43** — In contrast, GPT-5.6 Sol, at $1.43 per run, achieves 43.1% accuracy in the same tests, suggesting that while cheaper models may save money upfront, they often result in longer, more costly development processes. [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
-[All figures, 405 rows](../figures.md)
+[All figures, 408 rows](../figures.md)
 
 ## The write-ups
 

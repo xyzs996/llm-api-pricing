@@ -73,7 +73,7 @@ What I would take from the model regardless is the ordering. Choose the pair bef
 
 [All 49 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 398 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 401 more, as JSON and CSV.
 
 Topics: [AI](../topics/ai.md)
 

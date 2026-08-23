@@ -36,6 +36,8 @@ Write the global rules and the project rules into files. Not into a conversation
 
 A rules file is cheaper than re-explaining. Every time.
 
+There is a measurable version of this worth knowing about. Alibaba's Open Code Review was benchmarked against general-purpose agents on 200 real pull requests drawn from 50 open-source repositories across 10 languages, and it scored higher on accuracy and F1 while consuming roughly one-ninth the tokens, a 9x gap on identical work. Read that as a statement about context rather than about model quality, because both sides were reviewing the same diffs; the difference is how much surrounding material each one had to pull in to form an opinion.
+
 There is a quality argument for the same practice that is at least as strong as the cost argument. An assistant that misbehaves is very often responding to a requirement nobody wrote down, an interface convention that exists only in someone's habits, or a constraint that was mentioned once in a conversation that has since been compacted away. Putting those in a file does not just save tokens; it removes the ambiguity that was generating the wrong output in the first place.
 
 ## Small Steps Beat Big Asks, and Not for the Reason You Think
@@ -78,6 +80,8 @@ The bill is not a printing charge. It is a rent on how much your assistant has t
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 [All 49 write-ups](../README.md)
+
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 407 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [AI](../topics/ai.md)
 

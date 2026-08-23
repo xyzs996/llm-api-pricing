@@ -69,7 +69,7 @@ If your current project is still a loose, exploratory prototype experiencing rap
 
 [All 49 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 403 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 406 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [Automation](../topics/automation.md)
 

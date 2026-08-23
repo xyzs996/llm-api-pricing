@@ -73,7 +73,7 @@ For anyone in a regulated industry, I think the calculation is different and pro
 
 [All 49 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 401 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 404 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Costs](../topics/ai-costs.md) · [Development Tools](../topics/development-tools.md)
 

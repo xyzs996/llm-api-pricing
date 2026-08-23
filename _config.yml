@@ -510,7 +510,7 @@ defaults:
       path: "articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md"
     values:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/when-the-ai-picks-for-the-customer-you-become-a-supplier.png"
-      description: "Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you."
+      description: "WeChat's Xiaowei agent went into closed testing this year, and Qwen's brand agents already have Luckin Coffee and KFC connected to them."
       date: "2026-08-15T10:08:00Z"
       seo:
         type: BlogPosting

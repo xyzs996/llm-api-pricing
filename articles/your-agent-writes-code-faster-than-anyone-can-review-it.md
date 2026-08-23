@@ -54,7 +54,7 @@ For anyone running more than one agent, the coordination layer matters as much a
 
 Session persistence and multi-agent orchestration across Claude Code, Codex and OpenCode through a shared ACP protocol, the way agentOS does it, solves the problem where every tool keeps its own incompatible notion of a conversation and switching costs you the context. Multi-window worktree setups solve the adjacent one, letting several agent windows build parts of the same product in parallel without file conflicts, with a controlling agent breaking the spec into tasks and stating the boundaries and dependencies before anything starts.
 
-Put those together and the shape is clear enough. A controlling agent decomposes, worker agents implement in isolated trees, a verification pipeline gates every merge, and a person reads evidence at the boundary where being wrong gets expensive. Distilling repeated tasks into reusable skill templates is what keeps the whole arrangement from being re-explained every Monday.
+Put those together and the shape is clear enough. A controlling agent decomposes, worker agents implement in isolated trees, a verification pipeline gates every merge, and a person reads evidence at the boundary where being wrong gets expensive. Distilling repeated tasks into reusable skill templates is what keeps the whole arrangement from being re-explained every Monday. Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%. Treat the percentage as marketing if you like; the structural claim underneath it is sound, which is that the reusable asset is the written-down role and it outlives whichever tool you wrote it for.
 
 I suspect most solo developers can skip about half of that. The gate is the half I would not skip.
 
@@ -78,6 +78,8 @@ But within the part you do control, the recommendation is simple enough to act o
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 [All 49 write-ups](../README.md)
+
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 407 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [AI](../topics/ai.md)
 

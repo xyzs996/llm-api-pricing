@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-405 figures pulled out of 46 write-ups in
+408 figures pulled out of 49 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -283,6 +283,14 @@ Published 2026-08-19.
 | `48 hours` | duration | Setting the course price at 9.9 yuan tested one specific proposition, that people would pay for a simpler installation path, and produced 2 sales within 48 hours, for total revenue of 19.8 yuan. |
 | `55.1%` | percent | The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. |
 | `9.1%` | percent | The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. |
+
+## [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](https://xyzs996.github.io/llm-api-pricing/articles/charge-per-conversation-not-per-seat-the-billing-model.html)
+
+Published 2026-08-15.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `3 months` | duration | A former Alibaba P8 engineer, laid off and 3 months into an unsuccessful job search, ended up running three separate AI instances — one tracking competitor pricing, one generating ad creative, one handling customer service — and reports about 170,000 yuan a month. |
 
 ## [Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://xyzs996.github.io/llm-api-pricing/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html)
 
@@ -781,6 +789,22 @@ Published 2026-08-11.
 | `12 hours` | duration | Skip this approach if you cannot commit 12 hours a week for several months, or if your product does not demonstrate visually. |
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
+## [Your AI Coding Bill Scales With Your Repo, Not Your Output](https://xyzs996.github.io/llm-api-pricing/articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.html)
+
+Published 2026-08-11.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `9x` | multiple | Alibaba's Open Code Review was benchmarked against general-purpose agents on 200 real pull requests drawn from 50 open-source repositories across 10 languages, and it scored higher on accuracy and F1 while consuming roughly one-ninth the tokens, a 9x gap on identical work. |
+
+## [Your Agent Writes Code Faster Than Anyone Can Review It](https://xyzs996.github.io/llm-api-pricing/articles/your-agent-writes-code-faster-than-anyone-can-review-it.html)
+
+Published 2026-08-11.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `30%` | percent | Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%. |
+
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "405 figures pulled out of 46 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "408 figures pulled out of 49 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
 </script>

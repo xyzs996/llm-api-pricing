@@ -10,10 +10,10 @@
 - **$1.43** — A single run costs about $1.43 on the first and $9.05 on the second. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 - **$55k** — James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
-- **$1.25** — Meta's Muse Spark 1.1 agent model API is priced at $1.25 per million input tokens and $4.25 per million output tokens — roughly 75% and 83% below Anthropic Opus on input and output respectively — and the target is explicit: become the cheap entry point for agent workflows and pull developers into the ecosystem. [→](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
-- **$0.19** — The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as low as $0.19 per million tokens against $5 to $12 for comparable American offerings, which is not a discount so much as a different category of product. [→](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
+- **30%** — Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%. [→](../articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
+- **9x** — Alibaba's Open Code Review was benchmarked against general-purpose agents on 200 real pull requests drawn from 50 open-source repositories across 10 languages, and it scored higher on accuracy and F1 while consuming roughly one-ninth the tokens, a 9x gap on identical work. [→](../articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
 
-[All figures, 405 rows](../figures.md)
+[All figures, 408 rows](../figures.md)
 
 ## The write-ups
 

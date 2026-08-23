@@ -88,7 +88,7 @@ When choosing tools and models, developers should also consider the user-profile
 
 [All 49 write-ups](../README.md)
 
-The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 386 more, as JSON and CSV.
+The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 389 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Costs](../topics/ai-costs.md) · [Development Tools](../topics/development-tools.md) · [Code Review](../topics/code-review.md)
 

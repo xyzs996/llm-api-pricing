@@ -32,7 +32,7 @@ That is not a subtle difference in output quality; it is the difference between 
 
 ## What the People Making Money Actually Use
 
-There is a case worth quoting because the numbers are specific and the pattern behind them is more useful than the headline. A former Alibaba P8 engineer, laid off and three months into an unsuccessful job search, ended up running three separate AI instances — one tracking competitor pricing, one generating ad creative, one handling customer service — and reports about 170,000 yuan a month. The individual figure is self-reported and I would not build a plan around it.
+There is a case worth quoting because the numbers are specific and the pattern behind them is more useful than the headline. A former Alibaba P8 engineer, laid off and 3 months into an unsuccessful job search, ended up running three separate AI instances — one tracking competitor pricing, one generating ad creative, one handling customer service — and reports about 170,000 yuan a month. The individual figure is self-reported and I would not build a plan around it.
 
 The pattern across the collection it came from is the part I would keep. Out of 27 documented cases, the ones earning money used at least 3 of the same 5 capabilities: scheduled automation, multiple agents running in parallel, packaged Skills, MCP connectors, and a memory system. Not better prompts. Not a specific model.
 
@@ -76,6 +76,8 @@ Build the connector layer, charge for volume rather than seats, and keep a perso
 - [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 
 [All 49 write-ups](../README.md)
+
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 407 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [SaaS Business](../topics/saas-business.md) · [Revenue Growth](../topics/revenue-growth.md)
 

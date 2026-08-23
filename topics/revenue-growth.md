@@ -6,12 +6,13 @@
 
 - **$22,000** — Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative. [→](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 - **$1,000,000** — Breaking a $1,000,000 annual revenue goal into a daily intake of $2,777 — eighteen standardized units at $150 a day — is the same discipline applied with a bigger numerator, and it works for the same reason: it converts an ambition into a countable daily event. [→](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
+- **3 months** — A former Alibaba P8 engineer, laid off and 3 months into an unsuccessful job search, ended up running three separate AI instances — one tracking competitor pricing, one generating ad creative, one handling customer service — and reports about 170,000 yuan a month. [→](../articles/charge-per-conversation-not-per-seat-the-billing-model.md)
 - **$500** — You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 - **$3,000** — High-ticket services in low-competition cities often sit at the $3,000 end for websites that actually deliver customers. [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 - **3 minutes** — The numbers underneath that headline are the interesting part: 3 minutes for a deep market research pass, 1,800 designs produced in a month, 12 minutes from a customer request to a rendering, and orders signed on the spot while the buyer was still in the conversation. [→](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 - **1%** — The version of this I have seen bite hardest is on the payments side, where one developer's Stripe account was frozen for a dispute rate above 1% and 1,500-plus paying subscriptions stopped at once. [→](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
-[All figures, 405 rows](../figures.md)
+[All figures, 408 rows](../figures.md)
 
 ## The write-ups
 

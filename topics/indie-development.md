@@ -13,7 +13,7 @@
 - **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All figures, 405 rows](../figures.md)
+[All figures, 408 rows](../figures.md)
 
 ## The write-ups
 
@@ -91,7 +91,7 @@ Chris launched WiseMindAI last year and came out of a single session with Miora'
 
 ### [When the AI Picks for the Customer, You Become a Supplier](../articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
 
-Something quiet is happening to the relationship between a business and its customers, and the mechanism is worth understanding before it finishes happening to you.
+WeChat's Xiaowei agent went into closed testing this year, and Qwen's brand agents already have Luckin Coffee and KFC connected to them.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/52)
 

@@ -13,7 +13,7 @@
 - **40-second** — The 40-second number I cannot check. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - **5 minutes** — WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
-[All figures, 405 rows](../figures.md)
+[All figures, 408 rows](../figures.md)
 
 ## The write-ups
 

@@ -1529,6 +1529,17 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/21"
   },
   {
+    "value": "3 months",
+    "kind": "duration",
+    "unit": "",
+    "context": "A former Alibaba P8 engineer, laid off and 3 months into an unsuccessful job search, ended up running three separate AI instances — one tracking competitor pricing, one generating ad creative, one handling customer service — and reports about 170,000 yuan a month.",
+    "article": "Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support",
+    "published": "2026-08-15",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/charge-per-conversation-not-per-seat-the-billing-model.html",
+    "medium": "",
+    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/46"
+  },
+  {
     "value": "$9.05",
     "kind": "price",
     "unit": "per run",
@@ -4453,5 +4464,27 @@
     "url": "https://xyzs996.github.io/llm-api-pricing/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html",
     "medium": "",
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/41"
+  },
+  {
+    "value": "9x",
+    "kind": "multiple",
+    "unit": "",
+    "context": "Alibaba's Open Code Review was benchmarked against general-purpose agents on 200 real pull requests drawn from 50 open-source repositories across 10 languages, and it scored higher on accuracy and F1 while consuming roughly one-ninth the tokens, a 9x gap on identical work.",
+    "article": "Your AI Coding Bill Scales With Your Repo, Not Your Output",
+    "published": "2026-08-11",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.html",
+    "medium": "",
+    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/56"
+  },
+  {
+    "value": "30%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%.",
+    "article": "Your Agent Writes Code Faster Than Anyone Can Review It",
+    "published": "2026-08-11",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/your-agent-writes-code-faster-than-anyone-can-review-it.html",
+    "medium": "",
+    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/55"
   }
 ]
