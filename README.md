@@ -9,9 +9,8 @@ Two things: a price table re-read from OpenRouter's catalog every day, and
 
 ## What the agent models cost (60 models)
 
-A coding agent re-reads its context every step, so **95.6% of the
-tokens it sends are cache reads**. Repriced at that mix, the list
-input price every other table sorts by overstates the bill by a
+A coding agent re-reads its context every step, so **95.6% of the tokens
+it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
 median **6.5×** (3.4×–7.9×). Read **2026-08-22**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ in | $ out | Model | Best agents rank |
@@ -21,6 +20,8 @@ median **6.5×** (3.4×–7.9×). Read **2026-08-22**; the three cheapest *to ru
 | **$0.0566** | $0.375 | $1.875 | Gemini 3.6 Flash `batch` | #6 agenticgamedev |
 
 [All 60 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+
+**Or put your own numbers in.** [The calculator](https://xyzs996.github.io/llm-cost-calculator/) reads this same daily JSON: it resolves DeepSeek's peak/off-peak clock for the moment you ask, applies the long-context price cliff to the request you actually send, and takes your own cache-hit share. One page, nothing to install, no account.
 
 **One number, two answers.** Google and xAI both step to a higher rate at 200,000 prompt tokens — and a prompt of exactly 200,000 bills at the *cheap* rate on Google, the *expensive* rate on xAI. Every table we could find prints one number and stops there. Which side each vendor bills, quoted from the vendor's own page with the date it was read: [same number, opposite answer](prices.md#same-number-opposite-answer).
 
