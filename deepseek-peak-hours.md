@@ -142,9 +142,9 @@ The daily price table these rates sit in, re-read every day: [the full catalog](
 
 A schedule is one of four things that move an agent bill, and it is the smallest of them. These are worked examples with the arithmetic shown, not buying advice:
 
-- [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) — same task, same verdict, 6× apart. Where the 6× actually comes from.
-- [AI Model Costs: Beyond Per-Token Pricing](articles/ai-model-costs-beyond-per-token-pricing.md) — the cache-hit share and the context cliff both move the number further than any rate card does.
-- [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md) — why vendors started charging by the clock at all, of which this page is one instance.
+- [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) — same task, same verdict, 6× apart. Where the 6× actually comes from. ([also on telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Code-Review-Tool-A-Developers-Guide-08-21) — no account, no scripts.)
+- [AI Model Costs: Beyond Per-Token Pricing](articles/ai-model-costs-beyond-per-token-pricing.md) — the cache-hit share and the context cliff both move the number further than any rate card does. ([also on telegra.ph](https://telegra.ph/Beyond-Token-Pricing-How-Indie-Devs-Should-Really-Evaluate-AI-Model-Costs-08-19))
+- [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md) — why vendors started charging by the clock at all, of which this page is one instance. ([also on telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23))
 
 ---
 
