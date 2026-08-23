@@ -168,9 +168,9 @@ Loop engineering offers several key advantages.
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 - [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 
-[All 40 write-ups](../README.md)
+[All 43 write-ups](../README.md)
 
-The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 367 more, as JSON and CSV.
+The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 383 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Automation Systems](../topics/automation-systems.md)
 

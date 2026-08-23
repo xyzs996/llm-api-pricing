@@ -1,6 +1,6 @@
 # AI Implementation
 
-7 of the 40 write-ups here are tagged AI Implementation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 43 write-ups here are tagged AI Implementation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **95%** — Terra's document processing capabilities might seem cost-effective initially, but Luna's 95% accuracy on basic QA tasks and faster response times mean fewer errors and rework, whereas Terra's higher failure rate on complex tasks can lead to time wasted fixing mistakes, and Luna's superior accuracy and reliability make it a better long-term choice, even though Terra often requires more tokens for similar tasks. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 - **95%** — For example, Luna's 95% accuracy rate for basic questions drops when faced with more complex queries, and Terra's document analysis accuracy can vary depending on document structure and content. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
-[All figures, 380 rows](../figures.md)
+[All figures, 396 rows](../figures.md)
 
 ## The write-ups
 
@@ -41,6 +41,10 @@ The agent processes 40-plus podcast channels overnight, transcribed and summariz
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/24)
 
+### [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
+
+In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.
+
 ### [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
 "Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option."
@@ -59,7 +63,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 40 write-ups](../README.md)
+[All 43 write-ups](../README.md)
 
 ---
 

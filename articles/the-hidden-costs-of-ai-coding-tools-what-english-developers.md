@@ -63,9 +63,9 @@ Stability and transparency are likely to improve over time. The recent updates t
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All 40 write-ups](../README.md)
+[All 43 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 377 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 393 more, as JSON and CSV.
 
 Topics: [Development Tools](../topics/development-tools.md) · [Chinese AI](../topics/chinese-ai.md)
 

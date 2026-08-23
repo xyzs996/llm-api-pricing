@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-380 figures pulled out of 40 write-ups in
+396 figures pulled out of 43 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -392,6 +392,20 @@ Published 2026-08-23.
 | `20%` | percent | Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. |
 | `5 minutes` | duration | Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. |
 
+## [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](https://xyzs996.github.io/llm-api-pricing/articles/klarna-replaced-700-support-agents-with-ai-then-it-started.html)
+
+Published 2026-08-08.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$40 million` per year | price | In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit. |
+| `74%` | percent | Feishu Shennuo's Marvy 2.0 puts 5 agents — market insight, media strategy, creative, delivery and analytics — into a single AgentOS, and a Chinese consumer-electronics brand entering the Nigerian market reported overall optimization efficiency up 74% with manual hours down 89%. |
+| `89%` | percent | Feishu Shennuo's Marvy 2.0 puts 5 agents — market insight, media strategy, creative, delivery and analytics — into a single AgentOS, and a Chinese consumer-electronics brand entering the Nigerian market reported overall optimization efficiency up 74% with manual hours down 89%. |
+| `30%` | percent | Agency Agents ships 232 structured expert-persona files covering identity, workflow, delivery standards and success metrics, reports output quality gains above 30%, and works across 14 mainstream AI tools; the practical difference is that a setup which used to mean hand-tuning 4 separate prompts now installs with 1 command. |
+| `5 minutes` | duration | WorkBuddy paired with BrowserAct produces a competitor pricing table in about 5 minutes and a product-opportunity report in about 7, and a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, so the first 10 experiments cost attention rather than money. |
+| `1%` | percent | One more piece of evidence that operators underweight the fragility of what they build on: a developer's Stripe account was frozen for a dispute rate above 1%, and 1,500-plus paying subscriptions stopped with it. |
+| `$40 million` | price | Klarna's $40 million was probably accurate on the day it was published. |
+
 ## [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://xyzs996.github.io/llm-api-pricing/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html)
 
 Published 2026-08-16.
@@ -411,6 +425,20 @@ Published 2026-08-22.
 | --- | --- | --- |
 | `80%` | percent | For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. |
 
+## [Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month](https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html)
+
+Published 2026-08-09.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$500` | price | The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, you rank it in Google for the searches that category gets, and then you rent the finished site to one business in that town for somewhere between $500 and $3,000 a month. |
+| `$3,000` per month | price | The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, you rank it in Google for the searches that category gets, and then you rent the finished site to one business in that town for somewhere between $500 and $3,000 a month. |
+| `$55,000` | price | BackPedal makes the point in an adjacent category: founder James Dunn pairs GPS trackers with an offline recovery team and runs about $55,000 in monthly recurring revenue, and the moat is not the tracker. |
+| `$800` per month | price | A plumber comparing $800 a month to the cost of one lost emergency job is doing arithmetic that favors you. |
+| `$800` per month | price | A plumber comparing $800 a month to what a website "should" cost is doing arithmetic you introduced by accident. |
+| `$500` | price | Every figure in this article comes from operators describing their own results, and the $500 to $3,000 range is a report rather than a distribution — I have no idea what the median is, or how many sites never rent at all. |
+| `$3,000` | price | Every figure in this article comes from operators describing their own results, and the $500 to $3,000 range is a report rather than a distribution — I have no idea what the median is, or how many sites never rent at all. |
+
 ## [Sell It Before You Build It: How Indie Devs Validate AI Products](https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html)
 
 Published 2026-08-12.
@@ -421,6 +449,15 @@ Published 2026-08-12.
 | `$30` per day | price | A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test. |
 | `$3` | price | A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test. |
 | `$4` | price | A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test. |
+
+## [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](https://xyzs996.github.io/llm-api-pricing/articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.html)
+
+Published 2026-08-13.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `20%` | percent | The efficiency target one operator set for themselves is specific and aggressive: compress delivery time to 20% of what it was. |
+| `5 minutes` | duration | Pairing WorkBuddy with BrowserAct gets a competitor pricing table in roughly 5 minutes and a product-opportunity report in about 7; a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, which leaves room for around 10 research runs daily before money enters the conversation at all. |
 
 ## [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](https://xyzs996.github.io/llm-api-pricing/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html)
 
@@ -715,5 +752,5 @@ Published 2026-08-11.
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "380 figures pulled out of 40 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "396 figures pulled out of 43 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
 </script>

@@ -1,6 +1,6 @@
 # AI Coding Field Notes
 
-> 40 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
+> 43 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
 
 Every number in these notes traces back to a named source. Figures without one were cut before publishing.
 
@@ -18,7 +18,7 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 ## Dataset
 
-- [Every published figure, 380 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
+- [Every published figure, 396 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv): the same rows, one line each.
 
@@ -91,7 +91,7 @@ Per million tokens, for models ranked in an agents category of the Design Arena.
 
 - [When DeepSeek bills double, and when it halves](https://xyzs996.github.io/llm-api-pricing/deepseek-peak-hours.html): peak is Beijing 09:00–12:00 and 14:00–18:00, Monday to Friday (01:00-04:00 and 06:00-10:00 UTC); off-peak is half of peak on every rate; since 2026-08-23 the whole weekend is off-peak, bounded 16:00 UTC Friday to 16:00 UTC Sunday. The English pricing page leaves the weekday's timezone off, so implementations written from it read the weekday in UTC and are wrong for sixteen hours a week.
 
-## Every price figure (71)
+## Every price figure (78)
 
 Quoted, not paraphrased: each is the sentence it was published in, with the date it was published. Nothing here is a vendor price sheet — it is what a working developer wrote down about what they paid.
 
@@ -147,6 +147,13 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 - **$10,000** — “Convincing a single commercial roofing contractor that your site can send $10,000 worth of monthly leads for a $1,000 monthly rental fee is an infinitely cleaner conversation.” (2026-08-20) https://xyzs996.github.io/llm-api-pricing/articles/how-indie-developers-are-building-ai-powered-digital.html
 - **$1,000** — “Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets.” (2026-08-20) https://xyzs996.github.io/llm-api-pricing/articles/how-indie-developers-are-building-ai-powered-digital.html
 - **$10,000** — “Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days.” (2026-08-17) https://xyzs996.github.io/llm-api-pricing/articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.html
+- **$40 million per year** — “In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.” (2026-08-08) https://xyzs996.github.io/llm-api-pricing/articles/klarna-replaced-700-support-agents-with-ai-then-it-started.html
+- **$40 million** — “Klarna's $40 million was probably accurate on the day it was published.” (2026-08-08) https://xyzs996.github.io/llm-api-pricing/articles/klarna-replaced-700-support-agents-with-ai-then-it-started.html
+- **$500** — “The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, you rank it in Google for the searches that category gets, and then you rent the finished site to one business in that town for somewhere between $500 and $3,000 a month.” (2026-08-09) https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html
+- **$55,000** — “BackPedal makes the point in an adjacent category: founder James Dunn pairs GPS trackers with an offline recovery team and runs about $55,000 in monthly recurring revenue, and the moat is not the tracker.” (2026-08-09) https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html
+- **$800 per month** — “A plumber comparing $800 a month to the cost of one lost emergency job is doing arithmetic that favors you.” (2026-08-09) https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html
+- **$800 per month** — “A plumber comparing $800 a month to what a website "should" cost is doing arithmetic you introduced by accident.” (2026-08-09) https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html
+- **$500** — “Every figure in this article comes from operators describing their own results, and the $500 to $3,000 range is a report rather than a distribution — I have no idea what the median is, or how many sites never rent at all.” (2026-08-09) https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html
 - **$30 per day** — “A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test.” (2026-08-12) https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html
 - **$30 per day** — “With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4.” (2026-08-20) https://xyzs996.github.io/llm-api-pricing/articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.html
 - **$40 million** — “Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months.” (2026-08-10) https://xyzs996.github.io/llm-api-pricing/articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.html
@@ -172,22 +179,22 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 Every figure whose quoted sentence names that provider, on one page, each with the date the write-up went out. None of these is a vendor price sheet — read every row as of its own date. Klarna is not a vendor here but a company these write-ups are about; those rows are what it did, not what it charges.
 
 - [GPT-5.6](https://xyzs996.github.io/llm-api-pricing/providers/gpt-5-6.html): 19 figures from 5 write-ups.
+- [WorkBuddy](https://xyzs996.github.io/llm-api-pricing/providers/workbuddy.html): 12 figures from 11 write-ups.
+- [BrowserAct](https://xyzs996.github.io/llm-api-pricing/providers/browseract.html): 11 figures from 11 write-ups.
 - [Claude](https://xyzs996.github.io/llm-api-pricing/providers/claude.html): 11 figures from 6 write-ups.
-- [WorkBuddy](https://xyzs996.github.io/llm-api-pricing/providers/workbuddy.html): 10 figures from 9 write-ups.
-- [BrowserAct](https://xyzs996.github.io/llm-api-pricing/providers/browseract.html): 9 figures from 9 write-ups.
-- [Klarna](https://xyzs996.github.io/llm-api-pricing/providers/klarna.html): 9 figures from 2 write-ups.
+- [Klarna](https://xyzs996.github.io/llm-api-pricing/providers/klarna.html): 11 figures from 3 write-ups.
 - [Fable 5](https://xyzs996.github.io/llm-api-pricing/providers/fable-5.html): 7 figures from 4 write-ups.
 - [ChatGPT](https://xyzs996.github.io/llm-api-pricing/providers/chatgpt.html): 4 figures from 4 write-ups.
 - [GPT-5](https://xyzs996.github.io/llm-api-pricing/providers/gpt-5.html): 4 figures from 3 write-ups.
 
 ## Topics
 
-- [Indie Development](https://xyzs996.github.io/llm-api-pricing/topics/indie-development.html): 13 write-ups.
-- [Automation Systems](https://xyzs996.github.io/llm-api-pricing/topics/automation-systems.html): 12 write-ups.
+- [Indie Development](https://xyzs996.github.io/llm-api-pricing/topics/indie-development.html): 14 write-ups.
+- [Automation Systems](https://xyzs996.github.io/llm-api-pricing/topics/automation-systems.html): 13 write-ups.
 - [SaaS Business](https://xyzs996.github.io/llm-api-pricing/topics/saas-business.html): 9 write-ups.
+- [AI Implementation](https://xyzs996.github.io/llm-api-pricing/topics/ai-implementation.html): 8 write-ups.
+- [Niche Market](https://xyzs996.github.io/llm-api-pricing/topics/niche-market.html): 8 write-ups.
 - [AI Costs](https://xyzs996.github.io/llm-api-pricing/topics/ai-costs.html): 7 write-ups.
-- [AI Implementation](https://xyzs996.github.io/llm-api-pricing/topics/ai-implementation.html): 7 write-ups.
-- [Niche Market](https://xyzs996.github.io/llm-api-pricing/topics/niche-market.html): 7 write-ups.
 - [Productivity](https://xyzs996.github.io/llm-api-pricing/topics/productivity.html): 7 write-ups.
 - [AI Programming](https://xyzs996.github.io/llm-api-pricing/topics/ai-programming.html): 6 write-ups.
 - [Cost Savings](https://xyzs996.github.io/llm-api-pricing/topics/cost-savings.html): 6 write-ups.
@@ -197,6 +204,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [Chinese AI](https://xyzs996.github.io/llm-api-pricing/topics/chinese-ai.html): 4 write-ups.
 - [AI Tools](https://xyzs996.github.io/llm-api-pricing/topics/ai-tools.html): 3 write-ups.
 - [Code Review](https://xyzs996.github.io/llm-api-pricing/topics/code-review.html): 3 write-ups.
+- [Enterprise Automation](https://xyzs996.github.io/llm-api-pricing/topics/enterprise-automation.html): 3 write-ups.
 - [Micro SaaS](https://xyzs996.github.io/llm-api-pricing/topics/micro-saas.html): 3 write-ups.
 - [Token Optimization](https://xyzs996.github.io/llm-api-pricing/topics/token-optimization.html): 3 write-ups.
 
@@ -221,9 +229,12 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](https://xyzs996.github.io/llm-api-pricing/articles/how-indie-developers-are-building-ai-powered-digital.html): Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly ren… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/26
 - [How to Build a Micro-SaaS Without Spending a Dime on Ads](https://xyzs996.github.io/llm-api-pricing/articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.html): Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 people asking for access within days, at zero cost, and those users stuck around better than the paid traffic he never bo… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/27
 - [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.html): Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…
+- [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](https://xyzs996.github.io/llm-api-pricing/articles/klarna-replaced-700-support-agents-with-ai-then-it-started.html): In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://xyzs996.github.io/llm-api-pricing/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html): MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/28
 - [Office Automation with Claude Code and Codex](https://xyzs996.github.io/llm-api-pricing/articles/office-automation-with-claude-code-and-codex.html): Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
+- [Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month](https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html): The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html): The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
+- [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](https://xyzs996.github.io/llm-api-pricing/articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.html): The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](https://xyzs996.github.io/llm-api-pricing/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html): If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/29
 - [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](https://xyzs996.github.io/llm-api-pricing/articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.html): As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/43
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](https://xyzs996.github.io/llm-api-pricing/articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.html): Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/30

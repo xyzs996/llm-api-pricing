@@ -1,6 +1,6 @@
 # Niche Market
 
-7 of the 40 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 43 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **40-second** — When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - **40-second** — The 40-second number I cannot check. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-[All figures, 380 rows](../figures.md)
+[All figures, 396 rows](../figures.md)
 
 ## The write-ups
 
@@ -34,6 +34,10 @@ You can build AI-generated local business websites, rent them to plumbers or den
 A six-hour Chrome extension pays $400 a month.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/23)
+
+### [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](../articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
+
+The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
 
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
@@ -59,7 +63,7 @@ In special-purpose vehicles — tankers, sweepers, the trucks nobody films for f
 
 ---
 
-[All 40 write-ups](../README.md)
+[All 43 write-ups](../README.md)
 
 ---
 

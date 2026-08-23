@@ -1,6 +1,6 @@
 # Klarna by the numbers: every figure from a sentence that names it
 
-9 of the 380 figures in these field notes come from a sentence that names Klarna. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+11 of the 396 figures in these field notes come from a sentence that names Klarna. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about what Klarna did and some come from pieces that only cite it as precedent — a figure quoted while arguing about someone else's rollout belongs here too, because that is the sentence someone searching for the case is looking for. The sentence tells you which is which.
 
@@ -17,11 +17,14 @@ Some of these are about what Klarna did and some come from pieces that only cite
 - **$4 million** — “Klarna ran that sequence backwards, and the $4 million showed up on the books months before the CSAT number showed up to argue with it.” (2026-08-16) [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - **$4 million** — “This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one.” (2026-08-16) [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - **$40 million** — “Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months.” (2026-08-10) [→](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
+- **$40 million per year** — “In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.” (2026-08-08) [→](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
+- **$40 million** — “Klarna's $40 million was probably accurate on the day it was published.” (2026-08-08) [→](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 
-[All 380 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 396 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
-## Where these 9 came from
+## Where these 11 came from
 
+- [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 - [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/35)
 - [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/38)
 
@@ -29,7 +32,7 @@ Some of these are about what Klarna did and some come from pieces that only cite
 
 **A Klarna figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=Klarna). The form already knows it is about Klarna.
 
-**Or is one of the 9 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=Klarna&title=%5Bcorrection%5D+Klarna) — the form already knows it is about Klarna; you only have to say what the number is now.
+**Or is one of the 11 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=Klarna&title=%5Bcorrection%5D+Klarna) — the form already knows it is about Klarna; you only have to say what the number is now.
 
 ---
 

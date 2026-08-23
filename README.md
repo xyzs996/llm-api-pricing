@@ -5,7 +5,7 @@
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-40 write-ups on what those bills looked like in production.
+43 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (60 models)
 
@@ -51,9 +51,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (380 rows)
+## The figures, as data (396 rows)
 
-Every figure published across the 40 write-ups —
+Every figure published across the 43 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -76,7 +76,7 @@ recent write-ups — quoted verbatim, not summarised:
 | `$1,000` | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. | [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](articles/how-indie-developers-are-building-ai-powered-digital.md) |
 | `40-second` | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. | [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md) |
 
-[All 380 rows](figures.md) — or as data:
+[All 396 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -137,9 +137,9 @@ write-ups land there first.
 **Reading this with a model?** [llms.txt](https://xyzs996.github.io/llm-api-pricing/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
-**By provider.** [GPT-5.6](providers/gpt-5-6.md) (19) · [Claude](providers/claude.md) (11) · [WorkBuddy](providers/workbuddy.md) (10) · [BrowserAct](providers/browseract.md) (9) · [Klarna](providers/klarna.md) (9) · [Fable 5](providers/fable-5.md) (7) · [ChatGPT](providers/chatgpt.md) (4) · [GPT-5](providers/gpt-5.md) (4) — every figure whose sentence names it, with the date.
+**By provider.** [GPT-5.6](providers/gpt-5-6.md) (19) · [WorkBuddy](providers/workbuddy.md) (12) · [BrowserAct](providers/browseract.md) (11) · [Claude](providers/claude.md) (11) · [Klarna](providers/klarna.md) (11) · [Fable 5](providers/fable-5.md) (7) · [ChatGPT](providers/chatgpt.md) (4) · [GPT-5](providers/gpt-5.md) (4) — every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (13) · [Automation Systems](topics/automation-systems.md) (12) · [SaaS Business](topics/saas-business.md) (9) · [AI Costs](topics/ai-costs.md) (7) · [AI Implementation](topics/ai-implementation.md) (7) · [Niche Market](topics/niche-market.md) (7) · [Productivity](topics/productivity.md) (7) · [AI Programming](topics/ai-programming.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Features](topics/ai-features.md) (5) · [Artificial Intelligence](topics/artificial-intelligence.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (14) · [Automation Systems](topics/automation-systems.md) (13) · [SaaS Business](topics/saas-business.md) (9) · [AI Implementation](topics/ai-implementation.md) (8) · [Niche Market](topics/niche-market.md) (8) · [AI Costs](topics/ai-costs.md) (7) · [Productivity](topics/productivity.md) (7) · [AI Programming](topics/ai-programming.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Features](topics/ai-features.md) (5) · [Artificial Intelligence](topics/artificial-intelligence.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Code Review](topics/code-review.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -257,6 +257,12 @@ Selling one workflow to a hundred people costs roughly what selling it to one pe
 
 `Recurring Revenue` `Cost Savings` `SaaS Business` `AI Features`
 
+### [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
+
+In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.
+
+`Business` `AI Implementation` `Automation Systems` `Enterprise Automation`
+
 ### [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
 MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read.
@@ -269,11 +275,23 @@ Claude Code and Codex offer powerful tools for office automation, improving task
 
 `Technology` `Productivity` `SaaS Business` `AI Features`
 
+### [Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month](articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.md)
+
+The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…
+
+`AI` `Digital Marketing` `Entrepreneurship` `Content Marketing`
+
 ### [Sell It Before You Build It: How Indie Devs Validate AI Products](articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
 
 `Productivity` `AI Costs` `Automation Systems` `Indie Development`
+
+### [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
+
+The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
+
+`Automation` `Passive Income` `Niche Market` `Indie Development`
 
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 

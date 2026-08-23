@@ -79,13 +79,13 @@ In those setups the person you talk to is the owner, the operator, and the one h
 
 **Read next**
 
+- [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
-- [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
-[All 40 write-ups](../README.md)
+[All 43 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 366 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 382 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md)
 
