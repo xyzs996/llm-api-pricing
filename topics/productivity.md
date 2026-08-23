@@ -4,7 +4,7 @@
 
 ## The figures
 
-- **80%** — For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. [→](../articles/office-automation-with-claude-code-and-codex.md)
+- **80%** — For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. [→](../articles/claude-code-and-codex-for-office-automation.md)
 - **$55k** — James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **90%** — 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. [→](../articles/best-practices-for-ai-agent-skill-management.md)
@@ -23,6 +23,10 @@ Managing AI Agent skills is not merely about tools; it's about designing workflo
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18)
 
+### [Claude Code and Codex for Office Automation](../articles/claude-code-and-codex-for-office-automation.md)
+
+Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
+
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 A six-hour Chrome extension pays $400 a month.
@@ -34,12 +38,6 @@ A six-hour Chrome extension pays $400 a month.
 The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/24)
-
-### [Office Automation with Claude Code and Codex](../articles/office-automation-with-claude-code-and-codex.md)
-
-Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59)
 
 ### [Sell It Before You Build It: How Indie Devs Validate AI Products](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 

@@ -166,7 +166,7 @@ Loop engineering offers several key advantages.
 
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
-- [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
+- [AI Model Costs: Beyond Per-Token Pricing](ai-model-costs-beyond-per-token-pricing.md)
 
 [All 49 write-ups](../README.md)
 

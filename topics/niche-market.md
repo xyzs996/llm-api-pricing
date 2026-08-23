@@ -29,6 +29,10 @@ You can build AI-generated local business websites, rent them to plumbers or den
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57)
 
+### [AI Side Hustle: Stop Selling Hours, Start Selling Plans](../articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md)
+
+The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
+
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 A six-hour Chrome extension pays $400 a month.
@@ -40,12 +44,6 @@ A six-hour Chrome extension pays $400 a month.
 Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/60)
-
-### [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](../articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
-
-The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
 
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 

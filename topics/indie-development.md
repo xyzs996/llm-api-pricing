@@ -29,17 +29,19 @@ A developer in China’s AI community achieved 5x productivity gains using loop 
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/15)
 
+### [AI Model Costs: Beyond Per-Token Pricing](../articles/ai-model-costs-beyond-per-token-pricing.md)
+
+Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
+
+### [AI Side Hustle: Stop Selling Hours, Start Selling Plans](../articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md)
+
+The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
+
 ### [AI Took Over My Coding. What Broke Was How I Learn.](../articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 
 One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/45)
-
-### [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
-
-Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20)
 
 ### [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
@@ -70,12 +72,6 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48)
-
-### [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](../articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
-
-The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
 
 ### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 

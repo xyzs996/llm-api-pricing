@@ -71,9 +71,9 @@ Cheap code did not make engineering cheap. It moved the whole cost into the part
 
 **Read next**
 
-- [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
+- [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
 [All 49 write-ups](../README.md)
 

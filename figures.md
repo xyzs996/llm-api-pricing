@@ -203,6 +203,26 @@ Published 2026-08-10.
 | `$0` | price | Outreach: $0 if you send the emails yourself; a monthly fee once you automate with Lemlist |
 | `2 hours` | duration | - Month 4+: 2 hours/week for maintenance |
 
+## [AI Model Costs: Beyond Per-Token Pricing](https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html)
+
+Published 2026-08-05.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `60 percent` | percent | Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requires, not from the price per token. |
+| `$1` per million | price | Here is what thinking depth costs in practice, why project context rather than generated code drives most of the bill, and what the $1-per-million tier tells you about where this market is heading. |
+| `60 percent` | percent | Microsoft's testing puts that effect at roughly 60 percent of the observed cost spread, which makes it the dominant term and the unit price the correction. |
+| `60 percent` | percent | A 60 percent price advantage measured on an isolated function can disappear entirely in a real repository, because the cheap model reads the same context the expensive one does and then needs another round to get it right. |
+| `400 tokens` | tokens | Anthropic's SKILL.md file runs about 400 tokens, uses a two-pass approach with specific aesthetic guidance, and has passed 1.08 million installations. |
+| `400-token` | tokens | A 400-token file at that install count is worth staring at for a moment, because it says the effective intervention was guidance rather than tooling, and it cost almost nothing per call to apply. |
+| `$1` per million tokens | price | DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin. |
+| `20 percent` | percent | DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin. |
+| `900 million tokens` | tokens | MonkeyCode's free tier includes 900 million tokens, which is more than most competing coding tools offer and more than a solo developer working normally will exhaust. |
+| `$19 billion` | price | Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years. |
+| `$1` | price | My reading, and I could be wrong about the timing, is that the $1 tier holds while that build-out is being financed and that the pressure surfaces later as capacity limits rather than as price rises. |
+| `$19 billion` | price | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
+| `12 months` | duration | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
+
 ## [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](https://xyzs996.github.io/llm-api-pricing/articles/ai-programming-tool-selection-strategy-from-rapid.html)
 
 Published 2026-08-07.
@@ -212,6 +232,15 @@ Published 2026-08-07.
 | `70%` | percent | Meanwhile ChatGPT Work saves non-technical staff up to 70% of their time on cross-application tasks, and those same people would get nothing out of an IDE. |
 | `70%` | percent | They need the 70% time saving, and they need it without a repository. |
 | `70%` | percent | The 70% figure is real for the finance analyst pulling numbers across four applications, and it is close to meaningless for the person maintaining a service, because their bottleneck was never the typing. |
+
+## [AI Side Hustle: Stop Selling Hours, Start Selling Plans](https://xyzs996.github.io/llm-api-pricing/articles/ai-side-hustle-stop-selling-hours-start-selling-plans.html)
+
+Published 2026-08-13.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `20%` | percent | The efficiency target one operator set for themselves is specific and aggressive: compress delivery time to 20% of what it was. |
+| `5 minutes` | duration | Pairing WorkBuddy with BrowserAct gets a competitor pricing table in roughly 5 minutes and a product-opportunity report in about 7; a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, which leaves room for around 10 research runs daily before money enters the conversation at all. |
 
 ## [AI Took Over My Coding. What Broke Was How I Learn.](https://xyzs996.github.io/llm-api-pricing/articles/ai-took-over-my-coding-what-broke-was-how-i-learn.html)
 
@@ -248,26 +277,6 @@ Published 2026-08-17.
 | `70%` | percent | Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF data extraction to PPT report generation, cutting document processing time by 70%. |
 | `2 hours` | duration | One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. |
 | `10 hours` | duration | One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. |
-
-## [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html)
-
-Published 2026-08-05.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `60 percent` | percent | Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requires, not from the price per token. |
-| `$1` per million | price | Here is what thinking depth costs in practice, why project context rather than generated code drives most of the bill, and what the $1-per-million tier tells you about where this market is heading. |
-| `60 percent` | percent | Microsoft's testing puts that effect at roughly 60 percent of the observed cost spread, which makes it the dominant term and the unit price the correction. |
-| `60 percent` | percent | A 60 percent price advantage measured on an isolated function can disappear entirely in a real repository, because the cheap model reads the same context the expensive one does and then needs another round to get it right. |
-| `400 tokens` | tokens | Anthropic's SKILL.md file runs about 400 tokens, uses a two-pass approach with specific aesthetic guidance, and has passed 1.08 million installations. |
-| `400-token` | tokens | A 400-token file at that install count is worth staring at for a moment, because it says the effective intervention was guidance rather than tooling, and it cost almost nothing per call to apply. |
-| `$1` per million tokens | price | DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin. |
-| `20 percent` | percent | DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin. |
-| `900 million tokens` | tokens | MonkeyCode's free tier includes 900 million tokens, which is more than most competing coding tools offer and more than a solo developer working normally will exhaust. |
-| `$19 billion` | price | Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years. |
-| `$1` | price | My reading, and I could be wrong about the timing, is that the $1 tier holds while that build-out is being financed and that the pressure surfaces later as capacity limits rather than as price rises. |
-| `$19 billion` | price | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
-| `12 months` | duration | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
 
 ## [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](https://xyzs996.github.io/llm-api-pricing/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html)
 
@@ -317,6 +326,14 @@ Published 2026-08-12.
 | `20%` | percent | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
 | `60%` | percent | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
 | `12 months` | duration | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
+
+## [Claude Code and Codex for Office Automation](https://xyzs996.github.io/llm-api-pricing/articles/claude-code-and-codex-for-office-automation.html)
+
+Published 2026-08-22.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `80%` | percent | For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. |
 
 ## [Debunking the Myth of Overnight Success in Micro-SaaS](https://xyzs996.github.io/llm-api-pricing/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html)
 
@@ -433,14 +450,6 @@ Published 2026-08-16.
 | `900 million tokens` | tokens | Which means the honest answer to "how long does 900 million tokens last" is that it depends on your repository rather than on your discipline. |
 | `80 percent` | percent | Track consumption from the first week rather than from the first warning at 80 percent. |
 
-## [Office Automation with Claude Code and Codex](https://xyzs996.github.io/llm-api-pricing/articles/office-automation-with-claude-code-and-codex.html)
-
-Published 2026-08-22.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `80%` | percent | For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. |
-
 ## [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](https://xyzs996.github.io/llm-api-pricing/articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.html)
 
 Published 2026-08-05.
@@ -455,7 +464,7 @@ Published 2026-08-05.
 | `1%` | percent | The version of this I have seen bite hardest is on the payments side, where one developer's Stripe account was frozen for a dispute rate above 1% and 1,500-plus paying subscriptions stopped at once. |
 | `3 minutes` | duration | If you do not, 8 agents will get you to the wrong answer in 3 minutes instead of an afternoon, and the invoice arrives either way. |
 
-## [Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month](https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html)
+## [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html)
 
 Published 2026-08-09.
 
@@ -479,15 +488,6 @@ Published 2026-08-12.
 | `$30` per day | price | A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test. |
 | `$3` | price | A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test. |
 | `$4` | price | A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test. |
-
-## [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](https://xyzs996.github.io/llm-api-pricing/articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.html)
-
-Published 2026-08-13.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `20%` | percent | The efficiency target one operator set for themselves is specific and aggressive: compress delivery time to 20% of what it was. |
-| `5 minutes` | duration | Pairing WorkBuddy with BrowserAct gets a competitor pricing table in roughly 5 minutes and a product-opportunity report in about 7; a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, which leaves room for around 10 research runs daily before money enters the conversation at all. |
 
 ## [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](https://xyzs996.github.io/llm-api-pricing/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html)
 

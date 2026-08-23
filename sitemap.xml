@@ -3,7 +3,7 @@
   <url><loc>https://xyzs996.github.io/llm-api-pricing/</loc><lastmod>2026-08-23T09:55:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/figures.html</loc><lastmod>2026-08-23T09:55:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/llms.txt</loc><lastmod>2026-08-23T09:55:00Z</lastmod></url>
-  <url><loc>https://xyzs996.github.io/llm-api-pricing/prices.html</loc><lastmod>2026-08-22</lastmod></url>
+  <url><loc>https://xyzs996.github.io/llm-api-pricing/prices.html</loc><lastmod>2026-08-23</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/deepseek-peak-hours.html</loc><lastmod>2026-08-23</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/README_CN.html</loc><lastmod>2026-08-23T09:55:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/README_ES.html</loc><lastmod>2026-08-23T09:55:00Z</lastmod></url>
@@ -50,14 +50,16 @@
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html</loc><lastmod>2026-08-15T08:04:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.html</loc><lastmod>2026-08-09T11:27:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.html</loc><lastmod>2026-08-10T09:46:00Z</lastmod></url>
+  <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html</loc><lastmod>2026-08-05T10:17:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/ai-programming-tool-selection-strategy-from-rapid.html</loc><lastmod>2026-08-07T05:57:00Z</lastmod></url>
+  <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/ai-side-hustle-stop-selling-hours-start-selling-plans.html</loc><lastmod>2026-08-13T10:05:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/ai-took-over-my-coding-what-broke-was-how-i-learn.html</loc><lastmod>2026-08-13T11:30:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/best-practices-for-ai-agent-skill-management.html</loc><lastmod>2026-08-21T11:57:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html</loc><lastmod>2026-08-17T07:34:00Z</lastmod></url>
-  <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html</loc><lastmod>2026-08-05T10:17:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html</loc><lastmod>2026-08-19T10:26:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/charge-per-conversation-not-per-seat-the-billing-model.html</loc><lastmod>2026-08-15T11:20:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html</loc><lastmod>2026-08-12T07:42:00Z</lastmod></url>
+  <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/claude-code-and-codex-for-office-automation.html</loc><lastmod>2026-08-22T08:25:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html</loc><lastmod>2026-08-21T09:39:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.html</loc><lastmod>2026-08-18T11:52:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/how-chinese-developers-are-using-codex-record-replay-to.html</loc><lastmod>2026-08-05T12:38:00Z</lastmod></url>
@@ -66,11 +68,9 @@
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.html</loc><lastmod>2026-08-23T09:55:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/klarna-replaced-700-support-agents-with-ai-then-it-started.html</loc><lastmod>2026-08-08T12:27:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html</loc><lastmod>2026-08-16T08:07:00Z</lastmod></url>
-  <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/office-automation-with-claude-code-and-codex.html</loc><lastmod>2026-08-22T08:25:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.html</loc><lastmod>2026-08-05T06:08:00Z</lastmod></url>
-  <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html</loc><lastmod>2026-08-09T14:36:00Z</lastmod></url>
+  <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html</loc><lastmod>2026-08-09T14:36:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html</loc><lastmod>2026-08-12T11:39:00Z</lastmod></url>
-  <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.html</loc><lastmod>2026-08-13T10:05:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html</loc><lastmod>2026-08-19T11:56:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.html</loc><lastmod>2026-08-22T11:53:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/llm-api-pricing/articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.html</loc><lastmod>2026-08-20T11:46:00Z</lastmod></url>

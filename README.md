@@ -11,13 +11,13 @@ Two things: a price table re-read from OpenRouter's catalog every day, and
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (3.4×–7.9×). Read **2026-08-22**; the three cheapest *to run*:
+median **6.5×** (3.4×–7.9×). Read **2026-08-23**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
-| **$0.0283** | $0.0187 | $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #3 androidnative |
-| **$0.0522** | $0.0345 | $0.4138 | $0.8275 | DeepSeek V4 Pro 0423 | #27 godotgamedev |
-| **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.6 Flash `batch` | #6 agenticgamedev |
+| **$0.0283** | $0.0187 | $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #2 agenticgamedev |
+| **$0.0501** | $0.0331 | $0.3969 | $0.7938 | DeepSeek V4 Pro 0423 | #27 godotgamedev |
+| **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.6 Flash `batch` | #7 agenticgamedev |
 
 [All 60 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
@@ -67,7 +67,7 @@ recent write-ups — quoted verbatim, not summarised:
 | `20%` | Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. | [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md) |
 | `$22,000` | Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative. | [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md) |
 | `1000-token` | Still, I'd say the Pi base framework's 1000-token limit seems overstated. | [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md) |
-| `80%` | For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. | [Office Automation with Claude Code and Codex](articles/office-automation-with-claude-code-and-codex.md) |
+| `80%` | For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. | [Claude Code and Codex for Office Automation](articles/claude-code-and-codex-for-office-automation.md) |
 | `$1.43` | The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. | [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) |
 | `$29` | Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. | [Debunking the Myth of Overnight Success in Micro-SaaS](articles/debunking-the-myth-of-overnight-success-in-micro-saas.md) |
 | `90%` | 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. | [Best Practices for AI Agent Skill Management](articles/best-practices-for-ai-agent-skill-management.md) |
@@ -185,11 +185,23 @@ You can build AI-generated local business websites, rent them to plumbers or den
 
 `AI Tools` `Local SEO` `Niche Market` `Revenue Growth` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57)
 
+### [AI Model Costs: Beyond Per-Token Pricing](articles/ai-model-costs-beyond-per-token-pricing.md)
+
+Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
+
+`AI Systems` `AI Implementation` `AI Pricing` `Indie Development`
+
 ### [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
 A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens.
 
 `AI Implementation` `AI Costs` `Development Tools` `Enterprise Automation` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/16)
+
+### [AI Side Hustle: Stop Selling Hours, Start Selling Plans](articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md)
+
+The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
+
+`Automation` `Passive Income` `Niche Market` `Indie Development`
 
 ### [AI Took Over My Coding. What Broke Was How I Learn.](articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 
@@ -209,12 +221,6 @@ Codex's office automation capabilities, which are severely underestimated, can b
 
 `Codex` `AI Programming` `Automation Systems` `Office Automation` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/19)
 
-### [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
-
-Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
-
-`AI Systems` `AI Implementation` `AI Pricing` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20)
-
 ### [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md)
 
 One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed us…
@@ -232,6 +238,12 @@ Respond.io bills its customers for every contact who had a conversation in a giv
 Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.
 
 `Code Review` `AI Costs` `Indie Development` `Development Tools` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22)
+
+### [Claude Code and Codex for Office Automation](articles/claude-code-and-codex-for-office-automation.md)
+
+Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
+
+`Technology` `Productivity` `SaaS Business` `AI Features`
 
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
@@ -281,35 +293,23 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 
 `Open-Source` `AI Costs` `Indie Development` `Development Tools` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/28)
 
-### [Office Automation with Claude Code and Codex](articles/office-automation-with-claude-code-and-codex.md)
-
-Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity.
-
-`Technology` `Productivity` `SaaS Business` `AI Features` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59)
-
 ### [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
 Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…
 
 `AI Agents` `Revenue Growth` `Niche Market` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/60)
 
-### [Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month](articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.md)
+### [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
 
 The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…
 
-`AI` `Digital Marketing` `Entrepreneurship` `Content Marketing` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/61)
+`AI` `Digital Marketing` `Entrepreneurship` `Content Marketing`
 
 ### [Sell It Before You Build It: How Indie Devs Validate AI Products](articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
 
 `Productivity` `AI Costs` `Automation Systems` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48)
-
-### [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
-
-The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…
-
-`Automation` `Passive Income` `Niche Market` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/49)
 
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 

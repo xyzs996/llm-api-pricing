@@ -68,8 +68,8 @@ Another advantageous tool is OpenWorker. It automates tasks across 25+ tools. Ho
 **Read next**
 
 - [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
+- [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
-- [Office Automation with Claude Code and Codex](office-automation-with-claude-code-and-codex.md)
 
 [All 49 write-ups](../README.md)
 

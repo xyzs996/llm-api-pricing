@@ -1100,6 +1100,149 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/57"
   },
   {
+    "value": "60 percent",
+    "kind": "percent",
+    "unit": "",
+    "context": "Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requires, not from the price per token.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$1",
+    "kind": "price",
+    "unit": "per million",
+    "context": "Here is what thinking depth costs in practice, why project context rather than generated code drives most of the bill, and what the $1-per-million tier tells you about where this market is heading.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "60 percent",
+    "kind": "percent",
+    "unit": "",
+    "context": "Microsoft's testing puts that effect at roughly 60 percent of the observed cost spread, which makes it the dominant term and the unit price the correction.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "60 percent",
+    "kind": "percent",
+    "unit": "",
+    "context": "A 60 percent price advantage measured on an isolated function can disappear entirely in a real repository, because the cheap model reads the same context the expensive one does and then needs another round to get it right.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "400 tokens",
+    "kind": "tokens",
+    "unit": "",
+    "context": "Anthropic's SKILL.md file runs about 400 tokens, uses a two-pass approach with specific aesthetic guidance, and has passed 1.08 million installations.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "400-token",
+    "kind": "tokens",
+    "unit": "",
+    "context": "A 400-token file at that install count is worth staring at for a moment, because it says the effective intervention was guidance rather than tooling, and it cost almost nothing per call to apply.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$1",
+    "kind": "price",
+    "unit": "per million tokens",
+    "context": "DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "20 percent",
+    "kind": "percent",
+    "unit": "",
+    "context": "DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "900 million tokens",
+    "kind": "tokens",
+    "unit": "",
+    "context": "MonkeyCode's free tier includes 900 million tokens, which is more than most competing coding tools offer and more than a solo developer working normally will exhaust.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$19 billion",
+    "kind": "price",
+    "unit": "",
+    "context": "Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$1",
+    "kind": "price",
+    "unit": "",
+    "context": "My reading, and I could be wrong about the timing, is that the $1 tier holds while that build-out is being financed and that the pressure surfaces later as capacity limits rather than as price rises.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$19 billion",
+    "kind": "price",
+    "unit": "",
+    "context": "Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "12 months",
+    "kind": "duration",
+    "unit": "",
+    "context": "Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months.",
+    "article": "AI Model Costs: Beyond Per-Token Pricing",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "70%",
     "kind": "percent",
     "unit": "",
@@ -1131,6 +1274,28 @@
     "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-programming-tool-selection-strategy-from-rapid.html",
     "medium": "",
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/16"
+  },
+  {
+    "value": "20%",
+    "kind": "percent",
+    "unit": "",
+    "context": "The efficiency target one operator set for themselves is specific and aggressive: compress delivery time to 20% of what it was.",
+    "article": "AI Side Hustle: Stop Selling Hours, Start Selling Plans",
+    "published": "2026-08-13",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-side-hustle-stop-selling-hours-start-selling-plans.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "5 minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "Pairing WorkBuddy with BrowserAct gets a competitor pricing table in roughly 5 minutes and a product-opportunity report in about 7; a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, which leaves room for around 10 research runs daily before money enters the conversation at all.",
+    "article": "AI Side Hustle: Stop Selling Hours, Start Selling Plans",
+    "published": "2026-08-13",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/ai-side-hustle-stop-selling-hours-start-selling-plans.html",
+    "medium": "",
+    "thread": ""
   },
   {
     "value": "$40 million",
@@ -1296,149 +1461,6 @@
     "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html",
     "medium": "",
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/19"
-  },
-  {
-    "value": "60 percent",
-    "kind": "percent",
-    "unit": "",
-    "context": "Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requires, not from the price per token.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
-  },
-  {
-    "value": "$1",
-    "kind": "price",
-    "unit": "per million",
-    "context": "Here is what thinking depth costs in practice, why project context rather than generated code drives most of the bill, and what the $1-per-million tier tells you about where this market is heading.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
-  },
-  {
-    "value": "60 percent",
-    "kind": "percent",
-    "unit": "",
-    "context": "Microsoft's testing puts that effect at roughly 60 percent of the observed cost spread, which makes it the dominant term and the unit price the correction.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
-  },
-  {
-    "value": "60 percent",
-    "kind": "percent",
-    "unit": "",
-    "context": "A 60 percent price advantage measured on an isolated function can disappear entirely in a real repository, because the cheap model reads the same context the expensive one does and then needs another round to get it right.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
-  },
-  {
-    "value": "400 tokens",
-    "kind": "tokens",
-    "unit": "",
-    "context": "Anthropic's SKILL.md file runs about 400 tokens, uses a two-pass approach with specific aesthetic guidance, and has passed 1.08 million installations.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
-  },
-  {
-    "value": "400-token",
-    "kind": "tokens",
-    "unit": "",
-    "context": "A 400-token file at that install count is worth staring at for a moment, because it says the effective intervention was guidance rather than tooling, and it cost almost nothing per call to apply.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
-  },
-  {
-    "value": "$1",
-    "kind": "price",
-    "unit": "per million tokens",
-    "context": "DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
-  },
-  {
-    "value": "20 percent",
-    "kind": "percent",
-    "unit": "",
-    "context": "DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
-  },
-  {
-    "value": "900 million tokens",
-    "kind": "tokens",
-    "unit": "",
-    "context": "MonkeyCode's free tier includes 900 million tokens, which is more than most competing coding tools offer and more than a solo developer working normally will exhaust.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
-  },
-  {
-    "value": "$19 billion",
-    "kind": "price",
-    "unit": "",
-    "context": "Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
-  },
-  {
-    "value": "$1",
-    "kind": "price",
-    "unit": "",
-    "context": "My reading, and I could be wrong about the timing, is that the $1 tier holds while that build-out is being financed and that the pressure surfaces later as capacity limits rather than as price rises.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
-  },
-  {
-    "value": "$19 billion",
-    "kind": "price",
-    "unit": "",
-    "context": "Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
-  },
-  {
-    "value": "12 months",
-    "kind": "duration",
-    "unit": "",
-    "context": "Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months.",
-    "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-    "published": "2026-08-05",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/20"
   },
   {
     "value": "9.1%",
@@ -1747,6 +1769,17 @@
     "url": "https://xyzs996.github.io/llm-api-pricing/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html",
     "medium": "",
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/22"
+  },
+  {
+    "value": "80%",
+    "kind": "percent",
+    "unit": "",
+    "context": "For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency.",
+    "article": "Claude Code and Codex for Office Automation",
+    "published": "2026-08-22",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/claude-code-and-codex-for-office-automation.html",
+    "medium": "",
+    "thread": ""
   },
   {
     "value": "$400",
@@ -2398,17 +2431,6 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/28"
   },
   {
-    "value": "80%",
-    "kind": "percent",
-    "unit": "",
-    "context": "For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency.",
-    "article": "Office Automation with Claude Code and Codex",
-    "published": "2026-08-22",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/office-automation-with-claude-code-and-codex.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/59"
-  },
-  {
     "value": "2 months",
     "kind": "duration",
     "unit": "",
@@ -2490,77 +2512,77 @@
     "kind": "price",
     "unit": "",
     "context": "The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, you rank it in Google for the searches that category gets, and then you rent the finished site to one business in that town for somewhere between $500 and $3,000 a month.",
-    "article": "Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month",
+    "article": "Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month",
     "published": "2026-08-09",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html",
     "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/61"
+    "thread": ""
   },
   {
     "value": "$3,000",
     "kind": "price",
     "unit": "per month",
     "context": "The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, you rank it in Google for the searches that category gets, and then you rent the finished site to one business in that town for somewhere between $500 and $3,000 a month.",
-    "article": "Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month",
+    "article": "Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month",
     "published": "2026-08-09",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html",
     "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/61"
+    "thread": ""
   },
   {
     "value": "$55,000",
     "kind": "price",
     "unit": "",
     "context": "BackPedal makes the point in an adjacent category: founder James Dunn pairs GPS trackers with an offline recovery team and runs about $55,000 in monthly recurring revenue, and the moat is not the tracker.",
-    "article": "Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month",
+    "article": "Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month",
     "published": "2026-08-09",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html",
     "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/61"
+    "thread": ""
   },
   {
     "value": "$800",
     "kind": "price",
     "unit": "per month",
     "context": "A plumber comparing $800 a month to the cost of one lost emergency job is doing arithmetic that favors you.",
-    "article": "Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month",
+    "article": "Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month",
     "published": "2026-08-09",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html",
     "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/61"
+    "thread": ""
   },
   {
     "value": "$800",
     "kind": "price",
     "unit": "per month",
     "context": "A plumber comparing $800 a month to what a website \"should\" cost is doing arithmetic you introduced by accident.",
-    "article": "Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month",
+    "article": "Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month",
     "published": "2026-08-09",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html",
     "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/61"
+    "thread": ""
   },
   {
     "value": "$500",
     "kind": "price",
     "unit": "",
     "context": "Every figure in this article comes from operators describing their own results, and the $500 to $3,000 range is a report rather than a distribution — I have no idea what the median is, or how many sites never rent at all.",
-    "article": "Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month",
+    "article": "Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month",
     "published": "2026-08-09",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html",
     "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/61"
+    "thread": ""
   },
   {
     "value": "$3,000",
     "kind": "price",
     "unit": "",
     "context": "Every figure in this article comes from operators describing their own results, and the $500 to $3,000 range is a report rather than a distribution — I have no idea what the median is, or how many sites never rent at all.",
-    "article": "Rank and Rent: Building Local SEO Sites That Earn $500 to $3,000 a Month",
+    "article": "Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month",
     "published": "2026-08-09",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.html",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html",
     "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/61"
+    "thread": ""
   },
   {
     "value": "5 minutes",
@@ -2605,28 +2627,6 @@
     "url": "https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html",
     "medium": "",
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/48"
-  },
-  {
-    "value": "20%",
-    "kind": "percent",
-    "unit": "",
-    "context": "The efficiency target one operator set for themselves is specific and aggressive: compress delivery time to 20% of what it was.",
-    "article": "Sell Plans, Not Hours: What an AI Side Hustle Actually Earns",
-    "published": "2026-08-13",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/49"
-  },
-  {
-    "value": "5 minutes",
-    "kind": "duration",
-    "unit": "",
-    "context": "Pairing WorkBuddy with BrowserAct gets a competitor pricing table in roughly 5 minutes and a product-opportunity report in about 7; a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, which leaves room for around 10 research runs daily before money enters the conversation at all.",
-    "article": "Sell Plans, Not Hours: What an AI Side Hustle Actually Earns",
-    "published": "2026-08-13",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/49"
   },
   {
     "value": "40-second",

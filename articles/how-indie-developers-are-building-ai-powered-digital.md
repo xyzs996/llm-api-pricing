@@ -79,7 +79,7 @@ In those setups the person you talk to is the owner, the operator, and the one h
 
 **Read next**
 
-- [Sell Plans, Not Hours: What an AI Side Hustle Actually Earns](sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md)
+- [AI Side Hustle: Stop Selling Hours, Start Selling Plans](ai-side-hustle-stop-selling-hours-start-selling-plans.md)
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 

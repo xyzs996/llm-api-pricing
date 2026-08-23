@@ -17,6 +17,10 @@
 
 ## The write-ups
 
+### [AI Model Costs: Beyond Per-Token Pricing](../articles/ai-model-costs-beyond-per-token-pricing.md)
+
+Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
+
 ### [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
 A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens.
@@ -28,12 +32,6 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/45)
-
-### [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
-
-Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20)
 
 ### [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](../articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md)
 

@@ -53,9 +53,9 @@ The six-hour build is real, and it is also the cheapest part of what happened. T
 
 **Read next**
 
-- [Office Automation with Claude Code and Codex](office-automation-with-claude-code-and-codex.md)
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
+- [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
 
 [All 49 write-ups](../README.md)
 
