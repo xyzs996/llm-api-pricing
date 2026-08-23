@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="0; url=./claude-code-and-codex-for-office-automation.html">
+
 # Office Automation With Claude Code And Codex
 
 This note is now titled **Claude Code and Codex for Office Automation** — the old wording turned out

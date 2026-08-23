@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="0; url=./ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.html">
+
 # Ai Generated Local Business Websites Don T Rent For 3 000
 
 This note is now titled **AI Local Websites Don’t Rent for $3K/Month—Until You Do This** — the old wording turned out

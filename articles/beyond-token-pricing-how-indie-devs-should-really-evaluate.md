@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="0; url=./ai-model-costs-beyond-per-token-pricing.html">
+
 # Beyond Token Pricing How Indie Devs Should Really Evaluate
 
 This note is now titled **AI Model Costs: Beyond Per-Token Pricing** — the old wording turned out

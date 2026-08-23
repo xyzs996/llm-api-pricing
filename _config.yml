@@ -177,6 +177,26 @@ defaults:
     values:
       description: "Every figure in these AI coding field notes whose sentence names GPT-5 — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
   - scope:
+      path: "articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md"
+    values:
+      canonical_url: "https://xyzs996.github.io/llm-api-pricing/articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.html"
+  - scope:
+      path: "articles/sell-plans-not-hours-what-an-ai-side-hustle-actually-earns.md"
+    values:
+      canonical_url: "https://xyzs996.github.io/llm-api-pricing/articles/ai-side-hustle-stop-selling-hours-start-selling-plans.html"
+  - scope:
+      path: "articles/rank-and-rent-building-local-seo-sites-that-earn-500-to-3.md"
+    values:
+      canonical_url: "https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html"
+  - scope:
+      path: "articles/office-automation-with-claude-code-and-codex.md"
+    values:
+      canonical_url: "https://xyzs996.github.io/llm-api-pricing/articles/claude-code-and-codex-for-office-automation.html"
+  - scope:
+      path: "articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md"
+    values:
+      canonical_url: "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html"
+  - scope:
       path: "articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md"
     values:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.png"

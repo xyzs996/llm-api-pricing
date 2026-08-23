@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="0; url=./ai-side-hustle-stop-selling-hours-start-selling-plans.html">
+
 # Sell Plans Not Hours What An Ai Side Hustle Actually Earns
 
 This note is now titled **AI Side Hustle: Stop Selling Hours, Start Selling Plans** — the old wording turned out
