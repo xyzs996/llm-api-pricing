@@ -169,6 +169,16 @@ If a transcription is wrong, that is a bug in the harness and not a finding abou
 
 That table is kept current in the open, one row per project, each linked to its own tracker: [the scoreboard](https://github.com/xyzs996/deepseek-peak-hours/issues/1). If you maintain one of the nine and have fixed it, or think the transcription of your code is wrong, or think a vector's expectation is wrong — that is the thread. It is the only place on this page where you can answer back, which is the point.
 
+### The schedule itself, as a file
+
+Everything above turns on one axis that most rate cards do not have a slot for: **which days the windows run on, and which calendar that day is counted on.** Seven of the nine had the hour arithmetic right and still billed the weekend at double, because there was nowhere in their data to put a weekday. So here is the schedule as data, public domain, re-generated with the rest of this site every day:
+
+```
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/schedule.json
+```
+
+`peak_weekdays` is `[1,2,3,4,5]`, ISO-8601, Monday first. `weekday_read_on` is `calendar_timezone`, and that second field is not decoration: an implementation that reads the weekday off the UTC instant matches this file at every hour of the live schedule and is still wrong from 16:00 UTC onward the day a vendor moves a window. The two effective instants — when time-of-use billing started, and when the weekend rule started — are separate fields for the same reason: they are five days apart, and a bill re-computed across that gap with only one of them is wrong at one end. The reference implementation named in the file consumes exactly this shape, and it refuses a schedule with no `peak_weekdays` rather than assuming Monday-to-Friday on your behalf.
+
 The daily price table these rates sit in, re-read every day: [the full catalog](https://xyzs996.github.io/llm-api-pricing/prices.html).
 
 ## If you came here because the bill surprised you

@@ -31,6 +31,14 @@
         "01:00-04:00",
         "06:00-10:00"
       ],
+      "peak_weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "peak_billing_from": "2026-08-17",
       "weekend_off_peak_from": "2026-08-23",
       "weekend_timezone": "Asia/Shanghai",
       "effective_off_peak": 0.053645,
@@ -61,6 +69,14 @@
         "01:00-04:00",
         "06:00-10:00"
       ],
+      "peak_weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "peak_billing_from": "2026-08-17",
       "weekend_off_peak_from": "2026-08-23",
       "weekend_timezone": "Asia/Shanghai",
       "effective_off_peak": 0.017563,
@@ -91,6 +107,14 @@
         "01:00-04:00",
         "06:00-10:00"
       ],
+      "peak_weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "peak_billing_from": "2026-08-17",
       "weekend_off_peak_from": "2026-08-23",
       "weekend_timezone": "Asia/Shanghai",
       "effective_off_peak": 0.017563,

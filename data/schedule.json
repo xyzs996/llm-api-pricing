@@ -1,0 +1,80 @@
+{
+  "$comment": "Time-of-use billing schedules with an explicit weekday axis, and an explicit statement of which calendar that weekday is read on. Public domain (CC0-1.0). Corrections welcome — see the reference implementation.",
+  "schema_version": 1,
+  "checked": "2026-08-23",
+  "reference_implementation": "https://github.com/xyzs996/deepseek-peak-hours",
+  "reference_implementation_note": "~30 lines, Python and dependency-free JavaScript, plus dated boundary vectors. It consumes this shape: feed a provider entry and an instant, get peak/off-peak and the next change.",
+  "providers": {
+    "deepseek": {
+      "source": {
+        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+        "checked": "2026-08-23"
+      },
+      "calendar_timezone": "Asia/Shanghai",
+      "calendar_utc_offset_hours": 8.0,
+      "peak_windows_utc": [
+        [
+          "01:00",
+          "04:00"
+        ],
+        [
+          "06:00",
+          "10:00"
+        ]
+      ],
+      "peak_weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "peak_weekdays_note": "ISO-8601 weekday numbers, 1 = Monday.",
+      "weekday_read_on": "calendar_timezone",
+      "offpeak_multiplier": 0.5,
+      "models": {
+        "deepseek-v4-pro": {
+          "off_peak": {
+            "cache_read": 0.022,
+            "input": 0.66,
+            "output": 1.98
+          },
+          "peak": {
+            "cache_read": 0.044,
+            "input": 1.32,
+            "output": 3.96
+          },
+          "unit": "USD per million tokens"
+        },
+        "deepseek-v4-flash": {
+          "off_peak": {
+            "cache_read": 0.007,
+            "input": 0.22,
+            "output": 0.66
+          },
+          "peak": {
+            "cache_read": 0.014,
+            "input": 0.44,
+            "output": 1.32
+          },
+          "unit": "USD per million tokens"
+        },
+        "deepseek-v4-flash-vision-exp": {
+          "off_peak": {
+            "cache_read": 0.007,
+            "input": 0.22,
+            "output": 0.66
+          },
+          "peak": {
+            "cache_read": 0.014,
+            "input": 0.44,
+            "output": 1.32
+          },
+          "unit": "USD per million tokens"
+        }
+      },
+      "peak_billing_effective_utc": "2026-08-16T16:00:00Z",
+      "weekend_offpeak_effective_utc": "2026-08-22T16:00:00Z"
+    }
+  }
+}
