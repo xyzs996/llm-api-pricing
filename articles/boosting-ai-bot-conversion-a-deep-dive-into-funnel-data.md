@@ -76,9 +76,9 @@ The reported enterprise case reached 55.1% from 9.1% through exactly that loop: 
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 - [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
-[All 34 write-ups](../README.md)
+[All 35 write-ups](../README.md)
 
-The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 330 more, as JSON and CSV.
+The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 333 more, as JSON and CSV.
 
 Topics: [AI Implementation](../topics/ai-implementation.md)
 

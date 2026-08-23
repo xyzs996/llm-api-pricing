@@ -1,6 +1,6 @@
 # AI Coding Field Notes
 
-> 34 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
+> 35 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
 
 Every number in these notes traces back to a named source. Figures without one were cut before publishing.
 
@@ -18,7 +18,7 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 ## Dataset
 
-- [Every published figure, 338 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
+- [Every published figure, 341 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv): the same rows, one line each.
 
@@ -182,11 +182,11 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [Productivity](https://xyzs996.github.io/llm-api-pricing/topics/productivity.html): 6 write-ups.
 - [AI Programming](https://xyzs996.github.io/llm-api-pricing/topics/ai-programming.html): 5 write-ups.
 - [Cost Savings](https://xyzs996.github.io/llm-api-pricing/topics/cost-savings.html): 5 write-ups.
+- [Development Tools](https://xyzs996.github.io/llm-api-pricing/topics/development-tools.html): 5 write-ups.
 - [AI Features](https://xyzs996.github.io/llm-api-pricing/topics/ai-features.html): 4 write-ups.
 - [Artificial Intelligence](https://xyzs996.github.io/llm-api-pricing/topics/artificial-intelligence.html): 4 write-ups.
-- [Development Tools](https://xyzs996.github.io/llm-api-pricing/topics/development-tools.html): 4 write-ups.
+- [Chinese AI](https://xyzs996.github.io/llm-api-pricing/topics/chinese-ai.html): 4 write-ups.
 - [AI Tools](https://xyzs996.github.io/llm-api-pricing/topics/ai-tools.html): 3 write-ups.
-- [Chinese AI](https://xyzs996.github.io/llm-api-pricing/topics/chinese-ai.html): 3 write-ups.
 - [Code Review](https://xyzs996.github.io/llm-api-pricing/topics/code-review.html): 3 write-ups.
 - [Micro SaaS](https://xyzs996.github.io/llm-api-pricing/topics/micro-saas.html): 3 write-ups.
 - [Token Optimization](https://xyzs996.github.io/llm-api-pricing/topics/token-optimization.html): 3 write-ups.
@@ -219,6 +219,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://xyzs996.github.io/llm-api-pricing/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html): Of the 27 AI-powered micro-SaaS projects that generated predictable monthly revenue in a recent analysis, every profitable one used at least three of the same five architectural components. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/31
 - [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](https://xyzs996.github.io/llm-api-pricing/articles/the-ai-branding-revolution-how-indie-developers-are.html): Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/32
 - [The First Line of Defense in AI Programming: Environment Variable Management](https://xyzs996.github.io/llm-api-pricing/articles/the-first-line-of-defense-in-ai-programming-environment.html): MonkeyCode ships with 900 million free tokens and supports private deployment, which tells you exactly what its users are doing: pointing an AI coding tool at their own keys, on their own infrastru… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/33
+- [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.html): English write-ups rank these tools on model quality and price per token.
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html): "Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option." Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/34
 - [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](https://xyzs996.github.io/llm-api-pricing/articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.html): Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/35
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](https://xyzs996.github.io/llm-api-pricing/articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.html): On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/36

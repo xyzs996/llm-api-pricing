@@ -1,6 +1,6 @@
 # WorkBuddy costs and claims: every figure from a sentence that names it
 
-7 of the 338 figures in these field notes come from a sentence that names WorkBuddy. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+7 of the 341 figures in these field notes come from a sentence that names WorkBuddy. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about WorkBuddy and some only measure against it — a competitor's price quoted next to WorkBuddy's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -16,7 +16,7 @@ Some of these are about WorkBuddy and some only measure against it — a competi
 - **7 minutes** — “Similarly, WorkBuddy and BrowserAct can automate competitor price tracking and generate product opportunity reports in under 7 minutes — something to put in front of a skeptical client while the sandbox clock runs.” (2026-08-10) [→](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
 - **5 minutes** — “The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All 338 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 341 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
 ## Where these 7 came from
 

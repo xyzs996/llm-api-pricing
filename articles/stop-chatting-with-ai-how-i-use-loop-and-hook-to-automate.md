@@ -49,9 +49,9 @@ Once your timed loops and event hooks are handling the daily grind, your actual 
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - [Office Automation with Claude Code and Codex](office-automation-with-claude-code-and-codex.md)
 
-[All 34 write-ups](../README.md)
+[All 35 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 336 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 339 more, as JSON and CSV.
 
 Topics: [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md)
 

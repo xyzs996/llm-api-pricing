@@ -1,6 +1,6 @@
 # SaaS Business
 
-8 of the 34 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 35 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **90%** — AI branding tools like Miora let indie developers cut design costs by 90%. [→](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 - **$500** — Using AI tools to batch generate local SEO content reduces development costs for independent developers, accelerating website ranking on Google, after which the optimized site can be rented to local businesses for monthly revenue ranging from $500 to $3,000. [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 
-[All figures, 338 rows](../figures.md)
+[All figures, 341 rows](../figures.md)
 
 ## The write-ups
 
@@ -65,7 +65,7 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 34 write-ups](../README.md)
+[All 35 write-ups](../README.md)
 
 ---
 

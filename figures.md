@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-338 figures pulled out of 34 write-ups in
+341 figures pulled out of 35 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -472,6 +472,16 @@ Published 2026-08-08.
 | `30-second` | duration | The gap opens when someone pastes a key into a chat window to debug why a call is failing, which is a 30-second decision that puts a live credential into a log you do not control and cannot delete. |
 | `10 minutes` | duration | Setting this up takes 10 minutes on a new project and rather longer on an existing one, which is why people put it off. |
 
+## [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.html)
+
+Published 2026-08-23.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `10,000 token` | tokens | One project crashed when it hit an undocumented 10,000 token limit in one coding session. |
+| `20%` | percent | Developers should build buffer time into their workflows when using Chinese AI coding tools, which is illustrated by the fact that one developer added 20% extra time to their coding sessions when using these tools because of the higher frequency of stability issues. |
+| `30%` | percent | Those who have already made the switch to Chinese tools have seen productivity increases of up to 30%. |
+
 ## [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html)
 
 Published 2026-08-12.
@@ -631,5 +641,5 @@ Published 2026-08-11.
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "338 figures pulled out of 34 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-22", "dateModified": "2026-08-22"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "341 figures pulled out of 35 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
 </script>

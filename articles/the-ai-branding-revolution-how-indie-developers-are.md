@@ -100,9 +100,9 @@ The future belongs to indie developers who embrace AI as a partner, not a replac
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
-[All 34 write-ups](../README.md)
+[All 35 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 337 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 340 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [SaaS Business](../topics/saas-business.md) · [Cost Savings](../topics/cost-savings.md) · [AI Tools](../topics/ai-tools.md)
 

@@ -5,7 +5,7 @@
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-34 write-ups on what those bills looked like in production.
+35 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (60 models)
 
@@ -51,9 +51,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (338 rows)
+## The figures, as data (341 rows)
 
-Every figure published across the 34 write-ups —
+Every figure published across the 35 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -63,6 +63,7 @@ recent write-ups — quoted verbatim, not summarised:
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
+| `20%` | Developers should build buffer time into their workflows when using Chinese AI coding tools, which is illustrated by the fact that one developer added 20% extra time to their coding sessions when using these tools because of the higher frequency of stability issues. | [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md) |
 | `1000-token` | Still, I'd say the Pi base framework's 1000-token limit seems overstated. | [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md) |
 | `80%` | For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. | [Office Automation with Claude Code and Codex](articles/office-automation-with-claude-code-and-codex.md) |
 | `$1.43` | The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. | [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) |
@@ -74,9 +75,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `40-second` | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. | [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md) |
 | `9.1%` | One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed users were doing. | [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md) |
 | `$1.25` | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) |
-| `9x` | Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. | [Token Optimization for Indie Developers' AI API Bills](articles/token-optimization-for-indie-developers-ai-api-bills.md) |
 
-[All 338 rows](figures.md) — or as data:
+[All 341 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -139,7 +139,7 @@ write-ups land there first.
 
 **By provider.** [GPT-5.6](providers/gpt-5-6.md) (18) · [Klarna](providers/klarna.md) (9) · [Claude](providers/claude.md) (8) · [BrowserAct](providers/browseract.md) (7) · [WorkBuddy](providers/workbuddy.md) (7) · [Fable 5](providers/fable-5.md) (6) · [ChatGPT](providers/chatgpt.md) (4) — every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (12) · [Automation Systems](topics/automation-systems.md) (10) · [SaaS Business](topics/saas-business.md) (8) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [Niche Market](topics/niche-market.md) (6) · [Productivity](topics/productivity.md) (6) · [AI Programming](topics/ai-programming.md) (5) · [Cost Savings](topics/cost-savings.md) (5) · [AI Features](topics/ai-features.md) (4) · [Artificial Intelligence](topics/artificial-intelligence.md) (4) · [Development Tools](topics/development-tools.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Chinese AI](topics/chinese-ai.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (12) · [Automation Systems](topics/automation-systems.md) (10) · [SaaS Business](topics/saas-business.md) (8) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [Niche Market](topics/niche-market.md) (6) · [Productivity](topics/productivity.md) (6) · [AI Programming](topics/ai-programming.md) (5) · [Cost Savings](topics/cost-savings.md) (5) · [Development Tools](topics/development-tools.md) (5) · [AI Features](topics/ai-features.md) (4) · [Artificial Intelligence](topics/artificial-intelligence.md) (4) · [Chinese AI](topics/chinese-ai.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -298,6 +298,12 @@ Chris launched WiseMindAI last year and came out of a single session with Miora'
 MonkeyCode ships with 900 million free tokens and supports private deployment, which tells you exactly what its users are doing: pointing an AI coding tool at their own keys, on their own infrastru…
 
 `AI Development` `AI Programming` `Environment Variables` `AI Security` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/33)
+
+### [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
+
+English write-ups rank these tools on model quality and price per token.
+
+`AI Productivity` `Development Tools` `AI Pricing` `Chinese AI`
 
 ### [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 

@@ -1,19 +1,19 @@
 # Development Tools
 
-4 of the 34 write-ups here are tagged Development Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 35 write-ups here are tagged Development Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **30%** — Those who have already made the switch to Chinese tools have seen productivity increases of up to 30%. [→](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
+- **20%** — Developers should build buffer time into their workflows when using Chinese AI coding tools, which is illustrated by the fact that one developer added 20% extra time to their coding sessions when using these tools because of the higher frequency of stability issues. [→](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
 - **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **900 million tokens** — The free allocation is what people notice, since 900 million tokens is well beyond what most competing tools give away and beyond what a solo developer exhausts in normal work. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - **80 percent** — Track consumption from the first week rather than from the first warning at 80 percent. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - **$1.43** — For instance, GPT-5.6 Sol, while more expensive at $1.43 per run, shows superior performance with a 43.1% accuracy rate in the same ReactBench tests, which shows that cheaper models may save money upfront but can lead to longer development cycles due to frequent errors and rework. [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - **$1.43** — In contrast, GPT-5.6 Sol, at $1.43 per run, achieves 43.1% accuracy in the same tests, suggesting that while cheaper models may save money upfront, they often result in longer, more costly development processes. [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
-- **70%** — The 70% figure is real for the finance analyst pulling numbers across four applications, and it is close to meaningless for the person maintaining a service, because their bottleneck was never the typing. [→](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
-- **70%** — Meanwhile ChatGPT Work saves non-technical staff up to 70% of their time on cross-application tasks, and those same people would get nothing out of an IDE. [→](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
-[All figures, 338 rows](../figures.md)
+[All figures, 341 rows](../figures.md)
 
 ## The write-ups
 
@@ -41,9 +41,13 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/28)
 
+### [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
+
+English write-ups rank these tools on model quality and price per token.
+
 ---
 
-[All 34 write-ups](../README.md)
+[All 35 write-ups](../README.md)
 
 ---
 

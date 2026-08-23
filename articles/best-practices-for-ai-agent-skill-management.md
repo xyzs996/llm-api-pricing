@@ -71,9 +71,9 @@ Another advantageous tool is OpenWorker. It automates tasks across 25+ tools. Ho
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 - [Office Automation with Claude Code and Codex](office-automation-with-claude-code-and-codex.md)
 
-[All 34 write-ups](../README.md)
+[All 35 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 327 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 330 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Productivity](../topics/productivity.md) · [AI Programming](../topics/ai-programming.md) · [AI Features](../topics/ai-features.md)
 

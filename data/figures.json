@@ -2596,6 +2596,39 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/33"
   },
   {
+    "value": "10,000 token",
+    "kind": "tokens",
+    "unit": "",
+    "context": "One project crashed when it hit an undocumented 10,000 token limit in one coding session.",
+    "article": "The Hidden Costs of AI Coding Tools: What English Developers Don't Know",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "20%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Developers should build buffer time into their workflows when using Chinese AI coding tools, which is illustrated by the fact that one developer added 20% extra time to their coding sessions when using these tools because of the higher frequency of stability issues.",
+    "article": "The Hidden Costs of AI Coding Tools: What English Developers Don't Know",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "30%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Those who have already made the switch to Chinese tools have seen productivity increases of up to 30%.",
+    "article": "The Hidden Costs of AI Coding Tools: What English Developers Don't Know",
+    "published": "2026-08-23",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "95%",
     "kind": "percent",
     "unit": "",
