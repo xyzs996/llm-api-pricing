@@ -118,6 +118,24 @@ Worse, nothing catches it. Both peak windows sit clear of 16:00–24:00 UTC, so 
 
 A dated table that pins those edges, public domain: <https://github.com/xyzs996/deepseek-peak-hours>. The two vectors that discriminate are `2026-08-28T16:30:00Z` and `2026-08-30T16:30:00Z`.
 
+## What 46 implementations actually did with this rule
+
+Between 2026-08-18 and 2026-08-23 I read the pricing code of every public project I could find that implements this schedule — dashboards, cost meters, routers, IDE plugins, billing libraries — and filed **53 reports across 46 repositories**. Nine are fixed already. The repositories run from 15 stars to 53,665; the median is 55, so this is not a big-project problem or a small-project problem.
+
+They failed in four distinct ways, and they are worth knowing because the first one is not the interesting one.
+
+**1. No weekday axis at all.** The common case by a wide margin: a function that reads the hour and nothing else, so all 14 weekend hours inside the windows bill at **2×**. Usually three or four lines to fix.
+
+**2. The weekday read on the wrong clock.** Fixing (1) with `getUTCDay()` or `.weekday()` in UTC is correct *today* and silently wrong later, for the reason in the section above. It cannot be caught by any test written against the published windows, which means it will be found by a bill.
+
+**3. The rule applied retroactively.** The weekend rule took effect 2026-08-23. Halve every past weekend along with it and historical usage is under-reported by half — the opposite sign from (1), and much harder to notice, because a bill that looks cheap does not generate a support ticket.
+
+**4. Unknown models falling back to the priciest row.** Several projects resolve an unrecognised model id to a default that happens to be the expensive tier. `deepseek-v4-flash-vision-exp` shipped 2026-08-21 at flash rates; falling back to v4-pro is exactly **3×** on all three numbers, and **6×** stacked on top of (1) on a weekend.
+
+One finding did not fit any of the four. In one project the regression test for peak pricing pinned both of its instants to `2026-08-16` — a Sunday — and asserted the peak rate. The suite was green *because of* the bug. Worth grepping your own test dates for a weekend before trusting a green run on this.
+
+Maintainers were, almost without exception, quick and gracious about it; several shipped the same day. If your project is on this list and I have not reached it yet, the four checks above take about five minutes against your own code.
+
 The daily price table these rates sit in, re-read every day: [the full catalog](https://xyzs996.github.io/llm-api-pricing/prices.html).
 
 ---
