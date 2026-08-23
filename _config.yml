@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: AI Coding Field Notes
 description: >-
-  Coding agent pricing comparison: cheapest LLM API for coding, cost per million tokens, from the OpenRouter price list as JSON and CSV.
+  Coding agent pricing comparison: cheapest LLM API for coding, cost per million tokens, from the OpenRouter price list as JSON and CSV. Repriced at a real agent token mix — 95.6% cached input pricing, so the list price overstates the bill 6.5x: prompt caching price, cache read price, cache hit share, long context pricing, DeepSeek peak/off-peak.
 author: xyzs996
 show_downloads: false
 

@@ -13,11 +13,11 @@ A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
 median **6.5×** (3.4×–7.9×). Read **2026-08-22**; the three cheapest *to run*:
 
-| $ / 1M at agent mix | $ in | $ out | Model | Best agents rank |
-| --- | --- | --- | --- | --- |
-| **$0.0283** | $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #3 androidnative |
-| **$0.0522** | $0.4138 | $0.8275 | DeepSeek V4 Pro 0423 | #27 godotgamedev |
-| **$0.0566** | $0.375 | $1.875 | Gemini 3.6 Flash `batch` | #6 agenticgamedev |
+| $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
+| --- | --- | --- | --- | --- | --- |
+| **$0.0283** | $0.0187 | $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #3 androidnative |
+| **$0.0522** | $0.0345 | $0.4138 | $0.8275 | DeepSeek V4 Pro 0423 | #27 godotgamedev |
+| **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.6 Flash `batch` | #6 agenticgamedev |
 
 [All 60 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
