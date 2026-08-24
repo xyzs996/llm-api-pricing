@@ -201,13 +201,17 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 
 ## By provider
 
-Every figure whose quoted sentence names that provider, on one page, each with the date the write-up went out. None of these is a vendor price sheet — read every row as of its own date. Klarna is not a vendor here but a company these write-ups are about; those rows are what it did, not what it charges.
+Every figure whose quoted sentence names that provider, on one page, each with the date the write-up went out. Claude, OpenAI, Gemini, GLM, Kimi also carry a current price table, recomputed from the source catalog on the date the page states. The quoted figures are not recomputed — read those as of their own date. Klarna is not a vendor here but a company these write-ups are about; those rows are what it did, not what it charges.
 
+- [Claude](https://xyzs996.github.io/llm-api-pricing/providers/claude.html): 18 priced models and 18 figures from 7 write-ups.
 - [GPT-5.6](https://xyzs996.github.io/llm-api-pricing/providers/gpt-5-6.html): 19 figures from 5 write-ups.
-- [Claude](https://xyzs996.github.io/llm-api-pricing/providers/claude.html): 18 figures from 7 write-ups.
 - [WorkBuddy](https://xyzs996.github.io/llm-api-pricing/providers/workbuddy.html): 13 figures from 12 write-ups.
 - [BrowserAct](https://xyzs996.github.io/llm-api-pricing/providers/browseract.html): 12 figures from 12 write-ups.
 - [Klarna](https://xyzs996.github.io/llm-api-pricing/providers/klarna.html): 12 figures from 4 write-ups.
+- [OpenAI](https://xyzs996.github.io/llm-api-pricing/providers/openai.html): 9 priced models and 3 figures from 3 write-ups.
+- [Gemini](https://xyzs996.github.io/llm-api-pricing/providers/gemini.html): 10 priced models and 1 figure from 1 write-up.
+- [GLM](https://xyzs996.github.io/llm-api-pricing/providers/glm.html): 7 priced models and 2 figures from 1 write-up.
+- [Kimi](https://xyzs996.github.io/llm-api-pricing/providers/kimi.html): 5 priced models and 4 figures from 2 write-ups.
 - [Fable 5](https://xyzs996.github.io/llm-api-pricing/providers/fable-5.html): 7 figures from 4 write-ups.
 - [DeepSeek](https://xyzs996.github.io/llm-api-pricing/providers/deepseek.html): 6 figures from 3 write-ups.
 - [GPT-5](https://xyzs996.github.io/llm-api-pricing/providers/gpt-5.html): 5 figures from 4 write-ups.

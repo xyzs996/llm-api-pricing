@@ -145,13 +145,13 @@ defaults:
     values:
       description: "The 3 write-ups in these AI coding field notes tagged Token Optimization — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "providers/claude.md"
+    values:
+      description: "Claude API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
+  - scope:
       path: "providers/gpt-5-6.md"
     values:
       description: "Every figure in these AI coding field notes whose sentence names GPT-5.6 — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
-  - scope:
-      path: "providers/claude.md"
-    values:
-      description: "Every figure in these AI coding field notes whose sentence names Claude — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
   - scope:
       path: "providers/workbuddy.md"
     values:
@@ -164,6 +164,22 @@ defaults:
       path: "providers/klarna.md"
     values:
       description: "Every figure in these AI coding field notes whose sentence names Klarna — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
+  - scope:
+      path: "providers/openai.md"
+    values:
+      description: "OpenAI API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
+  - scope:
+      path: "providers/gemini.md"
+    values:
+      description: "Gemini API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
+  - scope:
+      path: "providers/glm.md"
+    values:
+      description: "GLM API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
+  - scope:
+      path: "providers/kimi.md"
+    values:
+      description: "Kimi API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
   - scope:
       path: "providers/fable-5.md"
     values:
