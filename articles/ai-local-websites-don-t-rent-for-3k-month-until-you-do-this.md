@@ -98,7 +98,7 @@ That’s not passive income. It’s **delayed income**. The tutorials omit the d
 
 [All 53 write-ups](../README.md)
 
-The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 463 more, as JSON and CSV.
+The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 464 more, as JSON and CSV.
 
 Topics: [Niche Market](../topics/niche-market.md) · [AI Tools](../topics/ai-tools.md) · [Revenue Growth](../topics/revenue-growth.md)
 

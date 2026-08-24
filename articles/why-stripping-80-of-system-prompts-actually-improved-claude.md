@@ -73,7 +73,7 @@ I think Grill-me's 37 prompts are unnecessary, and I could be wrong about that o
 
 [All 53 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 476 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 477 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Features](../topics/ai-features.md) · [Code Review](../topics/code-review.md)
 

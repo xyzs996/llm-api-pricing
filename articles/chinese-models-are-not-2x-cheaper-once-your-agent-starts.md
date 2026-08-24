@@ -66,7 +66,9 @@ The pricing page is ordered by drama. The invoice is ordered by volume. Nobody p
 
 None of this makes the Chinese side expensive, and the corrected numbers are kinder to them than the headline ratio was.
 
-Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it. Exactly which side of it, though, is the one number in this table that will not hold still. The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; OpenRouter lists the same model a third higher a day later, which puts it at $0.0664, behind. DeepSeek is the one vendor here that prices by the clock — its own rate card is split into peak and off-peak hours, and off-peak is half — so any single figure for that row is a snapshot of an hour rather than of a price. The point of this section survives either way, and survives harder: at the bottom of the market the two sides have converged to inside a rounding error, and which one is nominally cheapest depends on when you look.
+Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it. Exactly which side of it, though, is the one number in this table that will not hold still. The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; the next day's read of the same catalogue is a third higher on input, output and cache read alike, which puts it at $0.0664, behind. A second public catalogue agrees with the higher figure to within 1.3%, so the move is real rather than a bad scrape.
+
+I expected the clock to explain it, because DeepSeek is the one vendor here whose own rate card is split into peak and off-peak hours at a factor of two. So I read the row every six minutes across the boundary where that switch happens. Seven reads, spanning it: the price did not move by a hundredth of a cent. Whatever repriced that row, it was not the clock, and I cannot tell you what it was. The point of this section survives anyway, and survives harder: at the bottom of the market the two sides have converged to inside a rounding error, and which one is nominally cheapest depends on the day you look.
 
 Eleven of the fourteen Chinese models beat the American median. That is a real advantage, and nothing here argues it away.
 
@@ -107,7 +109,7 @@ Better to ship the arithmetic than the conclusion. Three prices per model, three
 
 [All 53 write-ups](../README.md)
 
-The 49 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 429 more, as JSON and CSV.
+The 50 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 429 more, as JSON and CSV.
 
 
 ---

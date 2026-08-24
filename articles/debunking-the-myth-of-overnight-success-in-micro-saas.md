@@ -59,7 +59,7 @@ The six-hour build is real, and it is also the cheapest part of what happened. T
 
 [All 53 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 460 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 461 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md) · [Artificial Intelligence](../topics/artificial-intelligence.md)
 

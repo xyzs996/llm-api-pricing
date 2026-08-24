@@ -18,7 +18,7 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 ## Dataset
 
-- [Every published figure, 478 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
+- [Every published figure, 479 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv): the same rows, one line each.
 
@@ -133,7 +133,7 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 - **$452.52** — “The real figure is $452.52, an overestimate of 6.6x.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$50 per million** — “A model at $50 per million output looks four times worse than one at $12.50.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$0.0566** — “Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **$0.0501** — “The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; OpenRouter lists the same model a third higher a day later, which puts it at $0.0664, behind.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **$0.0501** — “The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; the next day's read of the same catalogue is a third higher on input, output and cache read alike, which puts it at $0.0664, behind.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$0.4525** — “Kimi K3 prices at $0.4525 effective.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$9.05 per run** — “Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.” (2026-08-12) https://xyzs996.github.io/llm-api-pricing/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html
 - **$1.43 per run** — “In contrast, GPT-5.6 Sol, at $1.43 per run, achieves 43.1% accuracy in the same tests, suggesting that while cheaper models may save money upfront, they often result in longer, more costly development processes.” (2026-08-12) https://xyzs996.github.io/llm-api-pricing/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html

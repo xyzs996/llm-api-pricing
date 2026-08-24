@@ -71,7 +71,7 @@ I could be wrong about how much the fallback actually degrades things, and the h
 
 [All 53 write-ups](../README.md)
 
-The 27 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 451 more, as JSON and CSV.
+The 27 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 452 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Cost Savings](../topics/cost-savings.md) · [Development Tools](../topics/development-tools.md) · [Token Optimization](../topics/token-optimization.md)
 

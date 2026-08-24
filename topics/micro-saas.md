@@ -10,7 +10,7 @@
 - **$500** — Using AI tools to batch generate local SEO content reduces development costs for independent developers, accelerating website ranking on Google, after which the optimized site can be rented to local businesses for monthly revenue ranging from $500 to $3,000. [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 - **$10,000** — Sam Shore's experience with Typeshare, which shows how sharing equity with KOLs can accelerate growth, is a prime example; by granting three-fifths of his company's stock to two influential figures, he achieved a remarkable increase in monthly revenue, jumping from $10,000 to $15,000 in only 30 days. [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 
-[All figures, 478 rows](../figures.md)
+[All figures, 479 rows](../figures.md)
 
 ## The write-ups
 

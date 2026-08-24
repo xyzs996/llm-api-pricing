@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-478 figures pulled out of 53 write-ups in
+479 figures pulled out of 53 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -347,8 +347,9 @@ Published 2026-08-24.
 | `10%` | percent | At 0.29% of volume that difference contributes almost nothing, while a cache read at 10% versus 20% of input moves the same bill by a third. |
 | `20%` | percent | At 0.29% of volume that difference contributes almost nothing, while a cache read at 10% versus 20% of input moves the same bill by a third. |
 | `$0.0566` | price | Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it. |
-| `$0.0501` | price | The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; OpenRouter lists the same model a third higher a day later, which puts it at $0.0664, behind. |
-| `$0.0664` | price | The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; OpenRouter lists the same model a third higher a day later, which puts it at $0.0664, behind. |
+| `$0.0501` | price | The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; the next day's read of the same catalogue is a third higher on input, output and cache read alike, which puts it at $0.0664, behind. |
+| `$0.0664` | price | The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; the next day's read of the same catalogue is a third higher on input, output and cache read alike, which puts it at $0.0664, behind. |
+| `1.3%` | percent | A second public catalogue agrees with the higher figure to within 1.3%, so the move is real rather than a bad scrape. |
 | `$0.4525` | price | Kimi K3 prices at $0.4525 effective. |
 | `1.58x` | multiple | Across the 18 batch rows the list gap is 1.58x and the effective gap is 0.98x, meaning the Chinese rows come out marginally more expensive. |
 | `0.98x` | multiple | Across the 18 batch rows the list gap is 1.58x and the effective gap is 0.98x, meaning the Chinese rows come out marginally more expensive. |
@@ -904,5 +905,5 @@ Published 2026-08-11.
 | `30%` | percent | Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "478 figures pulled out of 53 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-24", "dateModified": "2026-08-24"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "479 figures pulled out of 53 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-24", "dateModified": "2026-08-24"}
 </script>
