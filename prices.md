@@ -9,14 +9,14 @@ agent re-reads its context on every step, so about **95.6% of the
 tokens it sends are cache reads** — priced at a fraction of the
 list input price that every other pricing table sorts by. Repriced
 at that mix, the list input price overstates what an agent actually
-pays by a median **6.5×** (range 3.4×–7.9× across the
+pays by a median **6.5×** (range 3.1×–7.9× across the
 58 rows where it can be computed).
 
 **The ranking barely moves; the bill does.** 9 of
 the 10 cheapest by list price are still in the cheapest 10 repriced,
 and the spread from cheapest to dearest is 53× either way. So list price tells you
 *which* model is cheap and lies about *what you will pay* — and the
-3.4×–7.9× spread in that multiple is what actually
+3.1×–7.9× spread in that multiple is what actually
 separates two models whose list prices look identical.
 
 That 95.6% is **one person's measurement of one coding agent** ([8.04B tokens, 2026-05-16](https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b)), not an industry figure — it is simply the only public measurement we could find. 58 of these rows publish a cached-input price, so the weights ship in the JSON: recompute with your own mix. Cache-*write* prices are not in the catalog, so that 2.7% of tokens is folded into the cache-miss share, which understates cost by roughly 0.7%.
@@ -53,33 +53,33 @@ take our word for it. A rank without its category is unverifiable.
 
 | $ / 1M at agent mix | $ in / 1M | $ out / 1M | Model | Context | Best agents rank | Written up |
 | --- | --- | --- | --- | --- | --- | --- |
-| **$0.0283** | $0.1875 | $0.9375 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash:batch) `batch` | 1M | #2 agenticgamedev | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
-| **$0.0566** | $0.375 | $1.875 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash:batch) `batch` | 1M | #7 agenticgamedev |  |
-| **$0.0566** | $0.375 | $1.875 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash) | 1M | #2 agenticgamedev | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
+| **$0.0283** | $0.1875 | $0.9375 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash:batch) `batch` | 1M | #3 androidnative | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
+| **$0.0566** | $0.375 | $1.875 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash:batch) `batch` | 1M | #8 mobileapps |  |
+| **$0.0566** | $0.375 | $1.875 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash) | 1M | #3 androidnative | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.0664** | $0.5262 | $1.0524 | [DeepSeek V4 Pro 0423](https://openrouter.ai/deepseek/deepseek-v4-pro) | 1M | #27 godotgamedev |  |
 | **$0.0731** | $0.30 | $1.20 | [MiniMax M3](https://openrouter.ai/minimax/minimax-m3) | 1M | #10 python-pptxslides | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html) |
 | **$0.0731** | $0.30 | $1.20 | [MiniMax M3](https://openrouter.ai/minimax/minimax-m3:batch) `batch` | 524K | #10 python-pptxslides | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html) |
 | **$0.0769** | $0.50 | $3.00 | [Gemini 3 Flash Preview](https://openrouter.ai/google/gemini-3-flash-preview) | 1M | #9 agenticslides |  |
 | **$0.0918** | $0.45 | $2.25 | [Kimi K2.5](https://openrouter.ai/moonshotai/kimi-k2.5) | 262K | #9 godotgamedev |  |
 | **$0.0979** | $0.40 | $1.75 | [GLM 4.7](https://openrouter.ai/z-ai/glm-4.7) | 204K | #27 androidnative |  |
-| **$0.1131** | $0.75 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | #7 agenticgamedev |  |
+| **$0.1131** | $0.75 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | #8 mobileapps |  |
 | **$0.1153** | $0.75 | $4.50 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash:batch) `batch` | 1M | #3 agenticslides(python-pptx) |  |
 | **$0.1218** | $0.50 | $2.00 | [GLM 4.6](https://openrouter.ai/z-ai/glm-4.6) | 204K | #13 godotgamedev |  |
 | **$0.1396** | $0.875 | $7.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2:batch) `batch` | 400K | #18 godotgamedev |  |
 | **$0.1448** | $0.60 | $1.92 | [GLM 5](https://openrouter.ai/z-ai/glm-5) | 204K | #16 godotgamedev |  |
 | **$0.1508** | $1.00 | $5.00 | [Claude Sonnet 5](https://openrouter.ai/anthropic/claude-sonnet-5:batch) `batch` | 1M | #4 godotgamedev | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.1922** | $1.25 | $7.50 | [GPT-5.4](https://openrouter.ai/openai/gpt-5.4:batch) `batch` | 1.1M | #22 godotgamedev |  |
-| **$0.1997** | $0.67 | $3.40 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code) | 262K | #7 htmlslides |  |
 | **$0.2033** | $0.95 | $4.00 | [Kimi K2.6](https://openrouter.ai/moonshotai/kimi-k2.6) | 262K | #2 agentichtmlslides | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.2042** | $1.25 | $10.00 | [GPT-5.1-Codex](https://openrouter.ai/openai/gpt-5.1-codex) | 400K | #24 mobileapps |  |
-| **$0.2067** | $1.25 | $4.25 | [Muse Spark 1.1](https://openrouter.ai/meta/muse-spark-1.1) | 1M | #8 agenticgamedev | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html) |
-| **$0.2067** | $1.25 | $4.25 | [Muse Spark 1.2](https://openrouter.ai/meta/muse-spark-1.2) | 1M | #9 androidnative |  |
+| **$0.2067** | $1.25 | $4.25 | [Muse Spark 1.1](https://openrouter.ai/meta/muse-spark-1.1) | 1M | #8 htmlslides | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html) |
+| **$0.2067** | $1.25 | $4.25 | [Muse Spark 1.2](https://openrouter.ai/meta/muse-spark-1.2) | 1M | #7 agenticgamedev |  |
+| **$0.2188** | $0.67 | $3.40 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code) | 262K | #7 htmlslides |  |
 | **$0.2197** | $0.966 | $3.036 | [GLM 5.1](https://openrouter.ai/z-ai/glm-5.1) | 204K | #3 agenticslides |  |
 | **$0.2263** | $1.50 | $7.50 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5:batch) `batch` | 1M | #25 mobileapps |  |
 | **$0.2263** | $1.50 | $7.50 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6:batch) `batch` | 1M | #5 mobileapps |  |
 | **$0.2306** | $1.50 | $9.00 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash) | 1M | #3 agenticslides(python-pptx) |  |
 | **$0.232** | $0.95 | $4.00 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code:batch) `batch` | 262K | #7 htmlslides |  |
-| **$0.2329** | $0.966 | $3.036 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | #9 agenticgamedev |  |
+| **$0.2329** | $0.966 | $3.036 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | #10 fullstack |  |
 | **$0.2494** | $1.25 | $2.50 | [Grok 4.20](https://openrouter.ai/x-ai/grok-4.20) | 2M | #13 htmlslides |  |
 | **$0.2494** | $1.25 | $2.50 | [Grok 4.3](https://openrouter.ai/x-ai/grok-4.3) | 1M | #9 pptxslides |  |
 | **$0.2792** | $1.75 | $14.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2) | 400K | #18 godotgamedev |  |
@@ -88,27 +88,27 @@ take our word for it. A rank without its category is unverifiable.
 | **$0.29** | $1.20 | $4.00 | [GLM 5V Turbo](https://openrouter.ai/z-ai/glm-5v-turbo) | 202K | #4 androidnative |  |
 | **$0.3017** | $2.00 | $10.00 | [Claude Sonnet 5](https://openrouter.ai/anthropic/claude-sonnet-5) | 1M | #4 godotgamedev | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.3075** | $2.00 | $12.00 | [Gemini 3.1 Pro Preview](https://openrouter.ai/google/gemini-3.1-pro-preview) | 1M | #5 agentichtmlslides |  |
-| **$0.3184** | $1.40 | $4.40 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2:batch) `batch` | 1M | #9 agenticgamedev |  |
+| **$0.3184** | $1.40 | $4.40 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2:batch) `batch` | 1M | #10 fullstack |  |
 | **$0.3379** | $2.00 | $6.00 | [Qwen3.8 Max](https://openrouter.ai/qwen/qwen3.8-max) | 1M | #1 webapps |  |
 | **$0.355** | $1.475 | $4.425 | [Qwen3.7 Max](https://openrouter.ai/qwen/qwen3.7-max) | 1M | #8 godotgamedev | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.3771** | $2.50 | $12.50 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5:batch) `batch` | 200K | #11 mobileapps |  |
 | **$0.3771** | $2.50 | $12.50 | [Claude Opus 4.6](https://openrouter.ai/anthropic/claude-opus-4.6:batch) `batch` | 1M | #6 mobileapps |  |
 | **$0.3771** | $2.50 | $12.50 | [Claude Opus 4.7](https://openrouter.ai/anthropic/claude-opus-4.7:batch) `batch` | 1M | #1 agenticslides |  |
 | **$0.3771** | $2.50 | $12.50 | [Claude Opus 4.8](https://openrouter.ai/anthropic/claude-opus-4.8:batch) `batch` | 1M | #2 agenticslides |  |
-| **$0.3771** | $2.50 | $12.50 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5:batch) `batch` | 1M | #3 fullstack |  |
+| **$0.3771** | $2.50 | $12.50 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5:batch) `batch` | 1M | #2 agenticgamedev |  |
 | **$0.3843** | $2.50 | $15.00 | [GPT-5.4](https://openrouter.ai/openai/gpt-5.4) | 1.1M | #22 godotgamedev |  |
 | **$0.3843** | $2.50 | $15.00 | [GPT-5.5](https://openrouter.ai/openai/gpt-5.5:batch) `batch` | 1.1M | #7 agenticslides |  |
 | **$0.3857** | $2.00 | $6.00 | [Grok 4.5](https://openrouter.ai/x-ai/grok-4.5) | 500K | #3 godotgamedev |  |
 | **$0.4525** | $3.00 | $15.00 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5) | 1M | #25 mobileapps |  |
 | **$0.4525** | $3.00 | $15.00 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6) | 1M | #5 mobileapps |  |
-| **$0.4525** | $3.00 | $15.00 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3) | 1M | #1 mobileapps | [AI Model Costs: Beyond Per-Token Pricing](https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html) |
+| **$0.4525** | $3.00 | $15.00 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3) | 1M | #1 mobileapps | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.577** | $2.00 | $6.00 | [Grok 4.6](https://openrouter.ai/x-ai/grok-4.6) | 500K | #1 androidnative |  |
 | **$0.7542** | $5.00 | $25.00 | [Claude Fable 5](https://openrouter.ai/anthropic/claude-fable-5:batch) `batch` | 1M | #1 agenticgamedev |  |
 | **$0.7542** | $5.00 | $25.00 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5) | 200K | #11 mobileapps |  |
 | **$0.7542** | $5.00 | $25.00 | [Claude Opus 4.6](https://openrouter.ai/anthropic/claude-opus-4.6) | 1M | #6 mobileapps |  |
 | **$0.7542** | $5.00 | $25.00 | [Claude Opus 4.7](https://openrouter.ai/anthropic/claude-opus-4.7) | 1M | #1 agenticslides |  |
 | **$0.7542** | $5.00 | $25.00 | [Claude Opus 4.8](https://openrouter.ai/anthropic/claude-opus-4.8) | 1M | #2 agenticslides |  |
-| **$0.7542** | $5.00 | $25.00 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5) | 1M | #3 fullstack |  |
+| **$0.7542** | $5.00 | $25.00 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5) | 1M | #2 agenticgamedev |  |
 | **$0.7687** | $5.00 | $30.00 | [GPT-5.5](https://openrouter.ai/openai/gpt-5.5) | 1.1M | #7 agenticslides |  |
 | **$1.5084** | $10.00 | $50.00 | [Claude Fable 5](https://openrouter.ai/anthropic/claude-fable-5) | 1M | #1 agenticgamedev |  |
 | — | $0.25 | $1.50 | [Gemini 3 Flash Preview](https://openrouter.ai/google/gemini-3-flash-preview:batch) `batch` | 1M | #9 agenticslides |  |

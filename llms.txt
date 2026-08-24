@@ -26,12 +26,12 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 Per million tokens, for models ranked in an agents category of the Design Arena. Quoted from OpenRouter's public catalog on the date above — this is list price, not a bill: cache hits, batch tiers and providers all price differently, and rows marked (batch) are the catalog's separate batch entries. Full table: https://xyzs996.github.io/llm-api-pricing/prices.html
 
-- **Gemini 3.7 Flash (batch)** — $0.1875 in / $0.9375 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticgamedev (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 3.7 Flash (batch)** — $0.1875 in / $0.9375 out per 1M tokens, 1048576 token context, best agents rank #3 in androidnative (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **Gemini 3 Flash Preview (batch)** — $0.25 in / $1.5 out per 1M tokens, 1048576 token context, best agents rank #9 in agenticslides (2026-08-24).
 - **MiniMax M3** — $0.3 in / $1.2 out per 1M tokens, 1048576 token context, best agents rank #10 in python-pptxslides (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
 - **MiniMax M3 (batch)** — $0.3 in / $1.2 out per 1M tokens, 524288 token context, best agents rank #10 in python-pptxslides (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
-- **Gemini 3.6 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #7 in agenticgamedev (2026-08-24).
-- **Gemini 3.7 Flash** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticgamedev (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 3.6 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #8 in mobileapps (2026-08-24).
+- **Gemini 3.7 Flash** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #3 in androidnative (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **GLM 4.7** — $0.4 in / $1.75 out per 1M tokens, 204800 token context, best agents rank #27 in androidnative (2026-08-24).
 - **Kimi K2.5** — $0.45 in / $2.25 out per 1M tokens, 262144 token context, best agents rank #9 in godotgamedev (2026-08-24).
 - **GLM 4.6** — $0.5 in / $2.0 out per 1M tokens, 204800 token context, best agents rank #13 in godotgamedev (2026-08-24).
@@ -39,23 +39,23 @@ Per million tokens, for models ranked in an agents category of the Design Arena.
 - **DeepSeek V4 Pro 0423** — $0.526176 in / $1.052352 out per 1M tokens, 1048576 token context, best agents rank #27 in godotgamedev (2026-08-24).
 - **GLM 5** — $0.6 in / $1.92 out per 1M tokens, 204800 token context, best agents rank #16 in godotgamedev (2026-08-24).
 - **Kimi K2.7 Code** — $0.67 in / $3.4 out per 1M tokens, 262144 token context, best agents rank #7 in htmlslides (2026-08-24).
-- **Gemini 3.6 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #7 in agenticgamedev (2026-08-24).
+- **Gemini 3.6 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #8 in mobileapps (2026-08-24).
 - **Gemini 3.5 Flash (batch)** — $0.75 in / $4.5 out per 1M tokens, 1048576 token context, best agents rank #3 in agenticslides(python-pptx) (2026-08-24).
 - **GPT-5.2 (batch)** — $0.875 in / $7.0 out per 1M tokens, 400000 token context, best agents rank #18 in godotgamedev (2026-08-24).
 - **Kimi K2.6** — $0.95 in / $4.0 out per 1M tokens, 262144 token context, best agents rank #2 in agentichtmlslides (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **Kimi K2.7 Code (batch)** — $0.95 in / $4.0 out per 1M tokens, 262144 token context, best agents rank #7 in htmlslides (2026-08-24).
 - **GLM 5.1** — $0.966 in / $3.036 out per 1M tokens, 204800 token context, best agents rank #3 in agenticslides (2026-08-24).
-- **GLM 5.2** — $0.966 in / $3.036 out per 1M tokens, 1048576 token context, best agents rank #9 in agenticgamedev (2026-08-24).
+- **GLM 5.2** — $0.966 in / $3.036 out per 1M tokens, 1048576 token context, best agents rank #10 in fullstack (2026-08-24).
 - **Claude Sonnet 5 (batch)** — $1.0 in / $5.0 out per 1M tokens, 1000000 token context, best agents rank #4 in godotgamedev (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **Gemini 3.1 Pro Preview (batch)** — $1.0 in / $6.0 out per 1M tokens, 1048576 token context, best agents rank #5 in agentichtmlslides (2026-08-24).
 - **GLM 5V Turbo** — $1.2 in / $4.0 out per 1M tokens, 202752 token context, best agents rank #4 in androidnative (2026-08-24).
 - **Grok 4.20** — $1.25 in / $2.5 out per 1M tokens, 2000000 token context, best agents rank #13 in htmlslides (2026-08-24).
 - **Grok 4.3** — $1.25 in / $2.5 out per 1M tokens, 1000000 token context, best agents rank #9 in pptxslides (2026-08-24).
-- **Muse Spark 1.1** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticgamedev (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
-- **Muse Spark 1.2** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #9 in androidnative (2026-08-24).
+- **Muse Spark 1.1** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #8 in htmlslides (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
+- **Muse Spark 1.2** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #7 in agenticgamedev (2026-08-24).
 - **GPT-5.4 (batch)** — $1.25 in / $7.5 out per 1M tokens, 1050000 token context, best agents rank #22 in godotgamedev (2026-08-24).
 - **GPT-5.1-Codex** — $1.25 in / $10.0 out per 1M tokens, 400000 token context, best agents rank #24 in mobileapps (2026-08-24).
-- **GLM 5.2 (batch)** — $1.4 in / $4.4 out per 1M tokens, 1048575 token context, best agents rank #9 in agenticgamedev (2026-08-24).
+- **GLM 5.2 (batch)** — $1.4 in / $4.4 out per 1M tokens, 1048575 token context, best agents rank #10 in fullstack (2026-08-24).
 - **Qwen3.7 Max** — $1.475 in / $4.425 out per 1M tokens, 1000000 token context, best agents rank #8 in godotgamedev (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **Claude Sonnet 4.5 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #25 in mobileapps (2026-08-24).
 - **Claude Sonnet 4.6 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #5 in mobileapps (2026-08-24).
@@ -72,18 +72,18 @@ Per million tokens, for models ranked in an agents category of the Design Arena.
 - **Claude Opus 4.6 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #6 in mobileapps (2026-08-24).
 - **Claude Opus 4.7 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-08-24).
 - **Claude Opus 4.8 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #2 in agenticslides (2026-08-24).
-- **Claude Opus 5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #3 in fullstack (2026-08-24).
+- **Claude Opus 5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #2 in agenticgamedev (2026-08-24).
 - **GPT-5.4** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #22 in godotgamedev (2026-08-24).
 - **GPT-5.5 (batch)** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #7 in agenticslides (2026-08-24).
 - **Claude Sonnet 4.5** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #25 in mobileapps (2026-08-24).
 - **Claude Sonnet 4.6** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #5 in mobileapps (2026-08-24).
-- **Kimi K3** — $3.0 in / $15.0 out per 1M tokens, 1048576 token context, best agents rank #1 in mobileapps (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html
+- **Kimi K3** — $3.0 in / $15.0 out per 1M tokens, 1048576 token context, best agents rank #1 in mobileapps (2026-08-24). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **Claude Fable 5 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticgamedev (2026-08-24).
 - **Claude Opus 4.5** — $5.0 in / $25.0 out per 1M tokens, 200000 token context, best agents rank #11 in mobileapps (2026-08-24).
 - **Claude Opus 4.6** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #6 in mobileapps (2026-08-24).
 - **Claude Opus 4.7** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-08-24).
 - **Claude Opus 4.8** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #2 in agenticslides (2026-08-24).
-- **Claude Opus 5** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #3 in fullstack (2026-08-24).
+- **Claude Opus 5** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #2 in agenticgamedev (2026-08-24).
 - **GPT-5.5** — $5.0 in / $30.0 out per 1M tokens, 1050000 token context, best agents rank #7 in agenticslides (2026-08-24).
 - **Claude Fable 5** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticgamedev (2026-08-24).
 

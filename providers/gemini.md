@@ -18,11 +18,11 @@ Every Gemini model in the catalog that has been ranked in an agent category, pri
 
 | $ / 1M at agent mix | $ in / 1M | $ cache read / 1M | $ out / 1M | Model | Context | Long-context step | Best agents rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **$0.0283** | $0.1875 | $0.0187 | $0.9375 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash:batch) `batch` | 1M | — | #2 agenticgamedev |
-| **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash:batch) `batch` | 1M | — | #7 agenticgamedev |
-| **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash) | 1M | — | #2 agenticgamedev |
+| **$0.0283** | $0.1875 | $0.0187 | $0.9375 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash:batch) `batch` | 1M | — | #3 androidnative |
+| **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash:batch) `batch` | 1M | — | #8 mobileapps |
+| **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash) | 1M | — | #3 androidnative |
 | **$0.0769** | $0.50 | $0.05 | $3.00 | [Gemini 3 Flash Preview](https://openrouter.ai/google/gemini-3-flash-preview) | 1M | — | #9 agenticslides |
-| **$0.1131** | $0.75 | $0.075 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | — | #7 agenticgamedev |
+| **$0.1131** | $0.75 | $0.075 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | — | #8 mobileapps |
 | **$0.1153** | $0.75 | $0.075 | $4.50 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash:batch) `batch` | 1M | — | #3 agenticslides(python-pptx) |
 | **$0.2306** | $1.50 | $0.15 | $9.00 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash) | 1M | — | #3 agenticslides(python-pptx) |
 | **$0.3075** | $2.00 | $0.20 | $12.00 | [Gemini 3.1 Pro Preview](https://openrouter.ai/google/gemini-3.1-pro-preview) | 1M | $4.00 past 200k | #5 agentichtmlslides |
@@ -45,7 +45,7 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Llama | 2 | 12% | 6.0× | $0.2067 |
 | Qwen | 2 | 12.5–20% | 5.0× | $0.3379 |
 | Grok | 4 | 15–25% | 5.0× | $0.2494 |
-| Kimi | 5 | 10–25.4% | 4.7× | $0.0918 |
+| Kimi | 5 | 10–28.4% | 4.7× | $0.0918 |
 | GLM | 7 | 18.6–20% | 4.1× | $0.0979 |
 | MiniMax | 2 | 20% | 4.1× | $0.0731 |
 

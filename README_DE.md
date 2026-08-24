@@ -12,7 +12,7 @@ Ein offener Datensatz. Jede Zahl aus 53 Praxisnotizen — Preise, Prozentsätze,
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #2 agenticgamedev |
+| $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #3 androidnative |
 | $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
 | $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
 

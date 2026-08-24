@@ -18,9 +18,9 @@ Every GLM model in the catalog that has been ranked in an agent category, priced
 | **$0.1218** | $0.50 | $0.10 | $2.00 | [GLM 4.6](https://openrouter.ai/z-ai/glm-4.6) | 204K | — | #13 godotgamedev |
 | **$0.1448** | $0.60 | $0.12 | $1.92 | [GLM 5](https://openrouter.ai/z-ai/glm-5) | 204K | — | #16 godotgamedev |
 | **$0.2197** | $0.966 | $0.1794 | $3.036 | [GLM 5.1](https://openrouter.ai/z-ai/glm-5.1) | 204K | — | #3 agenticslides |
-| **$0.2329** | $0.966 | $0.1932 | $3.036 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | — | #9 agenticgamedev |
+| **$0.2329** | $0.966 | $0.1932 | $3.036 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | — | #10 fullstack |
 | **$0.29** | $1.20 | $0.24 | $4.00 | [GLM 5V Turbo](https://openrouter.ai/z-ai/glm-5v-turbo) | 202K | — | #4 androidnative |
-| **$0.3184** | $1.40 | $0.26 | $4.40 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2:batch) `batch` | 1M | — | #9 agenticgamedev |
+| **$0.3184** | $1.40 | $0.26 | $4.40 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2:batch) `batch` | 1M | — | #10 fullstack |
 
 Cheapest GLM row an agent can call normally is **GLM 4.7** at $0.0979 per million; the dearest is $0.29, 3× more. Both numbers exclude the `batch` rows above. Both are computed, not quoted — the arithmetic and the weights are in the JSON.
 
@@ -38,7 +38,7 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Llama | 2 | 12% | 6.0× | $0.2067 |
 | Qwen | 2 | 12.5–20% | 5.0× | $0.3379 |
 | Grok | 4 | 15–25% | 5.0× | $0.2494 |
-| Kimi | 5 | 10–25.4% | 4.7× | $0.0918 |
+| Kimi | 5 | 10–28.4% | 4.7× | $0.0918 |
 | **GLM** | 7 | 18.6–20% | 4.1× | $0.0979 |
 | MiniMax | 2 | 20% | 4.1× | $0.0731 |
 

@@ -42,7 +42,7 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Llama | 2 | 12% | 6.0× | $0.2067 |
 | Qwen | 2 | 12.5–20% | 5.0× | $0.3379 |
 | Grok | 4 | 15–25% | 5.0× | $0.2494 |
-| Kimi | 5 | 10–25.4% | 4.7× | $0.0918 |
+| Kimi | 5 | 10–28.4% | 4.7× | $0.0918 |
 | GLM | 7 | 18.6–20% | 4.1× | $0.0979 |
 | MiniMax | 2 | 20% | 4.1× | $0.0731 |
 

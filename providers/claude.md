@@ -24,7 +24,7 @@ Every Claude model in the catalog that has been ranked in an agent category, pri
 | **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 4.6](https://openrouter.ai/anthropic/claude-opus-4.6:batch) `batch` | 1M | — | #6 mobileapps |
 | **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 4.7](https://openrouter.ai/anthropic/claude-opus-4.7:batch) `batch` | 1M | — | #1 agenticslides |
 | **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 4.8](https://openrouter.ai/anthropic/claude-opus-4.8:batch) `batch` | 1M | — | #2 agenticslides |
-| **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5:batch) `batch` | 1M | — | #3 fullstack |
+| **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5:batch) `batch` | 1M | — | #2 agenticgamedev |
 | **$0.4525** | $3.00 | $0.30 | $15.00 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5) | 1M | $6.00 past 200k | #25 mobileapps |
 | **$0.4525** | $3.00 | $0.30 | $15.00 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6) | 1M | — | #5 mobileapps |
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Fable 5](https://openrouter.ai/anthropic/claude-fable-5:batch) `batch` | 1M | — | #1 agenticgamedev |
@@ -32,7 +32,7 @@ Every Claude model in the catalog that has been ranked in an agent category, pri
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 4.6](https://openrouter.ai/anthropic/claude-opus-4.6) | 1M | — | #6 mobileapps |
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 4.7](https://openrouter.ai/anthropic/claude-opus-4.7) | 1M | — | #1 agenticslides |
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 4.8](https://openrouter.ai/anthropic/claude-opus-4.8) | 1M | — | #2 agenticslides |
-| **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5) | 1M | — | #3 fullstack |
+| **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5) | 1M | — | #2 agenticgamedev |
 | **$1.5084** | $10.00 | $1.00 | $50.00 | [Claude Fable 5](https://openrouter.ai/anthropic/claude-fable-5) | 1M | — | #1 agenticgamedev |
 
 Cheapest Claude row an agent can call normally is **Claude Sonnet 5** at $0.3017 per million; the dearest is $1.5084, 5× more. Both numbers exclude the `batch` rows above. Both are computed, not quoted — the arithmetic and the weights are in the JSON.
@@ -51,7 +51,7 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Llama | 2 | 12% | 6.0× | $0.2067 |
 | Qwen | 2 | 12.5–20% | 5.0× | $0.3379 |
 | Grok | 4 | 15–25% | 5.0× | $0.2494 |
-| Kimi | 5 | 10–25.4% | 4.7× | $0.0918 |
+| Kimi | 5 | 10–28.4% | 4.7× | $0.0918 |
 | GLM | 7 | 18.6–20% | 4.1× | $0.0979 |
 | MiniMax | 2 | 20% | 4.1× | $0.0731 |
 
