@@ -13,13 +13,13 @@ Two things: a price table re-read from OpenRouter's catalog every day, and
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (3.4×–7.9×). Read **2026-08-23**; the three cheapest *to run*:
+median **6.5×** (3.4×–7.9×). Read **2026-08-24**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
 | **$0.0283** | $0.0187 | $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #2 agenticgamedev |
-| **$0.0501** | $0.0331 | $0.3969 | $0.7938 | DeepSeek V4 Pro 0423 | #27 godotgamedev |
 | **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.6 Flash `batch` | #7 agenticgamedev |
+| **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.7 Flash | #2 agenticgamedev |
 
 [All 60 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
