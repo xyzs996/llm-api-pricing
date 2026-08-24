@@ -11,7 +11,7 @@
 - **95%** — That 95% export-issue figure gets quoted everywhere. [→](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 - **60%** — It integrates with GitHub Actions and CircleCI, and its structured review comments cut false positives by 60% — which is the number I'd actually optimize for, because a review tool that cries wolf gets muted inside a week, and a muted tool reviews nothing at all while still showing green on every dashboard I own. [→](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
-[All figures, 479 rows](../figures.md)
+[All figures, 493 rows](../figures.md)
 
 ## The write-ups
 

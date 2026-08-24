@@ -89,7 +89,7 @@ That last habit is the one I'd argue matters most, and it is the one nobody sets
 
 [All 53 write-ups](../README.md)
 
-The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 473 more, as JSON and CSV.
+The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 487 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Chinese AI](../topics/chinese-ai.md)
 

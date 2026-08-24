@@ -18,7 +18,7 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 ## Dataset
 
-- [Every published figure, 479 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
+- [Every published figure, 493 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv): the same rows, one line each.
 
@@ -91,7 +91,7 @@ Per million tokens, for models ranked in an agents category of the Design Arena.
 
 - [When DeepSeek bills double, and when it halves](https://xyzs996.github.io/llm-api-pricing/deepseek-peak-hours.html): peak is Beijing 09:00–12:00 and 14:00–18:00, Monday to Friday (01:00-04:00 and 06:00-10:00 UTC); off-peak is half of peak on every rate; the whole weekend is off-peak, bounded 16:00 UTC Friday to 16:00 UTC Sunday. The two language versions of the vendor's page anchor that weekday to different clocks — the Chinese one says 北京时间周一至周五 (Beijing time, Monday to Friday), the English one says "UTC, Monday through Friday" — so implementations written from the English page read the weekday in UTC. Both readings agree at all 168 hours today, because both windows close before 16:00 UTC, the earliest instant the two calendars can differ; they stop agreeing the day a window moves. Neither page carries an effective date today; the weekend rule started 00:00 Beijing time on 2026-08-23, which the page announced the day before and stopped saying once it took effect, so that date is a dated observation rather than something you can still read off the vendor. Dated conformance vectors and a dependency-free reference implementation in Python and JavaScript: <https://github.com/xyzs996/deepseek-peak-hours>, public domain. That repository also runs those vectors against the peak predicate of 9 published DeepSeek billing plugins (`node conformance/run.mjs`); on 2026-08-23, 2 of 9 passed every vector they could run, and every failure was the weekend.
 
-## Every price figure (99)
+## Every price figure (103)
 
 Quoted, not paraphrased: each is the sentence it was published in, with the date it was published. Nothing here is a vendor price sheet — it is what a working developer wrote down about what they paid.
 
@@ -124,16 +124,20 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 - **$19 billion** — “Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months.” (2026-08-05) https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html
 - **$40 million per year** — “Klarna replaced roughly 700 support agents with an AI assistant in early 2024, claimed about $40 million a year, and a bit over a year later the same CEO said they had overshot and started hiring back.” (2026-08-13) https://xyzs996.github.io/llm-api-pricing/articles/ai-took-over-my-coding-what-broke-was-how-i-learn.html
 - **$0.81 per million input tokens** — “Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **$25** — “Output, the price with the scariest sticker, the one at $25 or $50 per million, is under a third of one percent of the volume.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **$25** — “Output — the scariest sticker, $25 or $50 per million — is under a third of one percent of the volume.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$0.2015** — “Reprice at that mix and the medians land at $0.2015 against $0.3046.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **$0.0429** — “Cheapest: GMICloud at $0.0429.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **$0.3923** — “Dearest: Venice at $0.3923.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **$0.5262** — “On input StreamLake wins by a third of one percent — $0.5262 against GMICloud's $0.5280.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$1.475 per million** — “Qwen3.7 Max lists at $1.475 per million input.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$2.00** — “Claude Sonnet 5 lists at $2.00.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$355.00** — “Run the billion tokens through: Qwen3.7 Max bills $355.00, Claude Sonnet 5 bills $301.68.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$3,000** — “While we are here: budgeting a billion tokens at Kimi K3's list input predicts $3,000.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$452.52** — “The real figure is $452.52, an overestimate of 6.6x.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$50 per million** — “A model at $50 per million output looks four times worse than one at $12.50.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **$0.0566** — “Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **$0.0501** — “The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; the next day's read of the same catalogue is a third higher on input, output and cache read alike, which puts it at $0.0664, behind.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **$0.0566** — “Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it — a fact that turned out to be the loose thread in this whole piece.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **$0.0664** — “The $0.0664 figure is StreamLake's to four decimals, and the day before it belonged to someone else.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **$0.0429** — “At GMICloud it is $0.0429, comfortably the cheapest of the forty; at Venice it is $0.3923, mid-table.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$0.4525** — “Kimi K3 prices at $0.4525 effective.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$9.05 per run** — “Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.” (2026-08-12) https://xyzs996.github.io/llm-api-pricing/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html
 - **$1.43 per run** — “In contrast, GPT-5.6 Sol, at $1.43 per run, achieves 43.1% accuracy in the same tests, suggesting that while cheaper models may save money upfront, they often result in longer, more costly development processes.” (2026-08-12) https://xyzs996.github.io/llm-api-pricing/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html
@@ -200,12 +204,12 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 Every figure whose quoted sentence names that provider, on one page, each with the date the write-up went out. None of these is a vendor price sheet — read every row as of its own date. Klarna is not a vendor here but a company these write-ups are about; those rows are what it did, not what it charges.
 
 - [GPT-5.6](https://xyzs996.github.io/llm-api-pricing/providers/gpt-5-6.html): 19 figures from 5 write-ups.
-- [Claude](https://xyzs996.github.io/llm-api-pricing/providers/claude.html): 15 figures from 7 write-ups.
+- [Claude](https://xyzs996.github.io/llm-api-pricing/providers/claude.html): 18 figures from 7 write-ups.
 - [WorkBuddy](https://xyzs996.github.io/llm-api-pricing/providers/workbuddy.html): 13 figures from 12 write-ups.
 - [BrowserAct](https://xyzs996.github.io/llm-api-pricing/providers/browseract.html): 12 figures from 12 write-ups.
 - [Klarna](https://xyzs996.github.io/llm-api-pricing/providers/klarna.html): 12 figures from 4 write-ups.
 - [Fable 5](https://xyzs996.github.io/llm-api-pricing/providers/fable-5.html): 7 figures from 4 write-ups.
-- [DeepSeek](https://xyzs996.github.io/llm-api-pricing/providers/deepseek.html): 5 figures from 3 write-ups.
+- [DeepSeek](https://xyzs996.github.io/llm-api-pricing/providers/deepseek.html): 6 figures from 3 write-ups.
 - [GPT-5](https://xyzs996.github.io/llm-api-pricing/providers/gpt-5.html): 5 figures from 4 write-ups.
 - [ChatGPT](https://xyzs996.github.io/llm-api-pricing/providers/chatgpt.html): 4 figures from 4 write-ups.
 

@@ -77,7 +77,7 @@ Start hosted if you are still deciding what to build. Move to files when the pro
 
 [All 53 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 476 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 490 more, as JSON and CSV.
 
 Topics: [AI Implementation](../topics/ai-implementation.md) · [AI Costs](../topics/ai-costs.md) · [Development Tools](../topics/development-tools.md) · [Enterprise Automation](../topics/enterprise-automation.md)
 

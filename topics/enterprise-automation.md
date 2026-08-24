@@ -11,7 +11,7 @@
 - **70%** — The 70% figure is real for the finance analyst pulling numbers across four applications, and it is close to meaningless for the person maintaining a service, because their bottleneck was never the typing. [→](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 - **70%** — Meanwhile ChatGPT Work saves non-technical staff up to 70% of their time on cross-application tasks, and those same people would get nothing out of an IDE. [→](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
-[All figures, 479 rows](../figures.md)
+[All figures, 493 rows](../figures.md)
 
 ## The write-ups
 

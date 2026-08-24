@@ -102,7 +102,7 @@ The future belongs to indie developers who embrace AI as a partner, not a replac
 
 [All 53 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 478 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 492 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [SaaS Business](../topics/saas-business.md) · [Cost Savings](../topics/cost-savings.md) · [AI Tools](../topics/ai-tools.md)
 

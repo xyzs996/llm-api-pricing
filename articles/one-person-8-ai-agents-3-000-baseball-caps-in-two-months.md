@@ -75,7 +75,7 @@ If you have the domain knowledge, the relay structure is worth building and the 
 
 [All 53 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 472 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 486 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Niche Market](../topics/niche-market.md) · [Revenue Growth](../topics/revenue-growth.md)
 

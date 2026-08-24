@@ -77,7 +77,7 @@ One honest caveat before you copy any of this. Every figure above comes from ope
 
 [All 53 write-ups](../README.md)
 
-The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 464 more, as JSON and CSV.
+The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 478 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Niche Market](../topics/niche-market.md) · [Revenue Growth](../topics/revenue-growth.md)
 

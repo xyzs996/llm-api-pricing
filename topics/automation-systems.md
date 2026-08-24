@@ -13,7 +13,7 @@
 - **$10,000** — Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. [→](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 - **70%** — Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF data extraction to PPT report generation, cutting document processing time by 70%. [→](../articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 
-[All figures, 479 rows](../figures.md)
+[All figures, 493 rows](../figures.md)
 
 ## The write-ups
 

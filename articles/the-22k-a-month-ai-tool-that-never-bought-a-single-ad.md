@@ -103,7 +103,7 @@ What makes that trade worth taking is the direction the meter runs. Every articl
 
 [All 53 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 468 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 482 more, as JSON and CSV.
 
 Topics: [AI Tools](../topics/ai-tools.md)
 

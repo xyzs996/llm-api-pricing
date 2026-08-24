@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-479 figures pulled out of 53 write-ups in
+493 figures pulled out of 53 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -315,20 +315,31 @@ Published 2026-08-24.
 | `95.64%` | percent | The mix in this table was measured over 8.04 billion tokens of one person's coding agent on 2026-05-16, and published openly: 95.64% cache reads, 4.07% cache misses, 0.29% output. |
 | `4.07%` | percent | The mix in this table was measured over 8.04 billion tokens of one person's coding agent on 2026-05-16, and published openly: 95.64% cache reads, 4.07% cache misses, 0.29% output. |
 | `0.29%` | percent | The mix in this table was measured over 8.04 billion tokens of one person's coding agent on 2026-05-16, and published openly: 95.64% cache reads, 4.07% cache misses, 0.29% output. |
-| `$25` | price | Output, the price with the scariest sticker, the one at $25 or $50 per million, is under a third of one percent of the volume. |
-| `$50` per million | price | Output, the price with the scariest sticker, the one at $25 or $50 per million, is under a third of one percent of the volume. |
+| `$25` | price | Output — the scariest sticker, $25 or $50 per million — is under a third of one percent of the volume. |
+| `$50` per million | price | Output — the scariest sticker, $25 or $50 per million — is under a third of one percent of the volume. |
 | `$0.2015` | price | Reprice at that mix and the medians land at $0.2015 against $0.3046. |
 | `$0.3046` | price | Reprice at that mix and the medians land at $0.2015 against $0.3046. |
 | `1.51x` | multiple | A gap of 1.51x. |
-| `10%` | percent | Anthropic, Google and OpenAI each charge 10% of input for a cache read. |
-| `12%` | percent | Meta charges 12%. |
-| `20%` | percent | The Chinese vendors mostly do not. z-ai charges 20% across six rows. |
-| `20%` | percent | MiniMax charges 20%. |
-| `16%` | percent | Qwen and Moonshot both sit near 16%, Moonshot spreading from 10% as far as 25%. |
-| `10%` | percent | Qwen and Moonshot both sit near 16%, Moonshot spreading from 10% as far as 25%. |
-| `25%` | percent | Qwen and Moonshot both sit near 16%, Moonshot spreading from 10% as far as 25%. |
-| `96%` | percent | So a model that undercuts by half on the pricing page hands a third to a half of that back on the line carrying 96% of the traffic. |
-| `8.3%` | percent | DeepSeek is the exception that proves the rule: 8.3%, better than anyone's flat ten. |
+| `10%` | percent | Anthropic, Google and OpenAI each charge 10% of input for a cache read — flat, every model, and stable across sellers too. |
+| `10.00%` | percent | Claude Sonnet 5 is resold through nine storefronts including AWS Bedrock, Azure and Google, and all nine bill a cache read at exactly 10.00% of their own input price. |
+| `10.00%` | percent | Now the other side. z-ai's GLM-5.1 is served by seventeen hosts, cache read ratios running 10.00% to 50.42%. |
+| `50.42%` | percent | Now the other side. z-ai's GLM-5.1 is served by seventeen hosts, cache read ratios running 10.00% to 50.42%. |
+| `10.00%` | percent | Kimi K2.6 has nineteen, 10.00% to 50.00%. |
+| `50.00%` | percent | Kimi K2.6 has nineteen, 10.00% to 50.00%. |
+| `3.33%` | percent | DeepSeek V4 Pro has seventeen, 3.33% to 20.00%. |
+| `20.00%` | percent | DeepSeek V4 Pro has seventeen, 3.33% to 20.00%. |
+| `20%` | percent | So "z-ai charges 20%" is a sentence that cannot be true, because z-ai is not the one charging. |
+| `3.33%` | percent | DeepSeek publishes 0.022 per million for a cache hit against 0.66 cache miss — a ratio of 3.33%. |
+| `8.33%` | percent | The row in my table said 8.33%, because the host my table recorded was StreamLake, not DeepSeek. |
+| `$0.0429` | price | Cheapest: GMICloud at $0.0429. |
+| `$0.3923` | price | Dearest: Venice at $0.3923. |
+| `9.1x` | multiple | That is 9.1x, for byte-identical weights. |
+| `$0.5262` | price | On input StreamLake wins by a third of one percent — $0.5262 against GMICloud's $0.5280. |
+| `$0.5280` | price | On input StreamLake wins by a third of one percent — $0.5262 against GMICloud's $0.5280. |
+| `54.7%` | percent | On the bill you actually get, StreamLake costs 54.7% more, because its cache read is 8.33% where GMICloud's is 3.33%. |
+| `8.33%` | percent | On the bill you actually get, StreamLake costs 54.7% more, because its cache read is 8.33% where GMICloud's is 3.33%. |
+| `3.33%` | percent | On the bill you actually get, StreamLake costs 54.7% more, because its cache read is 8.33% where GMICloud's is 3.33%. |
+| `45.2%` | percent | GLM-5.1 does the same: sort by input and you take GMICloud, and pay 45.2% over Chutes. |
 | `$1.475` per million | price | Qwen3.7 Max lists at $1.475 per million input. |
 | `$2.00` | price | Claude Sonnet 5 lists at $2.00. |
 | `26%` | percent | On the pricing page Qwen is 26% cheaper and the decision looks made. |
@@ -338,18 +349,21 @@ Published 2026-08-24.
 | `20%` | percent | Qwen's cache read is 20% of its input where Anthropic's is 10%, and at 96% cache reads that ratio is the invoice. |
 | `10%` | percent | Qwen's cache read is 20% of its input where Anthropic's is 10%, and at 96% cache reads that ratio is the invoice. |
 | `96%` | percent | Qwen's cache read is 20% of its input where Anthropic's is 10%, and at 96% cache reads that ratio is the invoice. |
+| `10.00%` | percent | Claude Sonnet 5 has nine, and all nine bill 10.00%. |
+| `20%` | percent | So this is Alibaba's own policy against Anthropic's own policy, 20% against 10%, with no reseller standing in between adding a markup I would have mistaken for a vendor decision. |
+| `10%` | percent | So this is Alibaba's own policy against Anthropic's own policy, 20% against 10%, with no reseller standing in between adding a markup I would have mistaken for a vendor decision. |
 | `$3,000` | price | While we are here: budgeting a billion tokens at Kimi K3's list input predicts $3,000. |
 | `$452.52` | price | The real figure is $452.52, an overestimate of 6.6x. |
 | `6.6x` | multiple | The real figure is $452.52, an overestimate of 6.6x. |
 | `$50` per million | price | A model at $50 per million output looks four times worse than one at $12.50. |
 | `$12.50` | price | A model at $50 per million output looks four times worse than one at $12.50. |
-| `0.29%` | percent | At 0.29% of volume that difference contributes almost nothing, while a cache read at 10% versus 20% of input moves the same bill by a third. |
-| `10%` | percent | At 0.29% of volume that difference contributes almost nothing, while a cache read at 10% versus 20% of input moves the same bill by a third. |
-| `20%` | percent | At 0.29% of volume that difference contributes almost nothing, while a cache read at 10% versus 20% of input moves the same bill by a third. |
-| `$0.0566` | price | Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it. |
-| `$0.0501` | price | The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; the next day's read of the same catalogue is a third higher on input, output and cache read alike, which puts it at $0.0664, behind. |
-| `$0.0664` | price | The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; the next day's read of the same catalogue is a third higher on input, output and cache read alike, which puts it at $0.0664, behind. |
-| `1.3%` | percent | A second public catalogue agrees with the higher figure to within 1.3%, so the move is real rather than a bad scrape. |
+| `0.29%` | percent | At 0.29% of volume that gap contributes almost nothing, while a cache read at 10% against 20% moves the same bill by a third. |
+| `10%` | percent | At 0.29% of volume that gap contributes almost nothing, while a cache read at 10% against 20% moves the same bill by a third. |
+| `20%` | percent | At 0.29% of volume that gap contributes almost nothing, while a cache read at 10% against 20% moves the same bill by a third. |
+| `$0.0566` | price | Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it — a fact that turned out to be the loose thread in this whole piece. |
+| `$0.0664` | price | The $0.0664 figure is StreamLake's to four decimals, and the day before it belonged to someone else. |
+| `$0.0429` | price | At GMICloud it is $0.0429, comfortably the cheapest of the forty; at Venice it is $0.3923, mid-table. |
+| `$0.3923` | price | At GMICloud it is $0.0429, comfortably the cheapest of the forty; at Venice it is $0.3923, mid-table. |
 | `$0.4525` | price | Kimi K3 prices at $0.4525 effective. |
 | `1.58x` | multiple | Across the 18 batch rows the list gap is 1.58x and the effective gap is 0.98x, meaning the Chinese rows come out marginally more expensive. |
 | `0.98x` | multiple | Across the 18 batch rows the list gap is 1.58x and the effective gap is 0.98x, meaning the Chinese rows come out marginally more expensive. |
@@ -905,5 +919,5 @@ Published 2026-08-11.
 | `30%` | percent | Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "479 figures pulled out of 53 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-24", "dateModified": "2026-08-24"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "493 figures pulled out of 53 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-24", "dateModified": "2026-08-24"}
 </script>

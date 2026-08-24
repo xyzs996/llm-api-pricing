@@ -13,7 +13,7 @@
 - **$0.06** — It offers a price range of $0.06-0.2 per million tokens, targeting global small and medium-sized enterprises and individual users. [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - **80%** — The skill automates the workflow, reducing manual effort by 80%, and adapts to different document formats and storage options. [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
-[All figures, 479 rows](../figures.md)
+[All figures, 493 rows](../figures.md)
 
 ## The write-ups
 

@@ -67,7 +67,7 @@ Skip this entirely if what you want is income that arrives on a schedule. Freela
 
 [All 53 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 477 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 491 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Cost Savings](../topics/cost-savings.md) · [AI Features](../topics/ai-features.md)
 
