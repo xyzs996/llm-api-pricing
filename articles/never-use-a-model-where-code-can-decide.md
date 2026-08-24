@@ -114,8 +114,8 @@ What you get back is narrow and worth it: the pipeline stops telling you things 
 **Read next**
 
 - [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
-- [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
-- [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](the-token-cost-war-why-price-per-million-tokens-now-decides.md)
+- [Your Agent Writes Code Faster Than Anyone Can Review It](your-agent-writes-code-faster-than-anyone-can-review-it.md)
+- [Your AI Coding Bill Scales With Your Repo, Not Your Output](your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
 
 [All 53 write-ups](../README.md)
 

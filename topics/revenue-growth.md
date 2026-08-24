@@ -16,11 +16,11 @@
 
 ## The write-ups
 
-### [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
+### [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 
-You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
+In special-purpose vehicles — tankers, sweepers, the trucks nobody films for fun — one effective sales lead costs somewhere between 100 and 1,000 yuan, and a buyer who actually signs wires a hundre…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57) · [telegra.ph](https://telegra.ph/AI-Generated-Local-Business-Websites-Dont-Rent-for-3000Month-Until-You-Do-This-08-19)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/53) · [telegra.ph](https://telegra.ph/Why-Vanity-Metrics-Kill-AI-Startups-700-Customers-and-60000-RMB-From-One-Niche-Account-08-23)
 
 ### [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](../articles/charge-per-conversation-not-per-seat-the-billing-model.md)
 
@@ -28,17 +28,17 @@ Respond.io bills its customers for every contact who had a conversation in a giv
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/46) · [telegra.ph](https://telegra.ph/Charge-Per-Conversation-Not-Per-Seat-The-Billing-Model-Behind-AI-Support-08-23)
 
+### [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
+
+You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57) · [telegra.ph](https://telegra.ph/AI-Generated-Local-Business-Websites-Dont-Rent-for-3000Month-Until-You-Do-This-08-19)
+
 ### [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
 Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/60) · [telegra.ph](https://telegra.ph/One-Person-8-AI-Agents-3000-Baseball-Caps-in-Two-Months-08-23)
-
-### [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
-
-In special-purpose vehicles — tankers, sweepers, the trucks nobody films for fun — one effective sales lead costs somewhere between 100 and 1,000 yuan, and a buyer who actually signs wires a hundre…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/53) · [telegra.ph](https://telegra.ph/Why-Vanity-Metrics-Kill-AI-Startups-700-Customers-and-60000-RMB-From-One-Niche-Account-08-23)
 
 ---
 

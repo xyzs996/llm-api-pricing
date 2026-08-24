@@ -16,11 +16,11 @@
 
 ## The write-ups
 
-### [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
+### [The $22K-a-Month AI Tool That Never Bought a Single Ad](../articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 
-You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
+StoryShort hit $22,000 a month in its first three months.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57) · [telegra.ph](https://telegra.ph/AI-Generated-Local-Business-Websites-Dont-Rent-for-3000Month-Until-You-Do-This-08-19)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/64) · [telegra.ph](https://telegra.ph/The-22K-a-Month-AI-Tool-That-Never-Bought-a-Single-Ad-08-23)
 
 ### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
@@ -28,17 +28,17 @@ Most indie developers open SimilarWeb, look at the big monthly visits number, an
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/30) · [telegra.ph](https://telegra.ph/Stop-Reading-SimilarWeb-Like-a-Traffic-Dashboard--Read-It-Like-a-Feasibility-Test-08-21)
 
-### [The $22K-a-Month AI Tool That Never Bought a Single Ad](../articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
-
-StoryShort hit $22,000 a month in its first three months.
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/64) · [telegra.ph](https://telegra.ph/The-22K-a-Month-AI-Tool-That-Never-Bought-a-Single-Ad-08-23)
-
 ### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 
 Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32) · [telegra.ph](https://telegra.ph/The-AI-Branding-Revolution-How-Indie-Developers-Are-Ditching-Design-Costs-with-AI-08-19)
+
+### [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
+
+You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/57) · [telegra.ph](https://telegra.ph/AI-Generated-Local-Business-Websites-Dont-Rent-for-3000Month-Until-You-Do-This-08-19)
 
 ---
 

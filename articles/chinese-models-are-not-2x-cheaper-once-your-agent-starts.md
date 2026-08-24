@@ -118,8 +118,8 @@ Better to ship the arithmetic than the conclusion. Three prices per host, three 
 **Read next**
 
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
-- [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
-- [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
+- [Never Use a Model Where Code Can Decide](never-use-a-model-where-code-can-decide.md)
+- [The $22K-a-Month AI Tool That Never Bought a Single Ad](the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 
 [All 53 write-ups](../README.md)
 

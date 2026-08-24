@@ -217,15 +217,6 @@ defaults:
     values:
       canonical_url: "https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html"
   - scope:
-      path: "articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.png"
-      description: "Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly."
-      canonical_url: "https://markyanai.medium.com/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens-69b483c4eb6a"
-      date: "2026-08-07T08:15:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
       path: "articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md"
     values:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-cost-effective-guide-to-using-open-code-review-for-ai.png"
@@ -235,107 +226,12 @@ defaults:
       seo:
         type: BlogPosting
   - scope:
-      path: "articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md"
+      path: "articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md"
     values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/1-6-billion-free-tokens-is-a-compression-ratio-not-a.png"
-      description: "OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free tokens a month, and that figure is arithmetic rather than a promotion, because the RTK+Caveman layer compresses 10,000 tok…"
-      date: "2026-08-19T08:19:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/58-million-plays-started-with-one-account-not-four.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/58-million-plays-started-with-one-account-not-four.png"
-      description: "Two brothers ran a single short-video account until one piece of content took off, and only then copied it across several accounts, which is how the cumulative play count passed 58 million."
-      date: "2026-08-12T09:39:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/a-30-line-script-200-users-and-a-niche-nobody-wanted.png"
-      description: "\"Solving a niche problem is the secret to building a profitable Micro-SaaS.\" This common advice ignores the power of focusing on a single, well-defined pain point in a specific market."
-      date: "2026-08-15T08:04:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-agent-loop-engineering-karpathy-s-method-for-5x.png"
-      description: "A developer in China’s AI community achieved 5x productivity gains using loop engineering, reducing MVP development time from four prompt tuning sessions to a single command installation."
-      date: "2026-08-09T11:27:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.png"
-      description: "You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income."
-      date: "2026-08-10T09:46:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/ai-model-costs-beyond-per-token-pricing.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-model-costs-beyond-per-token-pricing.png"
-      description: "Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…"
-      date: "2026-08-05T10:17:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/ai-programming-tool-selection-strategy-from-rapid.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-programming-tool-selection-strategy-from-rapid.png"
-      description: "A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens."
-      date: "2026-08-07T05:57:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-side-hustle-stop-selling-hours-start-selling-plans.png"
-      description: "The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…"
-      date: "2026-08-13T10:05:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-took-over-my-coding-what-broke-was-how-i-learn.png"
-      description: "One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking."
-      date: "2026-08-13T11:30:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/best-practices-for-ai-agent-skill-management.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/best-practices-for-ai-agent-skill-management.png"
-      description: "Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity."
-      date: "2026-08-21T11:57:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.png"
-      description: "Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF…"
-      date: "2026-08-17T07:34:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.png"
-      description: "One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed us…"
-      date: "2026-08-19T10:26:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/charge-per-conversation-not-per-seat-the-billing-model.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/charge-per-conversation-not-per-seat-the-billing-model.png"
-      description: "Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…"
-      date: "2026-08-15T11:20:00Z"
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.png"
+      description: "Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly."
+      canonical_url: "https://markyanai.medium.com/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens-69b483c4eb6a"
+      date: "2026-08-07T08:15:00Z"
       seo:
         type: BlogPosting
   - scope:
@@ -347,147 +243,11 @@ defaults:
       seo:
         type: BlogPosting
   - scope:
-      path: "articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.png"
-      description: "Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects."
-      date: "2026-08-12T07:42:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/claude-code-and-codex-for-office-automation.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/claude-code-and-codex-for-office-automation.png"
-      description: "Discover how Claude Code and Codex can transform office workflows with AI-driven automation, boosting productivity and reducing costs."
-      date: "2026-08-22T08:25:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/debunking-the-myth-of-overnight-success-in-micro-saas.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/debunking-the-myth-of-overnight-success-in-micro-saas.png"
-      description: "A six-hour Chrome extension pays $400 a month."
-      date: "2026-08-21T09:39:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/from-ai-demo-to-product-loop-engineering-for-indie-devs.png"
-      description: "The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning."
-      date: "2026-08-18T11:52:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/how-chinese-developers-are-using-codex-record-replay-to.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-chinese-developers-are-using-codex-record-replay-to.png"
-      description: "Chinese developers automate repetitive workflows with Codex's Record & Replay, saving hours daily"
-      date: "2026-08-05T12:38:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/how-indie-developers-are-building-ai-powered-digital.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-indie-developers-are-building-ai-powered-digital.png"
-      description: "Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into \"digital properties\" and renting them to local businesses for monthly ren…"
-      date: "2026-08-20T09:36:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.png"
-      description: "Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 people asking for access within days, at zero cost, and those users stuck around better than the paid traffic he never bo…"
-      date: "2026-08-17T09:29:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.png"
-      description: "Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…"
-      date: "2026-08-23T09:55:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/klarna-replaced-700-support-agents-with-ai-then-it-started.png"
-      description: "In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit."
-      date: "2026-08-08T12:27:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/monkeycode-the-open-source-ai-coding-platform-with-900.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/monkeycode-the-open-source-ai-coding-platform-with-900.png"
-      description: "MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read."
-      date: "2026-08-16T08:07:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
       path: "articles/never-use-a-model-where-code-can-decide.md"
     values:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/never-use-a-model-where-code-can-decide.png"
       description: "What a deterministic scorer can actually check, what it cannot, and why the rubric half is a debt rather than a feature"
       date: "2026-08-23T23:26:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.png"
-      description: "Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…"
-      date: "2026-08-05T06:08:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.png"
-      description: "The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…"
-      date: "2026-08-09T14:36:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/sell-it-before-you-build-it-how-indie-devs-validate-ai.png"
-      description: "The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…"
-      date: "2026-08-12T11:39:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.png"
-      description: "If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic."
-      date: "2026-08-19T11:56:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/stop-doing-manual-devops-how-i-use-loop-and-hook-to.png"
-      description: "As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor…"
-      date: "2026-08-22T11:53:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/stop-reading-similarweb-like-a-traffic-dashboard-read-it.png"
-      description: "Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab."
-      date: "2026-08-20T11:46:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/stop-using-ai-as-a-chatbot-how-to-build-an-indie.png"
-      description: "Ninety percent of AI users never leave the chat box — here is what the other ten wire up instead"
-      date: "2026-08-23T21:31:00Z"
       seo:
         type: BlogPosting
   - scope:
@@ -499,27 +259,19 @@ defaults:
       seo:
         type: BlogPosting
   - scope:
-      path: "articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md"
+      path: "articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md"
     values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-5-ai-features-that-separated-27-profitable-solopreneurs.png"
-      description: "Of the 27 AI-powered micro-SaaS projects that generated predictable monthly revenue in a recent analysis, every profitable one used at least three of the same five architectural components."
-      date: "2026-08-18T09:56:00Z"
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/stop-using-ai-as-a-chatbot-how-to-build-an-indie.png"
+      description: "Ninety percent of AI users never leave the chat box — here is what the other ten wire up instead"
+      date: "2026-08-23T21:31:00Z"
       seo:
         type: BlogPosting
   - scope:
-      path: "articles/the-ai-branding-revolution-how-indie-developers-are.md"
+      path: "articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md"
     values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-ai-branding-revolution-how-indie-developers-are.png"
-      description: "Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…"
-      date: "2026-08-16T09:47:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/the-first-line-of-defense-in-ai-programming-environment.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-first-line-of-defense-in-ai-programming-environment.png"
-      description: "MonkeyCode ships with 900 million free tokens and supports private deployment, which tells you exactly what its users are doing: pointing an AI coding tool at their own keys, on their own infrastru…"
-      date: "2026-08-08T07:36:00Z"
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.png"
+      description: "Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…"
+      date: "2026-08-23T09:55:00Z"
       seo:
         type: BlogPosting
   - scope:
@@ -531,75 +283,11 @@ defaults:
       seo:
         type: BlogPosting
   - scope:
-      path: "articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md"
+      path: "articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md"
     values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.png"
-      description: "\"Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option.\""
-      date: "2026-08-12T06:46:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-klarna-lesson-why-ai-implementation-needs-a-staircase.png"
-      description: "Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading…"
-      date: "2026-08-10T11:29:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-token-cost-war-why-price-per-million-tokens-now-decides.png"
-      description: "The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as…"
-      date: "2026-08-10T07:44:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.png"
-      description: "On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%."
-      date: "2026-08-21T08:18:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/token-optimization-for-indie-developers-ai-api-bills.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/token-optimization-for-indie-developers-ai-api-bills.png"
-      description: "In July 2026, while indie developers building AI coding products full-time watched their API burn rate climb toward their revenue, a quieter shift in the Chinese developer stack showed a different…"
-      date: "2026-08-18T07:28:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/when-ai-customer-service-backfired-klarna-s-case-and-the.png"
-      description: "Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts."
-      date: "2026-08-16T12:13:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/when-the-ai-picks-for-the-customer-you-become-a-supplier.png"
-      description: "WeChat's Xiaowei agent went into closed testing this year, and Qwen's brand agents already have Luckin Coffee and KFC connected to them."
-      date: "2026-08-15T10:08:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.png"
-      description: "Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it."
-      date: "2026-08-17T11:54:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/why-stripping-80-of-system-prompts-actually-improved-claude.md"
-    values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/why-stripping-80-of-system-prompts-actually-improved-claude.png"
-      description: "When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks."
-      date: "2026-08-20T07:45:00Z"
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/stop-doing-manual-devops-how-i-use-loop-and-hook-to.png"
+      description: "As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor…"
+      date: "2026-08-22T11:53:00Z"
       seo:
         type: BlogPosting
   - scope:
@@ -611,11 +299,235 @@ defaults:
       seo:
         type: BlogPosting
   - scope:
-      path: "articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md"
+      path: "articles/claude-code-and-codex-for-office-automation.md"
     values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.png"
-      description: "One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology:…"
-      date: "2026-08-05T05:44:00Z"
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/claude-code-and-codex-for-office-automation.png"
+      description: "Discover how Claude Code and Codex can transform office workflows with AI-driven automation, boosting productivity and reducing costs."
+      date: "2026-08-22T08:25:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/best-practices-for-ai-agent-skill-management.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/best-practices-for-ai-agent-skill-management.png"
+      description: "Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity."
+      date: "2026-08-21T11:57:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/debunking-the-myth-of-overnight-success-in-micro-saas.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/debunking-the-myth-of-overnight-success-in-micro-saas.png"
+      description: "A six-hour Chrome extension pays $400 a month."
+      date: "2026-08-21T09:39:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.png"
+      description: "On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%."
+      date: "2026-08-21T08:18:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/stop-reading-similarweb-like-a-traffic-dashboard-read-it.png"
+      description: "Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab."
+      date: "2026-08-20T11:46:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/how-indie-developers-are-building-ai-powered-digital.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-indie-developers-are-building-ai-powered-digital.png"
+      description: "Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into \"digital properties\" and renting them to local businesses for monthly ren…"
+      date: "2026-08-20T09:36:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/why-stripping-80-of-system-prompts-actually-improved-claude.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/why-stripping-80-of-system-prompts-actually-improved-claude.png"
+      description: "When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks."
+      date: "2026-08-20T07:45:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.png"
+      description: "If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic."
+      date: "2026-08-19T11:56:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.png"
+      description: "One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed us…"
+      date: "2026-08-19T10:26:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/1-6-billion-free-tokens-is-a-compression-ratio-not-a.png"
+      description: "OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free tokens a month, and that figure is arithmetic rather than a promotion, because the RTK+Caveman layer compresses 10,000 tok…"
+      date: "2026-08-19T08:19:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/from-ai-demo-to-product-loop-engineering-for-indie-devs.png"
+      description: "The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning."
+      date: "2026-08-18T11:52:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-5-ai-features-that-separated-27-profitable-solopreneurs.png"
+      description: "Of the 27 AI-powered micro-SaaS projects that generated predictable monthly revenue in a recent analysis, every profitable one used at least three of the same five architectural components."
+      date: "2026-08-18T09:56:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/token-optimization-for-indie-developers-ai-api-bills.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/token-optimization-for-indie-developers-ai-api-bills.png"
+      description: "In July 2026, while indie developers building AI coding products full-time watched their API burn rate climb toward their revenue, a quieter shift in the Chinese developer stack showed a different…"
+      date: "2026-08-18T07:28:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.png"
+      description: "Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it."
+      date: "2026-08-17T11:54:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.png"
+      description: "Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 people asking for access within days, at zero cost, and those users stuck around better than the paid traffic he never bo…"
+      date: "2026-08-17T09:29:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.png"
+      description: "Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF…"
+      date: "2026-08-17T07:34:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/when-ai-customer-service-backfired-klarna-s-case-and-the.png"
+      description: "Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts."
+      date: "2026-08-16T12:13:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-ai-branding-revolution-how-indie-developers-are.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-ai-branding-revolution-how-indie-developers-are.png"
+      description: "Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…"
+      date: "2026-08-16T09:47:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/monkeycode-the-open-source-ai-coding-platform-with-900.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/monkeycode-the-open-source-ai-coding-platform-with-900.png"
+      description: "MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read."
+      date: "2026-08-16T08:07:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/charge-per-conversation-not-per-seat-the-billing-model.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/charge-per-conversation-not-per-seat-the-billing-model.png"
+      description: "Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…"
+      date: "2026-08-15T11:20:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/when-the-ai-picks-for-the-customer-you-become-a-supplier.png"
+      description: "WeChat's Xiaowei agent went into closed testing this year, and Qwen's brand agents already have Luckin Coffee and KFC connected to them."
+      date: "2026-08-15T10:08:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/a-30-line-script-200-users-and-a-niche-nobody-wanted.png"
+      description: "\"Solving a niche problem is the secret to building a profitable Micro-SaaS.\" This common advice ignores the power of focusing on a single, well-defined pain point in a specific market."
+      date: "2026-08-15T08:04:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-took-over-my-coding-what-broke-was-how-i-learn.png"
+      description: "One indie developer writing in Chinese in July 2026 put it about as plainly as anyone has: AI has already replaced all of his coding work, and the systematic knowledge he accumulates keeps shrinking."
+      date: "2026-08-13T11:30:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-side-hustle-stop-selling-hours-start-selling-plans.png"
+      description: "The most honest numbers I have seen attached to an AI side hustle are small enough that nobody would put them in a headline: one operator, Xiaomin, clears about 3,873 yuan a month generating images…"
+      date: "2026-08-13T10:05:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/sell-it-before-you-build-it-how-indie-devs-validate-ai.png"
+      description: "The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…"
+      date: "2026-08-12T11:39:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/58-million-plays-started-with-one-account-not-four.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/58-million-plays-started-with-one-account-not-four.png"
+      description: "Two brothers ran a single short-video account until one piece of content took off, and only then copied it across several accounts, which is how the cumulative play count passed 58 million."
+      date: "2026-08-12T09:39:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.png"
+      description: "Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects."
+      date: "2026-08-12T07:42:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.png"
+      description: "\"Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option.\""
+      date: "2026-08-12T06:46:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/your-agent-writes-code-faster-than-anyone-can-review-it.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/your-agent-writes-code-faster-than-anyone-can-review-it.png"
+      description: "The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it."
+      date: "2026-08-11T11:57:00Z"
       seo:
         type: BlogPosting
   - scope:
@@ -635,10 +547,98 @@ defaults:
       seo:
         type: BlogPosting
   - scope:
-      path: "articles/your-agent-writes-code-faster-than-anyone-can-review-it.md"
+      path: "articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md"
     values:
-      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/your-agent-writes-code-faster-than-anyone-can-review-it.png"
-      description: "The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it."
-      date: "2026-08-11T11:57:00Z"
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-klarna-lesson-why-ai-implementation-needs-a-staircase.png"
+      description: "Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading…"
+      date: "2026-08-10T11:29:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.png"
+      description: "You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income."
+      date: "2026-08-10T09:46:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-token-cost-war-why-price-per-million-tokens-now-decides.png"
+      description: "The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as…"
+      date: "2026-08-10T07:44:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.png"
+      description: "The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…"
+      date: "2026-08-09T14:36:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-agent-loop-engineering-karpathy-s-method-for-5x.png"
+      description: "A developer in China’s AI community achieved 5x productivity gains using loop engineering, reducing MVP development time from four prompt tuning sessions to a single command installation."
+      date: "2026-08-09T11:27:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/klarna-replaced-700-support-agents-with-ai-then-it-started.png"
+      description: "In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit."
+      date: "2026-08-08T12:27:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-first-line-of-defense-in-ai-programming-environment.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-first-line-of-defense-in-ai-programming-environment.png"
+      description: "MonkeyCode ships with 900 million free tokens and supports private deployment, which tells you exactly what its users are doing: pointing an AI coding tool at their own keys, on their own infrastru…"
+      date: "2026-08-08T07:36:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/ai-programming-tool-selection-strategy-from-rapid.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-programming-tool-selection-strategy-from-rapid.png"
+      description: "A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens."
+      date: "2026-08-07T05:57:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/how-chinese-developers-are-using-codex-record-replay-to.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-chinese-developers-are-using-codex-record-replay-to.png"
+      description: "Chinese developers automate repetitive workflows with Codex's Record & Replay, saving hours daily"
+      date: "2026-08-05T12:38:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/ai-model-costs-beyond-per-token-pricing.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/ai-model-costs-beyond-per-token-pricing.png"
+      description: "Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…"
+      date: "2026-08-05T10:17:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.png"
+      description: "Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…"
+      date: "2026-08-05T06:08:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.png"
+      description: "One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology:…"
+      date: "2026-08-05T05:44:00Z"
       seo:
         type: BlogPosting

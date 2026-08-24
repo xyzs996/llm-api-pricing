@@ -96,7 +96,7 @@ For independent developers using Codex for document automation, the cost is a sm
 
 - [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 - [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](charge-per-conversation-not-per-seat-the-billing-model.md)
-- [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
+- [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
 [All 53 write-ups](../README.md)
 

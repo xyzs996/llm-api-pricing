@@ -64,8 +64,8 @@ None of that requires the agent to be clever. It requires the task to be bounded
 **Read next**
 
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
-- [AI Model Costs: Beyond Per-Token Pricing](ai-model-costs-beyond-per-token-pricing.md)
-- [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
+- [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
+- [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md)
 
 [All 53 write-ups](../README.md)
 

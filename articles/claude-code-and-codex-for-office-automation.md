@@ -65,8 +65,8 @@ The system reads local project directories and applies modifications directly to
 
 **Read next**
 
+- [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
-- [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
 [All 53 write-ups](../README.md)

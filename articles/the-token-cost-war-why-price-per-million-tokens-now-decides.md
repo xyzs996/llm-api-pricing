@@ -67,7 +67,7 @@ What I would take from all of this is narrower than the headlines suggest: stop 
 
 - [Your Agent Writes Code Faster Than Anyone Can Review It](your-agent-writes-code-faster-than-anyone-can-review-it.md)
 - [Your AI Coding Bill Scales With Your Repo, Not Your Output](your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
-- [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
+- [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
 
 [All 53 write-ups](../README.md)
 

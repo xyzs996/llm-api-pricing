@@ -17,11 +17,11 @@
 
 ## The write-ups
 
-### [Best Practices for AI Agent Skill Management](../articles/best-practices-for-ai-agent-skill-management.md)
+### [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
-Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity.
+Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18) · [telegra.ph](https://telegra.ph/Best-Practices-for-AI-Agent-Skill-Management-08-21)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/47) · [telegra.ph](https://telegra.ph/How-to-Turn-Your-Obsidian-Vault-Into-an-Autonomous-AI-Research-Agent-08-23)
 
 ### [Claude Code and Codex for Office Automation](../articles/claude-code-and-codex-for-office-automation.md)
 
@@ -29,23 +29,23 @@ Claude Code and Codex offer powerful tools for office automation, improving task
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59) · [telegra.ph](https://telegra.ph/Office-Automation-with-Claude-Code-and-Codex-08-23)
 
-### [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
+### [Best Practices for AI Agent Skill Management](../articles/best-practices-for-ai-agent-skill-management.md)
 
-Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…
+Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/47) · [telegra.ph](https://telegra.ph/How-to-Turn-Your-Obsidian-Vault-Into-an-Autonomous-AI-Research-Agent-08-23)
-
-### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
-
-If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/29) · [telegra.ph](https://telegra.ph/Stop-Chatting-With-AI-How-I-Use-loop-and-hook-to-Automate-My-Indie-Dev-Workflow-08-19)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18) · [telegra.ph](https://telegra.ph/Best-Practices-for-AI-Agent-Skill-Management-08-21)
 
 ### [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
 When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/40) · [telegra.ph](https://telegra.ph/Why-Stripping-80-of-System-Prompts-Actually-Improved-Claude-Codes-Performance-08-21)
+
+### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
+
+If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/29) · [telegra.ph](https://telegra.ph/Stop-Chatting-With-AI-How-I-Use-loop-and-hook-to-Automate-My-Indie-Dev-Workflow-08-19)
 
 ---
 

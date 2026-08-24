@@ -23,17 +23,17 @@ Managing AI Agent skills is not merely about tools; it's about designing workflo
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18) · [telegra.ph](https://telegra.ph/Best-Practices-for-AI-Agent-Skill-Management-08-21)
 
+### [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](../articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
+
+Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/39) · [telegra.ph](https://telegra.ph/Why-Pis-1000-Token-Agent-Engine-Needs-a-Sandbox-Before-You-Touch-It-08-19)
+
 ### [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](../articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 
 Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF…
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/19) · [telegra.ph](https://telegra.ph/Beyond-Chat-How-Codex-Can-Automate-Your-WordExcelPPTPDF-Workflows-08-19)
-
-### [The First Line of Defense in AI Programming: Environment Variable Management](../articles/the-first-line-of-defense-in-ai-programming-environment.md)
-
-MonkeyCode ships with 900 million free tokens and supports private deployment, which tells you exactly what its users are doing: pointing an AI coding tool at their own keys, on their own infrastru…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/33) · [telegra.ph](https://telegra.ph/The-First-Line-of-Defense-in-AI-Programming-Environment-Variable-Management-08-19)
 
 ### [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
@@ -41,11 +41,11 @@ MonkeyCode ships with 900 million free tokens and supports private deployment, w
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/34) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-GPT-56-Model-Selection-A-Developers-Real-World-Guide-08-19)
 
-### [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](../articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
+### [The First Line of Defense in AI Programming: Environment Variable Management](../articles/the-first-line-of-defense-in-ai-programming-environment.md)
 
-Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it.
+MonkeyCode ships with 900 million free tokens and supports private deployment, which tells you exactly what its users are doing: pointing an AI coding tool at their own keys, on their own infrastru…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/39) · [telegra.ph](https://telegra.ph/Why-Pis-1000-Token-Agent-Engine-Needs-a-Sandbox-Before-You-Touch-It-08-19)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/33) · [telegra.ph](https://telegra.ph/The-First-Line-of-Defense-in-AI-Programming-Environment-Variable-Management-08-19)
 
 ### [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](../articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
 

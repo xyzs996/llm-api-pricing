@@ -86,8 +86,8 @@ The honest catch is that a workstation demands something a chat box never does: 
 **Read next**
 
 - [Never Use a Model Where Code Can Decide](never-use-a-model-where-code-can-decide.md)
-- [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](the-token-cost-war-why-price-per-million-tokens-now-decides.md)
-- [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](why-your-indie-app-needs-short-form-video-marketing-and-how.md)
+- [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
+- [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 
 [All 53 write-ups](../README.md)
 

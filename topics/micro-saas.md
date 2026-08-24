@@ -14,11 +14,11 @@
 
 ## The write-ups
 
-### [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
+### [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](../articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 
-"Solving a niche problem is the secret to building a profitable Micro-SaaS." This common advice ignores the power of focusing on a single, well-defined pain point in a specific market.
+Of the 27 AI-powered micro-SaaS projects that generated predictable monthly revenue in a recent analysis, every profitable one used at least three of the same five architectural components.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14) · [telegra.ph](https://telegra.ph/A-30-Line-Script-200-Users-and-a-Niche-Nobody-Wanted-08-19)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/31) · [telegra.ph](https://telegra.ph/The-5-AI-Features-That-Separated-27-Profitable-Solopreneurs-From-the-Rest-08-19)
 
 ### [How to Build a Micro-SaaS Without Spending a Dime on Ads](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 
@@ -26,11 +26,11 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/27) · [telegra.ph](https://telegra.ph/How-to-Build-a-Micro-SaaS-Without-Spending-a-Dime-on-Ads-08-19)
 
-### [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](../articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
+### [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 
-Of the 27 AI-powered micro-SaaS projects that generated predictable monthly revenue in a recent analysis, every profitable one used at least three of the same five architectural components.
+"Solving a niche problem is the secret to building a profitable Micro-SaaS." This common advice ignores the power of focusing on a single, well-defined pain point in a specific market.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/31) · [telegra.ph](https://telegra.ph/The-5-AI-Features-That-Separated-27-Profitable-Solopreneurs-From-the-Rest-08-19)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14) · [telegra.ph](https://telegra.ph/A-30-Line-Script-200-Users-and-a-Niche-Nobody-Wanted-08-19)
 
 ---
 

@@ -23,23 +23,17 @@ Writing code got cheap.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/65) · [telegra.ph](https://telegra.ph/Never-Use-a-Model-Where-Code-Can-Decide-08-23)
 
-### [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](../articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
-
-The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/61) · [telegra.ph](https://telegra.ph/Rank-and-Rent-Building-Local-SEO-Sites-That-Earn-500-to-3000-a-Month-08-23)
-
 ### [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 
 Ninety percent of the people who open an AI tool type a question into it.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/63) · [telegra.ph](https://telegra.ph/Stop-Using-AI-as-a-Chatbot-How-to-Build-an-Indie-Workstation-with-Skills-and-Automation-08-23)
 
-### [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
+### [Your Agent Writes Code Faster Than Anyone Can Review It](../articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
 
-The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as…
+The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/55) · [telegra.ph](https://telegra.ph/Your-Agent-Writes-Code-Faster-Than-Anyone-Can-Review-It-08-23)
 
 ### [Your AI Coding Bill Scales With Your Repo, Not Your Output](../articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
 
@@ -47,11 +41,17 @@ Most people budgeting for a coding assistant reason about it the way they reason
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/56) · [telegra.ph](https://telegra.ph/Your-AI-Coding-Bill-Scales-With-Your-Repo-Not-Your-Output-08-23)
 
-### [Your Agent Writes Code Faster Than Anyone Can Review It](../articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
+### [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 
-The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it.
+The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/55) · [telegra.ph](https://telegra.ph/Your-Agent-Writes-Code-Faster-Than-Anyone-Can-Review-It-08-23)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)
+
+### [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](../articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
+
+The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/61) · [telegra.ph](https://telegra.ph/Rank-and-Rent-Building-Local-SEO-Sites-That-Earn-500-to-3000-a-Month-08-23)
 
 ---
 

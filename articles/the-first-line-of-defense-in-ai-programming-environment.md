@@ -76,9 +76,9 @@ The credential your AI tool never saw is the one you never have to rotate.
 
 **Read next**
 
-- [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
-- [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
+- [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](how-chinese-developers-are-using-codex-record-replay-to.md)
 - [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
+- [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 
 [All 53 write-ups](../README.md)
 

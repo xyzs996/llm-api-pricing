@@ -45,9 +45,9 @@ Once your timed loops and event hooks are handling the daily grind, your actual 
 
 **Read next**
 
-- [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
+- [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
-- [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
+- [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 
 [All 53 write-ups](../README.md)
 

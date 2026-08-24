@@ -17,17 +17,35 @@
 
 ## The write-ups
 
+### [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
+
+As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor…
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/43) · [telegra.ph](https://telegra.ph/Stop-Doing-Manual-DevOps-How-I-Use-loop-and-hook-to-Automate-My-Daily-Indie-Hacker-Tasks-08-22)
+
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 A six-hour Chrome extension pays $400 a month.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/23) · [telegra.ph](https://telegra.ph/Debunking-the-Myth-of-Overnight-Success-in-Micro-SaaS-08-21)
 
-### [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
+### [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
-As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor…
+On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/43) · [telegra.ph](https://telegra.ph/Stop-Doing-Manual-DevOps-How-I-Use-loop-and-hook-to-Automate-My-Daily-Indie-Hacker-Tasks-08-22)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/36) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Code-Review-Tool-A-Developers-Guide-08-21)
+
+### [Your Agent Writes Code Faster Than Anyone Can Review It](../articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
+
+The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/55) · [telegra.ph](https://telegra.ph/Your-Agent-Writes-Code-Faster-Than-Anyone-Can-Review-It-08-23)
+
+### [Your AI Coding Bill Scales With Your Repo, Not Your Output](../articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
+
+Most people budgeting for a coding assistant reason about it the way they reason about a printer, as though the cost tracked how much comes out.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/56) · [telegra.ph](https://telegra.ph/Your-AI-Coding-Bill-Scales-With-Your-Repo-Not-Your-Output-08-23)
 
 ### [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 
@@ -40,24 +58,6 @@ Klarna's AI customer service experiment, which replaced 700 human agents, initia
 The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as…
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)
-
-### [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
-
-On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/36) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Code-Review-Tool-A-Developers-Guide-08-21)
-
-### [Your AI Coding Bill Scales With Your Repo, Not Your Output](../articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
-
-Most people budgeting for a coding assistant reason about it the way they reason about a printer, as though the cost tracked how much comes out.
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/56) · [telegra.ph](https://telegra.ph/Your-AI-Coding-Bill-Scales-With-Your-Repo-Not-Your-Output-08-23)
-
-### [Your Agent Writes Code Faster Than Anyone Can Review It](../articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
-
-The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it.
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/55) · [telegra.ph](https://telegra.ph/Your-Agent-Writes-Code-Faster-Than-Anyone-Can-Review-It-08-23)
 
 ---
 

@@ -17,11 +17,11 @@
 
 ## The write-ups
 
-### [Best Practices for AI Agent Skill Management](../articles/best-practices-for-ai-agent-skill-management.md)
+### [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 
-Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity.
+Ninety percent of the people who open an AI tool type a question into it.
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18) · [telegra.ph](https://telegra.ph/Best-Practices-for-AI-Agent-Skill-Management-08-21)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/63) · [telegra.ph](https://telegra.ph/Stop-Using-AI-as-a-Chatbot-How-to-Build-an-Indie-Workstation-with-Skills-and-Automation-08-23)
 
 ### [Claude Code and Codex for Office Automation](../articles/claude-code-and-codex-for-office-automation.md)
 
@@ -29,11 +29,23 @@ Claude Code and Codex offer powerful tools for office automation, improving task
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59) · [telegra.ph](https://telegra.ph/Office-Automation-with-Claude-Code-and-Codex-08-23)
 
+### [Best Practices for AI Agent Skill Management](../articles/best-practices-for-ai-agent-skill-management.md)
+
+Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18) · [telegra.ph](https://telegra.ph/Best-Practices-for-AI-Agent-Skill-Management-08-21)
+
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 A six-hour Chrome extension pays $400 a month.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/23) · [telegra.ph](https://telegra.ph/Debunking-the-Myth-of-Overnight-Success-in-Micro-SaaS-08-21)
+
+### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
+
+If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/29) · [telegra.ph](https://telegra.ph/Stop-Chatting-With-AI-How-I-Use-loop-and-hook-to-Automate-My-Indie-Dev-Workflow-08-19)
 
 ### [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
@@ -46,18 +58,6 @@ The agent processes 40-plus podcast channels overnight, transcribed and summariz
 The most useful number I've come across in indie product write-ups this year is a hundred orders in twenty-four hours, and the thing worth noticing is what produced it: Pieter Levels put up a crude…
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/48) · [telegra.ph](https://telegra.ph/Sell-It-Before-You-Build-It-How-Indie-Devs-Validate-AI-Products-08-23)
-
-### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
-
-If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/29) · [telegra.ph](https://telegra.ph/Stop-Chatting-With-AI-How-I-Use-loop-and-hook-to-Automate-My-Indie-Dev-Workflow-08-19)
-
-### [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
-
-Ninety percent of the people who open an AI tool type a question into it.
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/63) · [telegra.ph](https://telegra.ph/Stop-Using-AI-as-a-Chatbot-How-to-Build-an-Indie-Workstation-with-Skills-and-Automation-08-23)
 
 ### [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
