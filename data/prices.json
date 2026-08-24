@@ -1,4 +1,9 @@
 {
+  "dataset": "Coding-agent model prices, next to their agent-arena rank",
+  "dataset_url": "https://xyzs996.github.io/llm-api-pricing/",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "CC BY 4.0. Reuse it however you like, including commercially; the one condition is a credit that names this dataset and links to dataset_url. source below is where the list prices came from, not this dataset — the effective_per_million and vendor_checked fields are computed here and are not in the upstream catalog.",
   "source": "https://openrouter.ai/api/v1/models",
   "source_name": "OpenRouter",
   "checked": "2026-08-24",
