@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-429 figures pulled out of 52 write-ups in
+478 figures pulled out of 53 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -300,6 +300,62 @@ Published 2026-08-15.
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `3 months` | duration | A former Alibaba P8 engineer, laid off and 3 months into an unsuccessful job search, ended up running three separate AI instances — one tracking competitor pricing, one generating ad creative, one handling customer service — and reports about 170,000 yuan a month. |
+
+## [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html)
+
+Published 2026-08-24.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$0.81` per million input tokens | price | Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x. |
+| `$2.00` per million input tokens | price | Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x. |
+| `2.47x` | multiple | Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x. |
+| `1.51x` | multiple | Reprice the same 40 at the token mix a coding agent actually produces and the gap falls to 1.51x. |
+| `8.04 billion tokens` | tokens | The mix in this table was measured over 8.04 billion tokens of one person's coding agent on 2026-05-16, and published openly: 95.64% cache reads, 4.07% cache misses, 0.29% output. |
+| `95.64%` | percent | The mix in this table was measured over 8.04 billion tokens of one person's coding agent on 2026-05-16, and published openly: 95.64% cache reads, 4.07% cache misses, 0.29% output. |
+| `4.07%` | percent | The mix in this table was measured over 8.04 billion tokens of one person's coding agent on 2026-05-16, and published openly: 95.64% cache reads, 4.07% cache misses, 0.29% output. |
+| `0.29%` | percent | The mix in this table was measured over 8.04 billion tokens of one person's coding agent on 2026-05-16, and published openly: 95.64% cache reads, 4.07% cache misses, 0.29% output. |
+| `$25` | price | Output, the price with the scariest sticker, the one at $25 or $50 per million, is under a third of one percent of the volume. |
+| `$50` per million | price | Output, the price with the scariest sticker, the one at $25 or $50 per million, is under a third of one percent of the volume. |
+| `$0.2015` | price | Reprice at that mix and the medians land at $0.2015 against $0.3046. |
+| `$0.3046` | price | Reprice at that mix and the medians land at $0.2015 against $0.3046. |
+| `1.51x` | multiple | A gap of 1.51x. |
+| `10%` | percent | Anthropic, Google and OpenAI each charge 10% of input for a cache read. |
+| `12%` | percent | Meta charges 12%. |
+| `20%` | percent | The Chinese vendors mostly do not. z-ai charges 20% across six rows. |
+| `20%` | percent | MiniMax charges 20%. |
+| `16%` | percent | Qwen and Moonshot both sit near 16%, Moonshot spreading from 10% as far as 25%. |
+| `10%` | percent | Qwen and Moonshot both sit near 16%, Moonshot spreading from 10% as far as 25%. |
+| `25%` | percent | Qwen and Moonshot both sit near 16%, Moonshot spreading from 10% as far as 25%. |
+| `96%` | percent | So a model that undercuts by half on the pricing page hands a third to a half of that back on the line carrying 96% of the traffic. |
+| `8.3%` | percent | DeepSeek is the exception that proves the rule: 8.3%, better than anyone's flat ten, and DeepSeek V4 Pro is duly the cheapest model on the whole board. |
+| `$1.475` per million | price | Qwen3.7 Max lists at $1.475 per million input. |
+| `$2.00` | price | Claude Sonnet 5 lists at $2.00. |
+| `26%` | percent | On the pricing page Qwen is 26% cheaper and the decision looks made. |
+| `$355.00` | price | Run the billion tokens through: Qwen3.7 Max bills $355.00, Claude Sonnet 5 bills $301.68. |
+| `$301.68` | price | Run the billion tokens through: Qwen3.7 Max bills $355.00, Claude Sonnet 5 bills $301.68. |
+| `18%` | percent | The cheaper-looking model costs 18% more. |
+| `20%` | percent | Qwen's cache read is 20% of its input where Anthropic's is 10%, and at 96% cache reads that ratio is the invoice. |
+| `10%` | percent | Qwen's cache read is 20% of its input where Anthropic's is 10%, and at 96% cache reads that ratio is the invoice. |
+| `96%` | percent | Qwen's cache read is 20% of its input where Anthropic's is 10%, and at 96% cache reads that ratio is the invoice. |
+| `$3,000` | price | While we are here: budgeting a billion tokens at Kimi K3's list input predicts $3,000. |
+| `$452.52` | price | The real figure is $452.52, an overestimate of 6.6x. |
+| `6.6x` | multiple | The real figure is $452.52, an overestimate of 6.6x. |
+| `$50` per million | price | A model at $50 per million output looks four times worse than one at $12.50. |
+| `$12.50` | price | A model at $50 per million output looks four times worse than one at $12.50. |
+| `0.29%` | percent | At 0.29% of volume that difference contributes almost nothing, while a cache read at 10% versus 20% of input moves the same bill by a third. |
+| `10%` | percent | At 0.29% of volume that difference contributes almost nothing, while a cache read at 10% versus 20% of input moves the same bill by a third. |
+| `20%` | percent | At 0.29% of volume that difference contributes almost nothing, while a cache read at 10% versus 20% of input moves the same bill by a third. |
+| `$0.0501` | price | DeepSeek V4 Pro is the cheapest of the 40 at $0.0501 effective. |
+| `$0.0566` | price | The cheapest American row, Gemini 3.7 Flash, comes in at $0.0566, only 1.13x above it. |
+| `1.13x` | multiple | The cheapest American row, Gemini 3.7 Flash, comes in at $0.0566, only 1.13x above it. |
+| `$0.4525` | price | Kimi K3 prices at $0.4525 effective. |
+| `1.58x` | multiple | Across the 18 batch rows the list gap is 1.58x and the effective gap is 0.98x, meaning the Chinese rows come out marginally more expensive. |
+| `0.98x` | multiple | Across the 18 batch rows the list gap is 1.58x and the effective gap is 0.98x, meaning the Chinese rows come out marginally more expensive. |
+| `200,000 tokens` | tokens | Twelve models also carry a second, higher price band past a context threshold, mostly at 200,000 tokens and 272,000 for GPT-5.4. |
+| `300,000-token` | tokens | An agent routinely running a 300,000-token context is paying a different table than this one. |
+| `80%` | percent | Push it down toward 80%, which short sessions and cold starts and a pile of new files will do, and the vendors with cheap cache reads lose their edge; the comparison drifts back toward the card price, and back toward the Chinese side. |
+| `98%` | percent | Push it past 98%, which long runs on a stable repo will do, and the flat-ten vendors stretch further ahead. |
 
 ## [Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://xyzs996.github.io/llm-api-pricing/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html)
 
@@ -848,5 +904,5 @@ Published 2026-08-11.
 | `30%` | percent | Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "429 figures pulled out of 52 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-23", "dateModified": "2026-08-23"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "478 figures pulled out of 53 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-24", "dateModified": "2026-08-24"}
 </script>

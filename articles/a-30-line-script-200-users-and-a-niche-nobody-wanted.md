@@ -126,9 +126,9 @@ Independent developers can validate product demand quickly by creating a Minimum
 - [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 - [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 
-[All 52 write-ups](../README.md)
+[All 53 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 418 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 467 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Micro SaaS](../topics/micro-saas.md)
 

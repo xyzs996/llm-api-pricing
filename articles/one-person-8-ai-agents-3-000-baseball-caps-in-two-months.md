@@ -73,9 +73,9 @@ If you have the domain knowledge, the relay structure is worth building and the 
 - [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 - [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](charge-per-conversation-not-per-seat-the-billing-model.md)
 
-[All 52 write-ups](../README.md)
+[All 53 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 422 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 471 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Niche Market](../topics/niche-market.md) · [Revenue Growth](../topics/revenue-growth.md)
 

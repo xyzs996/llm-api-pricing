@@ -117,9 +117,9 @@ What you get back is narrow and worth it: the pipeline stops telling you things 
 - [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
 - [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 
-[All 52 write-ups](../README.md)
+[All 53 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 426 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 475 more, as JSON and CSV.
 
 Topics: [AI](../topics/ai.md)
 

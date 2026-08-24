@@ -88,9 +88,9 @@ I could be wrong here. This is one company, one quarter, and Klarna had reasons 
 - [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
-[All 52 write-ups](../README.md)
+[All 53 write-ups](../README.md)
 
-The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 406 more, as JSON and CSV.
+The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 455 more, as JSON and CSV.
 
 Topics: [AI Implementation](../topics/ai-implementation.md) · [Niche Market](../topics/niche-market.md) · [AI Costs](../topics/ai-costs.md)
 

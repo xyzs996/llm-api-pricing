@@ -1,6 +1,6 @@
 # AI Tools
 
-4 of the 52 write-ups here are tagged AI Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 53 write-ups here are tagged AI Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -12,7 +12,7 @@
 - **$500** — You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 - **$3,000** — High-ticket services in low-competition cities often sit at the $3,000 end for websites that actually deliver customers. [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 
-[All figures, 429 rows](../figures.md)
+[All figures, 478 rows](../figures.md)
 
 ## The write-ups
 
@@ -42,7 +42,7 @@ Chris launched WiseMindAI last year and came out of a single session with Miora'
 
 ---
 
-[All 52 write-ups](../README.md)
+[All 53 write-ups](../README.md)
 
 ---
 

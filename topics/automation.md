@@ -1,6 +1,6 @@
 # Automation
 
-3 of the 52 write-ups here are tagged Automation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 53 write-ups here are tagged Automation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -10,7 +10,7 @@
 - **5 minutes** — Pairing WorkBuddy with BrowserAct gets a competitor pricing table in roughly 5 minutes and a product-opportunity report in about 7; a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, which leaves room for around 10 research runs daily before money enters the conversation at all. [→](../articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md)
 - **20%** — The efficiency target one operator set for themselves is specific and aggressive: compress delivery time to 20% of what it was. [→](../articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md)
 
-[All figures, 429 rows](../figures.md)
+[All figures, 478 rows](../figures.md)
 
 ## The write-ups
 
@@ -34,7 +34,7 @@ WeChat's Xiaowei agent went into closed testing this year, and Qwen's brand agen
 
 ---
 
-[All 52 write-ups](../README.md)
+[All 53 write-ups](../README.md)
 
 ---
 

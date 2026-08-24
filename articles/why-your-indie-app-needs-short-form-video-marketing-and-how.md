@@ -79,9 +79,9 @@ Skip this approach if you cannot commit 12 hours a week for several months, or i
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All 52 write-ups](../README.md)
+[All 53 write-ups](../README.md)
 
-The 37 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 392 more, as JSON and CSV.
+The 37 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 441 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Productivity](../topics/productivity.md)
 

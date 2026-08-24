@@ -1,6 +1,6 @@
 # Chinese AI
 
-5 of the 52 write-ups here are tagged Chinese AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 53 write-ups here are tagged Chinese AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$0.06** — It offers a price range of $0.06-0.2 per million tokens, targeting global small and medium-sized enterprises and individual users. [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - **80%** — The skill automates the workflow, reducing manual effort by 80%, and adapts to different document formats and storage options. [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
-[All figures, 429 rows](../figures.md)
+[All figures, 478 rows](../figures.md)
 
 ## The write-ups
 
@@ -49,7 +49,7 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 52 write-ups](../README.md)
+[All 53 write-ups](../README.md)
 
 ---
 

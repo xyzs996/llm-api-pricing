@@ -1,6 +1,6 @@
 # Cost Savings
 
-6 of the 52 write-ups here are tagged Cost Savings. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 53 write-ups here are tagged Cost Savings. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **95%** — For example, Luna's 95% accuracy rate for basic questions drops when faced with more complex queries, and Terra's document analysis accuracy can vary depending on document structure and content. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 - **95%** — That 95% export-issue figure gets quoted everywhere. [→](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
-[All figures, 429 rows](../figures.md)
+[All figures, 478 rows](../figures.md)
 
 ## The write-ups
 
@@ -55,7 +55,7 @@ Chris launched WiseMindAI last year and came out of a single session with Miora'
 
 ---
 
-[All 52 write-ups](../README.md)
+[All 53 write-ups](../README.md)
 
 ---
 

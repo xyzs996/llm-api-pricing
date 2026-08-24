@@ -67,9 +67,9 @@ If your current project is still a loose, exploratory prototype experiencing rap
 - [The $22K-a-Month AI Tool That Never Bought a Single Ad](the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 - [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 
-[All 52 write-ups](../README.md)
+[All 53 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 427 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 476 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [Automation](../topics/automation.md)
 

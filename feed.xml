@@ -4,8 +4,16 @@
   <id>https://xyzs996.github.io/llm-api-pricing/</id>
   <link href="https://xyzs996.github.io/llm-api-pricing/"/>
   <link rel="self" href="https://xyzs996.github.io/llm-api-pricing/feed.xml"/>
-  <updated>2026-08-23T23:26:00Z</updated>
+  <updated>2026-08-24T09:30:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html</id>
+    <updated>2026-08-24T09:30:00Z</updated>
+    <published>2026-08-24T09:30:00Z</published>
+    <summary>Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x.</summary>
+  </entry>
   <entry>
     <title>Never Use a Model Where Code Can Decide</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/never-use-a-model-where-code-can-decide.html"/>
