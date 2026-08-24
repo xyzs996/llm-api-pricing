@@ -119,6 +119,12 @@ The empty cells are not an oversight — they are the models nobody
 here has written about yet, which is also the honest answer to which
 one to write about next.
 
+## One vendor at a time
+
+The table above sorts by price, so a vendor's rows are scattered through it. These pages cut it the other way — one vendor per page, with the thing that decides an agent's bill and is not in any row: **how deep that vendor discounts a cache read**, which is a vendor-wide policy rather than a per-model number.
+
+[Claude](providers/claude.md) · [Gemini](providers/gemini.md) · [OpenAI](providers/openai.md) · [GLM](providers/glm.md) · [Kimi](providers/kimi.md)
+
 ## Put your own numbers in
 
 Everything above is a rate card, read on one date. The three things that actually decide your bill — which side of a vendor's clock the call lands on, whether the prompt crosses a long-context threshold, and what share of your tokens are cache reads — depend on your usage, and no price column can carry them.
