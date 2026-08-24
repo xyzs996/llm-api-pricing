@@ -88,7 +88,7 @@ Don't take the above on faith — it takes about thirty seconds to check, offlin
 ```
 git clone https://github.com/xyzs996/deepseek-peak-hours && cd deepseek-peak-hours
 python3 check_vectors.py            # the rule, checked offline
-node conformance/run.mjs --detail   # nine published plugins. two pass.
+node conformance/run.mjs --detail   # nine published plugins. three pass.
 ```
 
 Eighteen dated boundary instants with the expected side of the rate card for each, a reference implementation of the rule in about thirty lines of Python and of dependency-free JavaScript, and the same vectors run against the actual peak predicate of nine published DeepSeek billing plugins. Public domain. If a vector is wrong, that is worth more to us than a star: [say so](https://github.com/xyzs996/deepseek-peak-hours/issues/1).
@@ -155,7 +155,7 @@ git clone https://github.com/xyzs996/deepseek-peak-hours && cd deepseek-peak-hou
 node conformance/run.mjs --detail
 ```
 
-No dependencies, no network, Node 16+. `conformance/adapters.mjs` holds a commit-pinned transcription of each project's own predicate — same branches, same operators, type annotations dropped where the original is TypeScript — and the runner puts 15 boundary vectors through all of them. As of **2026-08-23**:
+No dependencies, no network, Node 16+. `conformance/adapters.mjs` holds a commit-pinned transcription of each project's own predicate — same branches, same operators, type annotations dropped where the original is TypeScript — and the runner puts 15 boundary vectors through all of them. As of **2026-08-24**:
 
 | project | score | not run |
 | --- | --- | --- |
@@ -163,7 +163,7 @@ No dependencies, no network, Node 16+. `conformance/adapters.mjs` holds a commit
 | [dsh-deepseek-balance](https://github.com/lancecheney/dsh-plugins) | **12/12** | 3 |
 | [dsh-billing-tui](https://github.com/Ethanz11-creat/dsh-billing-tui) | 9/12 | 3 |
 | [dsh-board](https://github.com/dfkai/dsh-board) | 9/12 | 3 |
-| [dsh-calculator](https://github.com/bobcat848/dsh-calculator) | 9/12 | 3 |
+| [dsh-calculator](https://github.com/bobcat848/dsh-calculator) | **12/12** | 3 |
 | [dsh-gauge](https://github.com/noone89A/dsh-gauge) | 10/15 | — |
 | [dsh-token-billing](https://github.com/2006spy/dsh-token-billing) | 10/15 | — |
 | [dsh-token-price](https://github.com/spoon-man569/dsh-token-price) | 10/15 | — |
@@ -173,15 +173,17 @@ Every failure is the same three weekend instants, plus two more wherever the pro
 
 That second schedule is the part worth stealing whatever you make of the rest. Three vectors run against a synthetic schedule whose peak window is `16:00-22:00 UTC`, and it is synthetic on purpose: the real windows both close before 16:00 UTC, and `16:00-24:00 UTC` is the only stretch where the two calendars disagree about the date. So failure mode (2) above — patching the weekday in with `getUTCDay()` — passes every vector you can write against the published schedule. The synthetic one is the only way to make it fail in a test instead of in a bill.
 
-Two of the nine pass everything they can run, and both encode something the pricing page does not say: a timezone on the weekday **and** an effective instant for the weekend rule. One spells it `WEEKEND_OFFPEAK_EFFECTIVE_AT = '2026-08-22T16:00:00Z'`, the other `weekendFrom: "2026-08-23T00:00:00+08:00"`. Same instant, two spellings, both right.
+Three of the nine pass everything they can run, and all three encode something the pricing page does not say: a timezone on the weekday **and** an effective instant for the weekend rule. They spell it `WEEKEND_OFFPEAK_EFFECTIVE_AT = '2026-08-22T16:00:00Z'`, `weekendFrom: "2026-08-23T00:00:00+08:00"`, and `WEEKEND_OFFPEAK_START_MS = Date.UTC(2026, 7, 22, 16, 0, 0)`. Same instant, three spellings, all right.
 
-If a transcription is wrong, that is a bug in the harness and not a finding about anyone's project — say so and it gets fixed and re-run. Each of the seven has an issue open on its own tracker with its failing instants and a patch in its own language; the table follows the vectors, so a row moves when the code does.
+The newest of them is worth a second look even if you already have the rule right. `dsh-calculator` gates the weekend on its *own* constant rather than on the schedule's start date, so re-costing a Saturday from before 2026-08-23 still bills at peak the way it actually was billed. Most fixes for this reuse the schedule's start date and quietly rewrite history.
+
+If a transcription is wrong, that is a bug in the harness and not a finding about anyone's project — say so and it gets fixed and re-run. Each of the six got an issue on its own tracker with its failing instants and a patch in its own language; the table follows the vectors, so a row moves when the code does — one has, since.
 
 That table is kept current in the open, one row per project, each linked to its own tracker: [the scoreboard](https://github.com/xyzs996/deepseek-peak-hours/issues/1). If you maintain one of the nine and have fixed it, or think the transcription of your code is wrong, or think a vector's expectation is wrong — that is the thread. It is the only place on this page where you can answer back, which is the point.
 
 ### The schedule itself, as a file
 
-Everything above turns on one axis that most rate cards do not have a slot for: **which days the windows run on, and which calendar that day is counted on.** Seven of the nine had the hour arithmetic right and still billed the weekend at double, because there was nowhere in their data to put a weekday. So here is the schedule as data, public domain, re-generated with the rest of this site every day:
+Everything above turns on one axis that most rate cards do not have a slot for: **which days the windows run on, and which calendar that day is counted on.** Six of the nine have the hour arithmetic right and still bill the weekend at double, because there is nowhere in their data to put a weekday. So here is the schedule as data, public domain, re-generated with the rest of this site every day:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/schedule.json
