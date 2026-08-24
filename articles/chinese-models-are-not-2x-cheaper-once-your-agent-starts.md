@@ -28,7 +28,7 @@ Anthropic, Google and OpenAI each charge 10% of input for a cache read. Flat, ev
 
 The Chinese vendors mostly do not. z-ai charges 20% across six rows. MiniMax charges 20%. Qwen and Moonshot both sit near 16%, Moonshot spreading from 10% as far as 25%.
 
-So a model that undercuts by half on the pricing page hands a third to a half of that back on the line carrying 96% of the traffic. DeepSeek is the exception that proves the rule: 8.3%, better than anyone's flat ten, and DeepSeek V4 Pro is duly the cheapest model on the whole board.
+So a model that undercuts by half on the pricing page hands a third to a half of that back on the line carrying 96% of the traffic. DeepSeek is the exception that proves the rule: 8.3%, better than anyone's flat ten.
 
 The split was not what I went looking for. A ratio moved, the question was which column moved it, and the answer turned out to be one column with a national border running down the middle.
 
@@ -66,7 +66,7 @@ The pricing page is ordered by drama. The invoice is ordered by volume. Nobody p
 
 None of this makes the Chinese side expensive, and the corrected numbers are kinder to them than the headline ratio was.
 
-DeepSeek V4 Pro is the cheapest of the 40 at $0.0501 effective. The cheapest American row, Gemini 3.7 Flash, comes in at $0.0566, only 1.13x above it. At the bottom of the market the two sides have converged to within a rounding error.
+Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it. Exactly which side of it, though, is the one number in this table that will not hold still. The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; OpenRouter lists the same model a third higher a day later, which puts it at $0.0664, behind. DeepSeek is the one vendor here that prices by the clock — its own rate card is split into peak and off-peak hours, and off-peak is half — so any single figure for that row is a snapshot of an hour rather than of a price. The point of this section survives either way, and survives harder: at the bottom of the market the two sides have converged to inside a rounding error, and which one is nominally cheapest depends on when you look.
 
 Eleven of the fourteen Chinese models beat the American median. That is a real advantage, and nothing here argues it away.
 

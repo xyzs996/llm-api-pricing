@@ -169,6 +169,10 @@ defaults:
     values:
       description: "Every figure in these AI coding field notes whose sentence names Fable 5 — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
   - scope:
+      path: "providers/deepseek.md"
+    values:
+      description: "Every figure in these AI coding field notes whose sentence names DeepSeek — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
+  - scope:
       path: "providers/gpt-5.md"
     values:
       description: "Every figure in these AI coding field notes whose sentence names GPT-5 — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
@@ -176,10 +180,6 @@ defaults:
       path: "providers/chatgpt.md"
     values:
       description: "Every figure in these AI coding field notes whose sentence names ChatGPT — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
-  - scope:
-      path: "providers/deepseek.md"
-    values:
-      description: "Every figure in these AI coding field notes whose sentence names DeepSeek — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
   - scope:
       path: "articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md"
     values:

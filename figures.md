@@ -328,7 +328,7 @@ Published 2026-08-24.
 | `10%` | percent | Qwen and Moonshot both sit near 16%, Moonshot spreading from 10% as far as 25%. |
 | `25%` | percent | Qwen and Moonshot both sit near 16%, Moonshot spreading from 10% as far as 25%. |
 | `96%` | percent | So a model that undercuts by half on the pricing page hands a third to a half of that back on the line carrying 96% of the traffic. |
-| `8.3%` | percent | DeepSeek is the exception that proves the rule: 8.3%, better than anyone's flat ten, and DeepSeek V4 Pro is duly the cheapest model on the whole board. |
+| `8.3%` | percent | DeepSeek is the exception that proves the rule: 8.3%, better than anyone's flat ten. |
 | `$1.475` per million | price | Qwen3.7 Max lists at $1.475 per million input. |
 | `$2.00` | price | Claude Sonnet 5 lists at $2.00. |
 | `26%` | percent | On the pricing page Qwen is 26% cheaper and the decision looks made. |
@@ -346,9 +346,9 @@ Published 2026-08-24.
 | `0.29%` | percent | At 0.29% of volume that difference contributes almost nothing, while a cache read at 10% versus 20% of input moves the same bill by a third. |
 | `10%` | percent | At 0.29% of volume that difference contributes almost nothing, while a cache read at 10% versus 20% of input moves the same bill by a third. |
 | `20%` | percent | At 0.29% of volume that difference contributes almost nothing, while a cache read at 10% versus 20% of input moves the same bill by a third. |
-| `$0.0501` | price | DeepSeek V4 Pro is the cheapest of the 40 at $0.0501 effective. |
-| `$0.0566` | price | The cheapest American row, Gemini 3.7 Flash, comes in at $0.0566, only 1.13x above it. |
-| `1.13x` | multiple | The cheapest American row, Gemini 3.7 Flash, comes in at $0.0566, only 1.13x above it. |
+| `$0.0566` | price | Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it. |
+| `$0.0501` | price | The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; OpenRouter lists the same model a third higher a day later, which puts it at $0.0664, behind. |
+| `$0.0664` | price | The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; OpenRouter lists the same model a third higher a day later, which puts it at $0.0664, behind. |
 | `$0.4525` | price | Kimi K3 prices at $0.4525 effective. |
 | `1.58x` | multiple | Across the 18 batch rows the list gap is 1.58x and the effective gap is 0.98x, meaning the Chinese rows come out marginally more expensive. |
 | `0.98x` | multiple | Across the 18 batch rows the list gap is 1.58x and the effective gap is 0.98x, meaning the Chinese rows come out marginally more expensive. |

@@ -1796,7 +1796,7 @@
     "value": "8.3%",
     "kind": "percent",
     "unit": "",
-    "context": "DeepSeek is the exception that proves the rule: 8.3%, better than anyone's flat ten, and DeepSeek V4 Pro is duly the cheapest model on the whole board.",
+    "context": "DeepSeek is the exception that proves the rule: 8.3%, better than anyone's flat ten.",
     "article": "Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching",
     "published": "2026-08-24",
     "url": "https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html",
@@ -1991,21 +1991,10 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/66"
   },
   {
-    "value": "$0.0501",
-    "kind": "price",
-    "unit": "",
-    "context": "DeepSeek V4 Pro is the cheapest of the 40 at $0.0501 effective.",
-    "article": "Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching",
-    "published": "2026-08-24",
-    "url": "https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html",
-    "medium": "",
-    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/66"
-  },
-  {
     "value": "$0.0566",
     "kind": "price",
     "unit": "",
-    "context": "The cheapest American row, Gemini 3.7 Flash, comes in at $0.0566, only 1.13x above it.",
+    "context": "Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it.",
     "article": "Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching",
     "published": "2026-08-24",
     "url": "https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html",
@@ -2013,10 +2002,21 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/66"
   },
   {
-    "value": "1.13x",
-    "kind": "multiple",
+    "value": "$0.0501",
+    "kind": "price",
     "unit": "",
-    "context": "The cheapest American row, Gemini 3.7 Flash, comes in at $0.0566, only 1.13x above it.",
+    "context": "The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; OpenRouter lists the same model a third higher a day later, which puts it at $0.0664, behind.",
+    "article": "Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching",
+    "published": "2026-08-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html",
+    "medium": "",
+    "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/66"
+  },
+  {
+    "value": "$0.0664",
+    "kind": "price",
+    "unit": "",
+    "context": "The 2026-08-23 read put DeepSeek at $0.0501, ahead of Gemini; OpenRouter lists the same model a third higher a day later, which puts it at $0.0664, behind.",
     "article": "Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching",
     "published": "2026-08-24",
     "url": "https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html",
