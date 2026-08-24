@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/66) — that copy has a reply box under it, and this one does not.*
+
 Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x. Reprice the same 40 at the token mix a coding agent actually produces and the gap falls to 1.51x. Nothing was discounted and nothing expired. The comparison was just reading the wrong column.
 
 ## The Price You Compare Is Not the Price You Pay
@@ -116,6 +118,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** what is your agent's cache-read share? Reply with the number if you know it, or one word for why you do not: dashboard, mixed, or never-looked. That one figure decides which half of this table you should be reading. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/66).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fchinese-models-are-not-2x-cheaper-once-your-agent-starts.md). One required field, and the page you came from is already filled

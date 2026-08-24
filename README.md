@@ -253,7 +253,7 @@ Respond.io bills its customers for every contact who had a conversation in a giv
 
 Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x.
 
-`LLM` `AI Cost Optimization` `Coding Agents` `Machine Learning` · [telegra.ph](https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24)
+`LLM` `AI Cost Optimization` `Coding Agents` `Machine Learning` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/66) · [telegra.ph](https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24)
 
 ### [Choosing the Right AI Model for Coding: Cost vs. Efficiency](articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
