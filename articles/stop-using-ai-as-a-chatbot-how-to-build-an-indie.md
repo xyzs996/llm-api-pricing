@@ -6,7 +6,7 @@
 
 *The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/63) — that copy has a reply box under it, and this one does not.*
 
-Ninety percent of the people who open an AI tool type a question into it. The ones earning a living from it type a schedule instead. A former Alibaba P8 engineer, laid off and three months into a job hunt that went nowhere, ended up running three AI instances on timers — one watching competitor prices, one producing ad creative, one answering customer mail — and pulled 170,000 yuan a month out of them, somewhere near $24,000. Not one piece of that setup is a chat window. The skill that separates the two groups is no longer asking a good question; it is handing off a task and walking away.
+Ninety percent of the people who open an AI tool type a question into it. The ones earning a living from it type a schedule instead. A former Alibaba P8 engineer, laid off and three months into a job hunt that went nowhere, ended up running three AI instances on timers. One watched competitor prices, one produced ad creative, one answered customer mail, and together they pulled 170,000 yuan a month out of them, somewhere near $24,000. Not one piece of that setup is a chat window. I think the skill that separates the two groups is no longer asking a good question. It is handing off a task and walking away.
 
 ## The Chatbot Trap
 

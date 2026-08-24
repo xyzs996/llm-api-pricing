@@ -330,7 +330,7 @@ defaults:
       path: "articles/claude-code-and-codex-for-office-automation.md"
     values:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/claude-code-and-codex-for-office-automation.png"
-      description: "Claude Code and Codex offer powerful tools for office automation, improving task efficiency and productivity."
+      description: "Discover how Claude Code and Codex can transform office workflows with AI-driven automation, boosting productivity and reducing costs."
       date: "2026-08-22T08:25:00Z"
       seo:
         type: BlogPosting
@@ -354,7 +354,7 @@ defaults:
       path: "articles/how-chinese-developers-are-using-codex-record-replay-to.md"
     values:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-chinese-developers-are-using-codex-record-replay-to.png"
-      description: "A monthly report that used to take four hours now takes a few minutes."
+      description: "Chinese developers automate repetitive workflows with Codex's Record & Replay, saving hours daily"
       date: "2026-08-05T12:38:00Z"
       seo:
         type: BlogPosting
@@ -402,7 +402,7 @@ defaults:
       path: "articles/never-use-a-model-where-code-can-decide.md"
     values:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/never-use-a-model-where-code-can-decide.png"
-      description: "Writing code got cheap."
+      description: "What a deterministic scorer can actually check, what it cannot, and why the rubric half is a debt rather than a feature"
       date: "2026-08-23T23:26:00Z"
       seo:
         type: BlogPosting
@@ -458,7 +458,7 @@ defaults:
       path: "articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md"
     values:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/stop-using-ai-as-a-chatbot-how-to-build-an-indie.png"
-      description: "Ninety percent of the people who open an AI tool type a question into it."
+      description: "Ninety percent of AI users never leave the chat box — here is what the other ten wire up instead"
       date: "2026-08-23T21:31:00Z"
       seo:
         type: BlogPosting
@@ -466,7 +466,7 @@ defaults:
       path: "articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md"
     values:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.png"
-      description: "StoryShort hit $22,000 a month in its first three months."
+      description: "What 400 clicks a day and 15 blog posts actually add up to — plus the 720-visitor arithmetic worth running before you start"
       date: "2026-08-23T23:05:00Z"
       seo:
         type: BlogPosting
@@ -498,7 +498,7 @@ defaults:
       path: "articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md"
     values:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/the-hidden-costs-of-ai-coding-tools-what-english-developers.png"
-      description: "English write-ups rank these tools on model quality and price per token."
+      description: "Discover the hidden costs of using AI coding tools in English and Chinese, including pricing, quota limits, stability issues, and model evaluation changes."
       date: "2026-08-23T08:18:00Z"
       seo:
         type: BlogPosting

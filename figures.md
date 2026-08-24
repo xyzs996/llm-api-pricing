@@ -535,7 +535,7 @@ Published 2026-08-23.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
-| `$24,000` | price | A former Alibaba P8 engineer, laid off and three months into a job hunt that went nowhere, ended up running three AI instances on timers — one watching competitor prices, one producing ad creative, one answering customer mail — and pulled 170,000 yuan a month out of them, somewhere near $24,000. |
+| `$24,000` | price | One watched competitor prices, one produced ad creative, one answered customer mail, and together they pulled 170,000 yuan a month out of them, somewhere near $24,000. |
 | `90%` | percent | I would not defend the 90% too hard — nobody audited it, and it reads like a number someone rounded up on stage. |
 | `30%` | percent | The Agency Agents project keeps 232 structured expert persona files, each one pinning down an identity, a workflow, a delivery standard and a definition of success; the project claims over 30% better output across the 14 AI tools it supports. |
 | `30%` | percent | I have no idea how they measured that 30%, and I suspect nobody outside the project does either. |
