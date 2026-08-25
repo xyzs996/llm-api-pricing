@@ -1,12 +1,12 @@
 # Gemini API pricing: what 10 models cost a coding agent
 
-Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-08-24**.
+Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-08-25**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Gemini discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Gemini charges per million tokens
 
-10 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-08-24**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+10 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-08-25**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Gemini charges one cache-read rate across every row that publishes one: 10% of that row's own input price.** All 8 of them use it, so within Gemini the cheapest row on list price is also the cheapest row an agent actually pays — the ordering does not change. Repriced at a coding agent's mix, Gemini's list input price overstates what an agent pays by a median **6.6×** (range 6.5×–6.6×).
 
@@ -19,10 +19,10 @@ Every Gemini model in the catalog that has been ranked in an agent category, pri
 | $ / 1M at agent mix | $ in / 1M | $ cache read / 1M | $ out / 1M | Model | Context | Long-context step | Best agents rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **$0.0283** | $0.1875 | $0.0187 | $0.9375 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash:batch) `batch` | 1M | — | #3 androidnative |
-| **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash:batch) `batch` | 1M | — | #8 mobileapps |
+| **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash:batch) `batch` | 1M | — | #10 mobileapps |
 | **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash) | 1M | — | #3 androidnative |
 | **$0.0769** | $0.50 | $0.05 | $3.00 | [Gemini 3 Flash Preview](https://openrouter.ai/google/gemini-3-flash-preview) | 1M | — | #9 agenticslides |
-| **$0.1131** | $0.75 | $0.075 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | — | #8 mobileapps |
+| **$0.1131** | $0.75 | $0.075 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | — | #10 mobileapps |
 | **$0.1153** | $0.75 | $0.075 | $4.50 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash:batch) `batch` | 1M | — | #3 agenticslides(python-pptx) |
 | **$0.2306** | $1.50 | $0.15 | $9.00 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash) | 1M | — | #3 agenticslides(python-pptx) |
 | **$0.3075** | $2.00 | $0.20 | $12.00 | [Gemini 3.1 Pro Preview](https://openrouter.ai/google/gemini-3.1-pro-preview) | 1M | $4.00 past 200k | #5 agentichtmlslides |
@@ -38,14 +38,14 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 
 | Vendor | Rows | Cache read, % of its own input | List price overstates the agent bill by | Cheapest non-`batch` row at agent mix |
 | --- | --- | --- | --- | --- |
-| DeepSeek | 1 | 8.3% | 7.9× | $0.0664 |
+| DeepSeek | 1 | 8.3% | 7.9× | $0.0731 |
 | Claude | 18 | 10% | 6.6× | $0.3017 |
 | **Gemini** | 10 | 10% | 6.6× | $0.0566 |
 | OpenAI | 9 | 10–10.4% | 6.3× | $0.2042 |
 | Llama | 2 | 12% | 6.0× | $0.2067 |
 | Qwen | 2 | 12.5–20% | 5.0× | $0.3379 |
 | Grok | 4 | 15–25% | 5.0× | $0.2494 |
-| Kimi | 5 | 10–28.4% | 4.7× | $0.0918 |
+| Kimi | 5 | 10–28.4% | 4.7× | $0.1288 |
 | GLM | 7 | 18.6–20% | 4.1× | $0.0979 |
 | MiniMax | 2 | 20% | 4.1× | $0.0731 |
 

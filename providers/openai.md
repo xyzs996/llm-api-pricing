@@ -1,12 +1,12 @@
 # OpenAI API pricing: what 9 models cost a coding agent
 
-Every OpenAI model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-08-24**.
+Every OpenAI model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-08-25**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep OpenAI discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What OpenAI charges per million tokens
 
-9 OpenAI models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-08-24**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+9 OpenAI models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-08-25**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **OpenAI does not have one cache-read rate — it has 2.** Across 9 rows the discount runs from 10.0% to 10.4% of that row's own input price (10%, 10.4%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, OpenAI's list input price overstates what an agent pays by a median **6.3×** (range 6.1×–6.5×).
 
@@ -18,7 +18,7 @@ Every OpenAI model in the catalog that has been ranked in an agent category, pri
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **$0.1396** | $0.875 | $0.0875 | $7.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2:batch) `batch` | 400K | — | #18 godotgamedev |
 | **$0.1922** | $1.25 | $0.125 | $7.50 | [GPT-5.4](https://openrouter.ai/openai/gpt-5.4:batch) `batch` | 1.1M | $2.50 past 272k | #22 godotgamedev |
-| **$0.2042** | $1.25 | $0.13 | $10.00 | [GPT-5.1-Codex](https://openrouter.ai/openai/gpt-5.1-codex) | 400K | — | #24 mobileapps |
+| **$0.2042** | $1.25 | $0.13 | $10.00 | [GPT-5.1-Codex](https://openrouter.ai/openai/gpt-5.1-codex) | 400K | — | #25 mobileapps |
 | **$0.2792** | $1.75 | $0.175 | $14.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2) | 400K | — | #18 godotgamedev |
 | **$0.2792** | $1.75 | $0.175 | $14.00 | [GPT-5.2-Codex](https://openrouter.ai/openai/gpt-5.2-codex) | 400K | — | #19 godotgamedev |
 | **$0.2792** | $1.75 | $0.175 | $14.00 | [GPT-5.3-Codex](https://openrouter.ai/openai/gpt-5.3-codex) | 400K | — | #24 godotgamedev |
@@ -35,14 +35,14 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 
 | Vendor | Rows | Cache read, % of its own input | List price overstates the agent bill by | Cheapest non-`batch` row at agent mix |
 | --- | --- | --- | --- | --- |
-| DeepSeek | 1 | 8.3% | 7.9× | $0.0664 |
+| DeepSeek | 1 | 8.3% | 7.9× | $0.0731 |
 | Claude | 18 | 10% | 6.6× | $0.3017 |
 | Gemini | 10 | 10% | 6.6× | $0.0566 |
 | **OpenAI** | 9 | 10–10.4% | 6.3× | $0.2042 |
 | Llama | 2 | 12% | 6.0× | $0.2067 |
 | Qwen | 2 | 12.5–20% | 5.0× | $0.3379 |
 | Grok | 4 | 15–25% | 5.0× | $0.2494 |
-| Kimi | 5 | 10–28.4% | 4.7× | $0.0918 |
+| Kimi | 5 | 10–28.4% | 4.7× | $0.1288 |
 | GLM | 7 | 18.6–20% | 4.1× | $0.0979 |
 | MiniMax | 2 | 20% | 4.1× | $0.0731 |
 
