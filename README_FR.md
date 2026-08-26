@@ -8,7 +8,7 @@ Un jeu de données ouvert. Chaque chiffre publié dans 53 notes de terrain — p
 
 ## Ce que coûtent aujourd'hui les modèles d'agent
 
-60 modèles classés dans une catégorie *agents* de la Design Arena, avec leur **prix affiché** par million de jetons — ce n'est pas votre facture : le cache, les lots et chaque fournisseur facturent différemment. Depuis le catalogue public de OpenRouter, relu le 2026-08-25. Les trois moins chers :
+60 modèles classés dans une catégorie *agents* de la Design Arena, avec leur **prix affiché** par million de jetons — ce n'est pas votre facture : le cache, les lots et chaque fournisseur facturent différemment. Depuis le catalogue public de OpenRouter, relu le 2026-08-26. Les trois moins chers :
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
