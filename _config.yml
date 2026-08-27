@@ -173,13 +173,13 @@ defaults:
     values:
       description: "Gemini API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
   - scope:
-      path: "providers/glm.md"
-    values:
-      description: "GLM API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
-  - scope:
       path: "providers/kimi.md"
     values:
       description: "Kimi API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
+  - scope:
+      path: "providers/glm.md"
+    values:
+      description: "GLM API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
   - scope:
       path: "providers/fable-5.md"
     values:
