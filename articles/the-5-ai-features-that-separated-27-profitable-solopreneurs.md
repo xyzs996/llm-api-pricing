@@ -71,9 +71,9 @@ The takeaway from the 27 cases is not that you should use all five. It is that t
 - [Token Optimization for Indie Developers' AI API Bills](token-optimization-for-indie-developers-ai-api-bills.md)
 - [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 
-[All 53 write-ups](../README.md)
+[All 54 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 479 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 486 more, as JSON and CSV.
 
 Topics: [Micro SaaS](../topics/micro-saas.md)
 

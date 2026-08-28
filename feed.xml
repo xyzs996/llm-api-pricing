@@ -4,8 +4,16 @@
   <id>https://xyzs996.github.io/llm-api-pricing/</id>
   <link href="https://xyzs996.github.io/llm-api-pricing/"/>
   <link rel="self" href="https://xyzs996.github.io/llm-api-pricing/feed.xml"/>
-  <updated>2026-08-24T09:30:00Z</updated>
+  <updated>2026-08-28T09:46:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html</id>
+    <updated>2026-08-28T09:46:00Z</updated>
+    <published>2026-08-28T09:46:00Z</published>
+    <summary>Respond.io crossed **$35M in annual recurring revenue** last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to…</summary>
+  </entry>
   <entry>
     <title>Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html"/>

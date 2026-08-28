@@ -1,6 +1,6 @@
 # Niche Market
 
-9 of the 53 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 54 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **40-second** — When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - **40-second** — The 40-second number I cannot check. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-[All figures, 493 rows](../figures.md)
+[All figures, 500 rows](../figures.md)
 
 ## The write-ups
 
@@ -73,7 +73,7 @@ Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 
 
 ---
 
-[All 53 write-ups](../README.md)
+[All 54 write-ups](../README.md)
 
 ---
 

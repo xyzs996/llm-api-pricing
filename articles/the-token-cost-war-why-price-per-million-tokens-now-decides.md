@@ -69,9 +69,9 @@ What I would take from all of this is narrower than the headlines suggest: stop 
 - [Your AI Coding Bill Scales With Your Repo, Not Your Output](your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
 - [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
 
-[All 53 write-ups](../README.md)
+[All 54 write-ups](../README.md)
 
-The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 478 more, as JSON and CSV.
+The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 485 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [AI](../topics/ai.md)
 

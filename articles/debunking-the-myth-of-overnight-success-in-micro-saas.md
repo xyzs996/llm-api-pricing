@@ -55,13 +55,13 @@ The six-hour build is real, and it is also the cheapest part of what happened. T
 
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
-- [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
+- [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 
-[All 53 write-ups](../README.md)
+[All 54 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 475 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 482 more, as JSON and CSV.
 
-Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md) · [Artificial Intelligence](../topics/artificial-intelligence.md)
+Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Productivity](../topics/productivity.md)
 
 
 ---

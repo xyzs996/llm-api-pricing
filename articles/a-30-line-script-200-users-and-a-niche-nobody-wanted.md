@@ -126,9 +126,9 @@ Independent developers can validate product demand quickly by creating a Minimum
 - [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 - [AI Side Hustle: Stop Selling Hours, Start Selling Plans](ai-side-hustle-stop-selling-hours-start-selling-plans.md)
 
-[All 53 write-ups](../README.md)
+[All 54 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 482 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 489 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Micro SaaS](../topics/micro-saas.md)
 

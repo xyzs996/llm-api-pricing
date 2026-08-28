@@ -67,9 +67,9 @@ None of that requires the agent to be clever. It requires the task to be bounded
 - [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 - [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md)
 
-[All 53 write-ups](../README.md)
+[All 54 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 490 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 497 more, as JSON and CSV.
 
 Topics: [AI Implementation](../topics/ai-implementation.md) · [AI Programming](../topics/ai-programming.md)
 

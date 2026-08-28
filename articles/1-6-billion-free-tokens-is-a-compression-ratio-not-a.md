@@ -69,9 +69,9 @@ I could be wrong about how much the fallback actually degrades things, and the h
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
-[All 53 write-ups](../README.md)
+[All 54 write-ups](../README.md)
 
-The 27 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 466 more, as JSON and CSV.
+The 27 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 473 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Cost Savings](../topics/cost-savings.md) · [Development Tools](../topics/development-tools.md) · [Token Optimization](../topics/token-optimization.md)
 

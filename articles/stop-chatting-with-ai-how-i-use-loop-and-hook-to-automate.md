@@ -49,9 +49,9 @@ Once your timed loops and event hooks are handling the daily grind, your actual 
 - [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
 - [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 
-[All 53 write-ups](../README.md)
+[All 54 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 491 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 498 more, as JSON and CSV.
 
 Topics: [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md)
 
