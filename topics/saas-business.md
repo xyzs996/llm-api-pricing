@@ -27,6 +27,8 @@ Open Code Review is an open-source review tool built for AI-assisted development
 
 Respond.io crossed **$35M in annual recurring revenue** last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/67)
+
 ### [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
 Selling one workflow to a hundred people costs roughly what selling it to one person costs, and selling custom code to a hundred people costs a hundred times as much, because the thing being sold i…

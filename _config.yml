@@ -169,6 +169,10 @@ defaults:
     values:
       description: "Gemini API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
   - scope:
+      path: "providers/kimi.md"
+    values:
+      description: "Kimi API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
+  - scope:
       path: "providers/openai.md"
     values:
       description: "OpenAI API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
@@ -192,10 +196,6 @@ defaults:
       path: "providers/chatgpt.md"
     values:
       description: "Every figure in these AI coding field notes whose sentence names ChatGPT — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
-  - scope:
-      path: "providers/kimi.md"
-    values:
-      description: "Every figure in these AI coding field notes whose sentence names Kimi — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
   - scope:
       path: "articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md"
     values:

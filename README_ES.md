@@ -8,7 +8,7 @@ Un conjunto de datos abierto. Cada cifra publicada en 54 notas de campo — prec
 
 ## Lo que cuestan hoy los modelos de agente
 
-55 modelos clasificados en alguna categoría *agents* de la Design Arena, con su **precio de lista** por millón de tokens — no es tu factura: la caché, los lotes y cada proveedor cobran distinto. Del catálogo público de OpenRouter, leído por última vez el 2026-08-28. Los tres más baratos:
+56 modelos clasificados en alguna categoría *agents* de la Design Arena, con su **precio de lista** por millón de tokens — no es tu factura: la caché, los lotes y cada proveedor cobran distinto. Del catálogo público de OpenRouter, leído por última vez el 2026-08-29. Los tres más baratos:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
@@ -16,7 +16,7 @@ Un conjunto de datos abierto. Cada cifra publicada en 54 notas de campo — prec
 | $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
 | $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
 
-[Los 55 modelos](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[Los 56 modelos](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **Un número, dos respuestas.** Google y xAI pasan a la tarifa alta a los 200,000 tokens de entrada, pero un prompt de exactamente 200,000 se cobra a la tarifa barata en Google y a la cara en xAI. Las demás tablas imprimen el número y ahí lo dejan. Qué lado aplica cada proveedor, citado de su propia página y con la fecha de consulta: [same number, opposite answer](prices.md#same-number-opposite-answer) (en inglés).
 

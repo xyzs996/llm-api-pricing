@@ -1,7 +1,7 @@
 {
   "$comment": "Time-of-use billing schedules with an explicit weekday axis, and an explicit statement of which calendar that weekday is read on. Public domain (CC0-1.0). Corrections welcome — see the reference implementation.",
   "schema_version": 1,
-  "checked": "2026-08-28",
+  "checked": "2026-08-29",
   "reference_implementation": "https://github.com/xyzs996/deepseek-peak-hours",
   "reference_implementation_note": "~30 lines, Python and dependency-free JavaScript, plus dated boundary vectors. It consumes this shape: feed a provider entry and an instant, get peak/off-peak and the next change.",
   "providers": {
