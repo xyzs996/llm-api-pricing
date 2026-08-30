@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/67) — that copy has a reply box under it, and this one does not.*
+
 Respond.io crossed **$35M in annual recurring revenue** last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to per-customer billing — made the difference between flat growth and explosive scale.
 
 The company’s model ties revenue directly to **monthly active conversations**, not employee accounts. Every time a business responds to a customer on WhatsApp, Instagram DM, or email, that counts toward their bill. The tools don't matter — the outcome does. And for WhatsApp-first brands, that outcome is clear: a message received is revenue protected.
@@ -130,6 +132,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** Have you considered the impact of this model on smaller businesses? Reply with a yes or no. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/67).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fhow-respond-io-built-a-35m-arr-business-by-billing-ai.md). One required field, and the page you came from is already filled
