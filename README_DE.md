@@ -8,7 +8,7 @@ Ein offener Datensatz. Jede Zahl aus 54 Praxisnotizen — Preise, Prozentsätze,
 
 ## Was Agent-Modelle heute kosten
 
-56 Modelle, die in einer *agents*-Kategorie der Design Arena platziert sind, mit ihrem **Listenpreis** pro Million Token — nicht Ihre Rechnung: Cache, Batch und jeder Anbieter rechnen anders ab. Aus dem öffentlichen Katalog von OpenRouter, zuletzt gelesen am 2026-08-30. Die drei günstigsten:
+59 Modelle, die in einer *agents*-Kategorie der Design Arena platziert sind, mit ihrem **Listenpreis** pro Million Token — nicht Ihre Rechnung: Cache, Batch und jeder Anbieter rechnen anders ab. Aus dem öffentlichen Katalog von OpenRouter, zuletzt gelesen am 2026-09-01. Die drei günstigsten:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
@@ -16,7 +16,7 @@ Ein offener Datensatz. Jede Zahl aus 54 Praxisnotizen — Preise, Prozentsätze,
 | $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
 | $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
 
-[Alle 56 Modelle](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[Alle 59 Modelle](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **Eine Zahl, zwei Antworten.** Google und xAI wechseln beide bei 200,000 Eingabe-Tokens in den teureren Tarif — ein Prompt von genau 200,000 wird bei Google jedoch zum günstigen und bei xAI zum teuren Tarif abgerechnet. Andere Tabellen drucken die Zahl und hören dort auf. Wer auf welcher Seite abrechnet, im Originalzitat von der Herstellerseite mit Prüfdatum: [same number, opposite answer](prices.md#same-number-opposite-answer) (englisch).
 

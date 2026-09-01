@@ -8,7 +8,7 @@
 
 ## 에이전트 모델의 오늘 가격
 
-Design Arena의 *agents* 부문에 순위가 있는 56개 모델의 100만 토큰당 **정가**입니다. 청구서가 아닙니다 — 캐시, 배치, 제공자마다 가격이 다릅니다. OpenRouter의 공개 카탈로그에서 2026-08-30에 마지막으로 읽었습니다. 가장 싼 3개:
+Design Arena의 *agents* 부문에 순위가 있는 59개 모델의 100만 토큰당 **정가**입니다. 청구서가 아닙니다 — 캐시, 배치, 제공자마다 가격이 다릅니다. OpenRouter의 공개 카탈로그에서 2026-09-01에 마지막으로 읽었습니다. 가장 싼 3개:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
@@ -16,7 +16,7 @@ Design Arena의 *agents* 부문에 순위가 있는 56개 모델의 100만 토�
 | $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
 | $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
 
-[56개 전체](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[59개 전체](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **같은 숫자, 반대의 답.** Google 와 xAI 모두 입력 200,000 토큰에서 비싼 요금으로 넘어갑니다. 그런데 **정확히** 200,000 인 요청은 Google 에서는 싼 쪽, xAI 에서는 비싼 쪽으로 청구됩니다. 다른 가격표는 경계 숫자만 적고 끝납니다. 어느 쪽인지를 각 업체 공식 페이지의 원문과 확인 날짜와 함께: [same number, opposite answer](prices.md#same-number-opposite-answer) (영문).
 

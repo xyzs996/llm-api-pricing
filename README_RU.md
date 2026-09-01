@@ -8,7 +8,7 @@
 
 ## Сколько сегодня стоят модели для агентов
 
-56 моделей, занявших место в одной из категорий *agents* на Design Arena, с **прейскурантной ценой** за миллион токенов — это не ваш счёт: кэш, пакетный режим и каждый провайдер считают по-своему. Из открытого каталога OpenRouter, последнее чтение 2026-08-30. Три самые дешёвые:
+59 моделей, занявших место в одной из категорий *agents* на Design Arena, с **прейскурантной ценой** за миллион токенов — это не ваш счёт: кэш, пакетный режим и каждый провайдер считают по-своему. Из открытого каталога OpenRouter, последнее чтение 2026-09-01. Три самые дешёвые:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
@@ -16,7 +16,7 @@
 | $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
 | $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
 
-[Все 56 моделей](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[Все 59 моделей](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **Одно число — два противоположных ответа.** Google и xAI переходят на дорогой тариф на 200,000 входных токенах, но запрос ровно в 200,000 токенов у Google считается по дешёвому тарифу, а у xAI — по дорогому. Остальные таблицы печатают это число и на этом останавливаются. Кто на какой стороне — с цитатой со страницы самого поставщика и датой проверки: [same number, opposite answer](prices.md#same-number-opposite-answer) (на английском).
 
