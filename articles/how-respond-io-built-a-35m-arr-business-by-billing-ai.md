@@ -109,6 +109,9 @@ Most teams skip these steps during MVP. But regulators don’t care about your l
 
 #saas #pricing #ai #startups #whatsapp #customer-support
 
+*Also readable on [Telegraph](https://telegra.ph/How-Respondio-Built-a-35M-ARR-Business-by-Billing-AI-Agents-Per-Active-Customer-Not-Per-Agent-09-03).*
+
+
 ---
 
 **Read next**

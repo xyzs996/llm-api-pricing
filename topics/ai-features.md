@@ -21,7 +21,7 @@
 
 Respond.io crossed **$35M in annual recurring revenue** last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to…
 
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/67)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/67) · [telegra.ph](https://telegra.ph/How-Respondio-Built-a-35M-ARR-Business-by-Billing-AI-Agents-Per-Active-Customer-Not-Per-Agent-09-03)
 
 ### [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
