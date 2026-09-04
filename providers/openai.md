@@ -1,12 +1,12 @@
 # OpenAI API pricing: what 9 models cost a coding agent
 
-Every OpenAI model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-03**.
+Every OpenAI model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-04**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep OpenAI discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What OpenAI charges per million tokens
 
-9 OpenAI models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-03**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+9 OpenAI models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-04**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **OpenAI does not have one cache-read rate — it has 2.** Across 9 rows the discount runs from 10.0% to 10.4% of that row's own input price (10%, 10.4%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, OpenAI's list input price overstates what an agent pays by a median **6.3×** (range 6.1×–6.5×).
 
@@ -41,7 +41,7 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | **OpenAI** | 9 | 10–10.4% | 6.3× | $0.2042 |
 | Llama | 2 | 12% | 6.0× | $0.2067 |
 | Qwen | 2 | 12.5–20% | 5.0× | $0.3379 |
-| Grok | 4 | 15–25% | 5.0× | $0.2494 |
+| Grok | 5 | 15–25% | 5.0× | $0.2494 |
 | Kimi | 5 | 10–27.3% | 4.9× | $0.0918 |
 | GLM | 6 | 18.6–20% | 4.1× | $0.0979 |
 | MiniMax | 2 | 20% | 4.1× | $0.0731 |

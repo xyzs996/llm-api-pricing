@@ -4,30 +4,30 @@
 
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
-> 59 models · re-read from OpenRouter every day · no signup · CC BY 4.0
+> 60 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
 54 write-ups on what those bills looked like in production.
 
-## What the agent models cost (59 models)
+## What the agent models cost (60 models)
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (3.2×–7.9×). Read **2026-09-03**; the three cheapest *to run*:
+median **6.5×** (3.2×–7.9×). Read **2026-09-04**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
 | **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.6 Flash `batch` | #10 mobileapps |
-| **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.7 Flash `batch` | #4 androidnative |
+| **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.7 Flash `batch` | #4 mobileapps |
 | **$0.0731** | $0.06 | $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
 
-[All 59 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[All 60 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **Or put your own numbers in.** [The calculator](https://xyzs996.github.io/llm-cost-calculator/) reads this same daily JSON: it resolves [DeepSeek's peak/off-peak clock](deepseek-peak-hours.md) for the moment you ask, applies the long-context price cliff to the request you actually send, and takes your own cache-hit share. One page, nothing to install, no account.
 
 **One number, two answers.** Google and xAI both step to a higher rate at 200,000 prompt tokens — and a prompt of exactly 200,000 bills at the *cheap* rate on Google, the *expensive* rate on xAI. Every table we could find prints one number and stops there. Which side each vendor bills, quoted from the vendor's own page with the date it was read: [same number, opposite answer](prices.md#same-number-opposite-answer).
 
-That 95.6% is **one person's measurement of one coding agent** ([8.04B tokens, 2026-05-16](https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b)), not an industry figure — it is simply the only public measurement we could find. 57 of these rows publish a cached-input price, so the weights ship in the JSON: recompute with your own mix. Cache-*write* prices are not in the catalog, so that 2.7% of tokens is folded into the cache-miss share, which understates cost by roughly 0.7%.
+That 95.6% is **one person's measurement of one coding agent** ([8.04B tokens, 2026-05-16](https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b)), not an industry figure — it is simply the only public measurement we could find. 58 of these rows publish a cached-input price, so the weights ship in the JSON: recompute with your own mix. Cache-*write* prices are not in the catalog, so that 2.7% of tokens is folded into the cache-miss share, which understates cost by roughly 0.7%.
 
 **The table above is a list price. No bill matches it.** What moves
 the number is cache hits, retries, and context you pay to send twice —
@@ -46,7 +46,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json
 ```
 
-59 models, 19 columns per row: list input, output and **cache-read** price per million tokens, the context window and
+60 models, 19 columns per row: list input, output and **cache-read** price per million tokens, the context window and
 the long-context step, the vendor, and where the model places in the agent benchmark. Rebuilt every day from
 OpenRouter's catalog at paths that do not move.
 
