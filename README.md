@@ -181,7 +181,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 AI Agent development faces critical gaps between code generation and functional verification.
 
-`AI Agents` `AI Tools` `AI Development` `Code Verification` · [telegra.ph](https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05)
+`AI Agents` `AI Tools` `AI Development` `Code Verification` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/68) · [telegra.ph](https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05)
 
 ### [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 

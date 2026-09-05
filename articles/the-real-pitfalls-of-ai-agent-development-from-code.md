@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/68) — that copy has a reply box under it, and this one does not.*
+
 AI Agent development faces critical gaps between code generation and functional verification. Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production.
 
 ## The Code-to-Function Gap
@@ -168,6 +170,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** reply with your number for how many verification tools in this article you’ve actually used. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/68).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-real-pitfalls-of-ai-agent-development-from-code.md). One required field, and the page you came from is already filled

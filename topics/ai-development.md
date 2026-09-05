@@ -18,7 +18,7 @@
 
 AI Agent development faces critical gaps between code generation and functional verification.
 
-[telegra.ph](https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/68) · [telegra.ph](https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05)
 
 ### [The First Line of Defense in AI Programming: Environment Variable Management](../articles/the-first-line-of-defense-in-ai-programming-environment.md)
 

@@ -21,7 +21,7 @@
 
 AI Agent development faces critical gaps between code generation and functional verification.
 
-[telegra.ph](https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/68) · [telegra.ph](https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05)
 
 ### [The $22K-a-Month AI Tool That Never Bought a Single Ad](../articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 
