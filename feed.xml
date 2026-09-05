@@ -4,8 +4,24 @@
   <id>https://xyzs996.github.io/llm-api-pricing/</id>
   <link href="https://xyzs996.github.io/llm-api-pricing/"/>
   <link rel="self" href="https://xyzs996.github.io/llm-api-pricing/feed.xml"/>
-  <updated>2026-08-28T09:46:00Z</updated>
+  <updated>2026-09-05T12:13:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.html</id>
+    <updated>2026-09-05T12:13:00Z</updated>
+    <published>2026-09-05T12:13:00Z</published>
+    <summary>"AI automation can boost efficiency by 60% but fails to deliver 20% conversion improvements".</summary>
+  </entry>
+  <entry>
+    <title>The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/the-real-pitfalls-of-ai-agent-development-from-code.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/the-real-pitfalls-of-ai-agent-development-from-code.html</id>
+    <updated>2026-09-05T08:08:00Z</updated>
+    <published>2026-09-05T08:08:00Z</published>
+    <summary>AI Agent development faces critical gaps between code generation and functional verification.</summary>
+  </entry>
   <entry>
     <title>How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html"/>

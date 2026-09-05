@@ -120,9 +120,9 @@ Most teams skip these steps during MVP. But regulators don’t care about your l
 - [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 493 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 500 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [AI Features](../topics/ai-features.md)
 

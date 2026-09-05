@@ -100,9 +100,9 @@ The future belongs to indie developers who embrace AI as a partner, not a replac
 - [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 499 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 506 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [SaaS Business](../topics/saas-business.md) · [Cost Savings](../topics/cost-savings.md) · [AI Tools](../topics/ai-tools.md)
 

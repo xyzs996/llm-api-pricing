@@ -101,9 +101,9 @@ What makes that trade worth taking is the direction the meter runs. Every articl
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 489 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 496 more, as JSON and CSV.
 
 Topics: [AI Tools](../topics/ai-tools.md)
 

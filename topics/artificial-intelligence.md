@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-8 of the 54 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 56 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$55k** — James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-[All figures, 500 rows](../figures.md)
+[All figures, 507 rows](../figures.md)
 
 ## The write-ups
 
@@ -67,7 +67,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
 ---
 

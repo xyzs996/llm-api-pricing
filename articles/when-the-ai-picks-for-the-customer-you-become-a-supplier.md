@@ -79,9 +79,9 @@ That last number is the one I would put on the wall. Revenue can look healthy wh
 - [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 499 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 506 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Automation](../topics/automation.md)
 

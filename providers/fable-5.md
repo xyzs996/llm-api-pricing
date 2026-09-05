@@ -1,6 +1,6 @@
 # Fable 5 costs and claims: every figure from a sentence that names it
 
-7 of the 500 figures in these field notes come from a sentence that names Fable 5. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+7 of the 507 figures in these field notes come from a sentence that names Fable 5. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about Fable 5 and some only measure against it — a competitor's price quoted next to Fable 5's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -16,7 +16,7 @@ Some of these are about Fable 5 and some only measure against it — a competito
 - **$9.05 per run** — “The most affordable AI model option, Fable 5, costs just $9.05 per run, but delivers only 41.2% accuracy in React projects.” (2026-08-12) [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - **$1.43** — “On ReactBench, one run of GPT-5.6 Sol costs about $1.43 while Fable 5 costs $9.05 for the same work — a gap that no per-token price list would have predicted, because the expensive model is not six times more expensive per token, it is six times less efficient at finishing the job.” (2026-08-10) [→](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 
-[All 500 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 507 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
 ## Where these 7 came from
 

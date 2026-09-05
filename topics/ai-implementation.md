@@ -1,21 +1,27 @@
 # AI Implementation
 
-9 of the 54 write-ups here are tagged AI Implementation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+10 of the 56 write-ups here are tagged AI Implementation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **99.96%** — The client service system crushed repetitive work with 99.96% coverage, yet virtual product workflows still bog down when AI can’t replace business judgment or smooth delivery. [→](../articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
+- **60%** — The recruitment automation tool hit a 60% efficiency gain after 28 rounds of iteration, but I’d argue that figure glosses over the real cost: dynamic page elements like shifting button positions and pop-ups demanded extra layers for state recognition and result verification. [→](../articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 - **9.1%** — One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed users were doing. [→](../articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md)
 - **83.1%** — Analyzing user behavior at each stage revealed the critical drop-off points, and the number that reframed the problem was this one: 83.1% of unmanaged groups contributed only 2.3% of new group entries. [→](../articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md)
 - **5 minutes** — WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 - **40 seconds** — By using an AI agent to automate responses, negotiation, and price adjustment, the average response time can be reduced to within 40 seconds. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 - **$4 million** — Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - **$4 million** — This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
-- **$40 million** — Klarna replaced roughly 700 support agents with an AI assistant in early 2024, claimed about $40 million a year, and a bit over a year later the same CEO said they had overshot and started hiring back. [→](../articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md)
-- **95%** — Terra's document processing capabilities might seem cost-effective initially, but Luna's 95% accuracy on basic QA tasks and faster response times mean fewer errors and rework, whereas Terra's higher failure rate on complex tasks can lead to time wasted fixing mistakes, and Luna's superior accuracy and reliability make it a better long-term choice, even though Terra often requires more tokens for similar tasks. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
-[All figures, 500 rows](../figures.md)
+[All figures, 507 rows](../figures.md)
 
 ## The write-ups
+
+### [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](../articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
+
+"AI automation can boost efficiency by 60% but fails to deliver 20% conversion improvements".
+
+[telegra.ph](https://telegra.ph/The-AI-Automation-Ceiling-Why-60-Efficiency-Doesnt-Equal-20-Conversion-09-05)
 
 ### [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](../articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md)
 
@@ -73,7 +79,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
 ---
 

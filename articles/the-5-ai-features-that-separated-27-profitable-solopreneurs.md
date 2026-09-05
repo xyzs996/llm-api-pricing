@@ -68,14 +68,14 @@ The takeaway from the 27 cases is not that you should use all five. It is that t
 **Read next**
 
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
+- [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 - [Token Optimization for Indie Developers' AI API Bills](token-optimization-for-indie-developers-ai-api-bills.md)
-- [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 486 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 493 more, as JSON and CSV.
 
-Topics: [Micro SaaS](../topics/micro-saas.md)
+Topics: [AI Automation](../topics/ai-automation.md) · [Micro SaaS](../topics/micro-saas.md)
 
 
 ---

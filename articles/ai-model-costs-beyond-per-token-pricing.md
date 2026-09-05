@@ -71,9 +71,9 @@ Measure the loop. The unit price is the part of the bill you can see, and on Mic
 - [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 - [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 487 more, as JSON and CSV.
+The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 494 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Implementation](../topics/ai-implementation.md)
 

@@ -87,11 +87,11 @@ That last habit is the one I'd argue matters most, and it is the one nobody sets
 - [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 - [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 494 more, as JSON and CSV.
+The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 501 more, as JSON and CSV.
 
-Topics: [Automation Systems](../topics/automation-systems.md) · [Chinese AI](../topics/chinese-ai.md)
+Topics: [Automation Systems](../topics/automation-systems.md) · [Chinese AI](../topics/chinese-ai.md) · [AI Development](../topics/ai-development.md)
 
 
 ---

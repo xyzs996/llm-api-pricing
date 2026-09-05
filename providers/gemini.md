@@ -1,12 +1,12 @@
 # Gemini API pricing: what 10 models cost a coding agent
 
-Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-04**.
+Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-05**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Gemini discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Gemini charges per million tokens
 
-10 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-04**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+10 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-05**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Gemini charges one cache-read rate across every row that publishes one: 10% of that row's own input price.** All 8 of them use it, so within Gemini the cheapest row on list price is also the cheapest row an agent actually pays — the ordering does not change. Repriced at a coding agent's mix, Gemini's list input price overstates what an agent pays by a median **6.6×** (range 6.5×–6.6×).
 
@@ -38,14 +38,14 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 
 | Vendor | Rows | Cache read, % of its own input | List price overstates the agent bill by | Cheapest non-`batch` row at agent mix |
 | --- | --- | --- | --- | --- |
-| DeepSeek | 1 | 8.3% | 7.9× | $0.1315 |
+| DeepSeek | 1 | 8.3% | 7.9× | $0.1111 |
 | Claude | 18 | 10% | 6.6× | $0.3017 |
 | **Gemini** | 10 | 10% | 6.6× | $0.0769 |
 | OpenAI | 9 | 10–10.4% | 6.3× | $0.2042 |
 | Llama | 2 | 12% | 6.0× | $0.2067 |
-| Qwen | 2 | 12.5–20% | 5.0× | $0.3379 |
 | Grok | 5 | 15–25% | 5.0× | $0.2494 |
 | Kimi | 5 | 10–27.3% | 4.9× | $0.0918 |
+| Qwen | 1 | 20% | 4.2× | $0.355 |
 | GLM | 6 | 18.6–20% | 4.1× | $0.0979 |
 | MiniMax | 2 | 20% | 4.1× | $0.0731 |
 
@@ -60,7 +60,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against GLM
 
 - **$0.0566** — “Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it — a fact that turned out to be the loose thread in this whole piece.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 
-[All 500 figures, every kind](../figures.md)
+[All 507 figures, every kind](../figures.md)
 
 - [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/66) · [telegra.ph](https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24)
 

@@ -1,6 +1,6 @@
 # SaaS Business
 
-11 of the 54 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+11 of the 56 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **9x** — Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 
-[All figures, 500 rows](../figures.md)
+[All figures, 507 rows](../figures.md)
 
 ## The write-ups
 
@@ -85,7 +85,7 @@ Two brothers ran a single short-video account until one piece of content took of
 
 ---
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
 ---
 

@@ -91,9 +91,9 @@ Chinese AI agent tools have revolutionized token accessibility, offering indepen
 - [Token Optimization for Indie Developers' AI API Bills](token-optimization-for-indie-developers-ai-api-bills.md)
 - [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](how-chinese-developers-are-using-codex-record-replay-to.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 481 more, as JSON and CSV.
+The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 488 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Cost Savings](../topics/cost-savings.md) · [Chinese AI](../topics/chinese-ai.md) · [Token Optimization](../topics/token-optimization.md)
 

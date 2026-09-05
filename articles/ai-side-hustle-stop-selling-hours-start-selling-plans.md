@@ -73,9 +73,9 @@ The figures in this piece all come from operators reporting on themselves, and n
 - [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](how-indie-developers-are-building-ai-powered-digital.md)
 - [When the AI Picks for the Customer, You Become a Supplier](when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 498 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 505 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Niche Market](../topics/niche-market.md) · [Automation](../topics/automation.md)
 

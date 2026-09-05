@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-500 figures pulled out of 54 write-ups in
+507 figures pulled out of 56 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,27 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://xy
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](https://xyzs996.github.io/llm-api-pricing/articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.html)
+
+Published 2026-09-05.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `60%` | percent | "AI automation can boost efficiency by 60% but fails to deliver 20% conversion improvements". |
+| `20%` | percent | "AI automation can boost efficiency by 60% but fails to deliver 20% conversion improvements". |
+| `60%` | percent | The recruitment automation tool hit a 60% efficiency gain after 28 rounds of iteration, but I’d argue that figure glosses over the real cost: dynamic page elements like shifting button positions and pop-ups demanded extra layers for state recognition and result verification. |
+| `99.96%` | percent | The client service system crushed repetitive work with 99.96% coverage, yet virtual product workflows still bog down when AI can’t replace business judgment or smooth delivery. |
+| `60%` | percent | For instance, the recruitment automation tool saw a 60% efficiency boost by precisely defining task boundaries and adding verification steps. |
+
+## [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](https://xyzs996.github.io/llm-api-pricing/articles/the-real-pitfalls-of-ai-agent-development-from-code.html)
+
+Published 2026-09-05.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `72%` | percent | Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production. |
+| `45%` | percent | Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production. |
 
 ## [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](https://xyzs996.github.io/llm-api-pricing/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html)
 
@@ -933,5 +954,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "500 figures pulled out of 54 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-28", "dateModified": "2026-08-28"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "507 figures pulled out of 56 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-05", "dateModified": "2026-09-05"}
 </script>

@@ -1,6 +1,6 @@
 # BrowserAct costs and claims: every figure from a sentence that names it
 
-12 of the 500 figures in these field notes come from a sentence that names BrowserAct. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+12 of the 507 figures in these field notes come from a sentence that names BrowserAct. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about BrowserAct and some only measure against it — a competitor's price quoted next to BrowserAct's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -21,7 +21,7 @@ Some of these are about BrowserAct and some only measure against it — a compet
 - **5 minutes** — “WorkBuddy paired with BrowserAct produces a competitor pricing table in about 5 minutes and a product-opportunity report in about 7, and a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, so the first 10 experiments cost attention rather than money.” (2026-08-08) [→](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 - **5 minutes** — “The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All 500 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 507 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
 ## Where these 12 came from
 

@@ -77,9 +77,9 @@ But within the part you do control, the recommendation is simple enough to act o
 - [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 - [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 499 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 506 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [AI](../topics/ai.md)
 

@@ -57,9 +57,9 @@ The six-hour build is real, and it is also the cheapest part of what happened. T
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 - [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 482 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 489 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Productivity](../topics/productivity.md)
 

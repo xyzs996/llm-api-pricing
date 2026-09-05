@@ -76,9 +76,9 @@ The reported enterprise case reached 55.1% from 9.1% through exactly that loop: 
 - [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 492 more, as JSON and CSV.
+The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 499 more, as JSON and CSV.
 
 Topics: [AI Implementation](../topics/ai-implementation.md)
 

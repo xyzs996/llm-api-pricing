@@ -67,9 +67,9 @@ If your current project is still a loose, exploratory prototype experiencing rap
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - [When the AI Picks for the Customer, You Become a Supplier](when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 498 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 505 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [Automation](../topics/automation.md)
 

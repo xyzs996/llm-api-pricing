@@ -1,6 +1,6 @@
 # Productivity
 
-8 of the 54 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 56 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **90%** — 90% of beginners fixate on tools (e.g., Pi's 4 default tools: read/write/edit/bash) instead of defining clear task boundaries. [→](../articles/best-practices-for-ai-agent-skill-management.md)
 - **40-second** — When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-[All figures, 500 rows](../figures.md)
+[All figures, 507 rows](../figures.md)
 
 ## The write-ups
 
@@ -67,7 +67,7 @@ The videos run about 60 seconds.
 
 ---
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
 ---
 

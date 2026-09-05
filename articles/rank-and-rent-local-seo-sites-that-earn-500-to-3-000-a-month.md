@@ -71,9 +71,9 @@ What I would take from the model regardless is the ordering. Choose the pair bef
 - [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 - [58 Million Plays Started With One Account, Not Four](58-million-plays-started-with-one-account-not-four.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 493 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 500 more, as JSON and CSV.
 
 Topics: [AI](../topics/ai.md)
 

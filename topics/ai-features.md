@@ -1,6 +1,6 @@
 # AI Features
 
-6 of the 54 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 56 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **90%** — 90% of beginners fixate on tools (e.g., Pi's 4 default tools: read/write/edit/bash) instead of defining clear task boundaries. [→](../articles/best-practices-for-ai-agent-skill-management.md)
 - **80%** — When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
-[All figures, 500 rows](../figures.md)
+[All figures, 507 rows](../figures.md)
 
 ## The write-ups
 
@@ -55,7 +55,7 @@ If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, a
 
 ---
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
 ---
 

@@ -231,6 +231,83 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/10"
   },
   {
+    "value": "60%",
+    "kind": "percent",
+    "unit": "",
+    "context": "\"AI automation can boost efficiency by 60% but fails to deliver 20% conversion improvements\".",
+    "article": "The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion",
+    "published": "2026-09-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "20%",
+    "kind": "percent",
+    "unit": "",
+    "context": "\"AI automation can boost efficiency by 60% but fails to deliver 20% conversion improvements\".",
+    "article": "The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion",
+    "published": "2026-09-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "60%",
+    "kind": "percent",
+    "unit": "",
+    "context": "The recruitment automation tool hit a 60% efficiency gain after 28 rounds of iteration, but I’d argue that figure glosses over the real cost: dynamic page elements like shifting button positions and pop-ups demanded extra layers for state recognition and result verification.",
+    "article": "The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion",
+    "published": "2026-09-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "99.96%",
+    "kind": "percent",
+    "unit": "",
+    "context": "The client service system crushed repetitive work with 99.96% coverage, yet virtual product workflows still bog down when AI can’t replace business judgment or smooth delivery.",
+    "article": "The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion",
+    "published": "2026-09-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "60%",
+    "kind": "percent",
+    "unit": "",
+    "context": "For instance, the recruitment automation tool saw a 60% efficiency boost by precisely defining task boundaries and adding verification steps.",
+    "article": "The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion",
+    "published": "2026-09-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "72%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production.",
+    "article": "The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification",
+    "published": "2026-09-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-real-pitfalls-of-ai-agent-development-from-code.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "45%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production.",
+    "article": "The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification",
+    "published": "2026-09-05",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-real-pitfalls-of-ai-agent-development-from-code.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "$35M",
     "kind": "price",
     "unit": "",

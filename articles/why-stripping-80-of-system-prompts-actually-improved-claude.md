@@ -71,9 +71,9 @@ I think Grill-me's 37 prompts are unnecessary, and I could be wrong about that o
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All 54 write-ups](../README.md)
+[All 56 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 498 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 505 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Features](../topics/ai-features.md) · [Code Review](../topics/code-review.md)
 

@@ -4,16 +4,16 @@
 
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
-> 60 models · re-read from OpenRouter every day · no signup · CC BY 4.0
+> 59 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-54 write-ups on what those bills looked like in production.
+56 write-ups on what those bills looked like in production.
 
-## What the agent models cost (60 models)
+## What the agent models cost (59 models)
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (3.2×–7.9×). Read **2026-09-04**; the three cheapest *to run*:
+median **6.5×** (3.2×–7.9×). Read **2026-09-05**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
@@ -21,13 +21,13 @@ median **6.5×** (3.2×–7.9×). Read **2026-09-04**; the three cheapest *to ru
 | **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.7 Flash `batch` | #4 mobileapps |
 | **$0.0731** | $0.06 | $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
 
-[All 60 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[All 59 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **Or put your own numbers in.** [The calculator](https://xyzs996.github.io/llm-cost-calculator/) reads this same daily JSON: it resolves [DeepSeek's peak/off-peak clock](deepseek-peak-hours.md) for the moment you ask, applies the long-context price cliff to the request you actually send, and takes your own cache-hit share. One page, nothing to install, no account.
 
 **One number, two answers.** Google and xAI both step to a higher rate at 200,000 prompt tokens — and a prompt of exactly 200,000 bills at the *cheap* rate on Google, the *expensive* rate on xAI. Every table we could find prints one number and stops there. Which side each vendor bills, quoted from the vendor's own page with the date it was read: [same number, opposite answer](prices.md#same-number-opposite-answer).
 
-That 95.6% is **one person's measurement of one coding agent** ([8.04B tokens, 2026-05-16](https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b)), not an industry figure — it is simply the only public measurement we could find. 58 of these rows publish a cached-input price, so the weights ship in the JSON: recompute with your own mix. Cache-*write* prices are not in the catalog, so that 2.7% of tokens is folded into the cache-miss share, which understates cost by roughly 0.7%.
+That 95.6% is **one person's measurement of one coding agent** ([8.04B tokens, 2026-05-16](https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b)), not an industry figure — it is simply the only public measurement we could find. 57 of these rows publish a cached-input price, so the weights ship in the JSON: recompute with your own mix. Cache-*write* prices are not in the catalog, so that 2.7% of tokens is folded into the cache-miss share, which understates cost by roughly 0.7%.
 
 **The table above is a list price. No bill matches it.** What moves
 the number is cache hits, retries, and context you pay to send twice —
@@ -46,7 +46,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json
 ```
 
-60 models, 19 columns per row: list input, output and **cache-read** price per million tokens, the context window and
+59 models, 19 columns per row: list input, output and **cache-read** price per million tokens, the context window and
 the long-context step, the vendor, and where the model places in the agent benchmark. Rebuilt every day from
 OpenRouter's catalog at paths that do not move.
 
@@ -67,9 +67,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (500 rows)
+## The figures, as data (507 rows)
 
-Every figure published across the 54 write-ups —
+Every figure published across the 56 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -79,6 +79,8 @@ recent write-ups — quoted verbatim, not summarised:
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
+| `72%` | Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production. | [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](articles/the-real-pitfalls-of-ai-agent-development-from-code.md) |
+| `60%` | The recruitment automation tool hit a 60% efficiency gain after 28 rounds of iteration, but I’d argue that figure glosses over the real cost: dynamic page elements like shifting button positions and pop-ups demanded extra layers for state recognition and result verification. | [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md) |
 | `$35M` | Respond.io crossed $35M in annual recurring revenue last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to per-customer billing — made the difference between flat growth and explosive scale. | [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md) |
 | `$0.81` | Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x. | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) |
 | `20%` | Developers should build buffer time into their workflows when using Chinese AI coding tools, which is illustrated by the fact that one developer added 20% extra time to their coding sessions when using these tools because of the higher frequency of stability issues. | [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md) |
@@ -89,10 +91,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `$22,000` | Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative. | [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md) |
 | `1000-token` | Still, I'd say the Pi base framework's 1000-token limit seems overstated. | [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md) |
 | `80%` | For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. | [Claude Code and Codex for Office Automation](articles/claude-code-and-codex-for-office-automation.md) |
-| `$1.43` | The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. | [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) |
-| `$29` | Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. | [Debunking the Myth of Overnight Success in Micro-SaaS](articles/debunking-the-myth-of-overnight-success-in-micro-saas.md) |
 
-[All 500 rows](figures.md) — or as data:
+[All 507 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -155,7 +155,7 @@ write-ups land there first.
 
 **By provider.** [Claude](providers/claude.md) (36) · [GPT-5.6](providers/gpt-5-6.md) (19) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [OpenAI](providers/openai.md) (12) · [Gemini](providers/gemini.md) (11) · [Kimi](providers/kimi.md) (9) · [GLM](providers/glm.md) (8) · [Fable 5](providers/fable-5.md) (7) · [DeepSeek](providers/deepseek.md) (6) · [GPT-5](providers/gpt-5.md) (5) · [ChatGPT](providers/chatgpt.md) (4) — prices where there are prices, and every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (16) · [Automation Systems](topics/automation-systems.md) (15) · [SaaS Business](topics/saas-business.md) (11) · [AI Implementation](topics/ai-implementation.md) (9) · [Niche Market](topics/niche-market.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [Artificial Intelligence](topics/artificial-intelligence.md) (8) · [Productivity](topics/productivity.md) (8) · [AI](topics/ai.md) (6) · [AI Features](topics/ai-features.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [Chinese AI](topics/chinese-ai.md) (5) · [Development Tools](topics/development-tools.md) (5) · [AI Tools](topics/ai-tools.md) (4) · [Revenue Growth](topics/revenue-growth.md) (4) · [Automation](topics/automation.md) (3) · [Code Review](topics/code-review.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (16) · [Automation Systems](topics/automation-systems.md) (15) · [SaaS Business](topics/saas-business.md) (11) · [AI Implementation](topics/ai-implementation.md) (10) · [Niche Market](topics/niche-market.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [Artificial Intelligence](topics/artificial-intelligence.md) (8) · [Productivity](topics/productivity.md) (8) · [AI](topics/ai.md) (6) · [AI Features](topics/ai-features.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Tools](topics/ai-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Revenue Growth](topics/revenue-growth.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [AI Automation](topics/ai-automation.md) (3) · [AI Development](topics/ai-development.md) (3) · [Automation](topics/automation.md) (3) · [Code Review](topics/code-review.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -170,6 +170,18 @@ Open Code Review is an open-source review tool built for AI-assisted development
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
 `Token Optimization` `Cost Savings` `Chinese AI` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
+
+### [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
+
+"AI automation can boost efficiency by 60% but fails to deliver 20% conversion improvements".
+
+`AI Automation` `AI Implementation` `Business Efficiency` `Conversion Rate` · [telegra.ph](https://telegra.ph/The-AI-Automation-Ceiling-Why-60-Efficiency-Doesnt-Equal-20-Conversion-09-05)
+
+### [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](articles/the-real-pitfalls-of-ai-agent-development-from-code.md)
+
+AI Agent development faces critical gaps between code generation and functional verification.
+
+`AI Agents` `AI Tools` `AI Development` `Code Verification` · [telegra.ph](https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05)
 
 ### [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 
