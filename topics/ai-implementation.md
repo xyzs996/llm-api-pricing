@@ -21,7 +21,7 @@
 
 "AI automation can boost efficiency by 60% but fails to deliver 20% conversion improvements".
 
-[telegra.ph](https://telegra.ph/The-AI-Automation-Ceiling-Why-60-Efficiency-Doesnt-Equal-20-Conversion-09-05)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/69) · [telegra.ph](https://telegra.ph/The-AI-Automation-Ceiling-Why-60-Efficiency-Doesnt-Equal-20-Conversion-09-05)
 
 ### [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](../articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md)
 

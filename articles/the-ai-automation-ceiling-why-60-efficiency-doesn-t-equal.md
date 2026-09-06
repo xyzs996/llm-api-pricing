@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/69) — that copy has a reply box under it, and this one does not.*
+
 "AI automation can boost efficiency by 60% but fails to deliver 20% conversion improvements". While automation tools help improve operational efficiency, they cannot replace critical business judgment in complex scenarios.
 
 ## The Promise of AI Automation
@@ -78,6 +80,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** whether you'd need more than 10 iterations to adapt an AI client service system to new business needs. Reply with 'yes' or 'no'. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/69).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md). One required field, and the page you came from is already filled
