@@ -1,12 +1,12 @@
 # Kimi API pricing: what 5 models cost a coding agent
 
-Every Kimi model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-06**.
+Every Kimi model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-07**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Kimi discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Kimi charges per million tokens
 
-5 Kimi models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-06**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+5 Kimi models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-07**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Kimi does not have one cache-read rate — it has 4.** Across 5 rows the discount runs from 10.0% to 27.3% of that row's own input price (10%, 15.6%, 16.8%, 27.3%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Kimi's list input price overstates what an agent pays by a median **4.9×** (range 3.2×–6.6×).
 
@@ -29,11 +29,11 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 
 | Vendor | Rows | Cache read, % of its own input | List price overstates the agent bill by | Cheapest non-`batch` row at agent mix |
 | --- | --- | --- | --- | --- |
-| DeepSeek | 1 | 8.3% | 7.9× | $0.0855 |
+| DeepSeek | 1 | 8.3% | 7.9× | $0.1206 |
 | Claude | 16 | 10% | 6.6× | $0.3017 |
 | Gemini | 10 | 10% | 6.6× | $0.0769 |
 | OpenAI | 9 | 10–10.4% | 6.3× | $0.2042 |
-| Llama | 2 | 12% | 6.0× | $0.2067 |
+| Llama | 3 | 12% | 6.0× | $0.2067 |
 | Grok | 5 | 15–25% | 5.0× | $0.2494 |
 | **Kimi** | 5 | 10–27.3% | 4.9× | $0.0918 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
