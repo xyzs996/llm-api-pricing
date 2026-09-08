@@ -2,21 +2,21 @@
 
 58 models that have been ranked in an agent category of the
 Design Arena, with what each one lists per million tokens. Read from
-[OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-07**.
+[OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-08**.
 
 **List price is not your bill, and here is by how much.** A coding
 agent re-reads its context on every step, so about **95.6% of the
 tokens it sends are cache reads** — priced at a fraction of the
 list input price that every other pricing table sorts by. Repriced
 at that mix, the list input price overstates what an agent actually
-pays by a median **6.5×** (range 3.2×–7.9× across the
+pays by a median **6.5×** (range 3.5×–7.9× across the
 56 rows where it can be computed).
 
-**The ranking barely moves; the bill does.** 8 of
+**The ranking barely moves; the bill does.** 7 of
 the 10 cheapest by list price are still in the cheapest 10 repriced,
 and the spread from cheapest to dearest is 27× repriced against 40× by list price. So list price tells you
 *which* model is cheap and lies about *what you will pay* — and the
-3.2×–7.9× spread in that multiple is what actually
+3.5×–7.9× spread in that multiple is what actually
 separates two models whose list prices look identical.
 
 That 95.6% is **one person's measurement of one coding agent** ([8.04B tokens, 2026-05-16](https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b)), not an industry figure — it is simply the only public measurement we could find. 56 of these rows publish a cached-input price, so the weights ship in the JSON: recompute with your own mix. Cache-*write* prices are not in the catalog, so that 2.7% of tokens is folded into the cache-miss share, which understates cost by roughly 0.7%.
@@ -60,27 +60,27 @@ take our word for it. A rank without its category is unverifiable.
 | **$0.0769** | $0.50 | $3.00 | [Gemini 3 Flash Preview](https://openrouter.ai/google/gemini-3-flash-preview) | 1M | #8 agenticslides |  |
 | **$0.0918** | $0.45 | $2.25 | [Kimi K2.5](https://openrouter.ai/moonshotai/kimi-k2.5) | 262K | #8 godotgamedev |  |
 | **$0.0979** | $0.40 | $1.75 | [GLM 4.7](https://openrouter.ai/z-ai/glm-4.7) | 204K | #27 androidnative |  |
-| **$0.0991** | $0.43 | $1.75 | [GLM 4.6](https://openrouter.ai/z-ai/glm-4.6) | 204K | #12 godotgamedev |  |
 | **$0.1131** | $0.75 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | #12 agenticgamedev |  |
 | **$0.1131** | $0.75 | $3.75 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash) | 1M | #5 agenticgamedev | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.1153** | $0.75 | $4.50 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash:batch) `batch` | 1M | #2 agenticslides(python-pptx) |  |
 | **$0.1206** | $0.9553 | $1.9105 | [DeepSeek V4 Pro 0423](https://openrouter.ai/deepseek/deepseek-v4-pro) | 1M | #26 godotgamedev |  |
+| **$0.134** | $0.55 | $2.20 | [GLM 4.6](https://openrouter.ai/z-ai/glm-4.6) | 204K | #12 godotgamedev |  |
 | **$0.1396** | $0.875 | $7.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2:batch) `batch` | 400K | #17 godotgamedev |  |
 | **$0.1448** | $0.60 | $1.92 | [GLM 5](https://openrouter.ai/z-ai/glm-5) | 204K | #15 godotgamedev |  |
 | **$0.1508** | $1.00 | $5.00 | [Claude Sonnet 5](https://openrouter.ai/anthropic/claude-sonnet-5:batch) `batch` | 1M | #3 godotgamedev | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
+| **$0.1825** | $0.71 | $3.50 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code) | 262K | #7 htmlslides |  |
 | **$0.1922** | $1.25 | $7.50 | [GPT-5.4](https://openrouter.ai/openai/gpt-5.4:batch) `batch` | 1.1M | #21 godotgamedev |  |
 | **$0.1995** | $1.00 | $2.00 | [Grok 4.3](https://openrouter.ai/x-ai/grok-4.3:batch) `batch` | 1M | #8 pptxslides |  |
 | **$0.2033** | $0.95 | $4.00 | [Kimi K2.6](https://openrouter.ai/moonshotai/kimi-k2.6) | 262K | #2 agentichtmlslides | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.2042** | $1.25 | $10.00 | [GPT-5.1-Codex](https://openrouter.ai/openai/gpt-5.1-codex) | 400K | #20 mobileapps |  |
 | **$0.2067** | $1.25 | $4.25 | [Muse Spark 1.1](https://openrouter.ai/meta/muse-spark-1.1) | 1M | #8 htmlslides | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html) |
 | **$0.2067** | $1.25 | $4.25 | [Muse Spark 1.2](https://openrouter.ai/meta/muse-spark-1.2) | 1M | #9 webapps |  |
-| **$0.2067** | $1.25 | $4.25 | [Muse Spark 1.3](https://openrouter.ai/meta/muse-spark-1.3) | 1M | #11 python-pptxslides |  |
-| **$0.2089** | $0.66 | $3.40 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code) | 262K | #7 htmlslides |  |
+| **$0.2067** | $1.25 | $4.25 | [Muse Spark 1.3](https://openrouter.ai/meta/muse-spark-1.3) | 1M | #9 python-pptxslides |  |
 | **$0.2197** | $0.966 | $3.036 | [GLM 5.1](https://openrouter.ai/z-ai/glm-5.1) | 204K | #2 agenticslides |  |
 | **$0.2263** | $1.50 | $7.50 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5:batch) `batch` | 1M | #26 mobileapps |  |
 | **$0.2263** | $1.50 | $7.50 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6:batch) `batch` | 1M | #6 godotgamedev |  |
 | **$0.2306** | $1.50 | $9.00 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash) | 1M | #2 agenticslides(python-pptx) |  |
-| **$0.2329** | $0.966 | $3.036 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | #9 agenticgamedev |  |
+| **$0.2329** | $0.966 | $3.036 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | #9 fullstack |  |
 | **$0.2494** | $1.25 | $2.50 | [Grok 4.20](https://openrouter.ai/x-ai/grok-4.20) | 2M | #12 htmlslides |  |
 | **$0.2494** | $1.25 | $2.50 | [Grok 4.3](https://openrouter.ai/x-ai/grok-4.3) | 1M | #8 pptxslides |  |
 | **$0.2792** | $1.75 | $14.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2) | 400K | #17 godotgamedev |  |
@@ -145,5 +145,5 @@ Neither is our measurement, and both move — the date above is when
 this copy was last read, not when you are reading it.*
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Coding-agent model prices, next to their agent-arena rank", "description": "List price per million tokens for 58 models that have been ranked in an agent category of the Design Arena, with the context window, the best rank each one holds and the category it holds it in. Read from OpenRouter's public model catalog on 2026-09-07.", "url": "https://xyzs996.github.io/llm-api-pricing/prices.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["LLM pricing", "AI coding agents", "token costs", "model comparison", "cost per million tokens"], "variableMeasured": ["input price per million tokens", "output price per million tokens", "context window", "agent arena rank"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv"}], "isBasedOn": "https://openrouter.ai/models", "dateModified": "2026-09-07"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Coding-agent model prices, next to their agent-arena rank", "description": "List price per million tokens for 58 models that have been ranked in an agent category of the Design Arena, with the context window, the best rank each one holds and the category it holds it in. Read from OpenRouter's public model catalog on 2026-09-08.", "url": "https://xyzs996.github.io/llm-api-pricing/prices.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["LLM pricing", "AI coding agents", "token costs", "model comparison", "cost per million tokens"], "variableMeasured": ["input price per million tokens", "output price per million tokens", "context window", "agent arena rank"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv"}], "isBasedOn": "https://openrouter.ai/models", "dateModified": "2026-09-08"}
 </script>
