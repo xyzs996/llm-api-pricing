@@ -1,12 +1,12 @@
 # Claude API pricing: what 16 models cost a coding agent
 
-Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-08**.
+Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-09**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Claude discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Claude charges per million tokens
 
-16 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-08**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+16 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-09**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Claude charges one cache-read rate across every row that publishes one: 10% of that row's own input price.** All 16 of them use it, so within Claude the cheapest row on list price is also the cheapest row an agent actually pays — the ordering does not change. Repriced at a coding agent's mix, Claude's list input price overstates what an agent pays by a median **6.6×** — the same multiple on every row.
 
@@ -23,14 +23,14 @@ Every Claude model in the catalog that has been ranked in an agent category, pri
 | **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5:batch) `batch` | 200K | — | #13 mobileapps |
 | **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 4.6](https://openrouter.ai/anthropic/claude-opus-4.6:batch) `batch` | 1M | — | #8 agenticgamedev |
 | **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 4.8](https://openrouter.ai/anthropic/claude-opus-4.8:batch) `batch` | 1M | — | #1 agenticslides |
-| **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5:batch) `batch` | 1M | — | #1 fullstack |
+| **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5:batch) `batch` | 1M | — | #1 mobileapps |
 | **$0.4525** | $3.00 | $0.30 | $15.00 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5) | 1M | $6.00 past 200k | #26 mobileapps |
 | **$0.4525** | $3.00 | $0.30 | $15.00 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6) | 1M | — | #6 godotgamedev |
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Fable 5](https://openrouter.ai/anthropic/claude-fable-5:batch) `batch` | 1M | — | #1 agenticgamedev |
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5) | 200K | — | #13 mobileapps |
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 4.6](https://openrouter.ai/anthropic/claude-opus-4.6) | 1M | — | #8 agenticgamedev |
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 4.8](https://openrouter.ai/anthropic/claude-opus-4.8) | 1M | — | #1 agenticslides |
-| **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5) | 1M | — | #1 fullstack |
+| **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5) | 1M | — | #1 mobileapps |
 | **$1.5084** | $10.00 | $1.00 | $50.00 | [Claude Fable 5](https://openrouter.ai/anthropic/claude-fable-5) | 1M | — | #1 agenticgamedev |
 
 Cheapest Claude row an agent can call normally is **Claude Sonnet 5** at $0.3017 per million; the dearest is $1.5084, 5× more. Both numbers exclude the `batch` rows above. Both are computed, not quoted — the arithmetic and the weights are in the JSON.
@@ -50,10 +50,11 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Grok | 5 | 15–25% | 5.0× | $0.2494 |
 | Kimi | 5 | 10–21.1% | 4.9× | $0.0918 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
-| GLM | 6 | 18.6–20% | 4.1× | $0.0979 |
+| GLM | 7 | 10–20% | 4.1× | $0.0979 |
 | MiniMax | 2 | 20% | 4.1× | $0.0731 |
+| upstage | 1 | 20% | 4.1× | $0.0073 |
 
-The spread in that fourth column is the whole point: Claude at 6.6× against GLM at 4.1×, across 16 and 6 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
+The spread in that fourth column is the whole point: Claude at 6.6× against GLM at 4.1×, across 16 and 7 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
 
 
 [All models, every vendor, one table](../prices.md) · [Put your own token counts in](https://xyzs996.github.io/llm-cost-calculator/) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
