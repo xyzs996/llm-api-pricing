@@ -7,17 +7,17 @@
 > 66 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-56 write-ups on what those bills looked like in production.
+57 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (66 models)
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (3.5×–12.6×). Read **2026-09-12**; the three cheapest *to run*:
+median **6.5×** (3.5×–12.6×). Read **2026-09-13**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
-| **$0.0219** | $0.018 | $0.09 | $0.36 | Solar Pro 4 | #31 webapps |
+| **$0.0219** | $0.018 | $0.09 | $0.36 | Solar Pro 4 | #32 webapps |
 | **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.6 Flash `batch` | #12 androidnative |
 | **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.7 Flash `batch` | #5 agenticgamedev |
 
@@ -67,9 +67,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (507 rows)
+## The figures, as data (517 rows)
 
-Every figure published across the 56 write-ups —
+Every figure published across the 57 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -83,6 +83,7 @@ recent write-ups — quoted verbatim, not summarised:
 | `60%` | The recruitment automation tool hit a 60% efficiency gain after 28 rounds of iteration, but I’d argue that figure glosses over the real cost: dynamic page elements like shifting button positions and pop-ups demanded extra layers for state recognition and result verification. | [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md) |
 | `$35M` | Respond.io crossed $35M in annual recurring revenue last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to per-customer billing — made the difference between flat growth and explosive scale. | [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md) |
 | `$0.81` | Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x. | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) |
+| `$63,000` | Jordan's success with Resellbot, a Micro-SaaS that automates Poshmark sharing, is a notable example: he earns $63,000 a month with just 30 lines of JavaScript. | [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md) |
 | `20%` | Developers should build buffer time into their workflows when using Chinese AI coding tools, which is illustrated by the fact that one developer added 20% extra time to their coding sessions when using these tools because of the higher frequency of stability issues. | [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md) |
 | `$22,000` | The organic channel that produced $22,000 a month is running at roughly half the traffic a million-dollar year would need, and it took three months to get there. | [The $22K-a-Month AI Tool That Never Bought a Single Ad](articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md) |
 | `$24,000` | One watched competitor prices, one produced ad creative, one answered customer mail, and together they pulled 170,000 yuan a month out of them, somewhere near $24,000. | [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md) |
@@ -90,9 +91,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `20%` | Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. | [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md) |
 | `$22,000` | Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative. | [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md) |
 | `1000-token` | Still, I'd say the Pi base framework's 1000-token limit seems overstated. | [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md) |
-| `80%` | For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. | [Claude Code and Codex for Office Automation](articles/claude-code-and-codex-for-office-automation.md) |
 
-[All 507 rows](figures.md) — or as data:
+[All 517 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -155,7 +155,7 @@ write-ups land there first.
 
 **By provider.** [Claude](providers/claude.md) (36) · [GPT-5.6](providers/gpt-5-6.md) (19) · [Gemini](providers/gemini.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [OpenAI](providers/openai.md) (12) · [GLM](providers/glm.md) (11) · [Kimi](providers/kimi.md) (9) · [Fable 5](providers/fable-5.md) (7) · [DeepSeek](providers/deepseek.md) (6) · [GPT-5](providers/gpt-5.md) (5) · [ChatGPT](providers/chatgpt.md) (4) — prices where there are prices, and every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (16) · [Automation Systems](topics/automation-systems.md) (15) · [SaaS Business](topics/saas-business.md) (11) · [AI Implementation](topics/ai-implementation.md) (10) · [Niche Market](topics/niche-market.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [Artificial Intelligence](topics/artificial-intelligence.md) (8) · [Productivity](topics/productivity.md) (8) · [AI](topics/ai.md) (6) · [AI Features](topics/ai-features.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Tools](topics/ai-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Revenue Growth](topics/revenue-growth.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [AI Automation](topics/ai-automation.md) (3) · [AI Development](topics/ai-development.md) (3) · [Automation](topics/automation.md) (3) · [Code Review](topics/code-review.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (16) · [Automation Systems](topics/automation-systems.md) (15) · [SaaS Business](topics/saas-business.md) (11) · [AI Implementation](topics/ai-implementation.md) (10) · [Niche Market](topics/niche-market.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [Artificial Intelligence](topics/artificial-intelligence.md) (8) · [Productivity](topics/productivity.md) (8) · [Cost Savings](topics/cost-savings.md) (7) · [AI](topics/ai.md) (6) · [AI Features](topics/ai-features.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [AI Tools](topics/ai-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Automation](topics/automation.md) (4) · [Revenue Growth](topics/revenue-growth.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [AI Automation](topics/ai-automation.md) (3) · [AI Development](topics/ai-development.md) (3) · [Code Review](topics/code-review.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -188,6 +188,12 @@ AI Agent development faces critical gaps between code generation and functional 
 Respond.io crossed **$35M in annual recurring revenue** last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to…
 
 `Artificial Intelligence` `Customer Service AI` `SaaS Business` `AI Features` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/67) · [telegra.ph](https://telegra.ph/How-Respondio-Built-a-35M-ARR-Business-by-Billing-AI-Agents-Per-Active-Customer-Not-Per-Agent-09-03)
+
+### [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md)
+
+Jordan earns $63,000 a month with just 30 lines of JavaScript for his Micro-SaaS, Resellbot, which automates Poshmark sharing.
+
+`Automation` `Digital Marketing` `Cost Savings` `Indie Developers` · [telegra.ph](https://telegra.ph/Automating-Short-Video-Marketing-with-AI-A-Low-Cost-Growth-Strategy-for-Developers-09-13)
 
 ### [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 

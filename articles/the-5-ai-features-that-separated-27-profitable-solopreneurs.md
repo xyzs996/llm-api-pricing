@@ -71,9 +71,9 @@ The takeaway from the 27 cases is not that you should use all five. It is that t
 - [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 - [Token Optimization for Indie Developers' AI API Bills](token-optimization-for-indie-developers-ai-api-bills.md)
 
-[All 56 write-ups](../README.md)
+[All 57 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 493 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 503 more, as JSON and CSV.
 
 Topics: [AI Automation](../topics/ai-automation.md) · [Micro SaaS](../topics/micro-saas.md)
 

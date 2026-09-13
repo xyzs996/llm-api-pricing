@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-507 figures pulled out of 56 write-ups in
+517 figures pulled out of 57 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -123,6 +123,23 @@ Published 2026-08-28.
 | `3-week` | duration | Plus a 3-week approval process for message templates. |
 | `15-year` | duration | Connecting an AI agent to a 15-year-old inventory system can take months. |
 | `$0` | price | From $0 to M ARR: The WhatsApp AI Support Playbook |
+
+## [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html)
+
+Published 2026-08-24.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$63,000` per month | price | Jordan earns $63,000 a month with just 30 lines of JavaScript for his Micro-SaaS, Resellbot, which automates Poshmark sharing. |
+| `$63,000` per month | price | Jordan's success with Resellbot, a Micro-SaaS that automates Poshmark sharing, is a notable example: he earns $63,000 a month with just 30 lines of JavaScript. |
+| `$500` | price | After generating content, they can rent these websites to local businesses for monthly subscriptions, earning $500-$3,000 per website per month. |
+| `$3,000` | price | After generating content, they can rent these websites to local businesses for monthly subscriptions, earning $500-$3,000 per website per month. |
+| `5 minutes` | duration | They let developers generate competitor price tables in 5 minutes and create selection opportunity reports in 7 minutes. |
+| `7 minutes` | duration | They let developers generate competitor price tables in 5 minutes and create selection opportunity reports in 7 minutes. |
+| `60 seconds` | duration | Short video marketing stands out as one of the most cost-effective ways to acquire users, especially for products that can be shown in 60 seconds or less, like SaaS tools or software apps. |
+| `95%` | percent | These channels are zero-budget, with 95% of users coming from organic content. |
+| `60-second` | duration | Case Study: Rapid User Acquisition — A developer used short video channels to promote their product, focusing on showing its key features and benefits within a 60-second timeframe. |
+| `60-second` | duration | I once bet on 60-second validation, but now I’m skeptical about whether this approach works for every product. |
 
 ## [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html)
 
@@ -954,5 +971,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "507 figures pulled out of 56 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-05", "dateModified": "2026-09-05"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "517 figures pulled out of 57 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-05", "dateModified": "2026-09-05"}
 </script>

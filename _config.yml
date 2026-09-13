@@ -27,39 +27,39 @@ defaults:
   - scope:
       path: "README_CN.md"
     values:
-      description: "这是一份公开数表。56 篇实测笔记里出现过的每一个数 —— 价格、百分比、倍数、token 数、耗时 —— 都抽成一行,每行都附上它原来所在的那句话和发布日期。"
+      description: "这是一份公开数表。57 篇实测笔记里出现过的每一个数 —— 价格、百分比、倍数、token 数、耗时 —— 都抽成一行,每行都附上它原来所在的那句话和发布日期。"
   - scope:
       path: "README_ES.md"
     values:
-      description: "Un conjunto de datos abierto. Cada cifra publicada en 56 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, con la frase completa de la que salió y la fecha de publicación."
+      description: "Un conjunto de datos abierto. Cada cifra publicada en 57 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, con la frase completa de la que salió y la fecha de publicación."
   - scope:
       path: "README_JA.md"
     values:
-      description: "オープンなデータセットです。56 本の実測ノートに出てきた数字 —— 料金、割合、倍率、トークン数、所要時間 —— をすべて 1 行ずつに抜き出し、元の一文と公開日を必ず添えてあります。"
+      description: "オープンなデータセットです。57 本の実測ノートに出てきた数字 —— 料金、割合、倍率、トークン数、所要時間 —— をすべて 1 行ずつに抜き出し、元の一文と公開日を必ず添えてあります。"
   - scope:
       path: "README_KO.md"
     values:
-      description: "공개 데이터셋입니다. 56편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 원래 문장 전체와 게시 날짜를 함께 실었습니다."
+      description: "공개 데이터셋입니다. 57편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 원래 문장 전체와 게시 날짜를 함께 실었습니다."
   - scope:
       path: "README_VI.md"
     values:
-      description: "Một bộ dữ liệu mở. Mọi con số xuất hiện trong 56 ghi chép thực đo — giá, phần trăm, bội số, số token, thời lượng — đều được tách thành một dòng, kèm nguyên câu chứa nó và ngày công bố."
+      description: "Một bộ dữ liệu mở. Mọi con số xuất hiện trong 57 ghi chép thực đo — giá, phần trăm, bội số, số token, thời lượng — đều được tách thành một dòng, kèm nguyên câu chứa nó và ngày công bố."
   - scope:
       path: "README_FR.md"
     values:
-      description: "Un jeu de données ouvert. Chaque chiffre publié dans 56 notes de terrain — prix, pourcentages, multiples, nombres de tokens et durées — extrait en une ligne, avec la phrase entière dont il provient et sa date de publication."
+      description: "Un jeu de données ouvert. Chaque chiffre publié dans 57 notes de terrain — prix, pourcentages, multiples, nombres de tokens et durées — extrait en une ligne, avec la phrase entière dont il provient et sa date de publication."
   - scope:
       path: "README_DE.md"
     values:
-      description: "Ein offener Datensatz. Jede Zahl aus 56 Praxisnotizen — Preise, Prozentsätze, Vielfache, Token-Zahlen und Laufzeiten — als eigene Zeile, mit dem vollständigen Satz, aus dem sie stammt, und dem Veröffentlichungsdatum."
+      description: "Ein offener Datensatz. Jede Zahl aus 57 Praxisnotizen — Preise, Prozentsätze, Vielfache, Token-Zahlen und Laufzeiten — als eigene Zeile, mit dem vollständigen Satz, aus dem sie stammt, und dem Veröffentlichungsdatum."
   - scope:
       path: "README_RU.md"
     values:
-      description: "Открытый набор данных. Каждая цифра из 56 полевых заметок — цены, проценты, кратности, количество токенов и длительности — вынесена в отдельную строку, вместе с полной фразой, откуда она взята, и датой публикации."
+      description: "Открытый набор данных. Каждая цифра из 57 полевых заметок — цены, проценты, кратности, количество токенов и длительности — вынесена в отдельную строку, вместе с полной фразой, откуда она взята, и датой публикации."
   - scope:
       path: "README_ID.md"
     values:
-      description: "Kumpulan data terbuka. Setiap angka dari 56 catatan lapangan — harga, persentase, kelipatan, jumlah token, dan durasi — ditarik menjadi satu baris, lengkap dengan kalimat asalnya dan tanggal terbitnya."
+      description: "Kumpulan data terbuka. Setiap angka dari 57 catatan lapangan — harga, persentase, kelipatan, jumlah token, dan durasi — ditarik menjadi satu baris, lengkap dengan kalimat asalnya dan tanggal terbitnya."
   - scope:
       path: "topics/indie-development.md"
     values:
@@ -93,6 +93,10 @@ defaults:
     values:
       description: "The 8 write-ups in these AI coding field notes tagged Productivity — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "topics/cost-savings.md"
+    values:
+      description: "The 7 write-ups in these AI coding field notes tagged Cost Savings — each with the figures it cited and the sentence every figure came from."
+  - scope:
       path: "topics/ai.md"
     values:
       description: "The 6 write-ups in these AI coding field notes tagged AI — each with the figures it cited and the sentence every figure came from."
@@ -105,10 +109,6 @@ defaults:
     values:
       description: "The 6 write-ups in these AI coding field notes tagged AI Programming — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/cost-savings.md"
-    values:
-      description: "The 6 write-ups in these AI coding field notes tagged Cost Savings — each with the figures it cited and the sentence every figure came from."
-  - scope:
       path: "topics/ai-tools.md"
     values:
       description: "The 5 write-ups in these AI coding field notes tagged AI Tools — each with the figures it cited and the sentence every figure came from."
@@ -120,6 +120,10 @@ defaults:
       path: "topics/development-tools.md"
     values:
       description: "The 5 write-ups in these AI coding field notes tagged Development Tools — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/automation.md"
+    values:
+      description: "The 4 write-ups in these AI coding field notes tagged Automation — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/revenue-growth.md"
     values:
@@ -136,10 +140,6 @@ defaults:
       path: "topics/ai-development.md"
     values:
       description: "The 3 write-ups in these AI coding field notes tagged AI Development — each with the figures it cited and the sentence every figure came from."
-  - scope:
-      path: "topics/automation.md"
-    values:
-      description: "The 3 write-ups in these AI coding field notes tagged Automation — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/code-review.md"
     values:
@@ -268,6 +268,14 @@ defaults:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/how-respond-io-built-a-35m-arr-business-by-billing-ai.png"
       description: "Respond.io crossed **$35M in annual recurring revenue** last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to…"
       date: "2026-08-28T09:46:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/automating-short-video-marketing-with-ai-a-low-cost-growth.png"
+      description: "Jordan earns $63,000 a month with just 30 lines of JavaScript for his Micro-SaaS, Resellbot, which automates Poshmark sharing."
+      date: "2026-08-24T10:21:00Z"
       seo:
         type: BlogPosting
   - scope:

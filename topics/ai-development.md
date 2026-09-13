@@ -1,6 +1,6 @@
 # AI Development
 
-3 of the 56 write-ups here are tagged AI Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 57 write-ups here are tagged AI Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -10,7 +10,7 @@
 - **80%** — The skill automates the workflow, reducing manual effort by 80%, and adapts to different document formats and storage options. [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 - **80 percent** — Most of what feels repetitive in a week does not, which is why the 80 percent figure describes a narrow slice of the work rather than 80 percent of anyone's day. [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
-[All figures, 507 rows](../figures.md)
+[All figures, 517 rows](../figures.md)
 
 ## The write-ups
 
@@ -34,7 +34,7 @@ A monthly report that used to take four hours now takes a few minutes.
 
 ---
 
-[All 56 write-ups](../README.md)
+[All 57 write-ups](../README.md)
 
 ---
 

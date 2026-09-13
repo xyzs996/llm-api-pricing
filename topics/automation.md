@@ -1,18 +1,26 @@
 # Automation
 
-3 of the 56 write-ups here are tagged Automation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 57 write-ups here are tagged Automation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$63,000** — Jordan's success with Resellbot, a Micro-SaaS that automates Poshmark sharing, is a notable example: he earns $63,000 a month with just 30 lines of JavaScript. [→](../articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md)
+- **$500** — After generating content, they can rent these websites to local businesses for monthly subscriptions, earning $500-$3,000 per website per month. [→](../articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md)
 - **1000-token** — Still, I'd say the Pi base framework's 1000-token limit seems overstated. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 - **1000 tokens** — Its initial system prompt and tool description total under 1000 tokens. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 - **15 minutes** — "Order hot or iced coffee for pickup within 15 minutes, 7 a.m. to 8 p.m., at 3 locations in this district, with member pricing applied at checkout" matches a request, and it also happens to tell the assistant that member pricing exists, which is how a brand agent like the one Luckin Coffee and KFC connected to keeps its loyalty economics visible instead of getting flattened into a generic listing. [→](../articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
 - **5 minutes** — Pairing WorkBuddy with BrowserAct gets a competitor pricing table in roughly 5 minutes and a product-opportunity report in about 7; a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, which leaves room for around 10 research runs daily before money enters the conversation at all. [→](../articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md)
 - **20%** — The efficiency target one operator set for themselves is specific and aggressive: compress delivery time to 20% of what it was. [→](../articles/ai-side-hustle-stop-selling-hours-start-selling-plans.md)
 
-[All figures, 507 rows](../figures.md)
+[All figures, 517 rows](../figures.md)
 
 ## The write-ups
+
+### [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](../articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md)
+
+Jordan earns $63,000 a month with just 30 lines of JavaScript for his Micro-SaaS, Resellbot, which automates Poshmark sharing.
+
+[telegra.ph](https://telegra.ph/Automating-Short-Video-Marketing-with-AI-A-Low-Cost-Growth-Strategy-for-Developers-09-13)
 
 ### [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 
@@ -34,7 +42,7 @@ The most honest numbers I have seen attached to an AI side hustle are small enou
 
 ---
 
-[All 56 write-ups](../README.md)
+[All 57 write-ups](../README.md)
 
 ---
 

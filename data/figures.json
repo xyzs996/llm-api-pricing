@@ -385,6 +385,116 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/67"
   },
   {
+    "value": "$63,000",
+    "kind": "price",
+    "unit": "per month",
+    "context": "Jordan earns $63,000 a month with just 30 lines of JavaScript for his Micro-SaaS, Resellbot, which automates Poshmark sharing.",
+    "article": "Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers",
+    "published": "2026-08-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$63,000",
+    "kind": "price",
+    "unit": "per month",
+    "context": "Jordan's success with Resellbot, a Micro-SaaS that automates Poshmark sharing, is a notable example: he earns $63,000 a month with just 30 lines of JavaScript.",
+    "article": "Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers",
+    "published": "2026-08-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$500",
+    "kind": "price",
+    "unit": "",
+    "context": "After generating content, they can rent these websites to local businesses for monthly subscriptions, earning $500-$3,000 per website per month.",
+    "article": "Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers",
+    "published": "2026-08-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$3,000",
+    "kind": "price",
+    "unit": "",
+    "context": "After generating content, they can rent these websites to local businesses for monthly subscriptions, earning $500-$3,000 per website per month.",
+    "article": "Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers",
+    "published": "2026-08-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "5 minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "They let developers generate competitor price tables in 5 minutes and create selection opportunity reports in 7 minutes.",
+    "article": "Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers",
+    "published": "2026-08-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "7 minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "They let developers generate competitor price tables in 5 minutes and create selection opportunity reports in 7 minutes.",
+    "article": "Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers",
+    "published": "2026-08-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "60 seconds",
+    "kind": "duration",
+    "unit": "",
+    "context": "Short video marketing stands out as one of the most cost-effective ways to acquire users, especially for products that can be shown in 60 seconds or less, like SaaS tools or software apps.",
+    "article": "Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers",
+    "published": "2026-08-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "95%",
+    "kind": "percent",
+    "unit": "",
+    "context": "These channels are zero-budget, with 95% of users coming from organic content.",
+    "article": "Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers",
+    "published": "2026-08-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "60-second",
+    "kind": "duration",
+    "unit": "",
+    "context": "Case Study: Rapid User Acquisition — A developer used short video channels to promote their product, focusing on showing its key features and benefits within a 60-second timeframe.",
+    "article": "Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers",
+    "published": "2026-08-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "60-second",
+    "kind": "duration",
+    "unit": "",
+    "context": "I once bet on 60-second validation, but now I’m skeptical about whether this approach works for every product.",
+    "article": "Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers",
+    "published": "2026-08-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "$0.81",
     "kind": "price",
     "unit": "per million input tokens",

@@ -1,6 +1,6 @@
 # AI Coding Field Notes
 
-> 56 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
+> 57 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://xyzs996.github.io/llm-api-pricing/ under CC BY 4.0.
 
 Every number in these notes traces back to a named source. Figures without one were cut before publishing.
 
@@ -18,86 +18,86 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 ## Dataset
 
-- [Every published figure, 507 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
+- [Every published figure, 517 rows](https://xyzs996.github.io/llm-api-pricing/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv): the same rows, one line each.
 
-## Model list prices (66 models, read 2026-09-12)
+## Model list prices (66 models, read 2026-09-13)
 
 Per million tokens, for models ranked in an agents category of the Design Arena. Quoted from OpenRouter's public catalog on the date above — this is list price, not a bill: cache hits, batch tiers and providers all price differently, and rows marked (batch) are the catalog's separate batch entries. Full table: https://xyzs996.github.io/llm-api-pricing/prices.html
 
-- **Solar Pro 4** — $0.09 in / $0.36 out per 1M tokens, 524288 token context, best agents rank #31 in webapps (2026-09-12).
-- **Gemini 3 Flash Preview (batch)** — $0.25 in / $1.5 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticslides (2026-09-12).
-- **MiniMax M3** — $0.3 in / $1.2 out per 1M tokens, 1048576 token context, best agents rank #11 in htmlslides (2026-09-12). Written up: https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
-- **MiniMax M3 (batch)** — $0.3 in / $1.2 out per 1M tokens, 524288 token context, best agents rank #11 in htmlslides (2026-09-12). Written up: https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
-- **Gemini 3.6 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #12 in androidnative (2026-09-12).
-- **Gemini 3.7 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #5 in agenticgamedev (2026-09-12). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Gemini 3.8 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #6 in fullstack (2026-09-12).
-- **GLM 4.7** — $0.4 in / $1.75 out per 1M tokens, 204800 token context, best agents rank #27 in androidnative (2026-09-12).
-- **GLM 4.6** — $0.43 in / $1.75 out per 1M tokens, 204800 token context, best agents rank #12 in godotgamedev (2026-09-12).
-- **Kimi K2.5** — $0.45 in / $2.25 out per 1M tokens, 262144 token context, best agents rank #8 in godotgamedev (2026-09-12).
-- **Gemini 3 Flash Preview** — $0.5 in / $3.0 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticslides (2026-09-12).
-- **GLM 5** — $0.6 in / $1.92 out per 1M tokens, 204800 token context, best agents rank #15 in godotgamedev (2026-09-12).
-- **GLM 5.2** — $0.6 in / $2.0 out per 1M tokens, 1048576 token context, best agents rank #10 in agenticgamedev (2026-09-12).
-- **GLM 5.2 (batch)** — $0.7 in / $2.2 out per 1M tokens, 1048576 token context, best agents rank #10 in agenticgamedev (2026-09-12).
-- **GLM 5.3 (batch)** — $0.7 in / $2.2 out per 1M tokens, 1048576 token context, best agents rank #7 in python-pptxslides (2026-09-12).
-- **Kimi K2.7 Code** — $0.71 in / $3.5 out per 1M tokens, 262144 token context, best agents rank #7 in htmlslides (2026-09-12).
-- **Gemini 3.6 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #12 in androidnative (2026-09-12).
-- **Gemini 3.7 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #5 in agenticgamedev (2026-09-12). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Gemini 3.8 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #6 in fullstack (2026-09-12).
-- **Gemini 3.5 Flash (batch)** — $0.75 in / $4.5 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticslides(python-pptx) (2026-09-12).
-- **DeepSeek V4 Pro 0423** — $0.768732 in / $1.537464 out per 1M tokens, 1048576 token context, best agents rank #26 in godotgamedev (2026-09-12).
-- **GPT-5.2 (batch)** — $0.875 in / $7.0 out per 1M tokens, 400000 token context, best agents rank #17 in godotgamedev (2026-09-12).
-- **Kimi K2.6** — $0.95 in / $4.0 out per 1M tokens, 262144 token context, best agents rank #2 in agentichtmlslides (2026-09-12). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **GLM 5.1** — $0.966 in / $3.036 out per 1M tokens, 204800 token context, best agents rank #2 in agenticslides (2026-09-12).
-- **Grok 4.3 (batch)** — $1.0 in / $2.0 out per 1M tokens, 1000000 token context, best agents rank #8 in pptxslides (2026-09-12).
-- **Claude Sonnet 5 (batch)** — $1.0 in / $5.0 out per 1M tokens, 1000000 token context, best agents rank #2 in godotgamedev (2026-09-12). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Gemini 3.1 Pro Preview (batch)** — $1.0 in / $6.0 out per 1M tokens, 1048576 token context, best agents rank #4 in agentichtmlslides (2026-09-12).
-- **GLM 5V Turbo** — $1.2 in / $4.0 out per 1M tokens, 202752 token context, best agents rank #4 in androidnative (2026-09-12).
-- **Grok 4.20** — $1.25 in / $2.5 out per 1M tokens, 2000000 token context, best agents rank #12 in htmlslides (2026-09-12).
-- **Grok 4.3** — $1.25 in / $2.5 out per 1M tokens, 1000000 token context, best agents rank #8 in pptxslides (2026-09-12).
-- **Muse Spark 1.1** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #8 in htmlslides (2026-09-12). Written up: https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
-- **Muse Spark 1.2** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #10 in androidnative (2026-09-12).
-- **Muse Spark 1.3** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #3 in webapps (2026-09-12).
-- **GPT-5.4 (batch)** — $1.25 in / $7.5 out per 1M tokens, 1050000 token context, best agents rank #21 in godotgamedev (2026-09-12).
-- **GPT-5.1-Codex** — $1.25 in / $10.0 out per 1M tokens, 400000 token context, best agents rank #20 in mobileapps (2026-09-12).
-- **GLM 5.3** — $1.4 in / $4.4 out per 1M tokens, 1310720 token context, best agents rank #7 in python-pptxslides (2026-09-12).
-- **Qwen3.7 Max** — $1.475 in / $4.425 out per 1M tokens, 1000000 token context, best agents rank #7 in godotgamedev (2026-09-12). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Claude Sonnet 4.5 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #27 in mobileapps (2026-09-12).
-- **Claude Sonnet 4.6 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #6 in godotgamedev (2026-09-12).
-- **Gemini 3.5 Flash** — $1.5 in / $9.0 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticslides(python-pptx) (2026-09-12).
-- **GPT-5.2** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #17 in godotgamedev (2026-09-12).
-- **GPT-5.2-Codex** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #18 in godotgamedev (2026-09-12).
-- **GPT-5.3-Codex** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #23 in godotgamedev (2026-09-12).
-- **Grok 4.5** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #3 in godotgamedev (2026-09-12).
-- **Grok 4.6** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #2 in androidnative (2026-09-12).
-- **Claude Sonnet 5** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #2 in godotgamedev (2026-09-12). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Gemini 3.1 Pro Preview** — $2.0 in / $12.0 out per 1M tokens, 1048576 token context, best agents rank #4 in agentichtmlslides (2026-09-12).
-- **Kimi K3** — $2.302729 in / $11.550195 out per 1M tokens, 1048576 token context, best agents rank #2 in fullstack (2026-09-12). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Claude Opus 4.5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 200000 token context, best agents rank #14 in mobileapps (2026-09-12).
-- **Claude Opus 4.6 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #8 in agenticgamedev (2026-09-12).
-- **Claude Opus 4.8 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-09-12).
-- **Claude Opus 5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in mobileapps (2026-09-12).
-- **GPT-5.4** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #21 in godotgamedev (2026-09-12).
-- **GPT-5.5 (batch)** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #6 in agenticslides (2026-09-12).
-- **Claude Sonnet 4.5** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #27 in mobileapps (2026-09-12).
-- **Claude Sonnet 4.6** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #6 in godotgamedev (2026-09-12).
-- **Kimi K3 (batch)** — $3.0 in / $15.0 out per 1M tokens, 1048576 token context, best agents rank #2 in fullstack (2026-09-12). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Claude Fable 5.1 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in fullstack (2026-09-12).
-- **Claude Fable 5 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticgamedev (2026-09-12).
-- **Claude Opus 4.5** — $5.0 in / $25.0 out per 1M tokens, 200000 token context, best agents rank #14 in mobileapps (2026-09-12).
-- **Claude Opus 4.6** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #8 in agenticgamedev (2026-09-12).
-- **Claude Opus 4.8** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-09-12).
-- **Claude Opus 5** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in mobileapps (2026-09-12).
-- **GPT-5.5** — $5.0 in / $30.0 out per 1M tokens, 1050000 token context, best agents rank #6 in agenticslides (2026-09-12).
-- **Claude Fable 5** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticgamedev (2026-09-12).
-- **Claude Fable 5.1** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in fullstack (2026-09-12).
+- **Solar Pro 4** — $0.09 in / $0.36 out per 1M tokens, 524288 token context, best agents rank #32 in webapps (2026-09-13).
+- **Gemini 3 Flash Preview (batch)** — $0.25 in / $1.5 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticslides (2026-09-13).
+- **MiniMax M3** — $0.3 in / $1.2 out per 1M tokens, 1048576 token context, best agents rank #11 in htmlslides (2026-09-13). Written up: https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
+- **MiniMax M3 (batch)** — $0.3 in / $1.2 out per 1M tokens, 524288 token context, best agents rank #11 in htmlslides (2026-09-13). Written up: https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
+- **Gemini 3.6 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #12 in androidnative (2026-09-13).
+- **Gemini 3.7 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #5 in agenticgamedev (2026-09-13). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 3.8 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #4 in mobileapps (2026-09-13).
+- **GLM 4.7** — $0.4 in / $1.75 out per 1M tokens, 204800 token context, best agents rank #27 in androidnative (2026-09-13).
+- **GLM 4.6** — $0.43 in / $1.75 out per 1M tokens, 204800 token context, best agents rank #12 in godotgamedev (2026-09-13).
+- **Kimi K2.5** — $0.45 in / $2.25 out per 1M tokens, 262144 token context, best agents rank #8 in godotgamedev (2026-09-13).
+- **Gemini 3 Flash Preview** — $0.5 in / $3.0 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticslides (2026-09-13).
+- **GLM 5** — $0.6 in / $1.92 out per 1M tokens, 204800 token context, best agents rank #15 in godotgamedev (2026-09-13).
+- **GLM 5.2** — $0.6 in / $2.0 out per 1M tokens, 1048576 token context, best agents rank #10 in agenticgamedev (2026-09-13).
+- **GLM 5.2 (batch)** — $0.7 in / $2.2 out per 1M tokens, 1048576 token context, best agents rank #10 in agenticgamedev (2026-09-13).
+- **GLM 5.3 (batch)** — $0.7 in / $2.2 out per 1M tokens, 1048576 token context, best agents rank #7 in python-pptxslides (2026-09-13).
+- **Kimi K2.7 Code** — $0.71 in / $3.5 out per 1M tokens, 262144 token context, best agents rank #7 in htmlslides (2026-09-13).
+- **Gemini 3.6 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #12 in androidnative (2026-09-13).
+- **Gemini 3.7 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #5 in agenticgamedev (2026-09-13). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 3.8 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #4 in mobileapps (2026-09-13).
+- **Gemini 3.5 Flash (batch)** — $0.75 in / $4.5 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticslides(python-pptx) (2026-09-13).
+- **GPT-5.2 (batch)** — $0.875 in / $7.0 out per 1M tokens, 400000 token context, best agents rank #17 in godotgamedev (2026-09-13).
+- **Kimi K2.6** — $0.95 in / $4.0 out per 1M tokens, 262144 token context, best agents rank #2 in agentichtmlslides (2026-09-13). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **GLM 5.1** — $0.966 in / $3.036 out per 1M tokens, 204800 token context, best agents rank #2 in agenticslides (2026-09-13).
+- **Grok 4.3 (batch)** — $1.0 in / $2.0 out per 1M tokens, 1000000 token context, best agents rank #8 in pptxslides (2026-09-13).
+- **Claude Sonnet 5 (batch)** — $1.0 in / $5.0 out per 1M tokens, 1000000 token context, best agents rank #2 in godotgamedev (2026-09-13). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 3.1 Pro Preview (batch)** — $1.0 in / $6.0 out per 1M tokens, 1048576 token context, best agents rank #4 in agentichtmlslides (2026-09-13).
+- **GLM 5.3** — $1.092 in / $3.432 out per 1M tokens, 1310720 token context, best agents rank #7 in python-pptxslides (2026-09-13).
+- **GLM 5V Turbo** — $1.2 in / $4.0 out per 1M tokens, 202752 token context, best agents rank #4 in androidnative (2026-09-13).
+- **Grok 4.20** — $1.25 in / $2.5 out per 1M tokens, 2000000 token context, best agents rank #12 in htmlslides (2026-09-13).
+- **Grok 4.3** — $1.25 in / $2.5 out per 1M tokens, 1000000 token context, best agents rank #8 in pptxslides (2026-09-13).
+- **Muse Spark 1.1** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #8 in htmlslides (2026-09-13). Written up: https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
+- **Muse Spark 1.2** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #10 in androidnative (2026-09-13).
+- **Muse Spark 1.3** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #3 in webapps (2026-09-13).
+- **GPT-5.4 (batch)** — $1.25 in / $7.5 out per 1M tokens, 1050000 token context, best agents rank #21 in godotgamedev (2026-09-13).
+- **GPT-5.1-Codex** — $1.25 in / $10.0 out per 1M tokens, 400000 token context, best agents rank #19 in mobileapps (2026-09-13).
+- **Qwen3.7 Max** — $1.475 in / $4.425 out per 1M tokens, 1000000 token context, best agents rank #7 in godotgamedev (2026-09-13). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Claude Sonnet 4.5 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #28 in mobileapps (2026-09-13).
+- **Claude Sonnet 4.6 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #6 in godotgamedev (2026-09-13).
+- **Gemini 3.5 Flash** — $1.5 in / $9.0 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticslides(python-pptx) (2026-09-13).
+- **DeepSeek V4 Pro 0423** — $1.6 in / $3.2 out per 1M tokens, 1048576 token context, best agents rank #26 in godotgamedev (2026-09-13).
+- **GPT-5.2** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #17 in godotgamedev (2026-09-13).
+- **GPT-5.2-Codex** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #18 in godotgamedev (2026-09-13).
+- **GPT-5.3-Codex** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #23 in godotgamedev (2026-09-13).
+- **Grok 4.5** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #3 in godotgamedev (2026-09-13).
+- **Grok 4.6** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #2 in androidnative (2026-09-13).
+- **Claude Sonnet 5** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #2 in godotgamedev (2026-09-13). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 3.1 Pro Preview** — $2.0 in / $12.0 out per 1M tokens, 1048576 token context, best agents rank #4 in agentichtmlslides (2026-09-13).
+- **Claude Opus 4.5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 200000 token context, best agents rank #15 in mobileapps (2026-09-13).
+- **Claude Opus 4.6 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #8 in agenticgamedev (2026-09-13).
+- **Claude Opus 4.8 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-09-13).
+- **Claude Opus 5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in mobileapps (2026-09-13).
+- **GPT-5.4** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #21 in godotgamedev (2026-09-13).
+- **GPT-5.5 (batch)** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #6 in agenticslides (2026-09-13).
+- **Kimi K3** — $2.648138 in / $13.282724 out per 1M tokens, 1048576 token context, best agents rank #2 in fullstack (2026-09-13). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Claude Sonnet 4.5** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #28 in mobileapps (2026-09-13).
+- **Claude Sonnet 4.6** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #6 in godotgamedev (2026-09-13).
+- **Kimi K3 (batch)** — $3.0 in / $15.0 out per 1M tokens, 1048576 token context, best agents rank #2 in fullstack (2026-09-13). Written up: https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Claude Fable 5.1 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in fullstack (2026-09-13).
+- **Claude Fable 5 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticgamedev (2026-09-13).
+- **Claude Opus 4.5** — $5.0 in / $25.0 out per 1M tokens, 200000 token context, best agents rank #15 in mobileapps (2026-09-13).
+- **Claude Opus 4.6** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #8 in agenticgamedev (2026-09-13).
+- **Claude Opus 4.8** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-09-13).
+- **Claude Opus 5** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in mobileapps (2026-09-13).
+- **GPT-5.5** — $5.0 in / $30.0 out per 1M tokens, 1050000 token context, best agents rank #6 in agenticslides (2026-09-13).
+- **Claude Fable 5** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticgamedev (2026-09-13).
+- **Claude Fable 5.1** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in fullstack (2026-09-13).
 
 ## DeepSeek peak / off-peak hours
 
 - [When DeepSeek bills double, and when it halves](https://xyzs996.github.io/llm-api-pricing/deepseek-peak-hours.html): peak is Beijing 09:00–12:00 and 14:00–18:00, Monday to Friday (01:00-04:00 and 06:00-10:00 UTC); off-peak is half of peak on every rate; the whole weekend is off-peak, bounded 16:00 UTC Friday to 16:00 UTC Sunday. The two language versions of the vendor's page anchor that weekday to different clocks — the Chinese one says 北京时间周一至周五 (Beijing time, Monday to Friday), the English one says "UTC, Monday through Friday" — so implementations written from the English page read the weekday in UTC. Both readings agree at all 168 hours today, because both windows close before 16:00 UTC, the earliest instant the two calendars can differ; they stop agreeing the day a window moves. Neither page carries an effective date today; the weekend rule started 00:00 Beijing time on 2026-08-23, which the page announced the day before and stopped saying once it took effect, so that date is a dated observation rather than something you can still read off the vendor. Dated conformance vectors and a dependency-free reference implementation in Python and JavaScript: <https://github.com/xyzs996/deepseek-peak-hours>, public domain. That repository also runs those vectors against the peak predicate of 9 published DeepSeek billing plugins (`node conformance/run.mjs`); on 2026-08-24, 3 of 9 passed every vector they could run, and every failure was the weekend.
 
-## Every price figure (107)
+## Every price figure (110)
 
 Quoted, not paraphrased: each is the sentence it was published in, with the date it was published. Nothing here is a vendor price sheet — it is what a working developer wrote down about what they paid.
 
@@ -108,6 +108,9 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 - **$299** — “During Black Friday, a business might lose $299 per abandoned cart, and understaffing can exacerbate these losses.” (2026-08-28) https://xyzs996.github.io/llm-api-pricing/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html
 - **$299** — “During Black Friday weekend, a single abandoned cart can cost $299.” (2026-08-28) https://xyzs996.github.io/llm-api-pricing/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html
 - **$0** — “From $0 to M ARR: The WhatsApp AI Support Playbook” (2026-08-28) https://xyzs996.github.io/llm-api-pricing/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html
+- **$63,000 per month** — “Jordan earns $63,000 a month with just 30 lines of JavaScript for his Micro-SaaS, Resellbot, which automates Poshmark sharing.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html
+- **$63,000 per month** — “Jordan's success with Resellbot, a Micro-SaaS that automates Poshmark sharing, is a notable example: he earns $63,000 a month with just 30 lines of JavaScript.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html
+- **$500** — “After generating content, they can rent these websites to local businesses for monthly subscriptions, earning $500-$3,000 per website per month.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html
 - **$0.81 per million input tokens** — “Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$25** — “Output — the scariest sticker, $25 or $50 per million — is under a third of one percent of the volume.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
 - **$0.2015** — “Reprice at that mix and the medians land at $0.2015 against $0.3046.” (2026-08-24) https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
@@ -237,18 +240,18 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [AI Costs](https://xyzs996.github.io/llm-api-pricing/topics/ai-costs.html): 8 write-ups.
 - [Artificial Intelligence](https://xyzs996.github.io/llm-api-pricing/topics/artificial-intelligence.html): 8 write-ups.
 - [Productivity](https://xyzs996.github.io/llm-api-pricing/topics/productivity.html): 8 write-ups.
+- [Cost Savings](https://xyzs996.github.io/llm-api-pricing/topics/cost-savings.html): 7 write-ups.
 - [AI](https://xyzs996.github.io/llm-api-pricing/topics/ai.html): 6 write-ups.
 - [AI Features](https://xyzs996.github.io/llm-api-pricing/topics/ai-features.html): 6 write-ups.
 - [AI Programming](https://xyzs996.github.io/llm-api-pricing/topics/ai-programming.html): 6 write-ups.
-- [Cost Savings](https://xyzs996.github.io/llm-api-pricing/topics/cost-savings.html): 6 write-ups.
 - [AI Tools](https://xyzs996.github.io/llm-api-pricing/topics/ai-tools.html): 5 write-ups.
 - [Chinese AI](https://xyzs996.github.io/llm-api-pricing/topics/chinese-ai.html): 5 write-ups.
 - [Development Tools](https://xyzs996.github.io/llm-api-pricing/topics/development-tools.html): 5 write-ups.
+- [Automation](https://xyzs996.github.io/llm-api-pricing/topics/automation.html): 4 write-ups.
 - [Revenue Growth](https://xyzs996.github.io/llm-api-pricing/topics/revenue-growth.html): 4 write-ups.
 - [AI Agents](https://xyzs996.github.io/llm-api-pricing/topics/ai-agents.html): 3 write-ups.
 - [AI Automation](https://xyzs996.github.io/llm-api-pricing/topics/ai-automation.html): 3 write-ups.
 - [AI Development](https://xyzs996.github.io/llm-api-pricing/topics/ai-development.html): 3 write-ups.
-- [Automation](https://xyzs996.github.io/llm-api-pricing/topics/automation.html): 3 write-ups.
 - [Code Review](https://xyzs996.github.io/llm-api-pricing/topics/code-review.html): 3 write-ups.
 - [Enterprise Automation](https://xyzs996.github.io/llm-api-pricing/topics/enterprise-automation.html): 3 write-ups.
 - [Micro SaaS](https://xyzs996.github.io/llm-api-pricing/topics/micro-saas.html): 3 write-ups.
@@ -261,6 +264,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](https://xyzs996.github.io/llm-api-pricing/articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.html): "AI automation can boost efficiency by 60% but fails to deliver 20% conversion improvements". Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/69 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/The-AI-Automation-Ceiling-Why-60-Efficiency-Doesnt-Equal-20-Conversion-09-05
 - [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](https://xyzs996.github.io/llm-api-pricing/articles/the-real-pitfalls-of-ai-agent-development-from-code.html): AI Agent development faces critical gaps between code generation and functional verification. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/68 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05
 - [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](https://xyzs996.github.io/llm-api-pricing/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html): Respond.io crossed **$35M in annual recurring revenue** last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/67 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/How-Respondio-Built-a-35M-ARR-Business-by-Billing-AI-Agents-Per-Active-Customer-Not-Per-Agent-09-03
+- [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html): Jordan earns $63,000 a month with just 30 lines of JavaScript for his Micro-SaaS, Resellbot, which automates Poshmark sharing. Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/Automating-Short-Video-Marketing-with-AI-A-Low-Cost-Growth-Strategy-for-Developers-09-13
 - [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html): Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/66 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24
 - [Never Use a Model Where Code Can Decide](https://xyzs996.github.io/llm-api-pricing/articles/never-use-a-model-where-code-can-decide.html): Writing code got cheap. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/65 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/Never-Use-a-Model-Where-Code-Can-Decide-08-23
 - [The $22K-a-Month AI Tool That Never Bought a Single Ad](https://xyzs996.github.io/llm-api-pricing/articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.html): StoryShort hit $22,000 a month in its first three months. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/64 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/The-22K-a-Month-AI-Tool-That-Never-Bought-a-Single-Ad-08-23
