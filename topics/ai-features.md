@@ -21,7 +21,7 @@
 
 This is for the solo developer who repeats the same chores every week and knows exactly how to do them, but has never written instructions for any of them.
 
-[telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/71) · [telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)
 
 ### [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 

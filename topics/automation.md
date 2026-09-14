@@ -20,7 +20,7 @@
 
 Jordan earns $63,000 a month with just 30 lines of JavaScript for his Micro-SaaS, Resellbot, which automates Poshmark sharing.
 
-[telegra.ph](https://telegra.ph/Automating-Short-Video-Marketing-with-AI-A-Low-Cost-Growth-Strategy-for-Developers-09-13)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/70) · [telegra.ph](https://telegra.ph/Automating-Short-Video-Marketing-with-AI-A-Low-Cost-Growth-Strategy-for-Developers-09-13)
 
 ### [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 

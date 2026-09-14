@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/70) — that copy has a reply box under it, and this one does not.*
+
 Jordan earns $63,000 a month with just 30 lines of JavaScript for his Micro-SaaS, Resellbot, which automates Poshmark sharing. He focused on solving specific user pain points rather than complex technical architecture. This approach bypasses the massive development costs that usually sink new software products. Instead of building a full product, he identified a clear problem and automated a simple solution, proving that strategic focus can yield high returns with minimal resources.
 
 ## AI & Video Marketing for Indie Devs
@@ -115,6 +117,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** You've read about Jordan making $63,000 a month with 30 lines of JavaScript. Now, reply with the amount (in dollars) that a developer could earn per month from renting one local SEO - content website to a local business. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/70).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fautomating-short-video-marketing-with-ai-a-low-cost-growth.md). One required field, and the page you came from is already filled

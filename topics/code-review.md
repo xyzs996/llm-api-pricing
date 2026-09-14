@@ -27,7 +27,7 @@ Open Code Review is an open-source review tool built for AI-assisted development
 
 This is for the solo developer who repeats the same chores every week and knows exactly how to do them, but has never written instructions for any of them.
 
-[telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/71) · [telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)
 
 ### [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 

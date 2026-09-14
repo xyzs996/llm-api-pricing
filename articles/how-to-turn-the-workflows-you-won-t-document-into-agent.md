@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/71) — that copy has a reply box under it, and this one does not.*
+
 This is for the solo developer who repeats the same chores every week and knows exactly how to do them, but has never written instructions for any of them. It is not for you if most of your work is one-off creative calls, because there is nothing stable enough to hand over. Record & Replay approaches exist for exactly this gap: the flows a person or a small team can do but won't write up as a manual.
 
 When this works, the payoff is big. A one-person WeChat publication went from 115–215 minutes of manual work per article to about 11 minutes of machine time plus 10–20 minutes of human input and final review. A better prompt doesn't get you there. Small loops that repeat and can be checked automatically are what turn an agent demo into something you rely on.
@@ -125,6 +127,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** How many iterations do you think it would take for you to automate one of your repetitive work - related chores? Reply with a single number in the discussion thread. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/71).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fhow-to-turn-the-workflows-you-won-t-document-into-agent.md). One required field, and the page you came from is already filled

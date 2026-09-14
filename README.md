@@ -175,7 +175,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 This is for the solo developer who repeats the same chores every week and knows exactly how to do them, but has never written instructions for any of them.
 
-`Code Review` `Cost Savings` `AI Features` `Automation Systems` · [telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)
+`Code Review` `Cost Savings` `AI Features` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/71) · [telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)
 
 ### [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 
@@ -199,7 +199,7 @@ Respond.io crossed **$35M in annual recurring revenue** last quarter by charging
 
 Jordan earns $63,000 a month with just 30 lines of JavaScript for his Micro-SaaS, Resellbot, which automates Poshmark sharing.
 
-`Automation` `Digital Marketing` `Cost Savings` `Indie Developers` · [telegra.ph](https://telegra.ph/Automating-Short-Video-Marketing-with-AI-A-Low-Cost-Growth-Strategy-for-Developers-09-13)
+`Automation` `Digital Marketing` `Cost Savings` `Indie Developers` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/70) · [telegra.ph](https://telegra.ph/Automating-Short-Video-Marketing-with-AI-A-Low-Cost-Growth-Strategy-for-Developers-09-13)
 
 ### [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 
