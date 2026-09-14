@@ -231,6 +231,138 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/10"
   },
   {
+    "value": "215 minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "A one-person WeChat publication went from 115–215 minutes of manual work per article to about 11 minutes of machine time plus 10–20 minutes of human input and final review.",
+    "article": "How to Turn the Workflows You Won't Document Into Agent Skills",
+    "published": "2026-09-14",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "11 minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "A one-person WeChat publication went from 115–215 minutes of manual work per article to about 11 minutes of machine time plus 10–20 minutes of human input and final review.",
+    "article": "How to Turn the Workflows You Won't Document Into Agent Skills",
+    "published": "2026-09-14",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "20 minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "A one-person WeChat publication went from 115–215 minutes of manual work per article to about 11 minutes of machine time plus 10–20 minutes of human input and final review.",
+    "article": "How to Turn the Workflows You Won't Document Into Agent Skills",
+    "published": "2026-09-14",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "70%",
+    "kind": "percent",
+    "unit": "",
+    "context": "In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing.",
+    "article": "How to Turn the Workflows You Won't Document Into Agent Skills",
+    "published": "2026-09-14",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "60%",
+    "kind": "percent",
+    "unit": "",
+    "context": "The tool has been through 28 iterations, and repetitive work on public recruiting platforms got 60% more efficient.",
+    "article": "How to Turn the Workflows You Won't Document Into Agent Skills",
+    "published": "2026-09-14",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "40%",
+    "kind": "percent",
+    "unit": "",
+    "context": "About 40% of review tasks still needed manual filling in, which added about 15 minutes of extra work.",
+    "article": "How to Turn the Workflows You Won't Document Into Agent Skills",
+    "published": "2026-09-14",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "15 minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "About 40% of review tasks still needed manual filling in, which added about 15 minutes of extra work.",
+    "article": "How to Turn the Workflows You Won't Document Into Agent Skills",
+    "published": "2026-09-14",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "1,000 tokens",
+    "kind": "tokens",
+    "unit": "",
+    "context": "Its original system prompt and tool descriptions add up to fewer than 1,000 tokens.",
+    "article": "How to Turn the Workflows You Won't Document Into Agent Skills",
+    "published": "2026-09-14",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "5-hour",
+    "kind": "duration",
+    "unit": "",
+    "context": "In one case, GPT-6 Astra running a small tool directly in Codex used up a 5-hour quota in 2 minutes 41 seconds.",
+    "article": "How to Turn the Workflows You Won't Document Into Agent Skills",
+    "published": "2026-09-14",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "2 minutes 41 seconds",
+    "kind": "duration",
+    "unit": "",
+    "context": "In one case, GPT-6 Astra running a small tool directly in Codex used up a 5-hour quota in 2 minutes 41 seconds.",
+    "article": "How to Turn the Workflows You Won't Document Into Agent Skills",
+    "published": "2026-09-14",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "70%",
+    "kind": "percent",
+    "unit": "",
+    "context": "The 70% You Keep Redoing: Turning Undocumented Chores Into Agent Skills",
+    "article": "How to Turn the Workflows You Won't Document Into Agent Skills",
+    "published": "2026-09-14",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "215 Minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "From 215 Minutes to About 30: What Reusable Agent Skills Actually Take",
+    "article": "How to Turn the Workflows You Won't Document Into Agent Skills",
+    "published": "2026-09-14",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "60%",
     "kind": "percent",
     "unit": "",

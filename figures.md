@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-517 figures pulled out of 57 write-ups in
+529 figures pulled out of 58 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,25 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://xy
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [How to Turn the Workflows You Won't Document Into Agent Skills](https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html)
+
+Published 2026-09-14.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `215 minutes` | duration | A one-person WeChat publication went from 115–215 minutes of manual work per article to about 11 minutes of machine time plus 10–20 minutes of human input and final review. |
+| `11 minutes` | duration | A one-person WeChat publication went from 115–215 minutes of manual work per article to about 11 minutes of machine time plus 10–20 minutes of human input and final review. |
+| `20 minutes` | duration | A one-person WeChat publication went from 115–215 minutes of manual work per article to about 11 minutes of machine time plus 10–20 minutes of human input and final review. |
+| `70%` | percent | In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. |
+| `60%` | percent | The tool has been through 28 iterations, and repetitive work on public recruiting platforms got 60% more efficient. |
+| `40%` | percent | About 40% of review tasks still needed manual filling in, which added about 15 minutes of extra work. |
+| `15 minutes` | duration | About 40% of review tasks still needed manual filling in, which added about 15 minutes of extra work. |
+| `1,000 tokens` | tokens | Its original system prompt and tool descriptions add up to fewer than 1,000 tokens. |
+| `5-hour` | duration | In one case, GPT-6 Astra running a small tool directly in Codex used up a 5-hour quota in 2 minutes 41 seconds. |
+| `2 minutes 41 seconds` | duration | In one case, GPT-6 Astra running a small tool directly in Codex used up a 5-hour quota in 2 minutes 41 seconds. |
+| `70%` | percent | The 70% You Keep Redoing: Turning Undocumented Chores Into Agent Skills |
+| `215 Minutes` | duration | From 215 Minutes to About 30: What Reusable Agent Skills Actually Take |
 
 ## [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](https://xyzs996.github.io/llm-api-pricing/articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.html)
 
@@ -971,5 +990,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "517 figures pulled out of 57 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-05", "dateModified": "2026-09-05"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "529 figures pulled out of 58 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-14", "dateModified": "2026-09-14"}
 </script>

@@ -1,19 +1,19 @@
 # Cost Savings
 
-7 of the 57 write-ups here are tagged Cost Savings. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 58 write-ups here are tagged Cost Savings. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **70%** — In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
+- **60%** — The tool has been through 28 iterations, and repetitive work on public recruiting platforms got 60% more efficient. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **$63,000** — Jordan's success with Resellbot, a Micro-SaaS that automates Poshmark sharing, is a notable example: he earns $63,000 a month with just 30 lines of JavaScript. [→](../articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md)
 - **$500** — After generating content, they can rent these websites to local businesses for monthly subscriptions, earning $500-$3,000 per website per month. [→](../articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md)
 - **5 minutes** — Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **20%** — Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
-- **90%** — AI branding tools like Miora let indie developers cut design costs by 90%. [→](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
-- **95%** — Terra's document processing capabilities might seem cost-effective initially, but Luna's 95% accuracy on basic QA tasks and faster response times mean fewer errors and rework, whereas Terra's higher failure rate on complex tasks can lead to time wasted fixing mistakes, and Luna's superior accuracy and reliability make it a better long-term choice, even though Terra often requires more tokens for similar tasks. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
-[All figures, 517 rows](../figures.md)
+[All figures, 529 rows](../figures.md)
 
 ## The write-ups
 
@@ -28,6 +28,12 @@ Open Code Review is an open-source review tool built for AI-assisted development
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
+
+### [How to Turn the Workflows You Won't Document Into Agent Skills](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
+
+This is for the solo developer who repeats the same chores every week and knows exactly how to do them, but has never written instructions for any of them.
+
+[telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)
 
 ### [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](../articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md)
 
@@ -61,7 +67,7 @@ Chris launched WiseMindAI last year and came out of a single session with Miora'
 
 ---
 
-[All 57 write-ups](../README.md)
+[All 58 write-ups](../README.md)
 
 ---
 

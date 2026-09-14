@@ -121,9 +121,9 @@ Better to ship the arithmetic than the conclusion. Three prices per host, three 
 - [Never Use a Model Where Code Can Decide](never-use-a-model-where-code-can-decide.md)
 - [The $22K-a-Month AI Tool That Never Bought a Single Ad](the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 
-[All 57 write-ups](../README.md)
+[All 58 write-ups](../README.md)
 
-The 64 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 453 more, as JSON and CSV.
+The 64 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 465 more, as JSON and CSV.
 
 
 ---

@@ -1,9 +1,11 @@
 # Code Review
 
-3 of the 57 write-ups here are tagged Code Review. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 58 write-ups here are tagged Code Review. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **70%** — In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
+- **60%** — The tool has been through 28 iterations, and repetitive work on public recruiting platforms got 60% more efficient. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **80%** — When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - **80%** — Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - **$1.43** — For instance, GPT-5.6 Sol, while more expensive at $1.43 per run, shows superior performance with a 43.1% accuracy rate in the same ReactBench tests, which shows that cheaper models may save money upfront but can lead to longer development cycles due to frequent errors and rework. [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
@@ -11,7 +13,7 @@
 - **95%** — That 95% export-issue figure gets quoted everywhere. [→](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 - **60%** — It integrates with GitHub Actions and CircleCI, and its structured review comments cut false positives by 60% — which is the number I'd actually optimize for, because a review tool that cries wolf gets muted inside a week, and a muted tool reviews nothing at all while still showing green on every dashboard I own. [→](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
-[All figures, 517 rows](../figures.md)
+[All figures, 529 rows](../figures.md)
 
 ## The write-ups
 
@@ -20,6 +22,12 @@
 Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/11) · [telegra.ph](https://telegra.ph/The-Cost-Effective-Guide-to-Using-Open-Code-Review-for-AI-Programming-Tools-08-19)
+
+### [How to Turn the Workflows You Won't Document Into Agent Skills](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
+
+This is for the solo developer who repeats the same chores every week and knows exactly how to do them, but has never written instructions for any of them.
+
+[telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)
 
 ### [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
@@ -35,7 +43,7 @@ Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in R
 
 ---
 
-[All 57 write-ups](../README.md)
+[All 58 write-ups](../README.md)
 
 ---
 

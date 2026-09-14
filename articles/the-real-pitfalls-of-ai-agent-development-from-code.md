@@ -155,9 +155,9 @@ The no-mistakes framework provides a nine-step quality verification pipeline tha
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
 
-[All 57 write-ups](../README.md)
+[All 58 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 515 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 527 more, as JSON and CSV.
 
 Topics: [AI Tools](../topics/ai-tools.md) · [AI Agents](../topics/ai-agents.md) · [AI Development](../topics/ai-development.md)
 

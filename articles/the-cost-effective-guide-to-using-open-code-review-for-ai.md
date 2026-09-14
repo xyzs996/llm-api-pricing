@@ -73,13 +73,13 @@ It solves a problem you solved another way.
 
 **Read next**
 
+- [How to Turn the Workflows You Won't Document Into Agent Skills](how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
-- [How to Build a Micro-SaaS Without Spending a Dime on Ads](how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 
-[All 57 write-ups](../README.md)
+[All 58 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 515 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 527 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [SaaS Business](../topics/saas-business.md) · [Cost Savings](../topics/cost-savings.md) · [Code Review](../topics/code-review.md)
 

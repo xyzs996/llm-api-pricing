@@ -1,21 +1,27 @@
 # AI Features
 
-6 of the 57 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 58 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **70%** — In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
+- **60%** — The tool has been through 28 iterations, and repetitive work on public recruiting platforms got 60% more efficient. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **$35M** — Respond.io crossed $35M in annual recurring revenue last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to per-customer billing — made the difference between flat growth and explosive scale. [→](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 - **$299** — During Black Friday, a business might lose $299 per abandoned cart, and understaffing can exacerbate these losses. [→](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 - **5 minutes** — Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **20%** — Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **80%** — For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. [→](../articles/claude-code-and-codex-for-office-automation.md)
 - **90%** — 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. [→](../articles/best-practices-for-ai-agent-skill-management.md)
-- **90%** — 90% of beginners fixate on tools (e.g., Pi's 4 default tools: read/write/edit/bash) instead of defining clear task boundaries. [→](../articles/best-practices-for-ai-agent-skill-management.md)
-- **80%** — When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
-[All figures, 517 rows](../figures.md)
+[All figures, 529 rows](../figures.md)
 
 ## The write-ups
+
+### [How to Turn the Workflows You Won't Document Into Agent Skills](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
+
+This is for the solo developer who repeats the same chores every week and knows exactly how to do them, but has never written instructions for any of them.
+
+[telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)
 
 ### [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 
@@ -55,7 +61,7 @@ If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, a
 
 ---
 
-[All 57 write-ups](../README.md)
+[All 58 write-ups](../README.md)
 
 ---
 
