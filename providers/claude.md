@@ -1,12 +1,12 @@
 # Claude API pricing: what 18 models cost a coding agent
 
-Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-14**.
+Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-15**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Claude discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Claude charges per million tokens
 
-18 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-14**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+18 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-15**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Claude does not have one cache-read rate — it has 2.** Across 18 rows the discount runs from 2.5% to 10.0% of that row's own input price (2.5%, 10%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Claude's list input price overstates what an agent pays by a median **6.6×** (range 6.6×–12.6×).
 
@@ -63,8 +63,9 @@ The spread in that fourth column is the whole point: Claude at 6.6× against GLM
 
 ## What was written about Claude while these were measured
 
-18 figures in these field notes come from a sentence that names Claude. These are quoted from the write-up, dated the day it went out — unlike the table above, they are **not** recomputed, so read each one as of its own date.
+19 figures in these field notes come from a sentence that names Claude. These are quoted from the write-up, dated the day it went out — unlike the table above, they are **not** recomputed, so read each one as of its own date.
 
+- **400 tokens** — “For example, Anthropic’s frontend-design (approximately 400 tokens) uses a two-pass method for aesthetic guidance and has been installed over a million times.” (2026-09-15) [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - **20%** — “Qwen's cache read is 20% of its input where Anthropic's is 10%, and at 96% cache reads that ratio is the invoice.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 - **20%** — “So this is Alibaba's own policy against Anthropic's own policy, 20% against 10%, with no reseller standing in between adding a markup I would have mistaken for a vendor decision.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 - **10.00%** — “Claude Sonnet 5 is resold through nine storefronts including AWS Bedrock, Azure and Google, and all nine bill a cache read at exactly 10.00% of their own input price.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
@@ -84,11 +85,12 @@ The spread in that fourth column is the whole point: Claude at 6.6× against GLM
 - **$19 billion** — “Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 - **$19 billion** — “Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 
-[All 529 figures, every kind](../figures.md)
+[All 536 figures, every kind](../figures.md)
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [AI Model Costs: Beyond Per-Token Pricing](../articles/ai-model-costs-beyond-per-token-pricing.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20) · [telegra.ph](https://telegra.ph/Beyond-Token-Pricing-How-Indie-Devs-Should-Really-Evaluate-AI-Model-Costs-08-19)
 - [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/66) · [telegra.ph](https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24)
+- [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md) · [telegra.ph](https://telegra.ph/Claude-Code-Can-Model-a-Flange-but-Not-a-Freeform-Surface-A-Six-Step-Handoff-Checklist-for-Non-Code-Agent-Output-09-15)
 - [Claude Code and Codex for Office Automation](../articles/claude-code-and-codex-for-office-automation.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59) · [telegra.ph](https://telegra.ph/Office-Automation-with-Claude-Code-and-Codex-08-23)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
 - [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)

@@ -45,13 +45,13 @@ Once your timed loops and event hooks are handling the daily grind, your actual 
 
 **Read next**
 
+- [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
-- [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 
-[All 58 write-ups](../README.md)
+[All 59 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 527 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 534 more, as JSON and CSV.
 
 Topics: [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md)
 

@@ -1,21 +1,27 @@
 # Productivity
 
-8 of the 58 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 59 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$1.43** — One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
+- **$0.028** — DeepSeek V4 Flash costs $0.028 per million tokens and is fast. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - **30%** — The Agency Agents project keeps 232 structured expert persona files, each one pinning down an identity, a workflow, a delivery standard and a definition of success; the project claims over 30% better output across the 14 AI tools it supports. [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 - **$24,000** — One watched competitor prices, one produced ad creative, one answered customer mail, and together they pulled 170,000 yuan a month out of them, somewhere near $24,000. [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 - **80%** — For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. [→](../articles/claude-code-and-codex-for-office-automation.md)
 - **$55k** — James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **90%** — 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. [→](../articles/best-practices-for-ai-agent-skill-management.md)
-- **90%** — 90% of beginners fixate on tools (e.g., Pi's 4 default tools: read/write/edit/bash) instead of defining clear task boundaries. [→](../articles/best-practices-for-ai-agent-skill-management.md)
-- **40-second** — When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-[All figures, 529 rows](../figures.md)
+[All figures, 536 rows](../figures.md)
 
 ## The write-ups
+
+### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
+
+If you are using agents like Claude Code or GPT-5.6 Sol to generate CAD parts, 3D web scenes, or application UIs, you already know the demo phase is over.
+
+[telegra.ph](https://telegra.ph/Claude-Code-Can-Model-a-Flange-but-Not-a-Freeform-Surface-A-Six-Step-Handoff-Checklist-for-Non-Code-Agent-Output-09-15)
 
 ### [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 
@@ -67,7 +73,7 @@ The videos run about 60 seconds.
 
 ---
 
-[All 58 write-ups](../README.md)
+[All 59 write-ups](../README.md)
 
 ---
 

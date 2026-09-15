@@ -1,21 +1,27 @@
 # Indie Development
 
-16 of the 58 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+17 of the 59 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$1.43** — One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
+- **$0.028** — DeepSeek V4 Flash costs $0.028 per million tokens and is fast. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - **80%** — When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - **80%** — Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - **5-minute** — I remain a little skeptical of how well those reports hold up on messy niches, but for a first pass on pricing structure the speed is hard to argue with, and a 5-minute price table you can throw away costs you nothing when the niche turns out to be wrong. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - **$30** — With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - **$500** — Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly rent between $500 and $3,000. [→](../articles/how-indie-developers-are-building-ai-powered-digital.md)
 - **$1,000** — Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. [→](../articles/how-indie-developers-are-building-ai-powered-digital.md)
-- **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
-- **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All figures, 529 rows](../figures.md)
+[All figures, 536 rows](../figures.md)
 
 ## The write-ups
+
+### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
+
+If you are using agents like Claude Code or GPT-5.6 Sol to generate CAD parts, 3D web scenes, or application UIs, you already know the demo phase is over.
+
+[telegra.ph](https://telegra.ph/Claude-Code-Can-Model-a-Flange-but-Not-a-Freeform-Surface-A-Six-Step-Handoff-Checklist-for-Non-Code-Agent-Output-09-15)
 
 ### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
@@ -115,7 +121,7 @@ Microsoft's evaluation of Kimi K3 landed on a number that should change how you 
 
 ---
 
-[All 58 write-ups](../README.md)
+[All 59 write-ups](../README.md)
 
 ---
 

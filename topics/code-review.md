@@ -1,19 +1,19 @@
 # Code Review
 
-4 of the 58 write-ups here are tagged Code Review. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 59 write-ups here are tagged Code Review. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$1.43** — One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
+- **$0.028** — DeepSeek V4 Flash costs $0.028 per million tokens and is fast. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - **70%** — In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **60%** — The tool has been through 28 iterations, and repetitive work on public recruiting platforms got 60% more efficient. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **80%** — When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - **80%** — Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - **$1.43** — For instance, GPT-5.6 Sol, while more expensive at $1.43 per run, shows superior performance with a 43.1% accuracy rate in the same ReactBench tests, which shows that cheaper models may save money upfront but can lead to longer development cycles due to frequent errors and rework. [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - **$1.43** — In contrast, GPT-5.6 Sol, at $1.43 per run, achieves 43.1% accuracy in the same tests, suggesting that while cheaper models may save money upfront, they often result in longer, more costly development processes. [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
-- **95%** — That 95% export-issue figure gets quoted everywhere. [→](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
-- **60%** — It integrates with GitHub Actions and CircleCI, and its structured review comments cut false positives by 60% — which is the number I'd actually optimize for, because a review tool that cries wolf gets muted inside a week, and a muted tool reviews nothing at all while still showing green on every dashboard I own. [→](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
-[All figures, 529 rows](../figures.md)
+[All figures, 536 rows](../figures.md)
 
 ## The write-ups
 
@@ -22,6 +22,12 @@
 Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/11) · [telegra.ph](https://telegra.ph/The-Cost-Effective-Guide-to-Using-Open-Code-Review-for-AI-Programming-Tools-08-19)
+
+### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
+
+If you are using agents like Claude Code or GPT-5.6 Sol to generate CAD parts, 3D web scenes, or application UIs, you already know the demo phase is over.
+
+[telegra.ph](https://telegra.ph/Claude-Code-Can-Model-a-Flange-but-Not-a-Freeform-Surface-A-Six-Step-Handoff-Checklist-for-Non-Code-Agent-Output-09-15)
 
 ### [How to Turn the Workflows You Won't Document Into Agent Skills](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 
@@ -43,7 +49,7 @@ Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in R
 
 ---
 
-[All 58 write-ups](../README.md)
+[All 59 write-ups](../README.md)
 
 ---
 

@@ -1,21 +1,27 @@
 # AI Features
 
-7 of the 58 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 59 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$1.43** — One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
+- **$0.028** — DeepSeek V4 Flash costs $0.028 per million tokens and is fast. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - **70%** — In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **60%** — The tool has been through 28 iterations, and repetitive work on public recruiting platforms got 60% more efficient. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **$35M** — Respond.io crossed $35M in annual recurring revenue last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to per-customer billing — made the difference between flat growth and explosive scale. [→](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 - **$299** — During Black Friday, a business might lose $299 per abandoned cart, and understaffing can exacerbate these losses. [→](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 - **5 minutes** — Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **20%** — Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
-- **80%** — For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. [→](../articles/claude-code-and-codex-for-office-automation.md)
-- **90%** — 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. [→](../articles/best-practices-for-ai-agent-skill-management.md)
 
-[All figures, 529 rows](../figures.md)
+[All figures, 536 rows](../figures.md)
 
 ## The write-ups
+
+### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
+
+If you are using agents like Claude Code or GPT-5.6 Sol to generate CAD parts, 3D web scenes, or application UIs, you already know the demo phase is over.
+
+[telegra.ph](https://telegra.ph/Claude-Code-Can-Model-a-Flange-but-Not-a-Freeform-Surface-A-Six-Step-Handoff-Checklist-for-Non-Code-Agent-Output-09-15)
 
 ### [How to Turn the Workflows You Won't Document Into Agent Skills](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 
@@ -61,7 +67,7 @@ If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, a
 
 ---
 
-[All 58 write-ups](../README.md)
+[All 59 write-ups](../README.md)
 
 ---
 

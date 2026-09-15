@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-529 figures pulled out of 58 write-ups in
+536 figures pulled out of 59 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,20 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://xy
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](https://xyzs996.github.io/llm-api-pricing/articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.html)
+
+Published 2026-09-15.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `215 minutes` | duration | In one agent-based writing workflow, manual work dropped from a range of 115–215 minutes down to 11 minutes of machine run time, plus 10–20 minutes of human review. |
+| `11 minutes` | duration | In one agent-based writing workflow, manual work dropped from a range of 115–215 minutes down to 11 minutes of machine run time, plus 10–20 minutes of human review. |
+| `20 minutes` | duration | In one agent-based writing workflow, manual work dropped from a range of 115–215 minutes down to 11 minutes of machine run time, plus 10–20 minutes of human review. |
+| `$1.43` | price | One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. |
+| `$9.00` | price | One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. |
+| `$0.028` per million tokens | price | DeepSeek V4 Flash costs $0.028 per million tokens and is fast. |
+| `400 tokens` | tokens | For example, Anthropic’s frontend-design (approximately 400 tokens) uses a two-pass method for aesthetic guidance and has been installed over a million times. |
 
 ## [How to Turn the Workflows You Won't Document Into Agent Skills](https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html)
 
@@ -990,5 +1004,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "529 figures pulled out of 58 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-14", "dateModified": "2026-09-14"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "536 figures pulled out of 59 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-15", "dateModified": "2026-09-15"}
 </script>

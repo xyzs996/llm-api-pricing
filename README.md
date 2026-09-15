@@ -7,13 +7,13 @@
 > 66 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-58 write-ups on what those bills looked like in production.
+59 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (66 models)
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (3.5×–12.6×). Read **2026-09-14**; the three cheapest *to run*:
+median **6.5×** (3.5×–12.6×). Read **2026-09-15**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
@@ -67,9 +67,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (529 rows)
+## The figures, as data (536 rows)
 
-Every figure published across the 58 write-ups —
+Every figure published across the 59 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -79,6 +79,7 @@ recent write-ups — quoted verbatim, not summarised:
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
+| `$1.43` | One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. | [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md) |
 | `70%` | In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. | [How to Turn the Workflows You Won't Document Into Agent Skills](articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md) |
 | `72%` | Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production. | [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](articles/the-real-pitfalls-of-ai-agent-development-from-code.md) |
 | `60%` | The recruitment automation tool hit a 60% efficiency gain after 28 rounds of iteration, but I’d argue that figure glosses over the real cost: dynamic page elements like shifting button positions and pop-ups demanded extra layers for state recognition and result verification. | [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md) |
@@ -90,9 +91,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `$24,000` | One watched competitor prices, one produced ad creative, one answered customer mail, and together they pulled 170,000 yuan a month out of them, somewhere near $24,000. | [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md) |
 | `30%` | Agency Agents goes wider still, with 232 structured expert persona files, each carrying an identity, a workflow, delivery criteria and success metrics, compatible with 14 mainstream tools, and claiming an output-quality improvement of over 30%. | [Never Use a Model Where Code Can Decide](articles/never-use-a-model-where-code-can-decide.md) |
 | `20%` | Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. | [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md) |
-| `$22,000` | Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative. | [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md) |
 
-[All 529 rows](figures.md) — or as data:
+[All 536 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -153,9 +153,9 @@ write-ups land there first.
 **Reading this with a model?** [llms.txt](https://xyzs996.github.io/llm-api-pricing/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
-**By provider.** [Claude](providers/claude.md) (36) · [GPT-5.6](providers/gpt-5-6.md) (19) · [Gemini](providers/gemini.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [OpenAI](providers/openai.md) (12) · [GLM](providers/glm.md) (11) · [Kimi](providers/kimi.md) (9) · [Fable 5](providers/fable-5.md) (7) · [DeepSeek](providers/deepseek.md) (6) · [GPT-5](providers/gpt-5.md) (5) · [ChatGPT](providers/chatgpt.md) (4) — prices where there are prices, and every figure whose sentence names it, with the date.
+**By provider.** [Claude](providers/claude.md) (37) · [GPT-5.6](providers/gpt-5-6.md) (20) · [Gemini](providers/gemini.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [OpenAI](providers/openai.md) (12) · [GLM](providers/glm.md) (11) · [Kimi](providers/kimi.md) (9) · [DeepSeek](providers/deepseek.md) (7) · [Fable 5](providers/fable-5.md) (7) · [GPT-5](providers/gpt-5.md) (6) · [ChatGPT](providers/chatgpt.md) (4) — prices where there are prices, and every figure whose sentence names it, with the date.
 
-**By topic.** [Automation Systems](topics/automation-systems.md) (16) · [Indie Development](topics/indie-development.md) (16) · [SaaS Business](topics/saas-business.md) (11) · [AI Implementation](topics/ai-implementation.md) (10) · [Niche Market](topics/niche-market.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [Artificial Intelligence](topics/artificial-intelligence.md) (8) · [Cost Savings](topics/cost-savings.md) (8) · [Productivity](topics/productivity.md) (8) · [AI Features](topics/ai-features.md) (7) · [AI](topics/ai.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [AI Tools](topics/ai-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Automation](topics/automation.md) (4) · [Code Review](topics/code-review.md) (4) · [Revenue Growth](topics/revenue-growth.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [AI Automation](topics/ai-automation.md) (3) · [AI Development](topics/ai-development.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (17) · [Automation Systems](topics/automation-systems.md) (16) · [SaaS Business](topics/saas-business.md) (11) · [AI Implementation](topics/ai-implementation.md) (10) · [Niche Market](topics/niche-market.md) (9) · [Productivity](topics/productivity.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [AI Features](topics/ai-features.md) (8) · [Artificial Intelligence](topics/artificial-intelligence.md) (8) · [Cost Savings](topics/cost-savings.md) (8) · [AI](topics/ai.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [AI Tools](topics/ai-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Code Review](topics/code-review.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Automation](topics/automation.md) (4) · [Revenue Growth](topics/revenue-growth.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [AI Automation](topics/ai-automation.md) (3) · [AI Development](topics/ai-development.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -170,6 +170,12 @@ Open Code Review is an open-source review tool built for AI-assisted development
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
 `Token Optimization` `Cost Savings` `Chinese AI` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
+
+### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
+
+If you are using agents like Claude Code or GPT-5.6 Sol to generate CAD parts, 3D web scenes, or application UIs, you already know the demo phase is over.
+
+`Productivity` `Code Review` `AI Features` `Indie Development` · [telegra.ph](https://telegra.ph/Claude-Code-Can-Model-a-Flange-but-Not-a-Freeform-Surface-A-Six-Step-Handoff-Checklist-for-Non-Code-Agent-Output-09-15)
 
 ### [How to Turn the Workflows You Won't Document Into Agent Skills](articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 

@@ -67,13 +67,13 @@ I think Grill-me's 37 prompts are unnecessary, and I could be wrong about that o
 
 **Read next**
 
+- [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - [How to Turn the Workflows You Won't Document Into Agent Skills](how-to-turn-the-workflows-you-won-t-document-into-agent.md)
-- [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-[All 58 write-ups](../README.md)
+[All 59 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 527 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 534 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Features](../topics/ai-features.md) · [Code Review](../topics/code-review.md)
 
