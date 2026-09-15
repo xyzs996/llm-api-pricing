@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/72) — that copy has a reply box under it, and this one does not.*
+
 If you are using agents like Claude Code or GPT-5.6 Sol to generate CAD parts, 3D web scenes, or application UIs, you already know the demo phase is over. The current generation of models can produce rule-based CAD parts—like holes, ribs, and flanges—and export a STEP file with a browser preview in minutes. However, the moment you ask for a freeform surface or a complex scene, the output often becomes unstable. Relying on these tools without a handoff process is how you end up with production errors. This checklist, based on developer field tests from July 2026, maps out exactly where the agent stops and where you must take over.
 
 ## The goal: a handoff line you can defend
@@ -96,6 +98,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** In the example of the agent - based writing workflow where manual work dropped, you were given a range for the initial manual work time. Can you reply with the lower limit of that initial manual work time from memory? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/72).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fclaude-code-can-model-a-flange-but-not-a-freeform-surface-a.md). One required field, and the page you came from is already filled

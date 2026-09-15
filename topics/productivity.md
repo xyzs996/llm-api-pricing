@@ -21,7 +21,7 @@
 
 If you are using agents like Claude Code or GPT-5.6 Sol to generate CAD parts, 3D web scenes, or application UIs, you already know the demo phase is over.
 
-[telegra.ph](https://telegra.ph/Claude-Code-Can-Model-a-Flange-but-Not-a-Freeform-Surface-A-Six-Step-Handoff-Checklist-for-Non-Code-Agent-Output-09-15)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/72) · [telegra.ph](https://telegra.ph/Claude-Code-Can-Model-a-Flange-but-Not-a-Freeform-Surface-A-Six-Step-Handoff-Checklist-for-Non-Code-Agent-Output-09-15)
 
 ### [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 
