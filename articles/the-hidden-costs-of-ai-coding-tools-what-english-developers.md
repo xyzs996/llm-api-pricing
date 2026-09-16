@@ -65,9 +65,9 @@ Stability and transparency are likely to improve over time. The recent updates t
 - [Token Optimization for Indie Developers' AI API Bills](token-optimization-for-indie-developers-ai-api-bills.md)
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
-[All 59 write-ups](../README.md)
+[All 60 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 533 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 551 more, as JSON and CSV.
 
 Topics: [Chinese AI](../topics/chinese-ai.md) · [Development Tools](../topics/development-tools.md)
 

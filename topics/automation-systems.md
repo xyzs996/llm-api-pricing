@@ -1,6 +1,6 @@
 # Automation Systems
 
-16 of the 59 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+16 of the 60 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **5 minutes** — WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 - **40 seconds** — By using an AI agent to automate responses, negotiation, and price adjustment, the average response time can be reduced to within 40 seconds. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
-[All figures, 536 rows](../figures.md)
+[All figures, 554 rows](../figures.md)
 
 ## The write-ups
 
@@ -115,7 +115,7 @@ Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 
 
 ---
 
-[All 59 write-ups](../README.md)
+[All 60 write-ups](../README.md)
 
 ---
 

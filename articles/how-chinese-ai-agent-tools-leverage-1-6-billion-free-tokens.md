@@ -91,9 +91,9 @@ Chinese AI agent tools have revolutionized token accessibility, offering indepen
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - [Token Optimization for Indie Developers' AI API Bills](token-optimization-for-indie-developers-ai-api-bills.md)
 
-[All 59 write-ups](../README.md)
+[All 60 write-ups](../README.md)
 
-The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 517 more, as JSON and CSV.
+The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 535 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Cost Savings](../topics/cost-savings.md) · [Chinese AI](../topics/chinese-ai.md) · [Token Optimization](../topics/token-optimization.md)
 

@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-536 figures pulled out of 59 write-ups in
+554 figures pulled out of 60 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,31 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://xy
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](https://xyzs996.github.io/llm-api-pricing/articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.html)
+
+Published 2026-09-16.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `55.7 billion tokens` | tokens | July: 55.7 billion tokens, seventh on that month's 30-day leaderboard, almost all of it through CodeX. |
+| `30-day` | duration | July: 55.7 billion tokens, seventh on that month's 30-day leaderboard, almost all of it through CodeX. |
+| `20 percent` | percent | He writes Google Ads copy for Amazon merchants, and when someone clicks his ad and buys, he collects 5 to 20 percent. |
+| `20 percent` | percent | He picks Amazon products, generates the ad copy, runs the ads on Google, and a buyer who clicks through and purchases pays him a commission somewhere between 5 and 20 percent depending on the category. |
+| `$10` | price | An AI image generation tool used Google Ads to boost its monthly paying subscribers from approximately 80 to over 500, maintaining a customer acquisition cost of around $10 per paying user. |
+| `$215` | price | This strategy proved effective, as the early paying cohort generated a total revenue of $215 each over an eleven-month period. |
+| `$10` | price | The $10 leaves your account this week. |
+| `$215` | price | The $215 arrives over eleven months, which means the thing you actually need isn't a good ratio, it's enough cash to carry ten months of gap while the ratio resolves. |
+| `$62.50` | price | It does about 80,000 visits a month and around ¥5,000 a month in affiliate revenue, an effective RPM of $62.50 — five to ten times what most content sites earn per thousand reads. |
+| `1.8%` | percent | A game strategy site called MistriaFans, measured through August 23, had 778 clicks against 42,400 impressions, a 1.8% clickthrough rate and an average position of 8.9. |
+| `$1.37` | price | Its ad network recorded 1,082 impressions and $1.37 in revenue over roughly ten days, an average CPM of $1.266. |
+| `$1.266` | price | Its ad network recorded 1,082 impressions and $1.37 in revenue over roughly ten days, an average CPM of $1.266. |
+| `20-day` | duration | That site is one of ten built inside a 20-day automated run whose first payout was $7.25. |
+| `$7.25` | price | That site is one of ten built inside a 20-day automated run whose first payout was $7.25. |
+| `80%` | percent | A local proxy called OpenCodex redirects Codex requests to Chinese models such as DeepSeek and Zhipu GLM, which sidesteps the five-hour quota window and reportedly cuts cost by more than 80% — 10 yuan of DeepSeek credit lasting several days, with measured latency in the 100–200ms range and model switching that doesn't break conversation context. |
+| `$10` per month | price | For calibration on what that market bears: indie developers report paying $10 to $50 a month for SEO data, a tenth to a quarter of a Semrush seat. |
+| `$50` per month | price | For calibration on what that market bears: indie developers report paying $10 to $50 a month for SEO data, a tenth to a quarter of a Semrush seat. |
+| `30 week` | duration | The image-tool operator waited for 30 weekly purchases before he'd even let the ad platform change what it optimized for. |
 
 ## [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](https://xyzs996.github.io/llm-api-pricing/articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.html)
 
@@ -1004,5 +1029,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "536 figures pulled out of 59 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-15", "dateModified": "2026-09-15"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "554 figures pulled out of 60 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-16", "dateModified": "2026-09-16"}
 </script>

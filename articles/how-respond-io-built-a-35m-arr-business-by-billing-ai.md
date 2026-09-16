@@ -116,15 +116,15 @@ Most teams skip these steps during MVP. But regulators don’t care about your l
 
 **Read next**
 
+- [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 - [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
-- [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-[All 59 write-ups](../README.md)
+[All 60 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 529 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 547 more, as JSON and CSV.
 
-Topics: [SaaS Business](../topics/saas-business.md) · [AI Features](../topics/ai-features.md) · [Artificial Intelligence](../topics/artificial-intelligence.md)
+Topics: [SaaS Business](../topics/saas-business.md) · [AI Features](../topics/ai-features.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Customer Service AI](../topics/customer-service-ai.md)
 
 
 ---

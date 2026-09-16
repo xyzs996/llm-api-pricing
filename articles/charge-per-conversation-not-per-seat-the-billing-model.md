@@ -71,15 +71,15 @@ Build the connector layer, charge for volume rather than seats, and keep a perso
 
 **Read next**
 
+- [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 - [58 Million Plays Started With One Account, Not Four](58-million-plays-started-with-one-account-not-four.md)
 - [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
-- [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
-[All 59 write-ups](../README.md)
+[All 60 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 535 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 553 more, as JSON and CSV.
 
-Topics: [Automation Systems](../topics/automation-systems.md) · [SaaS Business](../topics/saas-business.md) · [Revenue Growth](../topics/revenue-growth.md)
+Topics: [Automation Systems](../topics/automation-systems.md) · [SaaS Business](../topics/saas-business.md) · [Revenue Growth](../topics/revenue-growth.md) · [Customer Service AI](../topics/customer-service-ai.md)
 
 
 ---

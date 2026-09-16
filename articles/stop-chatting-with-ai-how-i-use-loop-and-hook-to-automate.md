@@ -49,11 +49,11 @@ Once your timed loops and event hooks are handling the daily grind, your actual 
 - [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
 
-[All 59 write-ups](../README.md)
+[All 60 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 534 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 552 more, as JSON and CSV.
 
-Topics: [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md)
+Topics: [AI Features](../topics/ai-features.md) · [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md)
 
 
 ---
