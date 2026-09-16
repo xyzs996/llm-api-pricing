@@ -175,7 +175,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 On September 6 a marketer in a Chinese paid community posted his token bill.
 
-`Customer Service AI` `Revenue Growth` `SaaS Business` `AI Features` · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
+`Customer Service AI` `Revenue Growth` `SaaS Business` `AI Features` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
 
 ### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 

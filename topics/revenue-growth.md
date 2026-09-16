@@ -21,7 +21,7 @@
 
 On September 6 a marketer in a Chinese paid community posted his token bill.
 
-[telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
 
 ### [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 

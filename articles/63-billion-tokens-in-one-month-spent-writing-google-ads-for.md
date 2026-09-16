@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/73) — that copy has a reply box under it, and this one does not.*
+
 On September 6 a marketer in a Chinese paid community posted his token bill. July: 55.7 billion tokens, seventh on that month's 30-day leaderboard, almost all of it through CodeX. A month later he updated the post — August came in at 63 billion. He isn't training anything. He writes Google Ads copy for Amazon merchants, and when someone clicks his ad and buys, he collects 5 to 20 percent. Six months of that added up to 13,000-plus in commissions. The token number is what got passed around. The arithmetic underneath it is the part worth your time, and a second operator's funnel numbers explain why most people who try this version of the business lose money on it.
 
 ## What 63 Billion Tokens Actually Bought
@@ -79,6 +81,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** You've read about the revenue differences between different sites. If you were to choose to point your generation pipeline at one of the two sites (DiskPrices.com or MistriaFans) for better returns, which one would you pick? Reply with the site's name. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/73).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2F63-billion-tokens-in-one-month-spent-writing-google-ads-for.md). One required field, and the page you came from is already filled

@@ -27,7 +27,7 @@ Open Code Review is an open-source review tool built for AI-assisted development
 
 On September 6 a marketer in a Chinese paid community posted his token bill.
 
-[telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
 
 ### [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 

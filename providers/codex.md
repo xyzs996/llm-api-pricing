@@ -18,7 +18,7 @@ Some of these are about Codex and some only measure against it — a competitor'
 
 ## Where these 5 came from
 
-- [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
+- [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
 - [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](../articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/19) · [telegra.ph](https://telegra.ph/Beyond-Chat-How-Codex-Can-Automate-Your-WordExcelPPTPDF-Workflows-08-19)
 - [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](../articles/how-chinese-developers-are-using-codex-record-replay-to.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/25) · [telegra.ph](https://telegra.ph/How-Chinese-Developers-Are-Using-Codex-Record--Replay-to-Streamline-Repetitive-Workflows-08-19)
 - [How to Turn the Workflows You Won't Document Into Agent Skills](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/71) · [telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)

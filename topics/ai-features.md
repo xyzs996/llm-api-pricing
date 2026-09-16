@@ -21,7 +21,7 @@
 
 On September 6 a marketer in a Chinese paid community posted his token bill.
 
-[telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
 
 ### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 
