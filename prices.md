@@ -2,7 +2,7 @@
 
 66 models that have been ranked in an agent category of the
 Design Arena, with what each one lists per million tokens. Read from
-[OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-16**.
+[OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-17**.
 
 **List price is not your bill, and here is by how much.** A coding
 agent re-reads its context on every step, so about **95.6% of the
@@ -55,7 +55,7 @@ take our word for it. A rank without its category is unverifiable.
 | --- | --- | --- | --- | --- | --- | --- |
 | **$0.0219** | $0.09 | $0.36 | [Solar Pro 4](https://openrouter.ai/upstage/solar-pro4) | 524K | #33 webapps |  |
 | **$0.0566** | $0.375 | $1.875 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash:batch) `batch` | 1M | #12 androidnative |  |
-| **$0.0566** | $0.375 | $1.875 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash:batch) `batch` | 1M | #5 agenticgamedev | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
+| **$0.0566** | $0.375 | $1.875 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash:batch) `batch` | 1M | #4 mobileapps | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.0566** | $0.375 | $1.875 | [Gemini 3.8 Flash](https://openrouter.ai/google/gemini-3.8-flash:batch) `batch` | 1M | #6 mobileapps |  |
 | **$0.0731** | $0.30 | $1.20 | [MiniMax M3](https://openrouter.ai/minimax/minimax-m3) | 1M | #11 htmlslides | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html) |
 | **$0.0731** | $0.30 | $1.20 | [MiniMax M3](https://openrouter.ai/minimax/minimax-m3:batch) `batch` | 524K | #11 htmlslides | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html) |
@@ -65,7 +65,7 @@ take our word for it. A rank without its category is unverifiable.
 | **$0.0991** | $0.43 | $1.75 | [GLM 4.6](https://openrouter.ai/z-ai/glm-4.6) | 204K | #12 godotgamedev |  |
 | **$0.1018** | $0.70 | $2.20 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2:batch) `batch` | 1M | #10 agenticgamedev |  |
 | **$0.1131** | $0.75 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | #12 androidnative |  |
-| **$0.1131** | $0.75 | $3.75 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash) | 1M | #5 agenticgamedev | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
+| **$0.1131** | $0.75 | $3.75 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash) | 1M | #4 mobileapps | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.1131** | $0.75 | $3.75 | [Gemini 3.8 Flash](https://openrouter.ai/google/gemini-3.8-flash) | 1M | #6 mobileapps |  |
 | **$0.1153** | $0.75 | $4.50 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash:batch) `batch` | 1M | #2 agenticslides(python-pptx) |  |
 | **$0.1396** | $0.875 | $7.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2:batch) `batch` | 400K | #17 godotgamedev |  |
@@ -96,7 +96,7 @@ take our word for it. A rank without its category is unverifiable.
 | **$0.3075** | $2.00 | $12.00 | [Gemini 3.1 Pro Preview](https://openrouter.ai/google/gemini-3.1-pro-preview) | 1M | #4 agentichtmlslides |  |
 | **$0.3184** | $1.40 | $4.40 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3) | 1.3M | #6 python-pptxslides |  |
 | **$0.355** | $1.475 | $4.425 | [Qwen3.7 Max](https://openrouter.ai/qwen/qwen3.7-max) | 1M | #7 godotgamedev | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
-| **$0.3771** | $2.50 | $12.50 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5:batch) `batch` | 200K | #15 androidnative |  |
+| **$0.3771** | $2.50 | $12.50 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5:batch) `batch` | 200K | #16 androidnative |  |
 | **$0.3771** | $2.50 | $12.50 | [Claude Opus 4.6](https://openrouter.ai/anthropic/claude-opus-4.6:batch) `batch` | 1M | #8 agenticgamedev |  |
 | **$0.3771** | $2.50 | $12.50 | [Claude Opus 4.8](https://openrouter.ai/anthropic/claude-opus-4.8:batch) `batch` | 1M | #1 agenticslides |  |
 | **$0.3771** | $2.50 | $12.50 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5:batch) `batch` | 1M | #1 mobileapps |  |
@@ -104,13 +104,13 @@ take our word for it. A rank without its category is unverifiable.
 | **$0.3843** | $2.50 | $15.00 | [GPT-5.5](https://openrouter.ai/openai/gpt-5.5:batch) `batch` | 1.1M | #6 agenticslides |  |
 | **$0.3857** | $2.00 | $6.00 | [Grok 4.5](https://openrouter.ai/x-ai/grok-4.5) | 500K | #3 godotgamedev |  |
 | **$0.3956** | $5.00 | $25.00 | [Claude Fable 5.1](https://openrouter.ai/anthropic/claude-fable-5.1:batch) `batch` | 1M | #1 fullstack |  |
-| **$0.4357** | $2.6481 | $13.2827 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3) | 1M | #2 fullstack | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.4525** | $3.00 | $15.00 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5) | 1M | #29 mobileapps |  |
 | **$0.4525** | $3.00 | $15.00 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6) | 1M | #6 godotgamedev |  |
+| **$0.4525** | $3.00 | $15.00 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3) | 1M | #2 fullstack | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.4525** | $3.00 | $15.00 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3:batch) `batch` | 1M | #2 fullstack | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.577** | $2.00 | $6.00 | [Grok 4.6](https://openrouter.ai/x-ai/grok-4.6) | 500K | #2 androidnative |  |
 | **$0.7542** | $5.00 | $25.00 | [Claude Fable 5](https://openrouter.ai/anthropic/claude-fable-5:batch) `batch` | 1M | #1 agenticgamedev |  |
-| **$0.7542** | $5.00 | $25.00 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5) | 200K | #15 androidnative |  |
+| **$0.7542** | $5.00 | $25.00 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5) | 200K | #16 androidnative |  |
 | **$0.7542** | $5.00 | $25.00 | [Claude Opus 4.6](https://openrouter.ai/anthropic/claude-opus-4.6) | 1M | #8 agenticgamedev |  |
 | **$0.7542** | $5.00 | $25.00 | [Claude Opus 4.8](https://openrouter.ai/anthropic/claude-opus-4.8) | 1M | #1 agenticslides |  |
 | **$0.7542** | $5.00 | $25.00 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5) | 1M | #1 mobileapps |  |
@@ -153,5 +153,5 @@ Neither is our measurement, and both move — the date above is when
 this copy was last read, not when you are reading it.*
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Coding-agent model prices, next to their agent-arena rank", "description": "List price per million tokens for 66 models that have been ranked in an agent category of the Design Arena, with the context window, the best rank each one holds and the category it holds it in. Read from OpenRouter's public model catalog on 2026-09-16.", "url": "https://xyzs996.github.io/llm-api-pricing/prices.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["LLM pricing", "AI coding agents", "token costs", "model comparison", "cost per million tokens"], "variableMeasured": ["input price per million tokens", "output price per million tokens", "context window", "agent arena rank"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv"}], "isBasedOn": "https://openrouter.ai/models", "dateModified": "2026-09-16"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Coding-agent model prices, next to their agent-arena rank", "description": "List price per million tokens for 66 models that have been ranked in an agent category of the Design Arena, with the context window, the best rank each one holds and the category it holds it in. Read from OpenRouter's public model catalog on 2026-09-17.", "url": "https://xyzs996.github.io/llm-api-pricing/prices.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["LLM pricing", "AI coding agents", "token costs", "model comparison", "cost per million tokens"], "variableMeasured": ["input price per million tokens", "output price per million tokens", "context window", "agent arena rank"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv"}], "isBasedOn": "https://openrouter.ai/models", "dateModified": "2026-09-17"}
 </script>

@@ -231,6 +231,61 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/10"
   },
   {
+    "value": "80%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Claude Code's 80% prompt reduction achieved identical performance metrics, proving that excessive constraints don't improve outcomes.",
+    "article": "The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization",
+    "published": "2026-09-17",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "400-token",
+    "kind": "tokens",
+    "unit": "",
+    "context": "The 400-token SKILL.md files show that precise parameter definitions outperform extensive examples, proving that \"good enough\" constraints are more effective.",
+    "article": "The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization",
+    "published": "2026-09-17",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "54%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Through its internal multi-agent system, Sol achieves 54% higher token efficiency on agentic coding tasks compared to peer models, showing how strategic design choices can transform from a development challenge into a cost-saving advantage.",
+    "article": "The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization",
+    "published": "2026-09-17",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "9 token",
+    "kind": "tokens",
+    "unit": "",
+    "context": "Open Code Review's 1/9 token efficiency compared to general agents shows that minimal but well-structured prompts can achieve superior results.",
+    "article": "The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization",
+    "published": "2026-09-17",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "80%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Over-constraining prompts can hinder AI reasoning; for example, Claude Code’s team reduced their system prompt word count by 80% without any performance decline.",
+    "article": "The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization",
+    "published": "2026-09-17",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "55.7 billion tokens",
     "kind": "tokens",
     "unit": "",

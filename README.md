@@ -7,19 +7,19 @@
 > 66 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-60 write-ups on what those bills looked like in production.
+61 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (66 models)
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (3.4×–12.6×). Read **2026-09-16**; the three cheapest *to run*:
+median **6.5×** (3.4×–12.6×). Read **2026-09-17**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
 | **$0.0219** | $0.018 | $0.09 | $0.36 | Solar Pro 4 | #33 webapps |
 | **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.6 Flash `batch` | #12 androidnative |
-| **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.7 Flash `batch` | #5 agenticgamedev |
+| **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.7 Flash `batch` | #4 mobileapps |
 
 [All 66 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
@@ -67,9 +67,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (554 rows)
+## The figures, as data (559 rows)
 
-Every figure published across the 60 write-ups —
+Every figure published across the 61 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -79,6 +79,7 @@ recent write-ups — quoted verbatim, not summarised:
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
+| `54%` | Through its internal multi-agent system, Sol achieves 54% higher token efficiency on agentic coding tasks compared to peer models, showing how strategic design choices can transform from a development challenge into a cost-saving advantage. | [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md) |
 | `$10` | An AI image generation tool used Google Ads to boost its monthly paying subscribers from approximately 80 to over 500, maintaining a customer acquisition cost of around $10 per paying user. | [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md) |
 | `$1.43` | One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. | [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md) |
 | `70%` | In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. | [How to Turn the Workflows You Won't Document Into Agent Skills](articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md) |
@@ -90,9 +91,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `20%` | Developers should build buffer time into their workflows when using Chinese AI coding tools, which is illustrated by the fact that one developer added 20% extra time to their coding sessions when using these tools because of the higher frequency of stability issues. | [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md) |
 | `$22,000` | The organic channel that produced $22,000 a month is running at roughly half the traffic a million-dollar year would need, and it took three months to get there. | [The $22K-a-Month AI Tool That Never Bought a Single Ad](articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md) |
 | `$24,000` | One watched competitor prices, one produced ad creative, one answered customer mail, and together they pulled 170,000 yuan a month out of them, somewhere near $24,000. | [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md) |
-| `30%` | Agency Agents goes wider still, with 232 structured expert persona files, each carrying an identity, a workflow, delivery criteria and success metrics, compatible with 14 mainstream tools, and claiming an output-quality improvement of over 30%. | [Never Use a Model Where Code Can Decide](articles/never-use-a-model-where-code-can-decide.md) |
 
-[All 554 rows](figures.md) — or as data:
+[All 559 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -153,9 +153,9 @@ write-ups land there first.
 **Reading this with a model?** [llms.txt](https://xyzs996.github.io/llm-api-pricing/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
-**By provider.** [Claude](providers/claude.md) (37) · [GPT-5.6](providers/gpt-5-6.md) (20) · [Gemini](providers/gemini.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [GLM](providers/glm.md) (12) · [Klarna](providers/klarna.md) (12) · [OpenAI](providers/openai.md) (12) · [Kimi](providers/kimi.md) (9) · [DeepSeek](providers/deepseek.md) (8) · [Fable 5](providers/fable-5.md) (7) · [GPT-5](providers/gpt-5.md) (6) · [Codex](providers/codex.md) (5) · [ChatGPT](providers/chatgpt.md) (4) — prices where there are prices, and every figure whose sentence names it, with the date.
+**By provider.** [Claude](providers/claude.md) (39) · [GPT-5.6](providers/gpt-5-6.md) (21) · [Gemini](providers/gemini.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [GLM](providers/glm.md) (12) · [Klarna](providers/klarna.md) (12) · [OpenAI](providers/openai.md) (12) · [Kimi](providers/kimi.md) (9) · [DeepSeek](providers/deepseek.md) (8) · [Fable 5](providers/fable-5.md) (7) · [GPT-5](providers/gpt-5.md) (6) · [Codex](providers/codex.md) (5) · [ChatGPT](providers/chatgpt.md) (4) — prices where there are prices, and every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (17) · [Automation Systems](topics/automation-systems.md) (16) · [SaaS Business](topics/saas-business.md) (12) · [AI Implementation](topics/ai-implementation.md) (10) · [AI Features](topics/ai-features.md) (9) · [Niche Market](topics/niche-market.md) (9) · [Productivity](topics/productivity.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [Artificial Intelligence](topics/artificial-intelligence.md) (8) · [Cost Savings](topics/cost-savings.md) (8) · [AI](topics/ai.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [AI Tools](topics/ai-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Code Review](topics/code-review.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [Automation](topics/automation.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [AI Automation](topics/ai-automation.md) (3) · [AI Development](topics/ai-development.md) (3) · [Customer Service AI](topics/customer-service-ai.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (17) · [Automation Systems](topics/automation-systems.md) (16) · [SaaS Business](topics/saas-business.md) (12) · [AI Implementation](topics/ai-implementation.md) (10) · [AI Features](topics/ai-features.md) (9) · [Niche Market](topics/niche-market.md) (9) · [Productivity](topics/productivity.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [Artificial Intelligence](topics/artificial-intelligence.md) (8) · [Cost Savings](topics/cost-savings.md) (8) · [AI](topics/ai.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [AI Tools](topics/ai-tools.md) (6) · [Chinese AI](topics/chinese-ai.md) (5) · [Code Review](topics/code-review.md) (5) · [Development Tools](topics/development-tools.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [Automation](topics/automation.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [AI Automation](topics/ai-automation.md) (3) · [AI Development](topics/ai-development.md) (3) · [Customer Service AI](topics/customer-service-ai.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -170,6 +170,12 @@ Open Code Review is an open-source review tool built for AI-assisted development
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
 `Token Optimization` `Cost Savings` `Chinese AI` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
+
+### [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md)
+
+The myth that more detailed prompts always lead to better AI coding outcomes is being debunked by developers who have seen firsthand how excessive prompting can actually reduce efficiency.
+
+`AI Tools` `AI Coding` `AI Skills` `Over-Prompting` · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-Over-Prompting-in-AI-Coding-Lessons-from-Claude-Codes-Optimization-09-17)
 
 ### [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 

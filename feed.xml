@@ -4,8 +4,16 @@
   <id>https://xyzs996.github.io/llm-api-pricing/</id>
   <link href="https://xyzs996.github.io/llm-api-pricing/"/>
   <link rel="self" href="https://xyzs996.github.io/llm-api-pricing/feed.xml"/>
-  <updated>2026-09-16T09:51:00Z</updated>
+  <updated>2026-09-17T08:05:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html</id>
+    <updated>2026-09-17T08:05:00Z</updated>
+    <published>2026-09-17T08:05:00Z</published>
+    <summary>The myth that more detailed prompts always lead to better AI coding outcomes is being debunked by developers who have seen firsthand how excessive prompting can actually reduce efficiency.</summary>
+  </entry>
   <entry>
     <title>63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.html"/>

@@ -1,6 +1,6 @@
 # Revenue Growth
 
-5 of the 60 write-ups here are tagged Revenue Growth. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 61 write-ups here are tagged Revenue Growth. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$3,000** — High-ticket services in low-competition cities often sit at the $3,000 end for websites that actually deliver customers. [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 - **3 minutes** — The numbers underneath that headline are the interesting part: 3 minutes for a deep market research pass, 1,800 designs produced in a month, 12 minutes from a customer request to a rendering, and orders signed on the spot while the buyer was still in the conversation. [→](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
-[All figures, 554 rows](../figures.md)
+[All figures, 559 rows](../figures.md)
 
 ## The write-ups
 
@@ -49,7 +49,7 @@ Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 
 
 ---
 
-[All 60 write-ups](../README.md)
+[All 61 write-ups](../README.md)
 
 ---
 

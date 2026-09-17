@@ -83,9 +83,9 @@ Establish clear task boundaries within your AI product. This involves determinin
 - [How to Turn the Workflows You Won't Document Into Agent Skills](how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
 
-[All 60 write-ups](../README.md)
+[All 61 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 547 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 552 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Features](../topics/ai-features.md) · [Productivity](../topics/productivity.md) · [Code Review](../topics/code-review.md)
 

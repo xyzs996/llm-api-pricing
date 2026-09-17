@@ -1,6 +1,6 @@
 # SaaS Business
 
-12 of the 60 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+12 of the 61 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **80%** — For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. [→](../articles/claude-code-and-codex-for-office-automation.md)
 - **$55k** — James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-[All figures, 554 rows](../figures.md)
+[All figures, 559 rows](../figures.md)
 
 ## The write-ups
 
@@ -91,7 +91,7 @@ Two brothers ran a single short-video account until one piece of content took of
 
 ---
 
-[All 60 write-ups](../README.md)
+[All 61 write-ups](../README.md)
 
 ---
 
