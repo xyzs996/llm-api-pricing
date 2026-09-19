@@ -175,7 +175,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 The myth that more detailed prompts always lead to better AI coding outcomes is being debunked by developers who have seen firsthand how excessive prompting can actually reduce efficiency.
 
-`AI Tools` `AI Coding` `AI Skills` `Over-Prompting` · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-Over-Prompting-in-AI-Coding-Lessons-from-Claude-Codes-Optimization-09-17)
+`AI Tools` `AI Coding` `AI Skills` `Over-Prompting` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/74) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-Over-Prompting-in-AI-Coding-Lessons-from-Claude-Codes-Optimization-09-17)
 
 ### [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 

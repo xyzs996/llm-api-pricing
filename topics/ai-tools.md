@@ -21,7 +21,7 @@
 
 The myth that more detailed prompts always lead to better AI coding outcomes is being debunked by developers who have seen firsthand how excessive prompting can actually reduce efficiency.
 
-[telegra.ph](https://telegra.ph/The-Hidden-Costs-of-Over-Prompting-in-AI-Coding-Lessons-from-Claude-Codes-Optimization-09-17)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/74) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-Over-Prompting-in-AI-Coding-Lessons-from-Claude-Codes-Optimization-09-17)
 
 ### [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](../articles/the-real-pitfalls-of-ai-agent-development-from-code.md)
 

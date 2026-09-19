@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/74) — that copy has a reply box under it, and this one does not.*
+
 The myth that more detailed prompts always lead to better AI coding outcomes is being debunked by developers who have seen firsthand how excessive prompting can actually reduce efficiency.
 
 ## The Fallacy of Prompt Overload
@@ -96,6 +98,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** You've seen the data on token savings and efficiency in the article. Do you think independent developers should fully switch to using Claude Code for coding, reply with yes or no. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/74).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-hidden-costs-of-over-prompting-in-ai-coding-lessons.md). One required field, and the page you came from is already filled
