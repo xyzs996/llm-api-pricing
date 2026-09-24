@@ -1,6 +1,6 @@
 # Productivity
 
-9 of the 61 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 62 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **90%** — 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. [→](../articles/best-practices-for-ai-agent-skill-management.md)
 
-[All figures, 559 rows](../figures.md)
+[All figures, 565 rows](../figures.md)
 
 ## The write-ups
 
@@ -73,7 +73,7 @@ The videos run about 60 seconds.
 
 ---
 
-[All 61 write-ups](../README.md)
+[All 62 write-ups](../README.md)
 
 ---
 

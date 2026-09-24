@@ -231,6 +231,72 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/10"
   },
   {
+    "value": "55.1%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Comparative workflow metrics show that automated intake pipelines achieved a 55.1% success conversion, translating to 158 successful conversions out of 287 total users, with a median processing time of 13.88 minutes.",
+    "article": "Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)",
+    "published": "2026-09-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "13.88 minutes",
+    "kind": "duration",
+    "unit": "",
+    "context": "Comparative workflow metrics show that automated intake pipelines achieved a 55.1% success conversion, translating to 158 successful conversions out of 287 total users, with a median processing time of 13.88 minutes.",
+    "article": "Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)",
+    "published": "2026-09-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "9.1%",
+    "kind": "percent",
+    "unit": "",
+    "context": "This performance is contrasted against a 9.1% conversion rate, or 10 out of 110 users, and a 164.84-minute median time via legacy proxy paths.",
+    "article": "Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)",
+    "published": "2026-09-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "164.84-minute",
+    "kind": "duration",
+    "unit": "",
+    "context": "This performance is contrasted against a 9.1% conversion rate, or 10 out of 110 users, and a 164.84-minute median time via legacy proxy paths.",
+    "article": "Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)",
+    "published": "2026-09-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "20%",
+    "kind": "percent",
+    "unit": "",
+    "context": "I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year.",
+    "article": "Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)",
+    "published": "2026-09-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "60%",
+    "kind": "percent",
+    "unit": "",
+    "context": "I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year.",
+    "article": "Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)",
+    "published": "2026-09-24",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "80%",
     "kind": "percent",
     "unit": "",

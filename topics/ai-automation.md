@@ -1,9 +1,11 @@
 # AI Automation
 
-3 of the 61 write-ups here are tagged AI Automation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 62 write-ups here are tagged AI Automation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **55.1%** — Comparative workflow metrics show that automated intake pipelines achieved a 55.1% success conversion, translating to 158 successful conversions out of 287 total users, with a median processing time of 13.88 minutes. [→](../articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.md)
+- **20%** — I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year. [→](../articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.md)
 - **99.96%** — The client service system crushed repetitive work with 99.96% coverage, yet virtual product workflows still bog down when AI can’t replace business judgment or smooth delivery. [→](../articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 - **60%** — The recruitment automation tool hit a 60% efficiency gain after 28 rounds of iteration, but I’d argue that figure glosses over the real cost: dynamic page elements like shifting button positions and pop-ups demanded extra layers for state recognition and result verification. [→](../articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 - **87 percent** — The 87 percent figure and those two cases are measuring the same thing from different angles, which is time spent moving data by hand between a system that knows the answer and a system that needs it. [→](../articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
@@ -11,9 +13,15 @@
 - **$500** — Using AI tools to batch generate local SEO content reduces development costs for independent developers, accelerating website ranking on Google, after which the optimized site can be rented to local businesses for monthly revenue ranging from $500 to $3,000. [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 - **$10,000** — Sam Shore's experience with Typeshare, which shows how sharing equity with KOLs can accelerate growth, is a prime example; by granting three-fifths of his company's stock to two influential figures, he achieved a remarkable increase in monthly revenue, jumping from $10,000 to $15,000 in only 30 days. [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 
-[All figures, 559 rows](../figures.md)
+[All figures, 565 rows](../figures.md)
 
 ## The write-ups
+
+### [Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)](../articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.md)
+
+An automated game guide pipeline was left running for a month.
+
+[telegra.ph](https://telegra.ph/Four-Circuit-Breakers-Every-Unattended-AI-Pipeline-Needs-Learned-the-Expensive-Way-09-24)
 
 ### [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](../articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 
@@ -35,7 +43,7 @@ Of the 27 AI-powered micro-SaaS projects that generated predictable monthly reve
 
 ---
 
-[All 61 write-ups](../README.md)
+[All 62 write-ups](../README.md)
 
 ---
 

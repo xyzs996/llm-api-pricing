@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-559 figures pulled out of 61 write-ups in
+565 figures pulled out of 62 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,19 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://xy
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)](https://xyzs996.github.io/llm-api-pricing/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html)
+
+Published 2026-09-24.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `55.1%` | percent | Comparative workflow metrics show that automated intake pipelines achieved a 55.1% success conversion, translating to 158 successful conversions out of 287 total users, with a median processing time of 13.88 minutes. |
+| `13.88 minutes` | duration | Comparative workflow metrics show that automated intake pipelines achieved a 55.1% success conversion, translating to 158 successful conversions out of 287 total users, with a median processing time of 13.88 minutes. |
+| `9.1%` | percent | This performance is contrasted against a 9.1% conversion rate, or 10 out of 110 users, and a 164.84-minute median time via legacy proxy paths. |
+| `164.84-minute` | duration | This performance is contrasted against a 9.1% conversion rate, or 10 out of 110 users, and a 164.84-minute median time via legacy proxy paths. |
+| `20%` | percent | I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year. |
+| `60%` | percent | I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year. |
 
 ## [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html)
 
@@ -1041,5 +1054,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "559 figures pulled out of 61 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-17", "dateModified": "2026-09-17"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "565 figures pulled out of 62 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-24", "dateModified": "2026-09-24"}
 </script>

@@ -4,8 +4,16 @@
   <id>https://xyzs996.github.io/llm-api-pricing/</id>
   <link href="https://xyzs996.github.io/llm-api-pricing/"/>
   <link rel="self" href="https://xyzs996.github.io/llm-api-pricing/feed.xml"/>
-  <updated>2026-09-17T08:05:00Z</updated>
+  <updated>2026-09-24T08:33:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html</id>
+    <updated>2026-09-24T08:33:00Z</updated>
+    <published>2026-09-24T08:33:00Z</published>
+    <summary>An automated game guide pipeline was left running for a month.</summary>
+  </entry>
   <entry>
     <title>The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html"/>

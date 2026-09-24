@@ -1,6 +1,6 @@
 # Indie Development
 
-17 of the 61 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+17 of the 62 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$500** — Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly rent between $500 and $3,000. [→](../articles/how-indie-developers-are-building-ai-powered-digital.md)
 - **$1,000** — Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. [→](../articles/how-indie-developers-are-building-ai-powered-digital.md)
 
-[All figures, 559 rows](../figures.md)
+[All figures, 565 rows](../figures.md)
 
 ## The write-ups
 
@@ -121,7 +121,7 @@ Microsoft's evaluation of Kimi K3 landed on a number that should change how you 
 
 ---
 
-[All 61 write-ups](../README.md)
+[All 62 write-ups](../README.md)
 
 ---
 

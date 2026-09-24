@@ -1,6 +1,6 @@
 # AI Tools
 
-6 of the 61 write-ups here are tagged AI Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 62 write-ups here are tagged AI Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$30** — With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - **90%** — AI branding tools like Miora let indie developers cut design costs by 90%. [→](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 
-[All figures, 559 rows](../figures.md)
+[All figures, 565 rows](../figures.md)
 
 ## The write-ups
 
@@ -55,7 +55,7 @@ You can build AI-generated local business websites, rent them to plumbers or den
 
 ---
 
-[All 61 write-ups](../README.md)
+[All 62 write-ups](../README.md)
 
 ---
 

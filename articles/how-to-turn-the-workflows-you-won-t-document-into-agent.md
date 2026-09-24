@@ -112,9 +112,9 @@ AI Agents · Indie Hackers · Automation · Developer Productivity · Workflow �
 - [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 
-[All 61 write-ups](../README.md)
+[All 62 write-ups](../README.md)
 
-The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 547 more, as JSON and CSV.
+The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 553 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [AI Features](../topics/ai-features.md) · [Cost Savings](../topics/cost-savings.md) · [Code Review](../topics/code-review.md)
 
