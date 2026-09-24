@@ -175,7 +175,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 An automated game guide pipeline was left running for a month.
 
-`Enterprise AI` `AI Automation` `AI Pipeline Management` `Circuit Breakers` · [telegra.ph](https://telegra.ph/Four-Circuit-Breakers-Every-Unattended-AI-Pipeline-Needs-Learned-the-Expensive-Way-09-24)
+`Enterprise AI` `AI Automation` `AI Pipeline Management` `Circuit Breakers` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/75) · [telegra.ph](https://telegra.ph/Four-Circuit-Breakers-Every-Unattended-AI-Pipeline-Needs-Learned-the-Expensive-Way-09-24)
 
 ### [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md)
 

@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/75) — that copy has a reply box under it, and this one does not.*
+
 An automated game guide pipeline was left running for a month. When the automated game guide pipeline completed, it had entered a self-destructive state. My token budget was drained, my system was locked in dead states, and I was left with nothing but a pile of useless outputs. The expensive truth? Real reliability in AI pipelines doesn't come from upgrading to a smarter model. It comes from installing mechanical circuit breakers to stop infinite loops before they burn everything down.
 
 ## The First Breaker: The 5-Strike Retry Fuse on Column F
@@ -103,6 +105,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** Would you reply with "yes" if you've seen an agent get stuck rewriting the same output in your pipeline? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/75).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Ffour-circuit-breakers-every-unattended-ai-pipeline-needs.md). One required field, and the page you came from is already filled

@@ -21,7 +21,7 @@
 
 An automated game guide pipeline was left running for a month.
 
-[telegra.ph](https://telegra.ph/Four-Circuit-Breakers-Every-Unattended-AI-Pipeline-Needs-Learned-the-Expensive-Way-09-24)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/75) · [telegra.ph](https://telegra.ph/Four-Circuit-Breakers-Every-Unattended-AI-Pipeline-Needs-Learned-the-Expensive-Way-09-24)
 
 ### [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](../articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 
