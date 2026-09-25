@@ -68,12 +68,12 @@ The takeaway from the 27 cases is not that you should use all five. It is that t
 **Read next**
 
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
+- [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 - [Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)](four-circuit-breakers-every-unattended-ai-pipeline-needs.md)
-- [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 
-[All 62 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 551 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 562 more, as JSON and CSV.
 
 Topics: [AI Automation](../topics/ai-automation.md) · [Micro SaaS](../topics/micro-saas.md)
 

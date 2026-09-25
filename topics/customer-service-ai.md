@@ -1,6 +1,6 @@
 # Customer Service AI
 
-3 of the 62 write-ups here are tagged Customer Service AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 64 write-ups here are tagged Customer Service AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -10,7 +10,7 @@
 - **$299** — During Black Friday, a business might lose $299 per abandoned cart, and understaffing can exacerbate these losses. [→](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 - **3 months** — A former Alibaba P8 engineer, laid off and 3 months into an unsuccessful job search, ended up running three separate AI instances — one tracking competitor pricing, one generating ad creative, one handling customer service — and reports about 170,000 yuan a month. [→](../articles/charge-per-conversation-not-per-seat-the-billing-model.md)
 
-[All figures, 565 rows](../figures.md)
+[All figures, 576 rows](../figures.md)
 
 ## The write-ups
 
@@ -34,7 +34,7 @@ Respond.io bills its customers for every contact who had a conversation in a giv
 
 ---
 
-[All 62 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

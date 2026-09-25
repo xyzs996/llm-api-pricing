@@ -84,13 +84,13 @@ When choosing tools and models, developers should also consider the user-profile
 
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
-- [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
+- [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 
-[All 62 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
-The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 546 more, as JSON and CSV.
+The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 557 more, as JSON and CSV.
 
-Topics: [Indie Development](../topics/indie-development.md) · [AI Costs](../topics/ai-costs.md) · [Code Review](../topics/code-review.md) · [Development Tools](../topics/development-tools.md)
+Topics: [Indie Development](../topics/indie-development.md) · [AI Costs](../topics/ai-costs.md) · [Development Tools](../topics/development-tools.md) · [Code Review](../topics/code-review.md)
 
 
 ---

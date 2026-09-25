@@ -1,18 +1,26 @@
 # AI Agents
 
-3 of the 62 write-ups here are tagged AI Agents. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 64 write-ups here are tagged AI Agents. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **40%** — 40% of review tasks needed manual backfill, costing about 15 extra minutes each time. [→](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
+- **1,000 tokens** — Its original system prompt and tool descriptions came to under 1,000 tokens. [→](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 - **72%** — Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production. [→](../articles/the-real-pitfalls-of-ai-agent-development-from-code.md)
 - **300 million tokens** — One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology: 300 million tokens on day one, about 200 million on day two, about 100 million on day three. [→](../articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
 - **3 weeks** — Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. [→](../articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
 - **3 minutes** — The numbers underneath that headline are the interesting part: 3 minutes for a deep market research pass, 1,800 designs produced in a month, 12 minutes from a customer request to a rendering, and orders signed on the spot while the buyer was still in the conversation. [→](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 - **1%** — The version of this I have seen bite hardest is on the payments side, where one developer's Stripe account was frozen for a dispute rate above 1% and 1,500-plus paying subscriptions stopped at once. [→](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
-[All figures, 565 rows](../figures.md)
+[All figures, 576 rows](../figures.md)
 
 ## The write-ups
+
+### [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
+
+"If your AI keeps writing bad code, you need a better model." In each of the rebuilds below, a new model wouldn't have fixed anything, because the model was reading the wrong thing.
+
+[telegra.ph](https://telegra.ph/Your-AI-Didnt-Misread-Your-Code-by-Accident-You-Handed-It-the-Wrong-Context-09-25)
 
 ### [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](../articles/the-real-pitfalls-of-ai-agent-development-from-code.md)
 
@@ -34,7 +42,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 62 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

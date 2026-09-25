@@ -83,9 +83,9 @@ Independent developers use reusable AI skills through Record & Replay or Codex a
 - [The $22K-a-Month AI Tool That Never Bought a Single Ad](the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
-[All 62 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 560 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 571 more, as JSON and CSV.
 
 Topics: [AI Tools](../topics/ai-tools.md)
 
