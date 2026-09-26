@@ -66,9 +66,9 @@ The open question is where the switch happens. He automated right after getting 
 - [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](charge-per-conversation-not-per-seat-the-billing-model.md)
 - [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 558 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 604 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [AI Features](../topics/ai-features.md) · [Revenue Growth](../topics/revenue-growth.md) · [Customer Service AI](../topics/customer-service-ai.md)
 

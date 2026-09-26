@@ -69,11 +69,11 @@ The system reads local project directories and applies modifications directly to
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 575 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 621 more, as JSON and CSV.
 
-Topics: [SaaS Business](../topics/saas-business.md) · [AI Features](../topics/ai-features.md) · [Productivity](../topics/productivity.md)
+Topics: [SaaS Business](../topics/saas-business.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md)
 
 
 ---

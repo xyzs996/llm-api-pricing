@@ -1,21 +1,33 @@
 # Productivity
 
-9 of the 64 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+11 of the 67 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$29** — For instance, if you intend to build a contract comparison tool, start by manually assisting three to ten legal assistants at a rate of $29 per document to validate the demand before writing a single line of production code. [→](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
+- **$170,000** — In contrast to one-off projects, micro-automation tools excel at addressing single, high-frequency pain points A former Alibaba P8, after facing three months of unsuccessful job applications, pivoted to building AI software that has five core features—including scheduled automation and skill packages—to generate $170,000 in monthly revenue The data from these 27 successful cases reveals that the most effective tools prioritize "scheduled automation," which can reduce manual task time from several hours each day to zero minutes. [→](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
 - **$1.43** — One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - **$0.028** — DeepSeek V4 Flash costs $0.028 per million tokens and is fast. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
+- **$63,000,** — Consider Jordan, who noticed his partner spending hours manually sharing items on Poshmark, and by developing a simple 30-line JavaScript automation script to solve this pain point, he created Resellbot, which eventually scaled to a monthly revenue of $63,000, while this progression highlights how identifying such tedious manual tasks can serve as a potent foundation for building highly profitable and scalable software solutions. [→](../articles/building-high-income-single-page-tool-sites-via-seo.md)
+- **$1 million** — For instance, the insight highlights that a $1 million annual revenue target for a solo company can be broken down into a daily goal of $2777. [→](../articles/building-high-income-single-page-tool-sites-via-seo.md)
 - **30%** — The Agency Agents project keeps 232 structured expert persona files, each one pinning down an identity, a workflow, a delivery standard and a definition of success; the project claims over 30% better output across the 14 AI tools it supports. [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 - **$24,000** — One watched competitor prices, one produced ad creative, one answered customer mail, and together they pulled 170,000 yuan a month out of them, somewhere near $24,000. [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
-- **80%** — For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. [→](../articles/claude-code-and-codex-for-office-automation.md)
-- **$55k** — James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
-- **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
-- **90%** — 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. [→](../articles/best-practices-for-ai-agent-skill-management.md)
 
-[All figures, 576 rows](../figures.md)
+[All figures, 622 rows](../figures.md)
 
 ## The write-ups
+
+### [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
+
+Jordan, an independent developer, now earns $63,000 a month from Resellbot, a tool that handles the daily sharing Poshmark sellers used to do by hand.
+
+[telegra.ph](https://telegra.ph/Stop-Building-Custom-AI-Agents-How-to-Earn-63KMonth-with-Micro-Automation-09-26)
+
+### [Building High-Income Single-Page Tool Sites via SEO](../articles/building-high-income-single-page-tool-sites-via-seo.md)
+
+Jason Gillyon's ConvertCase.net is a one-page tool that converts text to title case or sentence case.
+
+[telegra.ph](https://telegra.ph/Building-High-Income-Single-Page-Tool-Sites-via-SEO-09-26)
 
 ### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 
@@ -73,7 +85,7 @@ The videos run about 60 seconds.
 
 ---
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
 ---
 

@@ -89,9 +89,9 @@ AI Coding, Indie Hackers, Software Development, AI Agents, Claude Code, Develope
 - [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 573 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 619 more, as JSON and CSV.
 
 Topics: [AI Agents](../topics/ai-agents.md) · [Software Development](../topics/software-development.md)
 

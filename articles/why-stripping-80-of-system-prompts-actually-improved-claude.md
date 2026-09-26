@@ -71,9 +71,9 @@ I think Grill-me's 37 prompts are unnecessary, and I could be wrong about that o
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - [How to Turn the Workflows You Won't Document Into Agent Skills](how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 574 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 620 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Features](../topics/ai-features.md) · [Code Review](../topics/code-review.md)
 

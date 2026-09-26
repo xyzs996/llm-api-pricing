@@ -107,9 +107,9 @@ These principles apply whether working with AI agents or managing human teams.
 - [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 - [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](ai-agent-loop-engineering-karpathy-s-method-for-5x.md)
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 573 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 619 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Enterprise Automation](../topics/enterprise-automation.md)
 

@@ -77,9 +77,9 @@ But within the part you do control, the recommendation is simple enough to act o
 - [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 575 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 621 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [AI](../topics/ai.md) · [Programming](../topics/programming.md)
 

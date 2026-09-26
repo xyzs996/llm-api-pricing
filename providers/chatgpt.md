@@ -1,6 +1,6 @@
 # ChatGPT costs and claims: every figure from a sentence that names it
 
-6 of the 576 figures in these field notes come from a sentence that names ChatGPT. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+6 of the 622 figures in these field notes come from a sentence that names ChatGPT. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about ChatGPT and some only measure against it — a competitor's price quoted next to ChatGPT's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -15,7 +15,7 @@ Some of these are about ChatGPT and some only measure against it — a competito
 - **20%** — “ChatGPT Work's user profile is projected to shift from 20% non-programmers to 60% within 12 months, showing its growing appeal across different professional backgrounds.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - **70%** — “Meanwhile ChatGPT Work saves non-technical staff up to 70% of their time on cross-application tasks, and those same people would get nothing out of an IDE.” (2026-08-07) [→](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
-[All 576 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 622 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
 ## Where these 6 came from
 

@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-576 figures pulled out of 64 write-ups in
+622 figures pulled out of 67 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -127,6 +127,44 @@ Published 2026-09-24.
 | `20%` | percent | I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year. |
 | `60%` | percent | I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year. |
 
+## [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](https://xyzs996.github.io/llm-api-pricing/articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.html)
+
+Published 2026-09-21.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$63,000` per month | price | Jordan, an independent developer, now earns $63,000 a month from Resellbot, a tool that handles the daily sharing Poshmark sellers used to do by hand. |
+| `$63,000` | price | What started as a 30-line JavaScript script has grown into a tool that now generates a monthly income of $63,000. |
+| `$170,000` | price | In contrast to one-off projects, micro-automation tools excel at addressing single, high-frequency pain points A former Alibaba P8, after facing three months of unsuccessful job applications, pivoted to building AI software that has five core features—including scheduled automation and skill packages—to generate $170,000 in monthly revenue The data from these 27 successful cases reveals that the most effective tools prioritize "scheduled automation," which can reduce manual task time from several hours each day to zero minutes. |
+| `$29` | price | For instance, if you intend to build a contract comparison tool, start by manually assisting three to ten legal assistants at a rate of $29 per document to validate the demand before writing a single line of production code. |
+| `$9.90` | price | Once the process is verified, you can target the pricing "sweet spot" for utility-based Micro-SaaS, which typically falls between $9.90 and $49.00 per month. |
+| `$49.00` per month | price | Once the process is verified, you can target the pricing "sweet spot" for utility-based Micro-SaaS, which typically falls between $9.90 and $49.00 per month. |
+| `$33,000` | price | This tool specifically targets the need for static websites to have a lightweight form backend, and it has managed to capture an impressive $33,000 in monthly revenue. |
+| `$9.9` | price | When it comes to tool-based micro-Saas in North America, the pricing sweet spot typically falls between $9.9 and $49 per month. |
+| `$49` per month | price | When it comes to tool-based micro-Saas in North America, the pricing sweet spot typically falls between $9.9 and $49 per month. |
+| `1 hour` | duration | For example, those without coding skills can use AI Agents to automate the monitoring of tender announcements As highlighted in, they can reduce the daily manual check time from 1 hour to just 15–50 minutes. |
+| `50 minutes` | duration | For example, those without coding skills can use AI Agents to automate the monitoring of tender announcements As highlighted in, they can reduce the daily manual check time from 1 hour to just 15–50 minutes. |
+| `78%` | percent | Through screening from 6 sources, they can retain 14 genuine announcements while cutting down noise by 78%. |
+
+## [I built a WeChat Official Account writing Agent that cuts work time by 80% — here’s the workflow filter and tool combo I used](https://xyzs996.github.io/llm-api-pricing/articles/i-built-a-wechat-official-account-writing-agent-that-cuts.html)
+
+Published 2026-09-21.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `11 minutes` | duration | My WeChat Official Account writing Agent now finishes its run in about 11 minutes of machine time. |
+| `215 minutes` | duration | The same job used to take me 115 to 215 minutes by hand. |
+| `20 minutes` | duration | I still review every piece at the end, which adds 10 to 20 minutes. |
+| `90 percent` | percent | Even with that review counted, my working time drops by 80 to 90 percent. |
+| `90%` | percent | I built a WeChat Official Account writing Agent that drastically slashes work time by 80-90%. |
+| `215 minutes` | duration | Originally, the manual process demanded 115–215 minutes, but now the machine runs for just ~11 minutes, with an additional 10–20 minutes for human final review. |
+| `11 minutes` | duration | Originally, the manual process demanded 115–215 minutes, but now the machine runs for just ~11 minutes, with an additional 10–20 minutes for human final review. |
+| `20 minutes` | duration | Originally, the manual process demanded 115–215 minutes, but now the machine runs for just ~11 minutes, with an additional 10–20 minutes for human final review. |
+| `11 minutes` | duration | The machine runs for about 11 minutes, and human review takes 10–20 minutes, leading to a total time reduction of ~80%–90%. |
+| `20 minutes` | duration | The machine runs for about 11 minutes, and human review takes 10–20 minutes, leading to a total time reduction of ~80%–90%. |
+| `80%` | percent | The machine runs for about 11 minutes, and human review takes 10–20 minutes, leading to a total time reduction of ~80%–90%. |
+| `90%` | percent | The machine runs for about 11 minutes, and human review takes 10–20 minutes, leading to a total time reduction of ~80%–90%. |
+
 ## [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html)
 
 Published 2026-09-17.
@@ -163,6 +201,35 @@ Published 2026-09-16.
 | `$10` per month | price | For calibration on what that market bears: indie developers report paying $10 to $50 a month for SEO data, a tenth to a quarter of a Semrush seat. |
 | `$50` per month | price | For calibration on what that market bears: indie developers report paying $10 to $50 a month for SEO data, a tenth to a quarter of a Semrush seat. |
 | `30 week` | duration | The image-tool operator waited for 30 weekly purchases before he'd even let the ad platform change what it optimized for. |
+
+## [Building High-Income Single-Page Tool Sites via SEO](https://xyzs996.github.io/llm-api-pricing/articles/building-high-income-single-page-tool-sites-via-seo.html)
+
+Published 2026-09-15.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `19 years` | duration | It has run for 19 years on zero promotion budget and now brings in $25,000 a month. |
+| `$25,000` per month | price | It has run for 19 years on zero promotion budget and now brings in $25,000 a month. |
+| `98%` | percent | Google results and people telling each other account for 98% of its visitors. |
+| `60 days` | duration | Traffic beyond Google comes from niche subreddits under a 90/10 rule, with 30 to 60 days of plain help before any link goes up. |
+| `19 years` | duration | This case conversion tool has been operating for 19 years without any promotion, yet it rakes in a monthly income of $25,000. |
+| `$25,000` | price | This case conversion tool has been operating for 19 years without any promotion, yet it rakes in a monthly income of $25,000. |
+| `98%` | percent | A staggering 98% of its traffic comes from Google search and word-of-mouth referrals. |
+| `$63,000,` | price | Consider Jordan, who noticed his partner spending hours manually sharing items on Poshmark, and by developing a simple 30-line JavaScript automation script to solve this pain point, he created Resellbot, which eventually scaled to a monthly revenue of $63,000, while this progression highlights how identifying such tedious manual tasks can serve as a potent foundation for building highly profitable and scalable software solutions. |
+| `90%` | percent | Successful developers often adhere to the 90/10 rule on Reddit, spending 90% of their time providing genuine value and 10% on promotion. |
+| `10%` | percent | Successful developers often adhere to the 90/10 rule on Reddit, spending 90% of their time providing genuine value and 10% on promotion. |
+| `60 days` | duration | By establishing credibility within niche subreddits over 30 to 60 days, they create an environment where their tool's link is naturally welcomed rather than flagged as spam. |
+| `$1 million` | price | For instance, the insight highlights that a $1 million annual revenue target for a solo company can be broken down into a daily goal of $2777. |
+| `$2777` | price | For instance, the insight highlights that a $1 million annual revenue target for a solo company can be broken down into a daily goal of $2777. |
+| `$150` | price | This could be achieved by selling 18 products at $150 each per day, or through other strategic methods. |
+| `80,000 month` | duration | This site achieves 80,000 monthly visits and generates a monthly income of ¥5,000. |
+| `2,000,000 month` | duration | For instance, cpstest.org achieved massive scale by targeting the simple 'click speed test' intent, amassing over 2,000,000 monthly visits with an average stay of 2 minutes and 31 seconds per session. |
+| `2 minutes` | duration | For instance, cpstest.org achieved massive scale by targeting the simple 'click speed test' intent, amassing over 2,000,000 monthly visits with an average stay of 2 minutes and 31 seconds per session. |
+| `31 seconds` | duration | For instance, cpstest.org achieved massive scale by targeting the simple 'click speed test' intent, amassing over 2,000,000 monthly visits with an average stay of 2 minutes and 31 seconds per session. |
+| `19 years` | duration | Jason Gillyon’s ConvertCase.net, which provides a simple utility for title and sentence casing, has run for 19 years with zero promotional budget, relying entirely on the 98% of its traffic that flows from organic search and word-of-mouth. |
+| `98%` | percent | Jason Gillyon’s ConvertCase.net, which provides a simple utility for title and sentence casing, has run for 19 years with zero promotional budget, relying entirely on the 98% of its traffic that flows from organic search and word-of-mouth. |
+| `$16,000` | price | It generates a monthly income of $16,000 and has over 400 paid subscribers. |
+| `50%` | percent | His SEO efforts, a major driver contributing around 50% of his traffic, are honed in on SEO-optimized content and strategic marketing; this approach ensures a steady flow of users and a successful monetization model, which is key to his growth strategy, as seen with BlogToPin, Nic Polotnianko's Pinterest automation tool. |
 
 ## [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](https://xyzs996.github.io/llm-api-pricing/articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.html)
 
@@ -1079,5 +1146,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "576 figures pulled out of 64 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-25", "dateModified": "2026-09-25"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "622 figures pulled out of 67 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-25", "dateModified": "2026-09-25"}
 </script>

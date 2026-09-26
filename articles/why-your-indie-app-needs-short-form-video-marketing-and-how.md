@@ -79,9 +79,9 @@ Skip this approach if you cannot commit 12 hours a week for several months, or i
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
-The 37 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 539 more, as JSON and CSV.
+The 37 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 585 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Productivity](../topics/productivity.md)
 

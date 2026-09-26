@@ -1,6 +1,6 @@
 # Development Tools
 
-6 of the 64 write-ups here are tagged Development Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 67 write-ups here are tagged Development Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **900 million tokens** — The free allocation is what people notice, since 900 million tokens is well beyond what most competing tools give away and beyond what a solo developer exhausts in normal work. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - **80 percent** — Track consumption from the first week rather than from the first warning at 80 percent. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
-[All figures, 576 rows](../figures.md)
+[All figures, 622 rows](../figures.md)
 
 ## The write-ups
 
@@ -55,7 +55,7 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 ---
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
 ---
 

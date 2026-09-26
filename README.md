@@ -7,19 +7,19 @@
 > 65 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-64 write-ups on what those bills looked like in production.
+67 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (65 models)
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (3.1×–18.4×). Read **2026-09-25**; the three cheapest *to run*:
+median **6.5×** (3.1×–18.4×). Read **2026-09-26**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
 | **$0.0219** | $0.018 | $0.09 | $0.36 | Solar Pro 4 | #34 webapps |
 | **$0.0237** | $0.0036 | $0.435 | $0.87 | MiMo-V2.6-Pro | #4 webapps |
-| **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.6 Flash `batch` | #11 androidnative |
+| **$0.0439** | $0.029 | $0.348 | $0.696 | DeepSeek V4 Pro 0423 | #32 godotgamedev |
 
 [All 65 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
@@ -67,9 +67,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (576 rows)
+## The figures, as data (622 rows)
 
-Every figure published across the 64 write-ups —
+Every figure published across the 67 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -82,17 +82,17 @@ recent write-ups — quoted verbatim, not summarised:
 | `40%` | 40% of review tasks needed manual backfill, costing about 15 extra minutes each time. | [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md) |
 | `$1.43` | The price spread is wide even among the Western flagships, which becomes obvious on ReactBench, where one run with GPT 5.6 Sol costs about $1.43 while one run with Fable 5 costs $9.05, which means that a single Fable 5 run comes to a bit more than six times as much as the GPT 5.6 Sol run does. | [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) |
 | `20%` | I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year. | [Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)](articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.md) |
+| `$170,000` | In contrast to one-off projects, micro-automation tools excel at addressing single, high-frequency pain points A former Alibaba P8, after facing three months of unsuccessful job applications, pivoted to building AI software that has five core features—including scheduled automation and skill packages—to generate $170,000 in monthly revenue The data from these 27 successful cases reveals that the most effective tools prioritize "scheduled automation," which can reduce manual task time from several hours each day to zero minutes. | [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md) |
+| `80%` | The machine runs for about 11 minutes, and human review takes 10–20 minutes, leading to a total time reduction of ~80%–90%. | [I built a WeChat Official Account writing Agent that cuts work time by 80% — here’s the workflow filter and tool combo I used](articles/i-built-a-wechat-official-account-writing-agent-that-cuts.md) |
 | `54%` | Through its internal multi-agent system, Sol achieves 54% higher token efficiency on agentic coding tasks compared to peer models, showing how strategic design choices can transform from a development challenge into a cost-saving advantage. | [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md) |
 | `$10` | An AI image generation tool used Google Ads to boost its monthly paying subscribers from approximately 80 to over 500, maintaining a customer acquisition cost of around $10 per paying user. | [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md) |
 | `$1.43` | One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. | [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md) |
+| `$63,000,` | Consider Jordan, who noticed his partner spending hours manually sharing items on Poshmark, and by developing a simple 30-line JavaScript automation script to solve this pain point, he created Resellbot, which eventually scaled to a monthly revenue of $63,000, while this progression highlights how identifying such tedious manual tasks can serve as a potent foundation for building highly profitable and scalable software solutions. | [Building High-Income Single-Page Tool Sites via SEO](articles/building-high-income-single-page-tool-sites-via-seo.md) |
 | `70%` | In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. | [How to Turn the Workflows You Won't Document Into Agent Skills](articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md) |
 | `72%` | Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production. | [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](articles/the-real-pitfalls-of-ai-agent-development-from-code.md) |
 | `60%` | The recruitment automation tool hit a 60% efficiency gain after 28 rounds of iteration, but I’d argue that figure glosses over the real cost: dynamic page elements like shifting button positions and pop-ups demanded extra layers for state recognition and result verification. | [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md) |
-| `$35M` | Respond.io crossed $35M in annual recurring revenue last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to per-customer billing — made the difference between flat growth and explosive scale. | [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md) |
-| `$0.81` | Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x. | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) |
-| `$63,000` | Jordan's success with Resellbot, a Micro-SaaS that automates Poshmark sharing, is a notable example: he earns $63,000 a month with just 30 lines of JavaScript. | [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md) |
 
-[All 576 rows](figures.md) — or as data:
+[All 622 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -155,7 +155,7 @@ write-ups land there first.
 
 **By provider.** [Claude](providers/claude.md) (41) · [GPT-5.6](providers/gpt-5-6.md) (22) · [Gemini](providers/gemini.md) (13) · [OpenAI](providers/openai.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [GLM](providers/glm.md) (12) · [Klarna](providers/klarna.md) (12) · [DeepSeek](providers/deepseek.md) (9) · [Kimi](providers/kimi.md) (9) · [Fable 5](providers/fable-5.md) (8) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) · [Codex](providers/codex.md) (5) — prices where there are prices, and every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (18) · [Automation Systems](topics/automation-systems.md) (16) · [SaaS Business](topics/saas-business.md) (12) · [AI Implementation](topics/ai-implementation.md) (10) · [AI Features](topics/ai-features.md) (9) · [Artificial Intelligence](topics/artificial-intelligence.md) (9) · [Niche Market](topics/niche-market.md) (9) · [Productivity](topics/productivity.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [Cost Savings](topics/cost-savings.md) (8) · [AI](topics/ai.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [AI Tools](topics/ai-tools.md) (6) · [Development Tools](topics/development-tools.md) (6) · [Chinese AI](topics/chinese-ai.md) (5) · [Code Review](topics/code-review.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [AI Agents](topics/ai-agents.md) (4) · [AI Automation](topics/ai-automation.md) (4) · [Automation](topics/automation.md) (4) · [AI Development](topics/ai-development.md) (3) · [Customer Service AI](topics/customer-service-ai.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [Software Development](topics/software-development.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (18) · [Automation Systems](topics/automation-systems.md) (17) · [SaaS Business](topics/saas-business.md) (14) · [Niche Market](topics/niche-market.md) (11) · [Productivity](topics/productivity.md) (11) · [AI Implementation](topics/ai-implementation.md) (10) · [Artificial Intelligence](topics/artificial-intelligence.md) (10) · [AI Features](topics/ai-features.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [Cost Savings](topics/cost-savings.md) (8) · [AI](topics/ai.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [AI Tools](topics/ai-tools.md) (6) · [Development Tools](topics/development-tools.md) (6) · [AI Automation](topics/ai-automation.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Code Review](topics/code-review.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [AI Agents](topics/ai-agents.md) (4) · [Automation](topics/automation.md) (4) · [AI Development](topics/ai-development.md) (3) · [Customer Service AI](topics/customer-service-ai.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [Software Development](topics/software-development.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -189,6 +189,18 @@ An automated game guide pipeline was left running for a month.
 
 `Enterprise AI` `AI Automation` `AI Pipeline Management` `Circuit Breakers` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/75) · [telegra.ph](https://telegra.ph/Four-Circuit-Breakers-Every-Unattended-AI-Pipeline-Needs-Learned-the-Expensive-Way-09-24)
 
+### [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
+
+Jordan, an independent developer, now earns $63,000 a month from Resellbot, a tool that handles the daily sharing Poshmark sellers used to do by hand.
+
+`Artificial Intelligence` `Productivity` `SaaS Business` `Niche Market` · [telegra.ph](https://telegra.ph/Stop-Building-Custom-AI-Agents-How-to-Earn-63KMonth-with-Micro-Automation-09-26)
+
+### [I built a WeChat Official Account writing Agent that cuts work time by 80% — here’s the workflow filter and tool combo I used](articles/i-built-a-wechat-official-account-writing-agent-that-cuts.md)
+
+My WeChat Official Account writing Agent now finishes its run in about 11 minutes of machine time.
+
+`AI Automation` `Automation Systems` `Workflow Optimization` `Chinese AI Tools` · [telegra.ph](https://telegra.ph/I-built-a-WeChat-Official-Account-writing-Agent-that-cuts-work-time-by-80--heres-the-workflow-filter-and-tool-combo-I-used-09-26)
+
 ### [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md)
 
 The myth that more detailed prompts always lead to better AI coding outcomes is being debunked by developers who have seen firsthand how excessive prompting can actually reduce efficiency.
@@ -200,6 +212,12 @@ The myth that more detailed prompts always lead to better AI coding outcomes is 
 On September 6 a marketer in a Chinese paid community posted his token bill.
 
 `Customer Service AI` `Revenue Growth` `SaaS Business` `AI Features` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
+
+### [Building High-Income Single-Page Tool Sites via SEO](articles/building-high-income-single-page-tool-sites-via-seo.md)
+
+Jason Gillyon's ConvertCase.net is a one-page tool that converts text to title case or sentence case.
+
+`Productivity` `SEO` `SaaS Business` `Niche Market` · [telegra.ph](https://telegra.ph/Building-High-Income-Single-Page-Tool-Sites-via-SEO-09-26)
 
 ### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 
