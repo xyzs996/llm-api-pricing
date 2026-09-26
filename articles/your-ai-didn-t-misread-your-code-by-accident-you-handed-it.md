@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/77) — that copy has a reply box under it, and this one does not.*
+
 "If your AI keeps writing bad code, you need a better model." In each of the rebuilds below, a new model wouldn't have fixed anything, because the model was reading the wrong thing.
 
 One solo developer ended up with files over 1,000 lines, where UI, state management, API calls, business logic and error handling all lived together. Another builder kept their knowledge base in one messy 321KB document, and the AI kept attaching one product's facts to copy about a different product. A third got pulled off course by same-name files and hidden old tables while reading and writing data through the Feishu CLI.
@@ -104,6 +106,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** how long the biggest single file in your own AI-written project has grown. Reply with one number, its rough line count from memory, and say whether you've ever split it. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/77).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fyour-ai-didn-t-misread-your-code-by-accident-you-handed-it.md). One required field, and the page you came from is already filled

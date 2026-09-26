@@ -175,13 +175,13 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 "If your AI keeps writing bad code, you need a better model." In each of the rebuilds below, a new model wouldn't have fixed anything, because the model was reading the wrong thing.
 
-`AI Agents` `Software Development` `Indie Developer` `Developer Productivity` · [telegra.ph](https://telegra.ph/Your-AI-Didnt-Misread-Your-Code-by-Accident-You-Handed-It-the-Wrong-Context-09-25)
+`AI Agents` `Software Development` `Indie Developer` `Developer Productivity` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/77) · [telegra.ph](https://telegra.ph/Your-AI-Didnt-Misread-Your-Code-by-Accident-You-Handed-It-the-Wrong-Context-09-25)
 
 ### [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 
 The "5-hour limit" on AI coding agents like Claude Code is the primary bottleneck for independent developers, forcing mid-flow halts just as you hit a rhythm.
 
-`Artificial Intelligence` `Programming` `Indie Development` `Development Tools` · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
+`Artificial Intelligence` `Programming` `Indie Development` `Development Tools` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
 
 ### [Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)](articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.md)
 

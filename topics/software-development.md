@@ -19,7 +19,7 @@
 
 "If your AI keeps writing bad code, you need a better model." In each of the rebuilds below, a new model wouldn't have fixed anything, because the model was reading the wrong thing.
 
-[telegra.ph](https://telegra.ph/Your-AI-Didnt-Misread-Your-Code-by-Accident-You-Handed-It-the-Wrong-Context-09-25)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/77) · [telegra.ph](https://telegra.ph/Your-AI-Didnt-Misread-Your-Code-by-Accident-You-Handed-It-the-Wrong-Context-09-25)
 
 ### [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 

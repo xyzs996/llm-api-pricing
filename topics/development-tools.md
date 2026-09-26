@@ -21,7 +21,7 @@
 
 The "5-hour limit" on AI coding agents like Claude Code is the primary bottleneck for independent developers, forcing mid-flow halts just as you hit a rhythm.
 
-[telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
 
 ### [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
 

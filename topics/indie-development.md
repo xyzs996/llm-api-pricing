@@ -21,7 +21,7 @@
 
 The "5-hour limit" on AI coding agents like Claude Code is the primary bottleneck for independent developers, forcing mid-flow halts just as you hit a rhythm.
 
-[telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
 
 ### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 
