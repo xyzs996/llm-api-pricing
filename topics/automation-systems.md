@@ -33,7 +33,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 My WeChat Official Account writing Agent now finishes its run in about 11 minutes of machine time.
 
-[telegra.ph](https://telegra.ph/I-built-a-WeChat-Official-Account-writing-Agent-that-cuts-work-time-by-80--heres-the-workflow-filter-and-tool-combo-I-used-09-26)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/79) · [telegra.ph](https://telegra.ph/I-built-a-WeChat-Official-Account-writing-Agent-that-cuts-work-time-by-80--heres-the-workflow-filter-and-tool-combo-I-used-09-26)
 
 ### [How to Turn the Workflows You Won't Document Into Agent Skills](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 

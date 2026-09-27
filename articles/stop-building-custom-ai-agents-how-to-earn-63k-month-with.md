@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/80) — that copy has a reply box under it, and this one does not.*
+
 Jordan, an independent developer, now earns $63,000 a month from Resellbot, a tool that handles the daily sharing Poshmark sellers used to do by hand. It started as a 30-line JavaScript script. There was no grand AI plan behind it. The problem was one chore, repeated every day, that ate sellers' time. Jordan automated that chore and nothing else.
 
 The catch with bespoke agents is cost: hours of client-specific code that never transfers to the next business. Micro-automation flips that, but only if the tool is priced, marketed and found by the people with the pain. Those three parts decide whether a script turns into income.
@@ -72,6 +74,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** Jordan's 30-line script found paying Poshmark sellers. What's the shortest script you've ever charged money for? Reply with your line count, or "never" if you haven't yet. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/80).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fstop-building-custom-ai-agents-how-to-earn-63k-month-with.md). One required field, and the page you came from is already filled

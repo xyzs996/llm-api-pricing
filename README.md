@@ -193,13 +193,13 @@ An automated game guide pipeline was left running for a month.
 
 Jordan, an independent developer, now earns $63,000 a month from Resellbot, a tool that handles the daily sharing Poshmark sellers used to do by hand.
 
-`Artificial Intelligence` `Productivity` `SaaS Business` `Niche Market` · [telegra.ph](https://telegra.ph/Stop-Building-Custom-AI-Agents-How-to-Earn-63KMonth-with-Micro-Automation-09-26)
+`Artificial Intelligence` `Productivity` `SaaS Business` `Niche Market` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/80) · [telegra.ph](https://telegra.ph/Stop-Building-Custom-AI-Agents-How-to-Earn-63KMonth-with-Micro-Automation-09-26)
 
 ### [I built a WeChat Official Account writing Agent that cuts work time by 80% — here’s the workflow filter and tool combo I used](articles/i-built-a-wechat-official-account-writing-agent-that-cuts.md)
 
 My WeChat Official Account writing Agent now finishes its run in about 11 minutes of machine time.
 
-`AI Automation` `Automation Systems` `Workflow Optimization` `Chinese AI Tools` · [telegra.ph](https://telegra.ph/I-built-a-WeChat-Official-Account-writing-Agent-that-cuts-work-time-by-80--heres-the-workflow-filter-and-tool-combo-I-used-09-26)
+`AI Automation` `Automation Systems` `Workflow Optimization` `Chinese AI Tools` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/79) · [telegra.ph](https://telegra.ph/I-built-a-WeChat-Official-Account-writing-Agent-that-cuts-work-time-by-80--heres-the-workflow-filter-and-tool-combo-I-used-09-26)
 
 ### [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md)
 
@@ -217,7 +217,7 @@ On September 6 a marketer in a Chinese paid community posted his token bill.
 
 Jason Gillyon's ConvertCase.net is a one-page tool that converts text to title case or sentence case.
 
-`Productivity` `SEO` `SaaS Business` `Niche Market` · [telegra.ph](https://telegra.ph/Building-High-Income-Single-Page-Tool-Sites-via-SEO-09-26)
+`Productivity` `SEO` `SaaS Business` `Niche Market` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/78) · [telegra.ph](https://telegra.ph/Building-High-Income-Single-Page-Tool-Sites-via-SEO-09-26)
 
 ### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 

@@ -27,7 +27,7 @@ Open Code Review is an open-source review tool built for AI-assisted development
 
 Jordan, an independent developer, now earns $63,000 a month from Resellbot, a tool that handles the daily sharing Poshmark sellers used to do by hand.
 
-[telegra.ph](https://telegra.ph/Stop-Building-Custom-AI-Agents-How-to-Earn-63KMonth-with-Micro-Automation-09-26)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/80) · [telegra.ph](https://telegra.ph/Stop-Building-Custom-AI-Agents-How-to-Earn-63KMonth-with-Micro-Automation-09-26)
 
 ### [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 
@@ -39,7 +39,7 @@ On September 6 a marketer in a Chinese paid community posted his token bill.
 
 Jason Gillyon's ConvertCase.net is a one-page tool that converts text to title case or sentence case.
 
-[telegra.ph](https://telegra.ph/Building-High-Income-Single-Page-Tool-Sites-via-SEO-09-26)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/78) · [telegra.ph](https://telegra.ph/Building-High-Income-Single-Page-Tool-Sites-via-SEO-09-26)
 
 ### [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 

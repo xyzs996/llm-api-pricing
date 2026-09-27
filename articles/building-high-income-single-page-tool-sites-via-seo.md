@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/78) — that copy has a reply box under it, and this one does not.*
+
 Jason Gillyon's ConvertCase.net is a one-page tool that converts text to title case or sentence case. It has run for 19 years on zero promotion budget and now brings in $25,000 a month. Google results and people telling each other account for 98% of its visitors. There were no ads and no launch campaign behind that number. The domain simply matches what people type when they need a casing fix.
 
 The same pattern holds for DiskPrices.com and cpstest.org: pick a narrow search phrase first, then name the product after it. Traffic beyond Google comes from niche subreddits under a 90/10 rule, with 30 to 60 days of plain help before any link goes up.
@@ -67,6 +69,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** how long the 90/10 Reddit warm-up actually takes before a tool link stops reading as spam. If you've posted your own tool in a niche subreddit, reply with the number of days you'd lurked and helped before that first link went up. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/78).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fbuilding-high-income-single-page-tool-sites-via-seo.md). One required field, and the page you came from is already filled

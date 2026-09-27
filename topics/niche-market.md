@@ -21,13 +21,13 @@
 
 Jordan, an independent developer, now earns $63,000 a month from Resellbot, a tool that handles the daily sharing Poshmark sellers used to do by hand.
 
-[telegra.ph](https://telegra.ph/Stop-Building-Custom-AI-Agents-How-to-Earn-63KMonth-with-Micro-Automation-09-26)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/80) · [telegra.ph](https://telegra.ph/Stop-Building-Custom-AI-Agents-How-to-Earn-63KMonth-with-Micro-Automation-09-26)
 
 ### [Building High-Income Single-Page Tool Sites via SEO](../articles/building-high-income-single-page-tool-sites-via-seo.md)
 
 Jason Gillyon's ConvertCase.net is a one-page tool that converts text to title case or sentence case.
 
-[telegra.ph](https://telegra.ph/Building-High-Income-Single-Page-Tool-Sites-via-SEO-09-26)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/78) · [telegra.ph](https://telegra.ph/Building-High-Income-Single-Page-Tool-Sites-via-SEO-09-26)
 
 ### [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 

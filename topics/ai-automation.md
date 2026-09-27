@@ -27,7 +27,7 @@ An automated game guide pipeline was left running for a month.
 
 My WeChat Official Account writing Agent now finishes its run in about 11 minutes of machine time.
 
-[telegra.ph](https://telegra.ph/I-built-a-WeChat-Official-Account-writing-Agent-that-cuts-work-time-by-80--heres-the-workflow-filter-and-tool-combo-I-used-09-26)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/79) · [telegra.ph](https://telegra.ph/I-built-a-WeChat-Official-Account-writing-Agent-that-cuts-work-time-by-80--heres-the-workflow-filter-and-tool-combo-I-used-09-26)
 
 ### [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](../articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 

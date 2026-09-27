@@ -27,7 +27,7 @@ The "5-hour limit" on AI coding agents like Claude Code is the primary bottlenec
 
 Jordan, an independent developer, now earns $63,000 a month from Resellbot, a tool that handles the daily sharing Poshmark sellers used to do by hand.
 
-[telegra.ph](https://telegra.ph/Stop-Building-Custom-AI-Agents-How-to-Earn-63KMonth-with-Micro-Automation-09-26)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/80) · [telegra.ph](https://telegra.ph/Stop-Building-Custom-AI-Agents-How-to-Earn-63KMonth-with-Micro-Automation-09-26)
 
 ### [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 
