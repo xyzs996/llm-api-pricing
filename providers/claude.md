@@ -1,34 +1,36 @@
-# Claude API pricing: what 18 models cost a coding agent
+# Claude API pricing: what 20 models cost a coding agent
 
-Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-26**.
+Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-27**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Claude discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Claude charges per million tokens
 
-18 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-26**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+20 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-27**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
-**Claude does not have one cache-read rate — it has 2.** Across 18 rows the discount runs from 2.5% to 10.0% of that row's own input price (2.5%, 10%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Claude's list input price overstates what an agent pays by a median **6.6×** (range 6.6×–12.6×).
+**Claude does not have one cache-read rate — it has 3.** Across 20 rows the discount runs from 2.5% to 10.0% of that row's own input price (2.5%, 5%, 10%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Claude's list input price overstates what an agent pays by a median **6.6×** (range 6.6×–12.6×).
 
-**2 of these 18 rows cost more than the price in their own row once the prompt is long enough.** The threshold reprices *every* token in the request, including the ones under it, so one token over the line roughly doubles the call. The thresholds are in the table.
+**2 of these 20 rows cost more than the price in their own row once the prompt is long enough.** The threshold reprices *every* token in the request, including the ones under it, so one token over the line roughly doubles the call. The thresholds are in the table.
 
-9 rows are marked `batch` — the batch entries the catalog lists separately. They are kept apart on purpose: folding them in would read as if a normal call cost half of what it does.
+10 rows are marked `batch` — the batch entries the catalog lists separately. They are kept apart on purpose: folding them in would read as if a normal call cost half of what it does.
 
 | $ / 1M at agent mix | $ in / 1M | $ cache read / 1M | $ out / 1M | Model | Context | Long-context step | Best agents rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **$0.1508** | $1.00 | $0.10 | $5.00 | [Claude Sonnet 5](https://openrouter.ai/anthropic/claude-sonnet-5:batch) `batch` | 1M | — | #5 htmlslides |
-| **$0.2263** | $1.50 | $0.15 | $7.50 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5:batch) `batch` | 1M | $3.00 past 200k | #29 mobileapps |
-| **$0.2263** | $1.50 | $0.15 | $7.50 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6:batch) `batch` | 1M | — | #10 mobileapps |
+| **$0.206** | $2.00 | $0.10 | $10.00 | [Claude Opus 5.5](https://openrouter.ai/anthropic/claude-opus-5.5:batch) `batch` | 1M | — | #5 mobileapps |
+| **$0.2263** | $1.50 | $0.15 | $7.50 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5:batch) `batch` | 1M | $3.00 past 200k | #31 mobileapps |
+| **$0.2263** | $1.50 | $0.15 | $7.50 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6:batch) `batch` | 1M | — | #12 godotgamedev |
 | **$0.3017** | $2.00 | $0.20 | $10.00 | [Claude Sonnet 5](https://openrouter.ai/anthropic/claude-sonnet-5) | 1M | — | #5 htmlslides |
-| **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5:batch) `batch` | 200K | — | #16 mobileapps |
+| **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5:batch) `batch` | 200K | — | #17 androidnative |
 | **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 4.6](https://openrouter.ai/anthropic/claude-opus-4.6:batch) `batch` | 1M | — | #8 agenticgamedev |
 | **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 4.8](https://openrouter.ai/anthropic/claude-opus-4.8:batch) `batch` | 1M | — | #1 agenticslides |
 | **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5:batch) `batch` | 1M | — | #1 mobileapps |
 | **$0.3956** | $5.00 | $0.125 | $25.00 | [Claude Fable 5.1](https://openrouter.ai/anthropic/claude-fable-5.1:batch) `batch` | 1M | — | #1 fullstack |
-| **$0.4525** | $3.00 | $0.30 | $15.00 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5) | 1M | $6.00 past 200k | #29 mobileapps |
-| **$0.4525** | $3.00 | $0.30 | $15.00 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6) | 1M | — | #10 mobileapps |
+| **$0.4121** | $4.00 | $0.20 | $20.00 | [Claude Opus 5.5](https://openrouter.ai/anthropic/claude-opus-5.5) | 1M | — | #5 mobileapps |
+| **$0.4525** | $3.00 | $0.30 | $15.00 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5) | 1M | $6.00 past 200k | #31 mobileapps |
+| **$0.4525** | $3.00 | $0.30 | $15.00 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6) | 1M | — | #12 godotgamedev |
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Fable 5](https://openrouter.ai/anthropic/claude-fable-5:batch) `batch` | 1M | — | #1 agenticgamedev |
-| **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5) | 200K | — | #16 mobileapps |
+| **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 4.5](https://openrouter.ai/anthropic/claude-opus-4.5) | 200K | — | #17 androidnative |
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 4.6](https://openrouter.ai/anthropic/claude-opus-4.6) | 1M | — | #8 agenticgamedev |
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 4.8](https://openrouter.ai/anthropic/claude-opus-4.8) | 1M | — | #1 agenticslides |
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5) | 1M | — | #1 mobileapps |
@@ -46,18 +48,18 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | --- | --- | --- | --- | --- |
 | xiaomi | 1 | 0.8% | 18.4× | $0.0237 |
 | DeepSeek | 1 | 8.3% | 7.9× | $0.0439 |
-| **Claude** | 18 | 2.5–10% | 6.6× | $0.3017 |
+| **Claude** | 20 | 2.5–10% | 6.6× | $0.3017 |
 | Gemini | 12 | 10% | 6.6× | $0.0769 |
 | OpenAI | 9 | 10–10.4% | 6.3× | $0.2042 |
 | Llama | 3 | 12% | 6.0× | $0.2067 |
 | Grok | 5 | 15–25% | 5.0× | $0.2494 |
 | Kimi | 5 | 10–27.4% | 4.9× | $0.0918 |
-| GLM | 8 | 18.3–22.2% | 4.4× | $0.0863 |
+| GLM | 8 | 18.3–22.2% | 4.4× | $0.0991 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
 | upstage | 1 | 20% | 4.1× | $0.0219 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
 
-The spread in that fourth column is the whole point: Claude at 6.6× against GLM at 4.4×, across 18 and 8 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
+The spread in that fourth column is the whole point: Claude at 6.6× against GLM at 4.4×, across 20 and 8 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
 
 
 [All models, every vendor, one table](../prices.md) · [Put your own token counts in](https://xyzs996.github.io/llm-cost-calculator/) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
