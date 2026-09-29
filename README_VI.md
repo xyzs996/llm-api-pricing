@@ -8,13 +8,13 @@ Một bộ dữ liệu mở. Mọi con số xuất hiện trong 67 ghi chép th�
 
 ## Hôm nay chạy agent tốn bao nhiêu
 
-67 mô hình được xếp hạng trong một hạng mục *agents* của Design Arena, kèm **giá niêm yết** cho mỗi triệu token — không phải hóa đơn của bạn: cache, batch và từng nhà cung cấp tính khác nhau. Lấy từ danh mục công khai của OpenRouter, đọc lần cuối ngày 2026-09-28. Ba mô hình rẻ nhất:
+67 mô hình được xếp hạng trong một hạng mục *agents* của Design Arena, kèm **giá niêm yết** cho mỗi triệu token — không phải hóa đơn của bạn: cache, batch và từng nhà cung cấp tính khác nhau. Lấy từ danh mục công khai của OpenRouter, đọc lần cuối ngày 2026-09-29. Ba mô hình rẻ nhất:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
 | $0.09 | $0.36 | Solar Pro 4 | #34 webapps |
+| $0.1949 | $4.40 | GLM 5.2 | #10 agenticgamedev |
 | $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #8 agenticslides |
-| $0.30 | $1.20 | MiniMax M3 | #12 htmlslides |
 
 [Toàn bộ 67 mô hình](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
