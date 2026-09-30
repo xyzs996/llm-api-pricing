@@ -19,7 +19,7 @@
 
 If you're hitting the 5-hour Codex limit like clockwork every day, stop counting minutes.
 
-[telegra.ph](https://telegra.ph/Bypass-Codex-Rate-Limits-The-Local-Proxy-Path-to-70-Cost-Savings-09-30)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/81) · [telegra.ph](https://telegra.ph/Bypass-Codex-Rate-Limits-The-Local-Proxy-Path-to-70-Cost-Savings-09-30)
 
 ### [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 

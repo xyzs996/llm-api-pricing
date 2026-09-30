@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/81) — that copy has a reply box under it, and this one does not.*
+
 If you're hitting the 5-hour Codex limit like clockwork every day, stop counting minutes. The wall isn’t in the model—it’s in your setup. That bottleneck isn’t a feature. It’s a tax on your workflow, and it’s completely avoidable.
 
 By routing your Codex traffic through a local proxy like OpenCodex, you can switch to high-performance domestic models like DeepSeek or GLM—without restarting your session, without losing context, and without paying premium rates. One developer swapped their default backend for DeepSeek V4 Flash and saw API costs drop to just $0.028 per million tokens. That’s a 70% cut, not counting the hours saved from not restarting mid-sprint.
@@ -121,6 +123,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** reply with one word—what number, from memory, was the cost per million tokens for DeepSeek V4 Flash that you recall reading? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/81).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fbypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md). One required field, and the page you came from is already filled
