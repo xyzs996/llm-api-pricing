@@ -90,9 +90,9 @@ Enterprises don't apply to me.
 - [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 - [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 
-[All 67 write-ups](../README.md)
+[All 68 write-ups](../README.md)
 
-The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 616 more, as JSON and CSV.
+The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 638 more, as JSON and CSV.
 
 Topics: [AI Automation](../topics/ai-automation.md)
 

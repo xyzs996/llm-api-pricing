@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-622 figures pulled out of 67 write-ups in
+644 figures pulled out of 68 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,35 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://xy
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](https://xyzs996.github.io/llm-api-pricing/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html)
+
+Published 2026-09-30.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `5-hour` | duration | If you're hitting the 5-hour Codex limit like clockwork every day, stop counting minutes. |
+| `$0.028` per million tokens | price | One developer swapped their default backend for DeepSeek V4 Flash and saw API costs drop to just $0.028 per million tokens. |
+| `70%` | percent | That’s a 70% cut, not counting the hours saved from not restarting mid-sprint. |
+| `5-hour` | duration | And once you break free from that 5-hour timer, the real question becomes: why would you ever go back? |
+| `5-hour` | duration | That 5-hour usage cap doesn’t just pause your work—it shatters it. |
+| `5-hour` | duration | I'd call the 5-hour reset extreme. |
+| `$2,000` per month | price | You’re not a team with a $2,000/month AI budget. |
+| `5-hour` | duration | Unlike , it preserves conversation context across model switches and bypasses the 5-hour cap entirely. |
+| `$0.028` per million input tokens | price | For example, DeepSeek is known for high cost efficiency at $0.028 per million input tokens. |
+| `90%` | percent | The real power shows up in daily use: you can send complex logic to GLM, which performs at about 90% of GPT-level quality, while offloading routine tasks to cheaper models like DeepSeek V4 Flash. |
+| `5-hour` | duration | Developers are already using this setup to avoid the 5-hour wall, maintain context, and reduce dependency on a single provider. |
+| `$0.028` per million tokens | price | With DeepSeek V4 Flash priced at just $0.028 per million tokens, developers can assign lightweight tasks like boilerplate generation or syntax checking to this model, reserving higher-cost models for nuanced logic or debugging. |
+| `$0.028` per million tokens | price | Take DeepSeek V4 Flash: it costs just $0.028 per million tokens. |
+| `$1` per million tokens | price | Even at the high end, models like GLM 5.2 and DeepSeek V4 Pro hover around $1 per million tokens. |
+| `5x` | multiple | Compare that to US-based top-tier models, which often charge 3–5x more for similar performance, and the math gets ugly fast. |
+| `70%` | percent | Headline: 70% Cheaper AI Coding: How I Bypassed Codex’s 5-Hour Limit |
+| `5-Hour` | duration | Headline: 70% Cheaper AI Coding: How I Bypassed Codex’s 5-Hour Limit |
+| `5-hour` | duration | Subtitle: A local proxy setup that cuts costs, keeps context, and never hits the 5-hour wall |
+| `5-Hour` | duration | Headline: Hitting the Codex 5-Hour Wall? |
+| `70%` | percent | Subtitle: How switching to DeepSeek and GLM saved me 70% and gave me back control |
+| `$0.028` | price | Headline: Codex vs. OpenCodex: One Costs $0.028/M Token. |
+| `5 Hours` | duration | The Other Resets Every 5 Hours. |
 
 ## [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](https://xyzs996.github.io/llm-api-pricing/articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.html)
 
@@ -1146,5 +1175,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "622 figures pulled out of 67 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-25", "dateModified": "2026-09-25"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "644 figures pulled out of 68 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-09-30", "dateModified": "2026-09-30"}
 </script>

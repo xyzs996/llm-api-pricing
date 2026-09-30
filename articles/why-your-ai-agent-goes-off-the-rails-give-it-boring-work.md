@@ -64,12 +64,12 @@ None of that requires the agent to be clever. It requires the task to be bounded
 **Read next**
 
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
+- [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
-- [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 
-[All 67 write-ups](../README.md)
+[All 68 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 619 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 641 more, as JSON and CSV.
 
 Topics: [AI Implementation](../topics/ai-implementation.md) · [AI Programming](../topics/ai-programming.md) · [AI Agents](../topics/ai-agents.md)
 

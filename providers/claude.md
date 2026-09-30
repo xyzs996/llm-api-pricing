@@ -1,12 +1,12 @@
 # Claude API pricing: what 20 models cost a coding agent
 
-Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-29**.
+Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-30**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Claude discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Claude charges per million tokens
 
-20 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-29**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+20 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-30**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Claude does not have one cache-read rate — it has 3.** Across 20 rows the discount runs from 2.5% to 10.0% of that row's own input price (2.5%, 5%, 10%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Claude's list input price overstates what an agent pays by a median **6.6×** (range 6.6×–12.6×).
 
@@ -47,14 +47,14 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Vendor | Rows | Cache read, % of its own input | List price overstates the agent bill by | Cheapest non-`batch` row at agent mix |
 | --- | --- | --- | --- | --- |
 | xiaomi | 1 | 0.8% | 18.4× | $0.0237 |
-| DeepSeek | 1 | 8.3% | 7.9× | $0.1203 |
+| DeepSeek | 1 | 8.3% | 7.9× | $0.0988 |
 | **Claude** | 20 | 2.5–10% | 6.6× | $0.3017 |
 | Gemini | 12 | 10% | 6.6× | $0.0769 |
 | OpenAI | 9 | 10–10.4% | 6.3× | $0.2042 |
 | Llama | 3 | 12% | 6.0× | $0.2067 |
 | Grok | 5 | 15–25% | 5.0× | $0.2494 |
-| Kimi | 5 | 10–27.4% | 4.9× | $0.0918 |
-| GLM | 8 | 18.3–80% | 4.2× | $0.0991 |
+| Kimi | 5 | 10–26.8% | 4.9× | $0.0918 |
+| GLM | 8 | 18.3–63.4% | 4.2× | $0.0991 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
 | upstage | 1 | 20% | 4.1× | $0.0219 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
@@ -92,7 +92,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against GLM
 - **$19 billion** — “Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 - **$19 billion** — “Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 
-[All 622 figures, every kind](../figures.md)
+[All 644 figures, every kind](../figures.md)
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [AI Model Costs: Beyond Per-Token Pricing](../articles/ai-model-costs-beyond-per-token-pricing.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20) · [telegra.ph](https://telegra.ph/Beyond-Token-Pricing-How-Indie-Devs-Should-Really-Evaluate-AI-Model-Costs-08-19)

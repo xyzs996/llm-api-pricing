@@ -59,9 +59,9 @@ Shifting to micro-automation tools effectively addresses real, high-frequency pa
 - [Building High-Income Single-Page Tool Sites via SEO](building-high-income-single-page-tool-sites-via-seo.md)
 - [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 
-[All 67 write-ups](../README.md)
+[All 68 write-ups](../README.md)
 
-The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 610 more, as JSON and CSV.
+The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 632 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md) · [Artificial Intelligence](../topics/artificial-intelligence.md)
 

@@ -1,6 +1,6 @@
 # SaaS Business
 
-14 of the 67 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+14 of the 68 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$35M** — Respond.io crossed $35M in annual recurring revenue last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to per-customer billing — made the difference between flat growth and explosive scale. [→](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 - **$299** — During Black Friday, a business might lose $299 per abandoned cart, and understaffing can exacerbate these losses. [→](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
 
-[All figures, 622 rows](../figures.md)
+[All figures, 644 rows](../figures.md)
 
 ## The write-ups
 
@@ -103,7 +103,7 @@ Two brothers ran a single short-video account until one piece of content took of
 
 ---
 
-[All 67 write-ups](../README.md)
+[All 68 write-ups](../README.md)
 
 ---
 
