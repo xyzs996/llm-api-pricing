@@ -4,8 +4,16 @@
   <id>https://xyzs996.github.io/llm-api-pricing/</id>
   <link href="https://xyzs996.github.io/llm-api-pricing/"/>
   <link rel="self" href="https://xyzs996.github.io/llm-api-pricing/feed.xml"/>
-  <updated>2026-09-30T07:55:00Z</updated>
+  <updated>2026-10-01T07:45:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.html</id>
+    <updated>2026-10-01T07:45:00Z</updated>
+    <published>2026-10-01T07:45:00Z</published>
+    <summary>In July 2026, Alibaba open-sourced Open Code Review.</summary>
+  </entry>
   <entry>
     <title>Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html"/>

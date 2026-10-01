@@ -98,9 +98,9 @@ For independent developers using Codex for document automation, the cost is a sm
 - [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 - [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](charge-per-conversation-not-per-seat-the-billing-model.md)
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 641 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 645 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [AI Programming](../topics/ai-programming.md)
 

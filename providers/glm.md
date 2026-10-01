@@ -1,14 +1,14 @@
 # GLM API pricing: what 8 models cost a coding agent
 
-Every GLM model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-09-30**.
+Every GLM model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-01**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep GLM discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What GLM charges per million tokens
 
-8 GLM models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-09-30**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+8 GLM models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-01**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
-**GLM does not have one cache-read rate — it has 5.** Across 8 rows the discount runs from 18.3% to 63.4% of that row's own input price (18.3%, 18.6%, 20%, 22.2%, 63.4%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, GLM's list input price overstates what an agent pays by a median **4.2×** (range 1.5×–4.4×).
+**GLM does not have one cache-read rate — it has 5.** Across 8 rows the discount runs from 18.3% to 80.0% of that row's own input price (18.3%, 18.6%, 20%, 22.2%, 80%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, GLM's list input price overstates what an agent pays by a median **4.2×** (range 1.2×–4.4×).
 
 1 row is marked `batch` — the batch entries the catalog lists separately. They are kept apart on purpose: folding them in would read as if a normal call cost half of what it does.
 
@@ -17,11 +17,11 @@ Every GLM model in the catalog that has been ranked in an agent category, priced
 | **$0.0991** | $0.43 | $0.08 | $1.75 | [GLM 4.6](https://openrouter.ai/z-ai/glm-4.6) | 204K | — | #17 godotgamedev |
 | **$0.1198** | $0.45 | $0.10 | $2.00 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3:batch) `batch` | 1M | — | #8 python-pptxslides |
 | **$0.136** | $0.60 | $0.11 | $2.20 | [GLM 4.7](https://openrouter.ai/z-ai/glm-4.7) | 204K | — | #27 androidnative |
-| **$0.1448** | $0.60 | $0.12 | $1.92 | [GLM 5](https://openrouter.ai/z-ai/glm-5) | 204K | — | #19 htmlslides |
+| **$0.1448** | $0.60 | $0.12 | $1.92 | [GLM 5](https://openrouter.ai/z-ai/glm-5) | 204K | — | #18 htmlslides |
+| **$0.1886** | $0.2219 | $0.1775 | $3.39 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3) | 1M | — | #8 python-pptxslides |
 | **$0.2194** | $0.9646 | $0.1791 | $3.0316 | [GLM 5.1](https://openrouter.ai/z-ai/glm-5.1) | 204K | — | #2 agenticslides |
-| **$0.2769** | $0.41 | $0.26 | $3.99 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | — | #10 agenticgamedev |
 | **$0.29** | $1.20 | $0.24 | $4.00 | [GLM 5V Turbo](https://openrouter.ai/z-ai/glm-5v-turbo) | 202K | — | #4 androidnative |
-| **$0.3184** | $1.40 | $0.26 | $4.40 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3) | 1M | — | #8 python-pptxslides |
+| **$0.3184** | $1.40 | $0.26 | $4.40 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | — | #10 agenticgamedev |
 
 Cheapest GLM row an agent can call normally is **GLM 4.6** at $0.0991 per million; the dearest is $0.3184, 3× more. Both numbers exclude the `batch` rows above. Both are computed, not quoted — the arithmetic and the weights are in the JSON.
 
@@ -33,14 +33,14 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Vendor | Rows | Cache read, % of its own input | List price overstates the agent bill by | Cheapest non-`batch` row at agent mix |
 | --- | --- | --- | --- | --- |
 | xiaomi | 1 | 0.8% | 18.4× | $0.0237 |
-| DeepSeek | 1 | 8.3% | 7.9× | $0.0988 |
+| DeepSeek | 1 | 8.3% | 7.9× | $0.0264 |
 | Claude | 20 | 2.5–10% | 6.6× | $0.3017 |
 | Gemini | 12 | 10% | 6.6× | $0.0769 |
 | OpenAI | 9 | 10–10.4% | 6.3× | $0.2042 |
 | Llama | 3 | 12% | 6.0× | $0.2067 |
 | Grok | 5 | 15–25% | 5.0× | $0.2494 |
-| Kimi | 5 | 10–26.8% | 4.9× | $0.0918 |
-| **GLM** | 8 | 18.3–63.4% | 4.2× | $0.0991 |
+| Kimi | 5 | 10–100% | 4.7× | $0.0918 |
+| **GLM** | 8 | 18.3–80% | 4.2× | $0.0991 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
 | upstage | 1 | 20% | 4.1× | $0.0219 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
@@ -62,7 +62,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against GLM
 - **45.2%** — “GLM-5.1 does the same: sort by input and you take GMICloud, and pay 45.2% over Chutes.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 - **10.00%** — “Now the other side. z-ai's GLM-5.1 is served by seventeen hosts, cache read ratios running 10.00% to 50.42%.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 
-[All 644 figures, every kind](../figures.md)
+[All 648 figures, every kind](../figures.md)
 
 - [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
 - [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/81) · [telegra.ph](https://telegra.ph/Bypass-Codex-Rate-Limits-The-Local-Proxy-Path-to-70-Cost-Savings-09-30)

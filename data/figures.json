@@ -231,6 +231,50 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/10"
   },
   {
+    "value": "90%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Higher accuracy than Claude Code — and a 90% drop in token usage.",
+    "article": "How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers",
+    "published": "2026-10-01",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "50K tokens",
+    "kind": "tokens",
+    "unit": "",
+    "context": "In one test case, a PR with a large diff would have required over 50K tokens if full context were passed.",
+    "article": "How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers",
+    "published": "2026-10-01",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$5",
+    "kind": "price",
+    "unit": "per month",
+    "context": "The tool runs on a $5/month VPS using Docker.",
+    "article": "How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers",
+    "published": "2026-10-01",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "80%",
+    "kind": "percent",
+    "unit": "",
+    "context": "The Claude Code team itself found that 80% of system prompts degrade performance.",
+    "article": "How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers",
+    "published": "2026-10-01",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "5-hour",
     "kind": "duration",
     "unit": "",

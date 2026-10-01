@@ -54,9 +54,9 @@ Matching your domain and content to user search intents, optimizing your content
 - [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
 - [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
-The 22 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 622 more, as JSON and CSV.
+The 22 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 626 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md)
 
