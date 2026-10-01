@@ -27,7 +27,7 @@ Open Code Review is an open-source review tool built for AI-assisted development
 
 In July 2026, Alibaba open-sourced Open Code Review.
 
-[telegra.ph](https://telegra.ph/How-Alibabas-Open-Code-Review-Slashed-AI-Code-Review-Costs-by-90--And-What-It-Means-for-Independent-Developers-10-01)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/82) · [telegra.ph](https://telegra.ph/How-Alibabas-Open-Code-Review-Slashed-AI-Code-Review-Costs-by-90--And-What-It-Means-for-Independent-Developers-10-01)
 
 ### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 

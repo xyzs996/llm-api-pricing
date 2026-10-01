@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/82) — that copy has a reply box under it, and this one does not.*
+
 In July 2026, Alibaba open-sourced Open Code Review. Within weeks, independent developers across China tested it on 200 pull requests spanning 50 repositories. The result? Higher accuracy than Claude Code — and a 90% drop in token usage. Where Claude needed ~90K input tokens per PR, Open Code Review used just ~10K. This wasn’t benchmark theater. These were real projects in private GitHub orgs, covering JavaScript, Python, Go, and seven other languages. The tool didn’t just optimize prompts. It rethought the entire architecture of AI-assisted code review.
 
 And so far, this shift has gone largely unnoticed in the West.
@@ -82,6 +84,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** reply with one word — what’s your guess for the main reason Western devs haven’t adopted Open Code Review yet? Reply in the thread. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/82).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fhow-alibaba-s-open-code-review-slashed-ai-code-review-costs.md). One required field, and the page you came from is already filled

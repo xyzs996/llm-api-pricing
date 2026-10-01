@@ -175,7 +175,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 In July 2026, Alibaba open-sourced Open Code Review.
 
-`Developer Productivity` `Code Review` `AI Programming` `Cost Optimization` · [telegra.ph](https://telegra.ph/How-Alibabas-Open-Code-Review-Slashed-AI-Code-Review-Costs-by-90--And-What-It-Means-for-Independent-Developers-10-01)
+`Developer Productivity` `Code Review` `AI Programming` `Cost Optimization` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/82) · [telegra.ph](https://telegra.ph/How-Alibabas-Open-Code-Review-Slashed-AI-Code-Review-Costs-by-90--And-What-It-Means-for-Independent-Developers-10-01)
 
 ### [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 
