@@ -21,7 +21,7 @@
 
 An AI crypto trading bot reportedly made $7,600 in a week.” That line gets clicks.
 
-[telegra.ph](https://telegra.ph/How-a-Multi-Agent-AI-System-Made-7600-in-7-Days-for-Under-100-in-API-Costs-10-02)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/83) · [telegra.ph](https://telegra.ph/How-a-Multi-Agent-AI-System-Made-7600-in-7-Days-for-Under-100-in-API-Costs-10-02)
 
 ### [Never Use a Model Where Code Can Decide](../articles/never-use-a-model-where-code-can-decide.md)
 

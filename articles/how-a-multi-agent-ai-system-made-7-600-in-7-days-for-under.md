@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/83) — that copy has a reply box under it, and this one does not.*
+
 An AI crypto trading bot reportedly made $7,600 in a week.” That line gets clicks. It also gets rolled eyes. The real story isn’t the profit — it’s the cost: under $100 in API fees. One developer pulled this off using Claude Opus 5, a fully automated multi-agent system, and a cycle that ran every 4 hours. The net gain was around 55,000 RMB (~$7,600), sustained for 7 days. No moonshot luck. No hidden VC funding. Just structured roles, tight loops, and a design that treated resilience as code.
 
 This wasn’t a set-and-forget script. It didn’t run on magic. But it did prove something quietly radical: with the right architecture, you can run powerful AI systems at retail prices. And if you’re trying to monetize AI without burning cash, that changes everything.
@@ -113,6 +115,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** reply with one word — what was the name of the analytics platform you’d trust most for on-chain data, based on the author’s hint? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/83).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fhow-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md). One required field, and the page you came from is already filled

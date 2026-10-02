@@ -175,7 +175,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 An AI crypto trading bot reportedly made $7,600 in a week.” That line gets clicks.
 
-`AI Security` `Finance` `Multi-Agent System` `AI` · [telegra.ph](https://telegra.ph/How-a-Multi-Agent-AI-System-Made-7600-in-7-Days-for-Under-100-in-API-Costs-10-02)
+`AI Security` `Finance` `Multi-Agent System` `AI` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/83) · [telegra.ph](https://telegra.ph/How-a-Multi-Agent-AI-System-Made-7600-in-7-Days-for-Under-100-in-API-Costs-10-02)
 
 ### [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 
