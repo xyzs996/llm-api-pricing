@@ -108,9 +108,9 @@ You’re not replacing Codex. You’re upgrading your control over it.
 - [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
-The 22 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 626 more, as JSON and CSV.
+The 22 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 639 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [Development Tools](../topics/development-tools.md) · [Developer Productivity](../topics/developer-productivity.md)
 

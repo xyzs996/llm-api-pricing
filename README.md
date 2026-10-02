@@ -7,13 +7,13 @@
 > 67 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-69 write-ups on what those bills looked like in production.
+70 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (67 models)
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (1.0×–18.4×). Read **2026-10-01**; the three cheapest *to run*:
+median **6.5×** (1.5×–18.4×). Read **2026-10-02**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
@@ -67,9 +67,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (648 rows)
+## The figures, as data (661 rows)
 
-Every figure published across the 69 write-ups —
+Every figure published across the 70 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -79,6 +79,7 @@ recent write-ups — quoted verbatim, not summarised:
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
+| `$7,600` | An AI crypto trading bot reportedly made $7,600 in a week.” That line gets clicks. | [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md) |
 | `$5` | The tool runs on a $5/month VPS using Docker. | [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md) |
 | `$0.028` | With DeepSeek V4 Flash priced at just $0.028 per million tokens, developers can assign lightweight tasks like boilerplate generation or syntax checking to this model, reserving higher-cost models for nuanced logic or debugging. | [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md) |
 | `40%` | 40% of review tasks needed manual backfill, costing about 15 extra minutes each time. | [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md) |
@@ -90,9 +91,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `$10` | An AI image generation tool used Google Ads to boost its monthly paying subscribers from approximately 80 to over 500, maintaining a customer acquisition cost of around $10 per paying user. | [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md) |
 | `$1.43` | One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. | [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md) |
 | `$63,000,` | Consider Jordan, who noticed his partner spending hours manually sharing items on Poshmark, and by developing a simple 30-line JavaScript automation script to solve this pain point, he created Resellbot, which eventually scaled to a monthly revenue of $63,000, while this progression highlights how identifying such tedious manual tasks can serve as a potent foundation for building highly profitable and scalable software solutions. | [Building High-Income Single-Page Tool Sites via SEO](articles/building-high-income-single-page-tool-sites-via-seo.md) |
-| `70%` | In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. | [How to Turn the Workflows You Won't Document Into Agent Skills](articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md) |
 
-[All 648 rows](figures.md) — or as data:
+[All 661 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -153,9 +153,9 @@ write-ups land there first.
 **Reading this with a model?** [llms.txt](https://xyzs996.github.io/llm-api-pricing/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
-**By provider.** [Claude](providers/claude.md) (45) · [GPT-5.6](providers/gpt-5-6.md) (22) · [DeepSeek](providers/deepseek.md) (16) · [GLM](providers/glm.md) (15) · [Gemini](providers/gemini.md) (13) · [OpenAI](providers/openai.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [Codex](providers/codex.md) (9) · [Kimi](providers/kimi.md) (9) · [Fable 5](providers/fable-5.md) (8) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) — prices where there are prices, and every figure whose sentence names it, with the date.
+**By provider.** [Claude](providers/claude.md) (46) · [GPT-5.6](providers/gpt-5-6.md) (22) · [DeepSeek](providers/deepseek.md) (16) · [GLM](providers/glm.md) (15) · [Gemini](providers/gemini.md) (13) · [OpenAI](providers/openai.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [Codex](providers/codex.md) (9) · [Kimi](providers/kimi.md) (9) · [Fable 5](providers/fable-5.md) (8) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) — prices where there are prices, and every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (18) · [Automation Systems](topics/automation-systems.md) (17) · [SaaS Business](topics/saas-business.md) (14) · [Niche Market](topics/niche-market.md) (11) · [Productivity](topics/productivity.md) (11) · [AI Implementation](topics/ai-implementation.md) (10) · [Artificial Intelligence](topics/artificial-intelligence.md) (10) · [AI Features](topics/ai-features.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [AI Programming](topics/ai-programming.md) (8) · [Cost Savings](topics/cost-savings.md) (8) · [Development Tools](topics/development-tools.md) (7) · [AI](topics/ai.md) (6) · [AI Tools](topics/ai-tools.md) (6) · [Code Review](topics/code-review.md) (6) · [AI Automation](topics/ai-automation.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [AI Agents](topics/ai-agents.md) (4) · [Automation](topics/automation.md) (4) · [Developer Productivity](topics/developer-productivity.md) (4) · [AI Development](topics/ai-development.md) (3) · [Customer Service AI](topics/customer-service-ai.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [Software Development](topics/software-development.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (18) · [Automation Systems](topics/automation-systems.md) (17) · [SaaS Business](topics/saas-business.md) (14) · [Niche Market](topics/niche-market.md) (11) · [Productivity](topics/productivity.md) (11) · [AI Implementation](topics/ai-implementation.md) (10) · [Artificial Intelligence](topics/artificial-intelligence.md) (10) · [AI Features](topics/ai-features.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [AI Programming](topics/ai-programming.md) (8) · [Cost Savings](topics/cost-savings.md) (8) · [AI](topics/ai.md) (7) · [Development Tools](topics/development-tools.md) (7) · [AI Tools](topics/ai-tools.md) (6) · [Code Review](topics/code-review.md) (6) · [AI Automation](topics/ai-automation.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [AI Agents](topics/ai-agents.md) (4) · [Automation](topics/automation.md) (4) · [Developer Productivity](topics/developer-productivity.md) (4) · [AI Development](topics/ai-development.md) (3) · [Customer Service AI](topics/customer-service-ai.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [Software Development](topics/software-development.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -170,6 +170,12 @@ Open Code Review is an open-source review tool built for AI-assisted development
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
 `Token Optimization` `Cost Savings` `Chinese AI` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
+
+### [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md)
+
+An AI crypto trading bot reportedly made $7,600 in a week.” That line gets clicks.
+
+`AI Security` `Finance` `Multi-Agent System` `AI` · [telegra.ph](https://telegra.ph/How-a-Multi-Agent-AI-System-Made-7600-in-7-Days-for-Under-100-in-API-Costs-10-02)
 
 ### [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 

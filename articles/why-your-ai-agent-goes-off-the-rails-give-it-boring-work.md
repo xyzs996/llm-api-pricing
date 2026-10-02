@@ -67,9 +67,9 @@ None of that requires the agent to be clever. It requires the task to be bounded
 - [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 645 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 658 more, as JSON and CSV.
 
 Topics: [AI Implementation](../topics/ai-implementation.md) · [AI Programming](../topics/ai-programming.md) · [AI Agents](../topics/ai-agents.md)
 

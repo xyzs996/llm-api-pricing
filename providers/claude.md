@@ -1,12 +1,12 @@
 # Claude API pricing: what 20 models cost a coding agent
 
-Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-01**.
+Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-02**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Claude discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Claude charges per million tokens
 
-20 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-01**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+20 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-02**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Claude does not have one cache-read rate — it has 3.** Across 20 rows the discount runs from 2.5% to 10.0% of that row's own input price (2.5%, 5%, 10%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Claude's list input price overstates what an agent pays by a median **6.6×** (range 6.6×–12.6×).
 
@@ -53,8 +53,8 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | OpenAI | 9 | 10–10.4% | 6.3× | $0.2042 |
 | Llama | 3 | 12% | 6.0× | $0.2067 |
 | Grok | 5 | 15–25% | 5.0× | $0.2494 |
-| Kimi | 5 | 10–100% | 4.7× | $0.0918 |
-| GLM | 8 | 18.3–80% | 4.2× | $0.0991 |
+| Kimi | 5 | 10–26.8% | 4.9× | $0.0918 |
+| GLM | 8 | 10–63.4% | 4.2× | $0.0991 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
 | upstage | 1 | 20% | 4.1× | $0.0219 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
@@ -66,8 +66,9 @@ The spread in that fourth column is the whole point: Claude at 6.6× against GLM
 
 ## What was written about Claude while these were measured
 
-25 figures in these field notes come from a sentence that names Claude. These are quoted from the write-up, dated the day it went out — unlike the table above, they are **not** recomputed, so read each one as of its own date.
+26 figures in these field notes come from a sentence that names Claude. These are quoted from the write-up, dated the day it went out — unlike the table above, they are **not** recomputed, so read each one as of its own date.
 
+- **4 hours** — “One developer pulled this off using Claude Opus 5, a fully automated multi-agent system, and a cycle that ran every 4 hours.” (2026-10-02) [→](../articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md)
 - **90%** — “Higher accuracy than Claude Code — and a 90% drop in token usage.” (2026-10-01) [→](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - **80%** — “The Claude Code team itself found that 80% of system prompts degrade performance.” (2026-10-01) [→](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - **5-hour** — “The "5-hour limit" on AI coding agents like Claude Code is the primary bottleneck for independent developers, forcing mid-flow halts just as you hit a rhythm.” (2026-09-25) [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
@@ -94,7 +95,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against GLM
 - **$19 billion** — “Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 - **$19 billion** — “Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 
-[All 648 figures, every kind](../figures.md)
+[All 661 figures, every kind](../figures.md)
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [AI Model Costs: Beyond Per-Token Pricing](../articles/ai-model-costs-beyond-per-token-pricing.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20) · [telegra.ph](https://telegra.ph/Beyond-Token-Pricing-How-Indie-Devs-Should-Really-Evaluate-AI-Model-Costs-08-19)
@@ -103,6 +104,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against GLM
 - [Claude Code and Codex for Office Automation](../articles/claude-code-and-codex-for-office-automation.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/59) · [telegra.ph](https://telegra.ph/Office-Automation-with-Claude-Code-and-Codex-08-23)
 - [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/82) · [telegra.ph](https://telegra.ph/How-Alibabas-Open-Code-Review-Slashed-AI-Code-Review-Costs-by-90--And-What-It-Means-for-Independent-Developers-10-01)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
+- [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](../articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md) · [telegra.ph](https://telegra.ph/How-a-Multi-Agent-AI-System-Made-7600-in-7-Days-for-Under-100-in-API-Costs-10-02)
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
 - [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](../articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/74) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-Over-Prompting-in-AI-Coding-Lessons-from-Claude-Codes-Optimization-09-17)
 - [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)

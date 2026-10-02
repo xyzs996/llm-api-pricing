@@ -67,13 +67,13 @@ What I would take from the model regardless is the ordering. Choose the pair bef
 
 **Read next**
 
+- [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md)
 - [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](automating-short-video-marketing-with-ai-a-low-cost-growth.md)
 - [Never Use a Model Where Code Can Decide](never-use-a-model-where-code-can-decide.md)
-- [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 641 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 654 more, as JSON and CSV.
 
 Topics: [AI](../topics/ai.md)
 

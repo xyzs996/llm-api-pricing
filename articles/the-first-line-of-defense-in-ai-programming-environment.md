@@ -78,11 +78,11 @@ The credential your AI tool never saw is the one you never have to rotate.
 
 - [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](how-chinese-developers-are-using-codex-record-replay-to.md)
 - [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
-- [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
+- [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md)
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 644 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 657 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [AI Development](../topics/ai-development.md)
 

@@ -1,6 +1,6 @@
 # AI Programming
 
-8 of the 69 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 70 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **1,000 tokens** — The fourth is not a tool so much as an escape hatch to the entire operating system, and it is doing the work that 20 tools would do in a larger framework, which is exactly why the total comes in under 1,000 tokens. [→](../articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 - **1,000 tokens** — That is arguably the correct decision for Pi, since guided discovery is exactly the kind of thing that costs tokens in the system prompt, and the whole premise here is that the prompt stays under 1,000 tokens. [→](../articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 
-[All figures, 648 rows](../figures.md)
+[All figures, 661 rows](../figures.md)
 
 ## The write-ups
 
@@ -67,7 +67,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
 ---
 

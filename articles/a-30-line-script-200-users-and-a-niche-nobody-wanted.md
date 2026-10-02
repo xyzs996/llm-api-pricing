@@ -126,9 +126,9 @@ Independent developers can validate product demand quickly by creating a Minimum
 - [Building High-Income Single-Page Tool Sites via SEO](building-high-income-single-page-tool-sites-via-seo.md)
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 637 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 650 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [AI Automation](../topics/ai-automation.md) · [Micro SaaS](../topics/micro-saas.md)
 

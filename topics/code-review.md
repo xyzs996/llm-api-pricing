@@ -1,6 +1,6 @@
 # Code Review
 
-6 of the 69 write-ups here are tagged Code Review. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 70 write-ups here are tagged Code Review. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **80%** — When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - **80%** — Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
-[All figures, 648 rows](../figures.md)
+[All figures, 661 rows](../figures.md)
 
 ## The write-ups
 
@@ -55,7 +55,7 @@ Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in R
 
 ---
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
 ---
 

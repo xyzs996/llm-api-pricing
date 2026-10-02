@@ -52,9 +52,9 @@ One key lesson is to avoid over-automating by focusing only on nodes that truly 
 - [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.md)
 - [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
-The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 636 more, as JSON and CSV.
+The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 649 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [AI Automation](../topics/ai-automation.md)
 

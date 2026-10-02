@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-648 figures pulled out of 69 write-ups in
+661 figures pulled out of 70 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,26 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://xy
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](https://xyzs996.github.io/llm-api-pricing/articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.html)
+
+Published 2026-10-02.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$7,600` | price | An AI crypto trading bot reportedly made $7,600 in a week.” That line gets clicks. |
+| `$100` | price | The real story isn’t the profit — it’s the cost: under $100 in API fees. |
+| `4 hours` | duration | One developer pulled this off using Claude Opus 5, a fully automated multi-agent system, and a cycle that ran every 4 hours. |
+| `$7,600` | price | The net gain was around 55,000 RMB (~$7,600), sustained for 7 days. |
+| `7 days` | duration | The net gain was around 55,000 RMB (~$7,600), sustained for 7 days. |
+| `4 hours` | duration | It re-ran its strategy calibration every 4 hours, pulling fresh on-chain metrics and social sentiment. |
+| `7 days` | duration | And yes, a human reviewed the output on 3 of the 7 days — not to pick trades, but to adjust limits and stop-loss thresholds. |
+| `20%` | percent | Similarly, treating AI as a tool rather than a results engine often leads to poor user retention, which was evident in one case where a SaaS-style AI product saw only 20% month-on-month renewal until it shifted focus from selling access to delivering guaranteed outcomes for high-revenue clients, a transition that ultimately revealed how value perception changes when success is contractually assured rather than left to user interpretation. |
+| `60%` | percent | After repositioning its offering around results, renewal rates climbed to over 60%. |
+| `4 hours` | duration | Every 4 hours: |
+| `60%` | percent | The five core functions — model aggregation, interface routing, data handling, billing, and access control — cut dev ops time by about 60%. |
+| `7 days` | duration | They’re why it lasted 7 days — not 7 hours. |
+| `7 hours` | duration | They’re why it lasted 7 days — not 7 hours. |
 
 ## [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](https://xyzs996.github.io/llm-api-pricing/articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.html)
 
@@ -1186,5 +1206,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "648 figures pulled out of 69 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-10-01", "dateModified": "2026-10-01"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "661 figures pulled out of 70 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-10-02", "dateModified": "2026-10-02"}
 </script>

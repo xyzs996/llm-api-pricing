@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-10 of the 69 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+10 of the 70 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **1000-token** — Still, I'd say the Pi base framework's 1000-token limit seems overstated. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 - **1000 tokens** — Its initial system prompt and tool description total under 1000 tokens. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 
-[All figures, 648 rows](../figures.md)
+[All figures, 661 rows](../figures.md)
 
 ## The write-ups
 
@@ -79,7 +79,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
 ---
 
