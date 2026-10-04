@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#4f46e5">
+  {% seo %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=2">
+  {% include head-custom.html %}
+</head>
+{%- assign is_home = false -%}
+{%- if page.url == '/' or page.url == '/index.html' -%}{%- assign is_home = true -%}{%- endif -%}
+{%- assign is_article = false -%}
+{%- if page.url contains '/articles/' -%}{%- assign is_article = true -%}{%- endif -%}
+<body class="{% if is_home %}home{% elsif is_article %}article{% else %}page{% endif %}">
+  <header class="nav">
+    <div class="wrap nav-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <span class="brand-mark" aria-hidden="true">◆</span>
+        <span>{{ site.title }}</span>
+      </a>
+      <nav class="nav-links" aria-label="Main">
+        <a href="{{ '/articles.html' | relative_url }}">Write-ups</a>
+        <a href="{{ '/prices.html' | relative_url }}">Prices</a>
+        <a class="hide-sm" href="{{ '/figures.html' | relative_url }}">Data</a>
+        <a class="btn btn-sm" href="#subscribe-box" data-umami-event="nav-subscribe">Subscribe</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap main">
+    {%- if is_article -%}
+    <article class="prose">
+      <p class="meta">
+        {%- if page.date -%}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>{%- endif -%}
+        {%- assign words = content | strip_html | number_of_words -%}
+        <span>{{ words | divided_by: 230 | plus: 1 }} min read</span>
+      </p>
+      {{ content }}
+    </article>
+    {%- elsif is_home -%}
+    {{ content }}
+    {%- else -%}
+    <div class="prose prose-wide">{{ content }}</div>
+    {%- endif -%}
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <div>
+        <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark" aria-hidden="true">◆</span><span>{{ site.title }}</span></a>
+        <p class="muted">Field notes on what AI coding agents cost in production. Prices re-read daily.</p>
+      </div>
+      <div class="footer-links">
+        <a href="{{ '/articles.html' | relative_url }}">All write-ups</a>
+        <a href="{{ '/prices.html' | relative_url }}">Price table</a>
+        <a href="{{ '/figures.html' | relative_url }}">Every number, sourced</a>
+        <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+        <a href="https://github.com/{{ site.github.repository_nwo | default: 'xyzs996/llm-api-pricing' }}">GitHub</a>
+      </div>
+    </div>
+    <div class="wrap fine">Text and data CC BY 4.0. Written with AI assistance; figures without a traceable source are cut before publishing.</div>
+  </footer>
+</body>
+</html>

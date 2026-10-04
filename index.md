@@ -1,67 +1,11 @@
 # What AI coding agents really cost
 
-Field notes from running AI coding agents in production: real bills, real token mixes, what broke and what worked. Written for solo developers and small teams.
+<div class="hero"><p class="hero-lede">Field notes from running AI coding agents in production: real bills, real token mixes, what broke and what worked. Written for solo developers and small teams.</p><div id="subscribe-box"><form class="sub-form" action="https://buttondown.com/api/emails/embed-subscribe/spectracode" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/spectracode','popupwindow')"><input class="field" type="email" name="email" placeholder="you@company.com" aria-label="Email address" required><input type="hidden" value="1" name="embed"><button class="btn" type="submit" data-umami-event="subscribe-home">Get the notes</button></form><p class="sub-note">New write-ups and model price changes, about once a week. Free. No spam; unsubscribe in one click.</p></div><ul class="trust"><li><b>70 write-ups</b> from production</li><li><b>67 models</b> repriced daily</li><li>Every number <b>sourced</b></li></ul></div>
 
-<div id="subscribe-box" style="border:1px solid #ddd;border-radius:8px;padding:14px 16px;margin:22px 0"><p style="margin:0 0 8px"><strong>Get the next one by email</strong><br><span style="font-size:.9em;color:#555">New write-ups and price changes by email, about once a week. No spam; unsubscribe in one click.</span></p><form action="https://buttondown.com/api/emails/embed-subscribe/spectracode" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/spectracode','popupwindow')"><input type="email" name="email" placeholder="you@example.com" required style="padding:6px 8px;width:62%;max-width:260px"> <input type="hidden" value="1" name="embed"> <button type="submit" data-umami-event="subscribe-home" style="padding:6px 12px">Subscribe</button></form></div>
+<section class="section"><div class="section-head"><h2>Latest write-ups</h2><a href="https://spectracodeai.com/articles.html">All 70 write-ups →</a></div><div class="grid"><a class="card" href="https://spectracodeai.com/articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.html"><div class="card-body"><span class="card-tag">AI Security</span><h3>How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs</h3><p>An AI crypto trading bot reportedly made $7,600 in a week.” That line gets clicks.</p><div class="card-meta">Oct 2, 2026 · 8 min read</div></div></a><a class="card" href="https://spectracodeai.com/articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.html"><div class="card-body"><span class="card-tag">Developer Productivity</span><h3>How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers</h3><p>In July 2026, Alibaba open-sourced Open Code Review.</p><div class="card-meta">Oct 1, 2026 · 8 min read</div></div></a><a class="card" href="https://spectracodeai.com/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html"><div class="card-body"><span class="card-tag">Codex</span><h3>Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings</h3><p>If you&#x27;re hitting the 5-hour Codex limit like clockwork every day, stop counting minutes.</p><div class="card-meta">Sep 30, 2026 · 8 min read</div></div></a><a class="card" href="https://spectracodeai.com/articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.html"><div class="card-body"><span class="card-tag">AI Agents</span><h3>Your AI Didn&#x27;t Misread Your Code by Accident. You Handed It the Wrong Context.</h3><p>&quot;If your AI keeps writing bad code, you need a better model.&quot; In each of the rebuilds below, a new model wouldn&#x27;t have fixed anything, because the model was reading the wrong thing.</p><div class="card-meta">Sep 25, 2026 · 9 min read</div></div></a><a class="card" href="https://spectracodeai.com/articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.html"><div class="card-body"><span class="card-tag">Artificial Intelligence</span><h3>Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models</h3><p>The &quot;5-hour limit&quot; on AI coding agents like Claude Code is the primary bottleneck for independent developers, forcing mid-flow halts just as you hit a rhythm.</p><div class="card-meta">Sep 25, 2026 · 8 min read</div></div></a><a class="card" href="https://spectracodeai.com/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html"><div class="card-body"><span class="card-tag">Enterprise AI</span><h3>Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)</h3><p>An automated game guide pipeline was left running for a month.</p><div class="card-meta">Sep 24, 2026 · 7 min read</div></div></a><a class="card" href="https://spectracodeai.com/articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.html"><div class="card-body"><span class="card-tag">Artificial Intelligence</span><h3>Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation</h3><p>Jordan, an independent developer, now earns $63,000 a month from Resellbot, a tool that handles the daily sharing Poshmark sellers used to do by hand.</p><div class="card-meta">Sep 21, 2026 · 9 min read</div></div></a><a class="card" href="https://spectracodeai.com/articles/i-built-a-wechat-official-account-writing-agent-that-cuts.html"><div class="card-body"><span class="card-tag">AI Automation</span><h3>I built a WeChat Official Account writing Agent that cuts work time by 80% — here’s the workflow filter and tool combo I used</h3><p>My WeChat Official Account writing Agent now finishes its run in about 11 minutes of machine time.</p><div class="card-meta">Sep 21, 2026 · 8 min read</div></div></a><a class="card" href="https://spectracodeai.com/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html"><div class="card-body"><span class="card-tag">AI Tools</span><h3>The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code&#x27;s Optimization</h3><p>The myth that more detailed prompts always lead to better AI coding outcomes is being debunked by developers who have seen firsthand how excessive prompting can actually reduce efficiency.</p><div class="card-meta">Sep 17, 2026 · 7 min read</div></div></a></div></section>
 
-## Latest write-ups
+<section class="section"><div class="section-head"><h2>Browse by topic</h2></div><div class="chips"><a class="chip" href="https://spectracodeai.com/topics/indie-development.html">Indie Development<span>18</span></a><a class="chip" href="https://spectracodeai.com/topics/automation-systems.html">Automation Systems<span>17</span></a><a class="chip" href="https://spectracodeai.com/topics/saas-business.html">SaaS Business<span>14</span></a><a class="chip" href="https://spectracodeai.com/topics/niche-market.html">Niche Market<span>11</span></a><a class="chip" href="https://spectracodeai.com/topics/productivity.html">Productivity<span>11</span></a><a class="chip" href="https://spectracodeai.com/topics/ai-implementation.html">AI Implementation<span>10</span></a><a class="chip" href="https://spectracodeai.com/topics/artificial-intelligence.html">Artificial Intelligence<span>10</span></a><a class="chip" href="https://spectracodeai.com/topics/ai-features.html">AI Features<span>9</span></a><a class="chip" href="https://spectracodeai.com/topics/ai-costs.html">AI Costs<span>8</span></a><a class="chip" href="https://spectracodeai.com/topics/ai-programming.html">AI Programming<span>8</span></a></div></section>
 
-### [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](https://spectracodeai.com/articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.html)
+<section class="section"><div class="section-head"><h2>Tools and data</h2></div><div class="tools"><a class="tool" href="https://spectracodeai.com/prices.html"><span class="tool-ico">📊</span><h3>Daily price table</h3><p>What each model costs at a real coding-agent token mix, re-read every day.</p></a><a class="tool" href="https://xyzs996.github.io/llm-cost-calculator/"><span class="tool-ico">🧮</span><h3>Cost calculator</h3><p>Plug in your own token mix and see the monthly bill before you switch models.</p></a><a class="tool" href="https://spectracodeai.com/figures.html"><span class="tool-ico">🔎</span><h3>Every number, sourced</h3><p>Each figure quoted in the write-ups, next to the sentence it came from.</p></a></div></section>
 
-An AI crypto trading bot reportedly made $7,600 in a week.” That line gets clicks.
-
-### [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](https://spectracodeai.com/articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.html)
-
-In July 2026, Alibaba open-sourced Open Code Review.
-
-### [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](https://spectracodeai.com/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html)
-
-If you're hitting the 5-hour Codex limit like clockwork every day, stop counting minutes.
-
-### [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](https://spectracodeai.com/articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.html)
-
-"If your AI keeps writing bad code, you need a better model." In each of the rebuilds below, a new model wouldn't have fixed anything, because the model was reading the wrong thing.
-
-### [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](https://spectracodeai.com/articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.html)
-
-The "5-hour limit" on AI coding agents like Claude Code is the primary bottleneck for independent developers, forcing mid-flow halts just as you hit a rhythm.
-
-### [Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)](https://spectracodeai.com/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html)
-
-An automated game guide pipeline was left running for a month.
-
-### [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](https://spectracodeai.com/articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.html)
-
-Jordan, an independent developer, now earns $63,000 a month from Resellbot, a tool that handles the daily sharing Poshmark sellers used to do by hand.
-
-### [I built a WeChat Official Account writing Agent that cuts work time by 80% — here’s the workflow filter and tool combo I used](https://spectracodeai.com/articles/i-built-a-wechat-official-account-writing-agent-that-cuts.html)
-
-My WeChat Official Account writing Agent now finishes its run in about 11 minutes of machine time.
-
-### [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](https://spectracodeai.com/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html)
-
-The myth that more detailed prompts always lead to better AI coding outcomes is being debunked by developers who have seen firsthand how excessive prompting can actually reduce efficiency.
-
-### [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](https://spectracodeai.com/articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.html)
-
-On September 6 a marketer in a Chinese paid community posted his token bill.
-
-### [Building High-Income Single-Page Tool Sites via SEO](https://spectracodeai.com/articles/building-high-income-single-page-tool-sites-via-seo.html)
-
-Jason Gillyon's ConvertCase.net is a one-page tool that converts text to title case or sentence case.
-
-### [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](https://spectracodeai.com/articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.html)
-
-If you are using agents like Claude Code or GPT-5.6 Sol to generate CAD parts, 3D web scenes, or application UIs, you already know the demo phase is over.
-
-[All 70 write-ups →](https://spectracodeai.com/articles.html)
-
-## Tools and data
-
-- [Daily price table](https://spectracodeai.com/prices.html) — what each model costs at a real agent token mix, re-read every day
-- [Cost calculator](https://xyzs996.github.io/llm-cost-calculator/) — price your own token mix
-- [Every number, with its source](https://spectracodeai.com/figures.html) — each figure quoted in the write-ups, next to the sentence it came from
-
----
-
-[Atom feed](https://spectracodeai.com/feed.xml) · [GitHub](https://github.com/xyzs996/llm-api-pricing) · data CC BY 4.0
+<div class="cta-band"><h2>Know what your agents will cost before the bill does</h2><p>New write-ups and model price changes, about once a week. Free. No spam; unsubscribe in one click.</p><form class="sub-form" action="https://buttondown.com/api/emails/embed-subscribe/spectracode" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/spectracode','popupwindow')"><input class="field" type="email" name="email" placeholder="you@company.com" aria-label="Email address" required><input type="hidden" value="1" name="embed"><button class="btn" type="submit" data-umami-event="subscribe-footer-band">Get the notes</button></form></div>
