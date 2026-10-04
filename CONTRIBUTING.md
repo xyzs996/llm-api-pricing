@@ -9,7 +9,7 @@ it could not do, a link died. [Open a correction](https://github.com/xyzs996/llm
 one field is required, the rest are optional. A source link helps but a bare
 "this is stale now" is still worth having.
 
-Every figure in [`data/figures.json`](https://xyzs996.github.io/llm-api-pricing/data/figures.json) carries the
+Every figure in [`data/figures.json`](https://spectracodeai.com/data/figures.json) carries the
 sentence it came from, so a correction can point at the exact row.
 
 ## Your own numbers
@@ -28,4 +28,4 @@ collection only has one on. [Start a discussion](https://github.com/xyzs996/llm-
 ## Reuse
 
 Everything here is [CC BY 4.0](LICENSE). Copy it, republish it, sell it —
-just say where it came from and link back to <https://xyzs996.github.io/llm-api-pricing/>.
+just say where it came from and link back to <https://spectracodeai.com/>.

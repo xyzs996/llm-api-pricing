@@ -2,7 +2,7 @@
 
 **English** · [中文](./README_CN.md) · [Español](./README_ES.md) · [日本語](./README_JA.md) · [한국어](./README_KO.md) · [Tiếng Việt](./README_VI.md) · [Français](./README_FR.md) · [Deutsch](./README_DE.md) · [Русский](./README_RU.md) · [Bahasa Indonesia](./README_ID.md)
 
-[![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
+[![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://spectracodeai.com/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 > 67 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
@@ -13,7 +13,7 @@ Two things: a price table re-read from OpenRouter's catalog every day, and
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (1.5×–18.4×). Read **2026-10-03**; the three cheapest *to run*:
+median **6.5×** (1.0×–18.4×). Read **2026-10-04**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.jso
 the long-context step, the vendor, and where the model places in the agent benchmark. Rebuilt every day from
 OpenRouter's catalog at paths that do not move.
 
-The CDN serves a branch reference and refreshes about every 12 hours; for today's build without the cache, read [`prices.csv`](https://xyzs996.github.io/llm-api-pricing/prices.csv) off the site. CC BY 4.0 — take it, no attribution ceremony needed
+The CDN serves a branch reference and refreshes about every 12 hours; for today's build without the cache, read [`prices.csv`](https://spectracodeai.com/prices.csv) off the site. CC BY 4.0 — take it, no attribution ceremony needed
 beyond the license.
 
 **Star this repository** to bookmark the table and follow releases.
@@ -59,7 +59,7 @@ it. What a star does change is whether the next person looking for
 these numbers finds them — GitHub weighs star count in search results
 and in the repositories it suggests alongside this one.
 
-**Read these on the web:** [AI Coding Field Notes](https://xyzs996.github.io/llm-api-pricing/) — the same write-ups with the figures table, the topic pages and the
+**Read these on the web:** [AI Coding Field Notes](https://spectracodeai.com/) — the same write-ups with the figures table, the topic pages and the
 links between them.
 
 **On the figures.** Every number here traces back to a named source or
@@ -108,7 +108,7 @@ Browse it as a table:
 Those two go through jsDelivr, which caches `@main` for up to 12
 hours — fine for a table that is rebuilt once a day. If you want
 it uncached, the origin is
-`https://xyzs996.github.io/llm-api-pricing/data/figures.json`.
+`https://spectracodeai.com/data/figures.json`.
 
 A number without its sentence is not checkable — `$1.43` could be
 per million tokens, per month, or per seat. The sentence is quoted
@@ -147,10 +147,10 @@ sentence and the date included:
 - [What does a one-person software product actually make — and how many months before it made anything?](https://github.com/xyzs996/llm-api-pricing/discussions/8) — the published monthly revenue figures next to the months each one took to get there, including the eighteen-month one.
 - [Short video for indie products: 95% organic sounds great until you ask how many hours a week it costs](https://github.com/xyzs996/llm-api-pricing/discussions/9) — the reach figures next to the weekly hour counts behind them, and why an organic share with no denominator is not a result.
 
-**Follow along.** [Atom feed](https://xyzs996.github.io/llm-api-pricing/feed.xml) — new
+**Follow along.** [Atom feed](https://spectracodeai.com/feed.xml) — new
 write-ups land there first.
 
-**Reading this with a model?** [llms.txt](https://xyzs996.github.io/llm-api-pricing/llms.txt)
+**Reading this with a model?** [llms.txt](https://spectracodeai.com/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
 **By provider.** [Claude](providers/claude.md) (46) · [GPT-5.6](providers/gpt-5-6.md) (22) · [DeepSeek](providers/deepseek.md) (16) · [GLM](providers/glm.md) (15) · [Gemini](providers/gemini.md) (13) · [OpenAI](providers/openai.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [Codex](providers/codex.md) (9) · [Kimi](providers/kimi.md) (9) · [Fable 5](providers/fable-5.md) (8) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) — prices where there are prices, and every figure whose sentence names it, with the date.
@@ -591,4 +591,4 @@ Copyright © 2026 xyzs996. Everything here — the write-ups in
 [CC BY 4.0](LICENSE): copy it, republish it, build on it, sell it.
 
 One condition: say where it came from. A link back to
-<https://xyzs996.github.io/llm-api-pricing/> next to whatever you reuse is enough.
+<https://spectracodeai.com/> next to whatever you reuse is enough.

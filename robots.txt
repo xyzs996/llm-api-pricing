@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xyzs996.github.io/llm-api-pricing/sitemap.xml
+Sitemap: https://spectracodeai.com/sitemap.xml

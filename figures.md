@@ -41,7 +41,7 @@ on Medium, not that we failed to look.
 
 Served over jsDelivr, which caches `@main` for up to 12 hours —
 the table is rebuilt at most once a day, so that is close enough.
-Uncached origin: `https://xyzs996.github.io/llm-api-pricing/data/figures.json`.
+Uncached origin: `https://spectracodeai.com/data/figures.json`.
 
 **Want a figure that is not in here yet?** Say which metric,
 which provider, which unit [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=figures.md) —
@@ -56,7 +56,7 @@ find it — the rows are CC BY and do not require one.
 
 ## [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](https://markyanai.medium.com/the-cost-effective-guide-to-using-open-code-review-for-ai-programming-tools-d144b9bb5b46)
 
-Published 2026-08-10. Originally published on Medium; [the copy here](https://xyzs996.github.io/llm-api-pricing/articles/the-cost-effective-guide-to-using-open-code-review-for-ai.html) carries the same sentences.
+Published 2026-08-10. Originally published on Medium; [the copy here](https://spectracodeai.com/articles/the-cost-effective-guide-to-using-open-code-review-for-ai.html) carries the same sentences.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -65,7 +65,7 @@ Published 2026-08-10. Originally published on Medium; [the copy here](https://xy
 
 ## [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://markyanai.medium.com/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens-69b483c4eb6a)
 
-Published 2026-08-07. Originally published on Medium; [the copy here](https://xyzs996.github.io/llm-api-pricing/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html) carries the same sentences.
+Published 2026-08-07. Originally published on Medium; [the copy here](https://spectracodeai.com/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html) carries the same sentences.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://xy
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
 
-## [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](https://xyzs996.github.io/llm-api-pricing/articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.html)
+## [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](https://spectracodeai.com/articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.html)
 
 Published 2026-10-02.
 
@@ -109,7 +109,7 @@ Published 2026-10-02.
 | `7 days` | duration | They’re why it lasted 7 days — not 7 hours. |
 | `7 hours` | duration | They’re why it lasted 7 days — not 7 hours. |
 
-## [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](https://xyzs996.github.io/llm-api-pricing/articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.html)
+## [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](https://spectracodeai.com/articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.html)
 
 Published 2026-10-01.
 
@@ -120,7 +120,7 @@ Published 2026-10-01.
 | `$5` per month | price | The tool runs on a $5/month VPS using Docker. |
 | `80%` | percent | The Claude Code team itself found that 80% of system prompts degrade performance. |
 
-## [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](https://xyzs996.github.io/llm-api-pricing/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html)
+## [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](https://spectracodeai.com/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html)
 
 Published 2026-09-30.
 
@@ -149,7 +149,7 @@ Published 2026-09-30.
 | `$0.028` | price | Headline: Codex vs. OpenCodex: One Costs $0.028/M Token. |
 | `5 Hours` | duration | The Other Resets Every 5 Hours. |
 
-## [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](https://xyzs996.github.io/llm-api-pricing/articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.html)
+## [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](https://spectracodeai.com/articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.html)
 
 Published 2026-09-25.
 
@@ -159,7 +159,7 @@ Published 2026-09-25.
 | `40%` | percent | 40% of review tasks needed manual backfill, costing about 15 extra minutes each time. |
 | `15 minutes` | duration | I'd argue that silence is the real cost here, more than the 15 minutes. |
 
-## [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](https://xyzs996.github.io/llm-api-pricing/articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.html)
+## [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](https://spectracodeai.com/articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.html)
 
 Published 2026-09-25.
 
@@ -174,7 +174,7 @@ Published 2026-09-25.
 | `$1.43` | price | The price spread is wide even among the Western flagships, which becomes obvious on ReactBench, where one run with GPT 5.6 Sol costs about $1.43 while one run with Fable 5 costs $9.05, which means that a single Fable 5 run comes to a bit more than six times as much as the GPT 5.6 Sol run does. |
 | `$9.05` | price | The price spread is wide even among the Western flagships, which becomes obvious on ReactBench, where one run with GPT 5.6 Sol costs about $1.43 while one run with Fable 5 costs $9.05, which means that a single Fable 5 run comes to a bit more than six times as much as the GPT 5.6 Sol run does. |
 
-## [Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)](https://xyzs996.github.io/llm-api-pricing/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html)
+## [Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)](https://spectracodeai.com/articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.html)
 
 Published 2026-09-24.
 
@@ -187,7 +187,7 @@ Published 2026-09-24.
 | `20%` | percent | I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year. |
 | `60%` | percent | I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year. |
 
-## [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](https://xyzs996.github.io/llm-api-pricing/articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.html)
+## [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](https://spectracodeai.com/articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.html)
 
 Published 2026-09-21.
 
@@ -206,7 +206,7 @@ Published 2026-09-21.
 | `50 minutes` | duration | For example, those without coding skills can use AI Agents to automate the monitoring of tender announcements As highlighted in, they can reduce the daily manual check time from 1 hour to just 15–50 minutes. |
 | `78%` | percent | Through screening from 6 sources, they can retain 14 genuine announcements while cutting down noise by 78%. |
 
-## [I built a WeChat Official Account writing Agent that cuts work time by 80% — here’s the workflow filter and tool combo I used](https://xyzs996.github.io/llm-api-pricing/articles/i-built-a-wechat-official-account-writing-agent-that-cuts.html)
+## [I built a WeChat Official Account writing Agent that cuts work time by 80% — here’s the workflow filter and tool combo I used](https://spectracodeai.com/articles/i-built-a-wechat-official-account-writing-agent-that-cuts.html)
 
 Published 2026-09-21.
 
@@ -225,7 +225,7 @@ Published 2026-09-21.
 | `80%` | percent | The machine runs for about 11 minutes, and human review takes 10–20 minutes, leading to a total time reduction of ~80%–90%. |
 | `90%` | percent | The machine runs for about 11 minutes, and human review takes 10–20 minutes, leading to a total time reduction of ~80%–90%. |
 
-## [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html)
+## [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](https://spectracodeai.com/articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.html)
 
 Published 2026-09-17.
 
@@ -237,7 +237,7 @@ Published 2026-09-17.
 | `9 token` | tokens | Open Code Review's 1/9 token efficiency compared to general agents shows that minimal but well-structured prompts can achieve superior results. |
 | `80%` | percent | Over-constraining prompts can hinder AI reasoning; for example, Claude Code’s team reduced their system prompt word count by 80% without any performance decline. |
 
-## [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](https://xyzs996.github.io/llm-api-pricing/articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.html)
+## [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](https://spectracodeai.com/articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.html)
 
 Published 2026-09-16.
 
@@ -262,7 +262,7 @@ Published 2026-09-16.
 | `$50` per month | price | For calibration on what that market bears: indie developers report paying $10 to $50 a month for SEO data, a tenth to a quarter of a Semrush seat. |
 | `30 week` | duration | The image-tool operator waited for 30 weekly purchases before he'd even let the ad platform change what it optimized for. |
 
-## [Building High-Income Single-Page Tool Sites via SEO](https://xyzs996.github.io/llm-api-pricing/articles/building-high-income-single-page-tool-sites-via-seo.html)
+## [Building High-Income Single-Page Tool Sites via SEO](https://spectracodeai.com/articles/building-high-income-single-page-tool-sites-via-seo.html)
 
 Published 2026-09-15.
 
@@ -291,7 +291,7 @@ Published 2026-09-15.
 | `$16,000` | price | It generates a monthly income of $16,000 and has over 400 paid subscribers. |
 | `50%` | percent | His SEO efforts, a major driver contributing around 50% of his traffic, are honed in on SEO-optimized content and strategic marketing; this approach ensures a steady flow of users and a successful monetization model, which is key to his growth strategy, as seen with BlogToPin, Nic Polotnianko's Pinterest automation tool. |
 
-## [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](https://xyzs996.github.io/llm-api-pricing/articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.html)
+## [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](https://spectracodeai.com/articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.html)
 
 Published 2026-09-15.
 
@@ -305,7 +305,7 @@ Published 2026-09-15.
 | `$0.028` per million tokens | price | DeepSeek V4 Flash costs $0.028 per million tokens and is fast. |
 | `400 tokens` | tokens | For example, Anthropic’s frontend-design (approximately 400 tokens) uses a two-pass method for aesthetic guidance and has been installed over a million times. |
 
-## [How to Turn the Workflows You Won't Document Into Agent Skills](https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html)
+## [How to Turn the Workflows You Won't Document Into Agent Skills](https://spectracodeai.com/articles/how-to-turn-the-workflows-you-won-t-document-into-agent.html)
 
 Published 2026-09-14.
 
@@ -324,7 +324,7 @@ Published 2026-09-14.
 | `70%` | percent | The 70% You Keep Redoing: Turning Undocumented Chores Into Agent Skills |
 | `215 Minutes` | duration | From 215 Minutes to About 30: What Reusable Agent Skills Actually Take |
 
-## [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](https://xyzs996.github.io/llm-api-pricing/articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.html)
+## [The AI Automation Ceiling: Why 60% Efficiency Doesn't Equal 20% Conversion](https://spectracodeai.com/articles/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.html)
 
 Published 2026-09-05.
 
@@ -336,7 +336,7 @@ Published 2026-09-05.
 | `99.96%` | percent | The client service system crushed repetitive work with 99.96% coverage, yet virtual product workflows still bog down when AI can’t replace business judgment or smooth delivery. |
 | `60%` | percent | For instance, the recruitment automation tool saw a 60% efficiency boost by precisely defining task boundaries and adding verification steps. |
 
-## [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](https://xyzs996.github.io/llm-api-pricing/articles/the-real-pitfalls-of-ai-agent-development-from-code.html)
+## [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](https://spectracodeai.com/articles/the-real-pitfalls-of-ai-agent-development-from-code.html)
 
 Published 2026-09-05.
 
@@ -345,7 +345,7 @@ Published 2026-09-05.
 | `72%` | percent | Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production. |
 | `45%` | percent | Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production. |
 
-## [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](https://xyzs996.github.io/llm-api-pricing/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html)
+## [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](https://spectracodeai.com/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html)
 
 Published 2026-08-28.
 
@@ -359,7 +359,7 @@ Published 2026-08-28.
 | `15-year` | duration | Connecting an AI agent to a 15-year-old inventory system can take months. |
 | `$0` | price | From $0 to M ARR: The WhatsApp AI Support Playbook |
 
-## [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](https://xyzs996.github.io/llm-api-pricing/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html)
+## [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](https://spectracodeai.com/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html)
 
 Published 2026-08-24.
 
@@ -376,7 +376,7 @@ Published 2026-08-24.
 | `60-second` | duration | Case Study: Rapid User Acquisition — A developer used short video channels to promote their product, focusing on showing its key features and benefits within a 60-second timeframe. |
 | `60-second` | duration | I once bet on 60-second validation, but now I’m skeptical about whether this approach works for every product. |
 
-## [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://xyzs996.github.io/llm-api-pricing/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html)
+## [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html)
 
 Published 2026-08-24.
 
@@ -447,7 +447,7 @@ Published 2026-08-24.
 | `80%` | percent | Push it down toward 80%, which short sessions and cold starts and a pile of new files will do, and the vendors with cheap cache reads lose their edge; the comparison drifts back toward the card price, and back toward the Chinese side. |
 | `98%` | percent | Push it past 98%, which long runs on a stable repo will do, and the flat-ten vendors stretch further ahead. |
 
-## [Never Use a Model Where Code Can Decide](https://xyzs996.github.io/llm-api-pricing/articles/never-use-a-model-where-code-can-decide.html)
+## [Never Use a Model Where Code Can Decide](https://spectracodeai.com/articles/never-use-a-model-where-code-can-decide.html)
 
 Published 2026-08-23.
 
@@ -457,7 +457,7 @@ Published 2026-08-23.
 | `30%` | percent | I do not believe the 30%. |
 | `1,000 tokens` | tokens | One counterweight runs against all of this, and it comes from a coding agent built on an open base called Pi with only four tools, namely read, write, edit and bash, whose initial system prompt and tool descriptions together came to under 1,000 tokens. |
 
-## [The $22K-a-Month AI Tool That Never Bought a Single Ad](https://xyzs996.github.io/llm-api-pricing/articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.html)
+## [The $22K-a-Month AI Tool That Never Bought a Single Ad](https://spectracodeai.com/articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.html)
 
 Published 2026-08-23.
 
@@ -475,7 +475,7 @@ Published 2026-08-23.
 | `$1.2 million` | price | StoryShort was listed at $1.2 million, about 4.4 times annual revenue, at a point when its most recent thirty days were running 11% below the thirty before them. |
 | `11%` | percent | StoryShort was listed at $1.2 million, about 4.4 times annual revenue, at a point when its most recent thirty days were running 11% below the thirty before them. |
 
-## [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](https://xyzs996.github.io/llm-api-pricing/articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.html)
+## [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](https://spectracodeai.com/articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.html)
 
 Published 2026-08-23.
 
@@ -489,7 +489,7 @@ Published 2026-08-23.
 | `90 minutes` | duration | The results people report from this are unglamorous and large: a security team that froze its vulnerability-scanning routine into a package watched its bug bounty income triple, and a daily-report routine standardised the same way dropped from 90 minutes to 8. |
 | `5 minutes` | duration | WorkBuddy and BrowserAct put numbers on the same shift for e-commerce sellers: a competitor pricing table in 5 minutes, a product opportunity report in 7. |
 
-## [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](https://xyzs996.github.io/llm-api-pricing/articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.html)
+## [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](https://spectracodeai.com/articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.html)
 
 Published 2026-08-23.
 
@@ -498,7 +498,7 @@ Published 2026-08-23.
 | `20%` | percent | Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. |
 | `5 minutes` | duration | Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. |
 
-## [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.html)
+## [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](https://spectracodeai.com/articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.html)
 
 Published 2026-08-23.
 
@@ -508,7 +508,7 @@ Published 2026-08-23.
 | `20%` | percent | Developers should build buffer time into their workflows when using Chinese AI coding tools, which is illustrated by the fact that one developer added 20% extra time to their coding sessions when using these tools because of the higher frequency of stability issues. |
 | `30%` | percent | Those who have already made the switch to Chinese tools have seen productivity increases of up to 30%. |
 
-## [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](https://xyzs996.github.io/llm-api-pricing/articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.html)
+## [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](https://spectracodeai.com/articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.html)
 
 Published 2026-08-22.
 
@@ -517,7 +517,7 @@ Published 2026-08-22.
 | `1000 tokens` | tokens | Its initial system prompt and tool description total under 1000 tokens. |
 | `1000-token` | tokens | Still, I'd say the Pi base framework's 1000-token limit seems overstated. |
 
-## [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](https://xyzs996.github.io/llm-api-pricing/articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.html)
+## [Why Vanity Metrics Kill AI Startups: 700 Customers and 60,000 RMB From One Niche Account](https://spectracodeai.com/articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.html)
 
 Published 2026-08-22.
 
@@ -539,7 +539,7 @@ Published 2026-08-22.
 | `$22,000` | price | Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative. |
 | `$500,000` | price | Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative. |
 
-## [Claude Code and Codex for Office Automation](https://xyzs996.github.io/llm-api-pricing/articles/claude-code-and-codex-for-office-automation.html)
+## [Claude Code and Codex for Office Automation](https://spectracodeai.com/articles/claude-code-and-codex-for-office-automation.html)
 
 Published 2026-08-22.
 
@@ -547,7 +547,7 @@ Published 2026-08-22.
 | --- | --- | --- |
 | `80%` | percent | For instance, Claude Code's efficient programming capabilities, achieved by removing 80% of system prompts, which show these tools' potential, allow independent developers to automate document processing, data analysis, and other tasks, thus benefiting businesses by improving efficiency. |
 
-## [Best Practices for AI Agent Skill Management](https://xyzs996.github.io/llm-api-pricing/articles/best-practices-for-ai-agent-skill-management.html)
+## [Best Practices for AI Agent Skill Management](https://spectracodeai.com/articles/best-practices-for-ai-agent-skill-management.html)
 
 Published 2026-08-21.
 
@@ -565,7 +565,7 @@ Published 2026-08-21.
 | `90%` | percent | 90% of beginners fixate on tools (e.g., Pi's 4 default tools: read/write/edit/bash) instead of defining clear task boundaries. |
 | `3x` | multiple | Example: A security team's bug bounty process improved 3x by adding context to Skill package, not just using new tools. |
 
-## [Debunking the Myth of Overnight Success in Micro-SaaS](https://xyzs996.github.io/llm-api-pricing/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html)
+## [Debunking the Myth of Overnight Success in Micro-SaaS](https://spectracodeai.com/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html)
 
 Published 2026-08-21.
 
@@ -590,7 +590,7 @@ Published 2026-08-21.
 | `10%` | percent | Those six hours sat on top of a decision to keep every rule client-side, which is what made a $3 subscription at a 10% conversion rate profitable instead of merely busy. |
 | `$400` | price | Zero servers meant all $400 stayed. |
 
-## [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](https://xyzs996.github.io/llm-api-pricing/articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.html)
+## [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](https://spectracodeai.com/articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.html)
 
 Published 2026-08-21.
 
@@ -612,7 +612,7 @@ Published 2026-08-21.
 | `9 token` | tokens | Run a specialised reviewer rather than a general agent where one exists for your stack — the 1/9 token figure is the largest single number in this whole comparison, and it is the one people skip. |
 | `43.1%` | percent | At 43.1%, that is what it is. |
 
-## [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](https://xyzs996.github.io/llm-api-pricing/articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.html)
+## [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](https://spectracodeai.com/articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.html)
 
 Published 2026-08-20.
 
@@ -624,7 +624,7 @@ Published 2026-08-20.
 | `5 minutes` | duration | WorkBuddy combined with BrowserAct can produce a competitive price table in 5 minutes and an opportunity report in 7, which is roughly the difference between checking a hypothesis during a coffee break and scheduling an afternoon for it. |
 | `5-minute` | duration | I remain a little skeptical of how well those reports hold up on messy niches, but for a first pass on pricing structure the speed is hard to argue with, and a 5-minute price table you can throw away costs you nothing when the niche turns out to be wrong. |
 
-## [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](https://xyzs996.github.io/llm-api-pricing/articles/how-indie-developers-are-building-ai-powered-digital.html)
+## [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](https://spectracodeai.com/articles/how-indie-developers-are-building-ai-powered-digital.html)
 
 Published 2026-08-20.
 
@@ -645,7 +645,7 @@ Published 2026-08-20.
 | `$1,000` | price | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. |
 | `$5,000` | price | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. |
 
-## [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](https://xyzs996.github.io/llm-api-pricing/articles/why-stripping-80-of-system-prompts-actually-improved-claude.html)
+## [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](https://spectracodeai.com/articles/why-stripping-80-of-system-prompts-actually-improved-claude.html)
 
 Published 2026-08-20.
 
@@ -654,7 +654,7 @@ Published 2026-08-20.
 | `80%` | percent | When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. |
 | `80%` | percent | Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. |
 
-## [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](https://xyzs996.github.io/llm-api-pricing/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html)
+## [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](https://spectracodeai.com/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html)
 
 Published 2026-08-19.
 
@@ -663,7 +663,7 @@ Published 2026-08-19.
 | `40-second` | duration | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. |
 | `40-second` | duration | The 40-second number I cannot check. |
 
-## [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](https://xyzs996.github.io/llm-api-pricing/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html)
+## [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](https://spectracodeai.com/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html)
 
 Published 2026-08-19.
 
@@ -678,7 +678,7 @@ Published 2026-08-19.
 | `55.1%` | percent | The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. |
 | `9.1%` | percent | The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. |
 
-## [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html)
+## [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html)
 
 Published 2026-08-19.
 
@@ -712,7 +712,7 @@ Published 2026-08-19.
 | `83%` | percent | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. |
 | `9x` | multiple | Nothing in a routing layer gets you a 9x reduction. |
 
-## [From AI Demo to Product: Loop Engineering for Indie Devs](https://xyzs996.github.io/llm-api-pricing/articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.html)
+## [From AI Demo to Product: Loop Engineering for Indie Devs](https://spectracodeai.com/articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.html)
 
 Published 2026-08-18.
 
@@ -724,7 +724,7 @@ Published 2026-08-18.
 | `7 days` | duration | API keys rotate every 7 days via /hook-triggered management. |
 | `30 Days` | duration | 30 Days: Task Identification — Use SimilarWeb to validate demand for automation, then identify 3 to 5 repeatable tasks such as blog drafts or data scraping. |
 
-## [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://xyzs996.github.io/llm-api-pricing/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html)
+## [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://spectracodeai.com/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html)
 
 Published 2026-08-18.
 
@@ -745,7 +745,7 @@ Published 2026-08-18.
 | `3 weeks` | duration | Average time from concept to full production deployment was about 2 to 3 weeks. |
 | `3 weeks` | duration | If your work is mostly one-off, the components that make repetition cheap are solving a problem you do not have, and those 2 to 3 weeks are better spent elsewhere. |
 
-## [Token Optimization for Indie Developers' AI API Bills](https://xyzs996.github.io/llm-api-pricing/articles/token-optimization-for-indie-developers-ai-api-bills.html)
+## [Token Optimization for Indie Developers' AI API Bills](https://spectracodeai.com/articles/token-optimization-for-indie-developers-ai-api-bills.html)
 
 Published 2026-08-18.
 
@@ -758,7 +758,7 @@ Published 2026-08-18.
 | `9x` | multiple | Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. |
 | `3,000 tokens` | tokens | It comes from a system prompt of 3,000 tokens replayed on every one of 40 turns in an agent loop, or from a file-tree dump the editor attaches whether or not the current question touches those files. |
 
-## [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](https://xyzs996.github.io/llm-api-pricing/articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.html)
+## [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](https://spectracodeai.com/articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.html)
 
 Published 2026-08-17.
 
@@ -769,7 +769,7 @@ Published 2026-08-17.
 | `1,000 tokens` | tokens | The fourth is not a tool so much as an escape hatch to the entire operating system, and it is doing the work that 20 tools would do in a larger framework, which is exactly why the total comes in under 1,000 tokens. |
 | `1,000 tokens` | tokens | That is arguably the correct decision for Pi, since guided discovery is exactly the kind of thing that costs tokens in the system prompt, and the whole premise here is that the prompt stays under 1,000 tokens. |
 
-## [How to Build a Micro-SaaS Without Spending a Dime on Ads](https://xyzs996.github.io/llm-api-pricing/articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.html)
+## [How to Build a Micro-SaaS Without Spending a Dime on Ads](https://spectracodeai.com/articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.html)
 
 Published 2026-08-17.
 
@@ -779,7 +779,7 @@ Published 2026-08-17.
 | `$15,000` | price | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
 | `30 days` | duration | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
 
-## [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](https://xyzs996.github.io/llm-api-pricing/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html)
+## [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](https://spectracodeai.com/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html)
 
 Published 2026-08-17.
 
@@ -789,7 +789,7 @@ Published 2026-08-17.
 | `2 hours` | duration | One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. |
 | `10 hours` | duration | One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. |
 
-## [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](https://xyzs996.github.io/llm-api-pricing/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html)
+## [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](https://spectracodeai.com/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html)
 
 Published 2026-08-16.
 
@@ -819,7 +819,7 @@ Published 2026-08-16.
 | `10%` | percent | Klarna's 10% and 18% are exactly those two counters, and they are the only numbers in this story that would have predicted the rehiring before it happened. |
 | `18%` | percent | Klarna's 10% and 18% are exactly those two counters, and they are the only numbers in this story that would have predicted the rehiring before it happened. |
 
-## [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](https://xyzs996.github.io/llm-api-pricing/articles/the-ai-branding-revolution-how-indie-developers-are.html)
+## [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](https://spectracodeai.com/articles/the-ai-branding-revolution-how-indie-developers-are.html)
 
 Published 2026-08-16.
 
@@ -827,7 +827,7 @@ Published 2026-08-16.
 | --- | --- | --- |
 | `90%` | percent | AI branding tools like Miora let indie developers cut design costs by 90%. |
 
-## [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://xyzs996.github.io/llm-api-pricing/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html)
+## [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://spectracodeai.com/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html)
 
 Published 2026-08-16.
 
@@ -838,7 +838,7 @@ Published 2026-08-16.
 | `900 million tokens` | tokens | Which means the honest answer to "how long does 900 million tokens last" is that it depends on your repository rather than on your discipline. |
 | `80 percent` | percent | Track consumption from the first week rather than from the first warning at 80 percent. |
 
-## [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](https://xyzs996.github.io/llm-api-pricing/articles/charge-per-conversation-not-per-seat-the-billing-model.html)
+## [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](https://spectracodeai.com/articles/charge-per-conversation-not-per-seat-the-billing-model.html)
 
 Published 2026-08-15.
 
@@ -846,7 +846,7 @@ Published 2026-08-15.
 | --- | --- | --- |
 | `3 months` | duration | A former Alibaba P8 engineer, laid off and 3 months into an unsuccessful job search, ended up running three separate AI instances — one tracking competitor pricing, one generating ad creative, one handling customer service — and reports about 170,000 yuan a month. |
 
-## [When the AI Picks for the Customer, You Become a Supplier](https://xyzs996.github.io/llm-api-pricing/articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.html)
+## [When the AI Picks for the Customer, You Become a Supplier](https://spectracodeai.com/articles/when-the-ai-picks-for-the-customer-you-become-a-supplier.html)
 
 Published 2026-08-15.
 
@@ -854,7 +854,7 @@ Published 2026-08-15.
 | --- | --- | --- |
 | `15 minutes` | duration | "Order hot or iced coffee for pickup within 15 minutes, 7 a.m. to 8 p.m., at 3 locations in this district, with member pricing applied at checkout" matches a request, and it also happens to tell the assistant that member pricing exists, which is how a brand agent like the one Luckin Coffee and KFC connected to keeps its loyalty economics visible instead of getting flattened into a generic listing. |
 
-## [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](https://xyzs996.github.io/llm-api-pricing/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html)
+## [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](https://spectracodeai.com/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html)
 
 Published 2026-08-15.
 
@@ -872,7 +872,7 @@ Published 2026-08-15.
 | `18 months` | duration | Resellbot took 18 months to reach profitability. |
 | `18-month` | duration | Sustainable growth in Micro-SaaS often requires patience and persistence, as seen with Resellbot's 18-month journey to profitability. |
 
-## [AI Took Over My Coding. What Broke Was How I Learn.](https://xyzs996.github.io/llm-api-pricing/articles/ai-took-over-my-coding-what-broke-was-how-i-learn.html)
+## [AI Took Over My Coding. What Broke Was How I Learn.](https://spectracodeai.com/articles/ai-took-over-my-coding-what-broke-was-how-i-learn.html)
 
 Published 2026-08-13.
 
@@ -880,7 +880,7 @@ Published 2026-08-13.
 | --- | --- | --- |
 | `$40 million` per year | price | Klarna replaced roughly 700 support agents with an AI assistant in early 2024, claimed about $40 million a year, and a bit over a year later the same CEO said they had overshot and started hiring back. |
 
-## [AI Side Hustle: Stop Selling Hours, Start Selling Plans](https://xyzs996.github.io/llm-api-pricing/articles/ai-side-hustle-stop-selling-hours-start-selling-plans.html)
+## [AI Side Hustle: Stop Selling Hours, Start Selling Plans](https://spectracodeai.com/articles/ai-side-hustle-stop-selling-hours-start-selling-plans.html)
 
 Published 2026-08-13.
 
@@ -889,7 +889,7 @@ Published 2026-08-13.
 | `20%` | percent | The efficiency target one operator set for themselves is specific and aggressive: compress delivery time to 20% of what it was. |
 | `5 minutes` | duration | Pairing WorkBuddy with BrowserAct gets a competitor pricing table in roughly 5 minutes and a product-opportunity report in about 7; a free WorkBuddy account carries 100 credits a day against roughly 10 credits per complex task, which leaves room for around 10 research runs daily before money enters the conversation at all. |
 
-## [Sell It Before You Build It: How Indie Devs Validate AI Products](https://xyzs996.github.io/llm-api-pricing/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html)
+## [Sell It Before You Build It: How Indie Devs Validate AI Products](https://spectracodeai.com/articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.html)
 
 Published 2026-08-12.
 
@@ -900,7 +900,7 @@ Published 2026-08-12.
 | `$3` | price | A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test. |
 | `$4` | price | A small Meta budget of $30 a day, run against Instagram content, produced qualified leads at $3 to $4 each in one reported test. |
 
-## [58 Million Plays Started With One Account, Not Four](https://xyzs996.github.io/llm-api-pricing/articles/58-million-plays-started-with-one-account-not-four.html)
+## [58 Million Plays Started With One Account, Not Four](https://spectracodeai.com/articles/58-million-plays-started-with-one-account-not-four.html)
 
 Published 2026-08-12.
 
@@ -920,7 +920,7 @@ Published 2026-08-12.
 | `30 days` | duration | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
 | `$63,000` per month | price | Jordan's Resellbot started as 30 lines of JavaScript written because his partner was manually reposting listings every day, and it now runs at roughly $63,000 a month, which probably says more about picking a visible problem than about any distribution tactic. |
 
-## [Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://xyzs996.github.io/llm-api-pricing/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html)
+## [Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://spectracodeai.com/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html)
 
 Published 2026-08-12.
 
@@ -946,7 +946,7 @@ Published 2026-08-12.
 | `60%` | percent | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
 | `12 months` | duration | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
 
-## [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html)
+## [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](https://spectracodeai.com/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html)
 
 Published 2026-08-12.
 
@@ -965,7 +965,7 @@ Published 2026-08-12.
 | `9 token` | tokens | Open Code Review's 1/9 token consumption advantage over general-purpose agents translates to large cost savings for development teams. |
 | `6 months` | duration | A mid-sized e-commerce company cut its model spend over 6 months. |
 
-## [Your Agent Writes Code Faster Than Anyone Can Review It](https://xyzs996.github.io/llm-api-pricing/articles/your-agent-writes-code-faster-than-anyone-can-review-it.html)
+## [Your Agent Writes Code Faster Than Anyone Can Review It](https://spectracodeai.com/articles/your-agent-writes-code-faster-than-anyone-can-review-it.html)
 
 Published 2026-08-11.
 
@@ -973,7 +973,7 @@ Published 2026-08-11.
 | --- | --- | --- |
 | `30%` | percent | Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%. |
 
-## [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](https://xyzs996.github.io/llm-api-pricing/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html)
+## [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](https://spectracodeai.com/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html)
 
 Published 2026-08-11.
 
@@ -1017,7 +1017,7 @@ Published 2026-08-11.
 | `12 hours` | duration | Skip this approach if you cannot commit 12 hours a week for several months, or if your product does not demonstrate visually. |
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
-## [Your AI Coding Bill Scales With Your Repo, Not Your Output](https://xyzs996.github.io/llm-api-pricing/articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.html)
+## [Your AI Coding Bill Scales With Your Repo, Not Your Output](https://spectracodeai.com/articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.html)
 
 Published 2026-08-11.
 
@@ -1025,7 +1025,7 @@ Published 2026-08-11.
 | --- | --- | --- |
 | `9x` | multiple | Alibaba's Open Code Review was benchmarked against general-purpose agents on 200 real pull requests drawn from 50 open-source repositories across 10 languages, and it scored higher on accuracy and F1 while consuming roughly one-ninth the tokens, a 9x gap on identical work. |
 
-## [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](https://xyzs996.github.io/llm-api-pricing/articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.html)
+## [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](https://spectracodeai.com/articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.html)
 
 Published 2026-08-10.
 
@@ -1035,7 +1035,7 @@ Published 2026-08-10.
 | `12 months` | duration | Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months. |
 | `12 months` | duration | Quality degradation typically appears 6-12 months after full automation—long after the press releases have been sent. |
 
-## [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](https://xyzs996.github.io/llm-api-pricing/articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.html)
+## [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](https://spectracodeai.com/articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.html)
 
 Published 2026-08-10.
 
@@ -1057,7 +1057,7 @@ Published 2026-08-10.
 | `$0` | price | Outreach: $0 if you send the emails yourself; a monthly fee once you automate with Lemlist |
 | `2 hours` | duration | - Month 4+: 2 hours/week for maintenance |
 
-## [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](https://xyzs996.github.io/llm-api-pricing/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html)
+## [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](https://spectracodeai.com/articles/the-token-cost-war-why-price-per-million-tokens-now-decides.html)
 
 Published 2026-08-10.
 
@@ -1079,7 +1079,7 @@ Published 2026-08-10.
 | `$13 billion` | price | Deloitte figures suggest an enterprise with $13 billion in annual revenue may put as much as $700 million into AI, while Jellyfish research finds high token consumption badly out of balance with productivity gains. |
 | `$700 million` | price | Deloitte figures suggest an enterprise with $13 billion in annual revenue may put as much as $700 million into AI, while Jellyfish research finds high token consumption badly out of balance with productivity gains. |
 
-## [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](https://xyzs996.github.io/llm-api-pricing/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html)
+## [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](https://spectracodeai.com/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html)
 
 Published 2026-08-09.
 
@@ -1093,7 +1093,7 @@ Published 2026-08-09.
 | `$500` | price | Every figure in this article comes from operators describing their own results, and the $500 to $3,000 range is a report rather than a distribution — I have no idea what the median is, or how many sites never rent at all. |
 | `$3,000` | price | Every figure in this article comes from operators describing their own results, and the $500 to $3,000 range is a report rather than a distribution — I have no idea what the median is, or how many sites never rent at all. |
 
-## [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](https://xyzs996.github.io/llm-api-pricing/articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.html)
+## [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](https://spectracodeai.com/articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.html)
 
 Published 2026-08-09.
 
@@ -1113,7 +1113,7 @@ Published 2026-08-09.
 | `48%` | percent | The retention rate improved from 20% to 35%, with natural search traffic accounting for 48% and user sessions making up 88% of the total. |
 | `88%` | percent | The retention rate improved from 20% to 35%, with natural search traffic accounting for 48% and user sessions making up 88% of the total. |
 
-## [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](https://xyzs996.github.io/llm-api-pricing/articles/klarna-replaced-700-support-agents-with-ai-then-it-started.html)
+## [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](https://spectracodeai.com/articles/klarna-replaced-700-support-agents-with-ai-then-it-started.html)
 
 Published 2026-08-08.
 
@@ -1127,7 +1127,7 @@ Published 2026-08-08.
 | `1%` | percent | One more piece of evidence that operators underweight the fragility of what they build on: a developer's Stripe account was frozen for a dispute rate above 1%, and 1,500-plus paying subscriptions stopped with it. |
 | `$40 million` | price | Klarna's $40 million was probably accurate on the day it was published. |
 
-## [The First Line of Defense in AI Programming: Environment Variable Management](https://xyzs996.github.io/llm-api-pricing/articles/the-first-line-of-defense-in-ai-programming-environment.html)
+## [The First Line of Defense in AI Programming: Environment Variable Management](https://spectracodeai.com/articles/the-first-line-of-defense-in-ai-programming-environment.html)
 
 Published 2026-08-08.
 
@@ -1138,7 +1138,7 @@ Published 2026-08-08.
 | `30-second` | duration | The gap opens when someone pastes a key into a chat window to debug why a call is failing, which is a 30-second decision that puts a live credential into a log you do not control and cannot delete. |
 | `10 minutes` | duration | Setting this up takes 10 minutes on a new project and rather longer on an existing one, which is why people put it off. |
 
-## [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](https://xyzs996.github.io/llm-api-pricing/articles/ai-programming-tool-selection-strategy-from-rapid.html)
+## [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](https://spectracodeai.com/articles/ai-programming-tool-selection-strategy-from-rapid.html)
 
 Published 2026-08-07.
 
@@ -1148,7 +1148,7 @@ Published 2026-08-07.
 | `70%` | percent | They need the 70% time saving, and they need it without a repository. |
 | `70%` | percent | The 70% figure is real for the finance analyst pulling numbers across four applications, and it is close to meaningless for the person maintaining a service, because their bottleneck was never the typing. |
 
-## [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](https://xyzs996.github.io/llm-api-pricing/articles/how-chinese-developers-are-using-codex-record-replay-to.html)
+## [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](https://spectracodeai.com/articles/how-chinese-developers-are-using-codex-record-replay-to.html)
 
 Published 2026-08-05.
 
@@ -1161,7 +1161,7 @@ Published 2026-08-05.
 | `80 percent` | percent | Most of what feels repetitive in a week does not, which is why the 80 percent figure describes a narrow slice of the work rather than 80 percent of anyone's day. |
 | `80 percent` | percent | The 80 percent figure should probably travel too, with the caveat that it applies to the recorded slice and not the day. |
 
-## [AI Model Costs: Beyond Per-Token Pricing](https://xyzs996.github.io/llm-api-pricing/articles/ai-model-costs-beyond-per-token-pricing.html)
+## [AI Model Costs: Beyond Per-Token Pricing](https://spectracodeai.com/articles/ai-model-costs-beyond-per-token-pricing.html)
 
 Published 2026-08-05.
 
@@ -1181,7 +1181,7 @@ Published 2026-08-05.
 | `$19 billion` | price | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
 | `12 months` | duration | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
 
-## [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](https://xyzs996.github.io/llm-api-pricing/articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.html)
+## [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](https://spectracodeai.com/articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.html)
 
 Published 2026-08-05.
 
@@ -1195,7 +1195,7 @@ Published 2026-08-05.
 | `1%` | percent | The version of this I have seen bite hardest is on the payments side, where one developer's Stripe account was frozen for a dispute rate above 1% and 1,500-plus paying subscriptions stopped at once. |
 | `3 minutes` | duration | If you do not, 8 agents will get you to the wrong answer in 3 minutes instead of an afternoon, and the invoice arrives either way. |
 
-## [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](https://xyzs996.github.io/llm-api-pricing/articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.html)
+## [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](https://spectracodeai.com/articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.html)
 
 Published 2026-08-05.
 
@@ -1206,5 +1206,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "661 figures pulled out of 70 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-10-02", "dateModified": "2026-10-02"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "661 figures pulled out of 70 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-10-02", "dateModified": "2026-10-02"}
 </script>

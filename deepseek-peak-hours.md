@@ -191,7 +191,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/schedule.j
 
 `peak_weekdays` is `[1,2,3,4,5]`, ISO-8601, Monday first. `weekday_read_on` is `calendar_timezone`, and that second field is not decoration: an implementation that reads the weekday off the UTC instant matches this file at every hour of the live schedule and is still wrong from 16:00 UTC onward the day a vendor moves a window. The two effective instants — when time-of-use billing started, and when the weekend rule started — are separate fields for the same reason: they are five days apart, and a bill re-computed across that gap with only one of them is wrong at one end. The reference implementation named in the file consumes exactly this shape, and it refuses a schedule with no `peak_weekdays` rather than assuming Monday-to-Friday on your behalf.
 
-The daily price table these rates sit in, re-read every day: [the full catalog](https://xyzs996.github.io/llm-api-pricing/prices.html).
+The daily price table these rates sit in, re-read every day: [the full catalog](https://spectracodeai.com/prices.html).
 
 ## If you came here because the bill surprised you
 

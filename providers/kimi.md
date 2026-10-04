@@ -1,14 +1,14 @@
 # Kimi API pricing: what 5 models cost a coding agent
 
-Every Kimi model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-03**.
+Every Kimi model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-04**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Kimi discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Kimi charges per million tokens
 
-5 Kimi models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-03**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+5 Kimi models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-04**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
-**Kimi does not have one cache-read rate — it has 4.** Across 5 rows the discount runs from 10.0% to 26.8% of that row's own input price (10%, 15.6%, 16.8%, 26.8%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Kimi's list input price overstates what an agent pays by a median **4.9×** (range 3.2×–6.6×).
+**Kimi does not have one cache-read rate — it has 5.** Across 5 rows the discount runs from 10.0% to 97.2% of that row's own input price (10%, 15.6%, 16.8%, 26.8%, 97.2%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Kimi's list input price overstates what an agent pays by a median **4.7×** (range 1.0×–6.6×).
 
 1 row is marked `batch` — the batch entries the catalog lists separately. They are kept apart on purpose: folding them in would read as if a normal call cost half of what it does.
 
@@ -18,9 +18,9 @@ Every Kimi model in the catalog that has been ranked in an agent category, price
 | **$0.2033** | $0.95 | $0.16 | $4.00 | [Kimi K2.6](https://openrouter.ai/moonshotai/kimi-k2.6) | 262K | — | #2 agentichtmlslides |
 | **$0.2092** | $0.6712 | $0.18 | $3.35 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code) | 262K | — | #7 htmlslides |
 | **$0.3439** | $2.28 | $0.228 | $11.40 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3:batch) `batch` | 1M | — | #2 fullstack |
-| **$0.4073** | $2.70 | $0.27 | $13.50 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3) | 1M | — | #2 fullstack |
+| **$0.7365** | $0.72 | $0.70 | $13.00 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3) | 1M | — | #2 fullstack |
 
-Cheapest Kimi row an agent can call normally is **Kimi K2.5** at $0.0918 per million; the dearest is $0.4073, 4× more. Both numbers exclude the `batch` rows above. Both are computed, not quoted — the arithmetic and the weights are in the JSON.
+Cheapest Kimi row an agent can call normally is **Kimi K2.5** at $0.0918 per million; the dearest is $0.7365, 8× more. Both numbers exclude the `batch` rows above. Both are computed, not quoted — the arithmetic and the weights are in the JSON.
 
 
 ## Kimi against the other vendors, on the same arithmetic
@@ -36,8 +36,8 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | OpenAI | 9 | 10–10.4% | 6.3× | $0.2042 |
 | Llama | 3 | 12% | 6.0× | $0.2067 |
 | Grok | 5 | 15–25% | 5.0× | $0.2494 |
-| **Kimi** | 5 | 10–26.8% | 4.9× | $0.0918 |
-| GLM | 8 | 10–63.4% | 4.2× | $0.0991 |
+| **Kimi** | 5 | 10–97.2% | 4.7× | $0.0918 |
+| GLM | 8 | 10–68.4% | 4.2× | $0.0991 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
 | upstage | 1 | 20% | 4.1× | $0.0219 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
