@@ -144,9 +144,6 @@ For these scenarios, developers should use specialized tools like Open Code Revi
 
 The no-mistakes framework provides a nine-step quality verification pipeline that reduces validation time from hours to minutes.
 
-*Also readable on [Telegraph](https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05).*
-
-
 ---
 
 **Read next**

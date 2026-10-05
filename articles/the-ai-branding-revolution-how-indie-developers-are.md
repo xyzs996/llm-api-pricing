@@ -89,9 +89,6 @@ The future belongs to indie developers who embrace AI as a partner, not a replac
 
 *Source IDs: All core claims cite.*
 
-*Also readable on [Telegraph](https://telegra.ph/The-AI-Branding-Revolution-How-Indie-Developers-Are-Ditching-Design-Costs-with-AI-08-19).*
-
-
 ---
 
 **Read next**

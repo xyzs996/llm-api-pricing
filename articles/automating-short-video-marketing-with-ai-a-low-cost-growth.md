@@ -91,9 +91,6 @@ I'd argue that while the combination of AI tools and short video marketing offer
 
 Developers must also be aware of the limitations and challenges associated with these strategies and, because AI tools and short video marketing are not a one-size-fits-all solution, they need to tailor their approach to their specific product and market demands, while also complying with legal regulations and platform guidelines to avoid penalties or account suspension.
 
-*Also readable on [Telegraph](https://telegra.ph/Automating-Short-Video-Marketing-with-AI-A-Low-Cost-Growth-Strategy-for-Developers-09-13).*
-
-
 ---
 
 **Read next**

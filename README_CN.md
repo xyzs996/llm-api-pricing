@@ -8,13 +8,13 @@
 
 ## 跑 agent 的模型,今天多少钱
 
-67 个在 Design Arena 的 agents 各档里排过名的模型,每百万 token 的**挂牌价**——不是账单:缓存命中、batch、不同接入方各有各的价。取自 OpenRouter 的公开目录,最后核到 2026-10-04。最便宜的三个:
+67 个在 Design Arena 的 agents 各档里排过名的模型,每百万 token 的**挂牌价**——不是账单:缓存命中、batch、不同接入方各有各的价。取自 OpenRouter 的公开目录,最后核到 2026-10-05。最便宜的三个:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
+| $0.02 | $16.00 | GLM 5.2 | #10 agenticgamedev |
+| $0.05 | $7.00 | GLM 5.3 | #8 python-pptxslides |
 | $0.09 | $0.36 | Solar Pro 4 | #34 webapps |
-| $0.2088 | $0.4176 | DeepSeek V4 Pro 0423 | #32 godotgamedev |
-| $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #8 agenticslides |
 
 [全部 67 个](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 

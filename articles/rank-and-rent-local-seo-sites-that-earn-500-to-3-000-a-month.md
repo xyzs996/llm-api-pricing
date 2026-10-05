@@ -60,9 +60,6 @@ Every figure in this article comes from operators describing their own results, 
 
 What I would take from the model regardless is the ordering. Choose the pair before you build anything. Write the 5 pages that answer real questions before you write the other 10. Assume months of nothing, and build enough sites that the months of nothing are happening in parallel. The AI part is genuinely useful and it is also the least important decision you will make here.
 
-*Also readable on [Telegraph](https://telegra.ph/Rank-and-Rent-Building-Local-SEO-Sites-That-Earn-500-to-3000-a-Month-08-23).*
-
-
 ---
 
 **Read next**
