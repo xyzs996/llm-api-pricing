@@ -1,6 +1,6 @@
 # AI Automation
 
-5 of the 70 write-ups here are tagged AI Automation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 65 write-ups here are tagged AI Automation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **87 percent** — The 87 percent figure and those two cases are measuring the same thing from different angles, which is time spent moving data by hand between a system that knows the answer and a system that needs it. [→](../articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 - **87 percent** — MCP connectors reduced manual data handling time by 87 percent in the cases that used them. [→](../articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 
-[All figures, 661 rows](../figures.md)
+[All figures, 629 rows](../figures.md)
 
 ## The write-ups
 
@@ -49,7 +49,7 @@ Of the 27 AI-powered micro-SaaS projects that generated predictable monthly reve
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
 ---
 

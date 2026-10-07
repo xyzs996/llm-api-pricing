@@ -64,7 +64,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against GLM
 
 - **$0.0566** — “Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it — a fact that turned out to be the loose thread in this whole piece.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 
-[All 661 figures, every kind](../figures.md)
+[All 629 figures, every kind](../figures.md)
 
 - [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/66) · [telegra.ph](https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24)
 

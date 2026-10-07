@@ -1,19 +1,19 @@
 # AI Tools
 
-6 of the 70 write-ups here are tagged AI Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 65 write-ups here are tagged AI Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
 - **80%** — Over-constraining prompts can hinder AI reasoning; for example, Claude Code’s team reduced their system prompt word count by 80% without any performance decline. [→](../articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md)
 - **54%** — Through its internal multi-agent system, Sol achieves 54% higher token efficiency on agentic coding tasks compared to peer models, showing how strategic design choices can transform from a development challenge into a cost-saving advantage. [→](../articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md)
-- **72%** — Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production. [→](../articles/the-real-pitfalls-of-ai-agent-development-from-code.md)
 - **$22,000** — The organic channel that produced $22,000 a month is running at roughly half the traffic a million-dollar year would need, and it took three months to get there. [→](../articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 - **$1.2 million** — StoryShort was listed at $1.2 million, about 4.4 times annual revenue, at a point when its most recent thirty days were running 11% below the thirty before them. [→](../articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 - **5-minute** — I remain a little skeptical of how well those reports hold up on messy niches, but for a first pass on pricing structure the speed is hard to argue with, and a 5-minute price table you can throw away costs you nothing when the niche turns out to be wrong. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - **$30** — With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
-- **90%** — AI branding tools like Miora let indie developers cut design costs by 90%. [→](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
+- **$500** — You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
+- **$3,000** — High-ticket services in low-competition cities often sit at the $3,000 end for websites that actually deliver customers. [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 
-[All figures, 661 rows](../figures.md)
+[All figures, 629 rows](../figures.md)
 
 ## The write-ups
 
@@ -41,12 +41,6 @@ Most indie developers open SimilarWeb, look at the big monthly visits number, an
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/30) · [telegra.ph](https://telegra.ph/Stop-Reading-SimilarWeb-Like-a-Traffic-Dashboard--Read-It-Like-a-Feasibility-Test-08-21)
 
-### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
-
-Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32) · [telegra.ph](https://telegra.ph/The-AI-Branding-Revolution-How-Indie-Developers-Are-Ditching-Design-Costs-with-AI-08-19)
-
 ### [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 
 You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
@@ -55,7 +49,7 @@ You can build AI-generated local business websites, rent them to plumbers or den
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
 ---
 

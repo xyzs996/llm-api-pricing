@@ -65,15 +65,15 @@ I could be wrong about how much the fallback actually degrades things, and the h
 
 **Read next**
 
-- [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
+- [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
-The 27 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 634 more, as JSON and CSV.
+The 27 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 602 more, as JSON and CSV.
 
-Topics: [Indie Development](../topics/indie-development.md) · [Cost Savings](../topics/cost-savings.md) · [Development Tools](../topics/development-tools.md) · [Token Optimization](../topics/token-optimization.md)
+Topics: [Indie Development](../topics/indie-development.md) · [Development Tools](../topics/development-tools.md) · [Cost Savings](../topics/cost-savings.md) · [Token Optimization](../topics/token-optimization.md)
 
 
 ---

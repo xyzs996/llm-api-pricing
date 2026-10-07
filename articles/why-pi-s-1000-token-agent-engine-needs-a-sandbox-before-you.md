@@ -75,13 +75,13 @@ Keep the prompt small and the toolset tight. Put a wall between bash and your fi
 
 **Read next**
 
-- [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
-- [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
+- [When the AI Picks for the Customer, You Become a Supplier](when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
+- [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 657 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 625 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Programming](../topics/ai-programming.md)
 

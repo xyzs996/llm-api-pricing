@@ -127,14 +127,6 @@
     <summary>AI Agent development faces critical gaps between code generation and functional verification.</summary>
   </entry>
   <entry>
-    <title>How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)</title>
-    <link href="https://spectracodeai.com/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html"/>
-    <id>https://spectracodeai.com/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html</id>
-    <updated>2026-08-28T09:46:00Z</updated>
-    <published>2026-08-28T09:46:00Z</published>
-    <summary>Respond.io crossed **$35M in annual recurring revenue** last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to…</summary>
-  </entry>
-  <entry>
     <title>Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers</title>
     <link href="https://spectracodeai.com/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html"/>
     <id>https://spectracodeai.com/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html</id>
@@ -334,28 +326,12 @@
     <summary>Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 people asking for access within days, at zero cost, and those users stuck around better than the paid traffic he never bo…</summary>
   </entry>
   <entry>
-    <title>Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows</title>
-    <link href="https://spectracodeai.com/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html"/>
-    <id>https://spectracodeai.com/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html</id>
-    <updated>2026-08-17T07:34:00Z</updated>
-    <published>2026-08-17T07:34:00Z</published>
-    <summary>Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF…</summary>
-  </entry>
-  <entry>
     <title>When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption</title>
     <link href="https://spectracodeai.com/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html"/>
     <id>https://spectracodeai.com/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html</id>
     <updated>2026-08-16T12:13:00Z</updated>
     <published>2026-08-16T12:13:00Z</published>
     <summary>Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts.</summary>
-  </entry>
-  <entry>
-    <title>The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI</title>
-    <link href="https://spectracodeai.com/articles/the-ai-branding-revolution-how-indie-developers-are.html"/>
-    <id>https://spectracodeai.com/articles/the-ai-branding-revolution-how-indie-developers-are.html</id>
-    <updated>2026-08-16T09:47:00Z</updated>
-    <published>2026-08-16T09:47:00Z</published>
-    <summary>Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…</summary>
   </entry>
   <entry>
     <title>MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens</title>
@@ -430,14 +406,6 @@
     <summary>Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.</summary>
   </entry>
   <entry>
-    <title>The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide</title>
-    <link href="https://spectracodeai.com/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html"/>
-    <id>https://spectracodeai.com/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html</id>
-    <updated>2026-08-12T06:46:00Z</updated>
-    <published>2026-08-12T06:46:00Z</published>
-    <summary>"Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option."</summary>
-  </entry>
-  <entry>
     <title>Your Agent Writes Code Faster Than Anyone Can Review It</title>
     <link href="https://spectracodeai.com/articles/your-agent-writes-code-faster-than-anyone-can-review-it.html"/>
     <id>https://spectracodeai.com/articles/your-agent-writes-code-faster-than-anyone-can-review-it.html</id>
@@ -492,14 +460,6 @@
     <updated>2026-08-10T07:44:00Z</updated>
     <published>2026-08-10T07:44:00Z</published>
     <summary>The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as…</summary>
-  </entry>
-  <entry>
-    <title>Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month</title>
-    <link href="https://spectracodeai.com/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html"/>
-    <id>https://spectracodeai.com/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html</id>
-    <updated>2026-08-09T14:36:00Z</updated>
-    <published>2026-08-09T14:36:00Z</published>
-    <summary>The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…</summary>
   </entry>
   <entry>
     <title>AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains</title>

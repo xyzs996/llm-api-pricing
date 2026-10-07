@@ -75,9 +75,9 @@ You should treat AI as a modular service rather than a monolithic solution. Use 
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
-The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 653 more, as JSON and CSV.
+The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 621 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Development Tools](../topics/development-tools.md) · [Programming](../topics/programming.md)
 

@@ -69,11 +69,11 @@ Another advantageous tool is OpenWorker. It automates tasks across 25+ tools. Ho
 
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
-- [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
+- [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 650 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 618 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md) · [AI Programming](../topics/ai-programming.md)
 

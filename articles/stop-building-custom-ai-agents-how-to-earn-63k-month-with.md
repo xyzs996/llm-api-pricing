@@ -57,11 +57,11 @@ Shifting to micro-automation tools effectively addresses real, high-frequency pa
 
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - [Building High-Income Single-Page Tool Sites via SEO](building-high-income-single-page-tool-sites-via-seo.md)
-- [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
+- [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
-The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 649 more, as JSON and CSV.
+The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 617 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md) · [Artificial Intelligence](../topics/artificial-intelligence.md)
 

@@ -7,7 +7,7 @@
 > 67 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-70 write-ups on what those bills looked like in production.
+65 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (67 models)
 
@@ -67,9 +67,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (661 rows)
+## The figures, as data (629 rows)
 
-Every figure published across the 70 write-ups —
+Every figure published across the 65 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -92,7 +92,7 @@ recent write-ups — quoted verbatim, not summarised:
 | `$1.43` | One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. | [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md) |
 | `$63,000,` | Consider Jordan, who noticed his partner spending hours manually sharing items on Poshmark, and by developing a simple 30-line JavaScript automation script to solve this pain point, he created Resellbot, which eventually scaled to a monthly revenue of $63,000, while this progression highlights how identifying such tedious manual tasks can serve as a potent foundation for building highly profitable and scalable software solutions. | [Building High-Income Single-Page Tool Sites via SEO](articles/building-high-income-single-page-tool-sites-via-seo.md) |
 
-[All 661 rows](figures.md) — or as data:
+[All 629 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -153,9 +153,9 @@ write-ups land there first.
 **Reading this with a model?** [llms.txt](https://spectracodeai.com/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
-**By provider.** [Claude](providers/claude.md) (46) · [GPT-5.6](providers/gpt-5-6.md) (22) · [DeepSeek](providers/deepseek.md) (16) · [GLM](providers/glm.md) (15) · [Gemini](providers/gemini.md) (13) · [OpenAI](providers/openai.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [Codex](providers/codex.md) (9) · [Kimi](providers/kimi.md) (9) · [Fable 5](providers/fable-5.md) (8) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) — prices where there are prices, and every figure whose sentence names it, with the date.
+**By provider.** [Claude](providers/claude.md) (46) · [DeepSeek](providers/deepseek.md) (16) · [GLM](providers/glm.md) (15) · [GPT-5.6](providers/gpt-5-6.md) (13) · [Gemini](providers/gemini.md) (13) · [OpenAI](providers/openai.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [Kimi](providers/kimi.md) (9) · [Codex](providers/codex.md) (8) · [Fable 5](providers/fable-5.md) (8) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) — prices where there are prices, and every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (18) · [Automation Systems](topics/automation-systems.md) (17) · [SaaS Business](topics/saas-business.md) (14) · [Niche Market](topics/niche-market.md) (11) · [Productivity](topics/productivity.md) (11) · [AI Implementation](topics/ai-implementation.md) (10) · [Artificial Intelligence](topics/artificial-intelligence.md) (10) · [AI Features](topics/ai-features.md) (9) · [AI Costs](topics/ai-costs.md) (8) · [AI Programming](topics/ai-programming.md) (8) · [Cost Savings](topics/cost-savings.md) (8) · [AI](topics/ai.md) (7) · [Development Tools](topics/development-tools.md) (7) · [AI Tools](topics/ai-tools.md) (6) · [Code Review](topics/code-review.md) (6) · [AI Automation](topics/ai-automation.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [AI Agents](topics/ai-agents.md) (4) · [Automation](topics/automation.md) (4) · [Developer Productivity](topics/developer-productivity.md) (4) · [AI Development](topics/ai-development.md) (3) · [Customer Service AI](topics/customer-service-ai.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [Software Development](topics/software-development.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (17) · [Automation Systems](topics/automation-systems.md) (16) · [SaaS Business](topics/saas-business.md) (12) · [Niche Market](topics/niche-market.md) (11) · [Productivity](topics/productivity.md) (11) · [AI Implementation](topics/ai-implementation.md) (9) · [Artificial Intelligence](topics/artificial-intelligence.md) (9) · [AI Features](topics/ai-features.md) (8) · [AI Costs](topics/ai-costs.md) (7) · [Development Tools](topics/development-tools.md) (7) · [AI](topics/ai.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [Code Review](topics/code-review.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Automation](topics/ai-automation.md) (5) · [AI Tools](topics/ai-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [AI Agents](topics/ai-agents.md) (4) · [Automation](topics/automation.md) (4) · [Developer Productivity](topics/developer-productivity.md) (4) · [AI Development](topics/ai-development.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [Software Development](topics/software-development.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -260,12 +260,6 @@ This is for the solo developer who repeats the same chores every week and knows 
 AI Agent development faces critical gaps between code generation and functional verification.
 
 `AI Agents` `AI Tools` `AI Development` `Code Verification` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/68) · [telegra.ph](https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05)
-
-### [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
-
-Respond.io crossed **$35M in annual recurring revenue** last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to…
-
-`Artificial Intelligence` `Customer Service AI` `SaaS Business` `AI Features` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/67) · [telegra.ph](https://telegra.ph/How-Respondio-Built-a-35M-ARR-Business-by-Billing-AI-Agents-Per-Active-Customer-Not-Per-Agent-09-03)
 
 ### [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md)
 
@@ -411,23 +405,11 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 
 `Micro-SaaS` `Rental Business` `SaaS Business` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/27) · [telegra.ph](https://telegra.ph/How-to-Build-a-Micro-SaaS-Without-Spending-a-Dime-on-Ads-08-19)
 
-### [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
-
-Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF…
-
-`Codex` `AI Programming` `Automation Systems` `Office Automation` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/19) · [telegra.ph](https://telegra.ph/Beyond-Chat-How-Codex-Can-Automate-Your-WordExcelPPTPDF-Workflows-08-19)
-
 ### [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
 Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts.
 
 `AI Implementation` `AI Costs` `Niche Market` `Profitable Business` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/38) · [telegra.ph](https://telegra.ph/When-AI-Customer-Service-Backfired-Klarnas-Case-and-the-Four-Stage-Path-to-Enterprise-AI-Adoption-08-19)
-
-### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](articles/the-ai-branding-revolution-how-indie-developers-are.md)
-
-Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
-
-`AI Tools` `Cost Savings` `SaaS Business` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32) · [telegra.ph](https://telegra.ph/The-AI-Branding-Revolution-How-Indie-Developers-Are-Ditching-Design-Costs-with-AI-08-19)
 
 ### [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
@@ -483,12 +465,6 @@ Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in R
 
 `Code Review` `AI Costs` `Indie Development` `Development Tools` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Model-for-Coding-Cost-vs-Efficiency-08-19)
 
-### [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
-
-"Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option."
-
-`AI Implementation` `AI Costs` `AI Programming` `Cost Savings` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/34) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-GPT-56-Model-Selection-A-Developers-Real-World-Guide-08-19)
-
 ### [Your Agent Writes Code Faster Than Anyone Can Review It](articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
 
 The bottleneck in AI-assisted development moved, and most teams have not moved their tooling to follow it.
@@ -524,12 +500,6 @@ You can build AI-generated local business websites, rent them to plumbers or den
 The competition among model vendors used to be argued in benchmark scores, and it is now being argued in cost per million tokens — Indian enterprises are adopting Chinese models at input prices as…
 
 `AI` `Artificial Intelligence` `Startup` `Business` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)
-
-### [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
-
-The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…
-
-`AI` `Digital Marketing` `Entrepreneurship` `Content Marketing` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/61) · [telegra.ph](https://telegra.ph/Rank-and-Rent-Building-Local-SEO-Sites-That-Earn-500-to-3000-a-Month-08-23)
 
 ### [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.md)
 

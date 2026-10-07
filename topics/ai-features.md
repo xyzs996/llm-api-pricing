@@ -1,6 +1,6 @@
 # AI Features
 
-9 of the 70 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 65 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -10,10 +10,10 @@
 - **$0.028** — DeepSeek V4 Flash costs $0.028 per million tokens and is fast. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - **70%** — In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **60%** — The tool has been through 28 iterations, and repetitive work on public recruiting platforms got 60% more efficient. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
-- **$35M** — Respond.io crossed $35M in annual recurring revenue last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to per-customer billing — made the difference between flat growth and explosive scale. [→](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
-- **$299** — During Black Friday, a business might lose $299 per abandoned cart, and understaffing can exacerbate these losses. [→](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
+- **5 minutes** — Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
+- **20%** — Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
-[All figures, 661 rows](../figures.md)
+[All figures, 629 rows](../figures.md)
 
 ## The write-ups
 
@@ -34,12 +34,6 @@ If you are using agents like Claude Code or GPT-5.6 Sol to generate CAD parts, 3
 This is for the solo developer who repeats the same chores every week and knows exactly how to do them, but has never written instructions for any of them.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/71) · [telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)
-
-### [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
-
-Respond.io crossed **$35M in annual recurring revenue** last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/67) · [telegra.ph](https://telegra.ph/How-Respondio-Built-a-35M-ARR-Business-by-Billing-AI-Agents-Per-Active-Customer-Not-Per-Agent-09-03)
 
 ### [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
@@ -73,7 +67,7 @@ If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, a
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
 ---
 

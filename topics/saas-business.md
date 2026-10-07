@@ -1,6 +1,6 @@
 # SaaS Business
 
-14 of the 70 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+12 of the 65 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -10,10 +10,10 @@
 - **$10** — An AI image generation tool used Google Ads to boost its monthly paying subscribers from approximately 80 to over 500, maintaining a customer acquisition cost of around $10 per paying user. [→](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 - **$63,000,** — Consider Jordan, who noticed his partner spending hours manually sharing items on Poshmark, and by developing a simple 30-line JavaScript automation script to solve this pain point, he created Resellbot, which eventually scaled to a monthly revenue of $63,000, while this progression highlights how identifying such tedious manual tasks can serve as a potent foundation for building highly profitable and scalable software solutions. [→](../articles/building-high-income-single-page-tool-sites-via-seo.md)
 - **$1 million** — For instance, the insight highlights that a $1 million annual revenue target for a solo company can be broken down into a daily goal of $2777. [→](../articles/building-high-income-single-page-tool-sites-via-seo.md)
-- **$35M** — Respond.io crossed $35M in annual recurring revenue last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to per-customer billing — made the difference between flat growth and explosive scale. [→](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
-- **$299** — During Black Friday, a business might lose $299 per abandoned cart, and understaffing can exacerbate these losses. [→](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
+- **5 minutes** — Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
+- **20%** — Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
-[All figures, 661 rows](../figures.md)
+[All figures, 629 rows](../figures.md)
 
 ## The write-ups
 
@@ -40,12 +40,6 @@ On September 6 a marketer in a Chinese paid community posted his token bill.
 Jason Gillyon's ConvertCase.net is a one-page tool that converts text to title case or sentence case.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/78) · [telegra.ph](https://telegra.ph/Building-High-Income-Single-Page-Tool-Sites-via-SEO-09-26)
-
-### [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](../articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.md)
-
-Respond.io crossed **$35M in annual recurring revenue** last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/67) · [telegra.ph](https://telegra.ph/How-Respondio-Built-a-35M-ARR-Business-by-Billing-AI-Agents-Per-Active-Customer-Not-Per-Agent-09-03)
 
 ### [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
@@ -77,12 +71,6 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/27) · [telegra.ph](https://telegra.ph/How-to-Build-a-Micro-SaaS-Without-Spending-a-Dime-on-Ads-08-19)
 
-### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
-
-Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32) · [telegra.ph](https://telegra.ph/The-AI-Branding-Revolution-How-Indie-Developers-Are-Ditching-Design-Costs-with-AI-08-19)
-
 ### [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](../articles/charge-per-conversation-not-per-seat-the-billing-model.md)
 
 Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…
@@ -103,7 +91,7 @@ Two brothers ran a single short-video account until one piece of content took of
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
 ---
 

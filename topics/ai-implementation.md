@@ -1,6 +1,6 @@
 # AI Implementation
 
-10 of the 70 write-ups here are tagged AI Implementation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 65 write-ups here are tagged AI Implementation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$4 million** — Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - **$4 million** — This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
-[All figures, 661 rows](../figures.md)
+[All figures, 629 rows](../figures.md)
 
 ## The write-ups
 
@@ -47,12 +47,6 @@ One indie developer writing in Chinese in July 2026 put it about as plainly as a
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/45) · [telegra.ph](https://telegra.ph/AI-Took-Over-My-Coding-What-Broke-Was-How-I-Learn-08-23)
 
-### [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
-
-"Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option."
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/34) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-GPT-56-Model-Selection-A-Developers-Real-World-Guide-08-19)
-
 ### [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](../articles/klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 
 In early 2024 the European payments company Klarna put an AI customer-service assistant in place of roughly 700 human agents and said the move was worth about $40 million a year in additional profit.
@@ -79,7 +73,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
 ---
 

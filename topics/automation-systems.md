@@ -1,6 +1,6 @@
 # Automation Systems
 
-17 of the 70 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+16 of the 65 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **90%** — 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. [→](../articles/best-practices-for-ai-agent-skill-management.md)
 - **90%** — 90% of beginners fixate on tools (e.g., Pi's 4 default tools: read/write/edit/bash) instead of defining clear task boundaries. [→](../articles/best-practices-for-ai-agent-skill-management.md)
 
-[All figures, 661 rows](../figures.md)
+[All figures, 629 rows](../figures.md)
 
 ## The write-ups
 
@@ -65,12 +65,6 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/27) · [telegra.ph](https://telegra.ph/How-to-Build-a-Micro-SaaS-Without-Spending-a-Dime-on-Ads-08-19)
 
-### [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](../articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
-
-Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/19) · [telegra.ph](https://telegra.ph/Beyond-Chat-How-Codex-Can-Automate-Your-WordExcelPPTPDF-Workflows-08-19)
-
 ### [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](../articles/charge-per-conversation-not-per-seat-the-billing-model.md)
 
 Respond.io bills its customers for every contact who had a conversation in a given month rather than for every employee login, and I think that one decision explains more about the company's positi…
@@ -121,7 +115,7 @@ Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
 ---
 

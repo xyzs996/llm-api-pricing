@@ -1,6 +1,6 @@
 # AI
 
-7 of the 70 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 65 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **30%** — Agency Agents takes that to its logical end with 232 structured expert-persona files that work across 14 mainstream AI tools and a claimed output-quality improvement above 30%. [→](../articles/your-agent-writes-code-faster-than-anyone-can-review-it.md)
 - **9x** — Alibaba's Open Code Review was benchmarked against general-purpose agents on 200 real pull requests drawn from 50 open-source repositories across 10 languages, and it scored higher on accuracy and F1 while consuming roughly one-ninth the tokens, a 9x gap on identical work. [→](../articles/your-ai-coding-bill-scales-with-your-repo-not-your-output.md)
 
-[All figures, 661 rows](../figures.md)
+[All figures, 629 rows](../figures.md)
 
 ## The write-ups
 
@@ -53,15 +53,9 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)
 
-### [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](../articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.md)
-
-The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, yo…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/61) · [telegra.ph](https://telegra.ph/Rank-and-Rent-Building-Local-SEO-Sites-That-Earn-500-to-3000-a-Month-08-23)
-
 ---
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
 ---
 

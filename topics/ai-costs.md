@@ -1,6 +1,6 @@
 # AI Costs
 
-8 of the 70 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 65 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -11,9 +11,9 @@
 - **900 million tokens** — The free allocation is what people notice, since 900 million tokens is well beyond what most competing tools give away and beyond what a solo developer exhausts in normal work. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - **80 percent** — Track consumption from the first week rather than from the first warning at 80 percent. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - **$40 million** — Klarna replaced roughly 700 support agents with an AI assistant in early 2024, claimed about $40 million a year, and a bit over a year later the same CEO said they had overshot and started hiring back. [→](../articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md)
-- **95%** — Terra's document processing capabilities might seem cost-effective initially, but Luna's 95% accuracy on basic QA tasks and faster response times mean fewer errors and rework, whereas Terra's higher failure rate on complex tasks can lead to time wasted fixing mistakes, and Luna's superior accuracy and reliability make it a better long-term choice, even though Terra often requires more tokens for similar tasks. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
+- **5 minutes** — Pairing WorkBuddy with BrowserAct produces a competitive pricing table in about 5 minutes and a product opportunity report in about 7, which is the difference between researching a niche and researching twelve. [→](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
-[All figures, 661 rows](../figures.md)
+[All figures, 629 rows](../figures.md)
 
 ## The write-ups
 
@@ -53,12 +53,6 @@ Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in R
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Model-for-Coding-Cost-vs-Efficiency-08-19)
 
-### [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
-
-"Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option."
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/34) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-GPT-56-Model-Selection-A-Developers-Real-World-Guide-08-19)
-
 ### [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
 A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens.
@@ -67,7 +61,7 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
 ---
 

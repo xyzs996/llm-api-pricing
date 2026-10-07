@@ -63,11 +63,11 @@ Skip this entirely if what you want is income that arrives on a schedule. Freela
 
 - [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
-- [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
+- [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 659 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 627 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [AI Features](../topics/ai-features.md) · [Cost Savings](../topics/cost-savings.md)
 

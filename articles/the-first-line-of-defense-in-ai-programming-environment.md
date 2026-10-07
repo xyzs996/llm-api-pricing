@@ -80,9 +80,9 @@ The credential your AI tool never saw is the one you never have to rotate.
 - [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
 - [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md)
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 657 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 625 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [AI Development](../topics/ai-development.md)
 

@@ -1,6 +1,6 @@
 # Indie Development
 
-18 of the 70 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+17 of the 65 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **5-minute** — I remain a little skeptical of how well those reports hold up on messy niches, but for a first pass on pricing structure the speed is hard to argue with, and a 5-minute price table you can throw away costs you nothing when the niche turns out to be wrong. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - **$30** — With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
-[All figures, 661 rows](../figures.md)
+[All figures, 629 rows](../figures.md)
 
 ## The write-ups
 
@@ -64,12 +64,6 @@ The agent processes 40-plus podcast channels overnight, transcribed and summariz
 Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/39) · [telegra.ph](https://telegra.ph/Why-Pis-1000-Token-Agent-Engine-Needs-a-Sandbox-Before-You-Touch-It-08-19)
-
-### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
-
-Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32) · [telegra.ph](https://telegra.ph/The-AI-Branding-Revolution-How-Indie-Developers-Are-Ditching-Design-Costs-with-AI-08-19)
 
 ### [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
@@ -127,7 +121,7 @@ Microsoft's evaluation of Kimi K3 landed on a number that should change how you 
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 65 write-ups](../README.md)
 
 ---
 

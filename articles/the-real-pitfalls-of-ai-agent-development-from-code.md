@@ -6,13 +6,11 @@
 
 *The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/68) — that copy has a reply box under it, and this one does not.*
 
-AI Agent development faces critical gaps between code generation and functional verification. Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production.
+AI Agent development faces critical gaps between code generation and functional verification.
 
 ## The Code-to-Function Gap
 
-The gap between writing code and making it work is the real killer in AI Agent development.
-Mobile tools can’t test real devices, web agents blind to runtime.
-Plain and simple.
+The gap between writing code and making it work is the real killer in AI Agent development. Plain and simple.
 
 The agent-device tool works, but it’s not a full replacement for proper test automation. I don’t think it scales to production workflows. CLI commands like `agent-device tap @e2` simulate taps and swipes, but they require physical device connections and create dependency risks. Mobile agents can’t test apps on real devices, which creates a painful bottleneck.
 
@@ -24,9 +22,7 @@ Developers can now use commands like `agent-device tap @e2` to verify UI interac
 
 However, stagewise cannot reconstruct original source code, limiting its utility for complex debugging scenarios.
 
-AI coding agents often skip critical steps like testing and review. I don't think that's enough—Agent Skills enforces 24 structured workflows via Markdown guidance.
-
-This approach reduces oversight errors while maintaining development speed.
+I don't think that's enough—Agent Skills enforces 24 structured workflows via Markdown guidance.
 
 I think the overall effectiveness of these tools is a bit of a mixed bag. The agent-device tool's CLI interface enables direct integration with AI coding agents, automating the verification process for mobile applications. Stagewise's browser context integration allows frontend developers to experiment with CSS changes in real-time without altering the source code, reducing trial - and-error cycles. Agent Skills, with its structured workflows, helps developers stick to best practices. But I'd say its importance is overstated. Together, these tools bridge the code-to-function gap. They provide verification capabilities that traditional AI agents lack, thus improving the reliability of AI-generated code implementations.
 
@@ -150,11 +146,9 @@ The no-mistakes framework provides a nine-step quality verification pipeline tha
 
 - [The $22K-a-Month AI Tool That Never Bought a Single Ad](the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
-- [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
+- [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 
-[All 70 write-ups](../README.md)
-
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 659 more, as JSON and CSV.
+[All 65 write-ups](../README.md)
 
 Topics: [AI Tools](../topics/ai-tools.md) · [AI Agents](../topics/ai-agents.md) · [AI Development](../topics/ai-development.md)
 

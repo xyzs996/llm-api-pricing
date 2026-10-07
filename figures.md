@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-661 figures pulled out of 70 write-ups in
+629 figures pulled out of 64 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -335,29 +335,6 @@ Published 2026-09-05.
 | `60%` | percent | The recruitment automation tool hit a 60% efficiency gain after 28 rounds of iteration, but I’d argue that figure glosses over the real cost: dynamic page elements like shifting button positions and pop-ups demanded extra layers for state recognition and result verification. |
 | `99.96%` | percent | The client service system crushed repetitive work with 99.96% coverage, yet virtual product workflows still bog down when AI can’t replace business judgment or smooth delivery. |
 | `60%` | percent | For instance, the recruitment automation tool saw a 60% efficiency boost by precisely defining task boundaries and adding verification steps. |
-
-## [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](https://spectracodeai.com/articles/the-real-pitfalls-of-ai-agent-development-from-code.html)
-
-Published 2026-09-05.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `72%` | percent | Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production. |
-| `45%` | percent | Mobile developers report 72% of AI-generated code fails initial verification on real devices, and frontend developers waste 45% of their time debugging visual inconsistencies that only appear in production. |
-
-## [How Respond.io Built a $35M ARR Business by Billing AI Agents Per Active Customer (Not Per Agent)](https://spectracodeai.com/articles/how-respond-io-built-a-35m-arr-business-by-billing-ai.html)
-
-Published 2026-08-28.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `$35M` | price | Respond.io crossed $35M in annual recurring revenue last quarter by charging businesses for active customer conversations instead of agent seats; that one decision — switching from per-seat to per-customer billing — made the difference between flat growth and explosive scale. |
-| `87%` | percent | The problem is further complicated by the fact that 87% of AI projects stall due to interface chaos, scattered billing, and permission gaps—problems seat-based models exacerbate. |
-| `$299` | price | During Black Friday, a business might lose $299 per abandoned cart, and understaffing can exacerbate these losses. |
-| `$299` | price | During Black Friday weekend, a single abandoned cart can cost $299. |
-| `3-week` | duration | Plus a 3-week approval process for message templates. |
-| `15-year` | duration | Connecting an AI agent to a 15-year-old inventory system can take months. |
-| `$0` | price | From $0 to M ARR: The WhatsApp AI Support Playbook |
 
 ## [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](https://spectracodeai.com/articles/automating-short-video-marketing-with-ai-a-low-cost-growth.html)
 
@@ -779,16 +756,6 @@ Published 2026-08-17.
 | `$15,000` | price | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
 | `30 days` | duration | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
 
-## [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](https://spectracodeai.com/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html)
-
-Published 2026-08-17.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `70%` | percent | Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF data extraction to PPT report generation, cutting document processing time by 70%. |
-| `2 hours` | duration | One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. |
-| `10 hours` | duration | One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. |
-
 ## [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](https://spectracodeai.com/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html)
 
 Published 2026-08-16.
@@ -818,14 +785,6 @@ Published 2026-08-16.
 | `$4 million` | price | This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one. |
 | `10%` | percent | Klarna's 10% and 18% are exactly those two counters, and they are the only numbers in this story that would have predicted the rehiring before it happened. |
 | `18%` | percent | Klarna's 10% and 18% are exactly those two counters, and they are the only numbers in this story that would have predicted the rehiring before it happened. |
-
-## [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](https://spectracodeai.com/articles/the-ai-branding-revolution-how-indie-developers-are.html)
-
-Published 2026-08-16.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `90%` | percent | AI branding tools like Miora let indie developers cut design costs by 90%. |
 
 ## [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://spectracodeai.com/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html)
 
@@ -946,25 +905,6 @@ Published 2026-08-12.
 | `60%` | percent | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
 | `12 months` | duration | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
 
-## [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](https://spectracodeai.com/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html)
-
-Published 2026-08-12.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `95%` | percent | Luna's 95% accuracy rate at 1/3 the cost of Terra shows how much you can save by making the right choice. |
-| `3x` | multiple | Terra requires 3x more tokens for equivalent tasks, and its 800ms response time makes it far less efficient for time-sensitive applications. |
-| `95%` | percent | Terra's document processing capabilities might seem cost-effective initially, but Luna's 95% accuracy on basic QA tasks and faster response times mean fewer errors and rework, whereas Terra's higher failure rate on complex tasks can lead to time wasted fixing mistakes, and Luna's superior accuracy and reliability make it a better long-term choice, even though Terra often requires more tokens for similar tasks. |
-| `95%` | percent | For example, Luna's 95% accuracy rate for basic questions drops when faced with more complex queries, and Terra's document analysis accuracy can vary depending on document structure and content. |
-| `20%` | percent | Open Code Review requires 1/9th the tokens of standard agents and offers a 20% higher accuracy rate. |
-| `95%` | percent | For example, Luna's 95% accuracy in basic Q&A is great for customer service, but the error correction time can be a drawback. |
-| `2x` | multiple | Terra's ability to extract all data is ideal for document processing, but its 2x token usage may be a concern for large-scale projects. |
-| `95%` | percent | Luna's 95% accuracy rate for basic questions makes it ideal for simple tasks, while Terra's strength shows up in document analysis and more complex scenarios. |
-| `2x` | multiple | Luna takes less developer time, which shows how much more efficient it is overall, and Terra's 2x more tokens for equivalent tasks adds up quickly in larger projects. |
-| `95%` | percent | Luna's 95% accuracy rate reduces rework costs, and Terra's higher token costs add up over time. |
-| `9 token` | tokens | Open Code Review's 1/9 token consumption advantage over general-purpose agents translates to large cost savings for development teams. |
-| `6 months` | duration | A mid-sized e-commerce company cut its model spend over 6 months. |
-
 ## [Your Agent Writes Code Faster Than Anyone Can Review It](https://spectracodeai.com/articles/your-agent-writes-code-faster-than-anyone-can-review-it.html)
 
 Published 2026-08-11.
@@ -1079,20 +1019,6 @@ Published 2026-08-10.
 | `$13 billion` | price | Deloitte figures suggest an enterprise with $13 billion in annual revenue may put as much as $700 million into AI, while Jellyfish research finds high token consumption badly out of balance with productivity gains. |
 | `$700 million` | price | Deloitte figures suggest an enterprise with $13 billion in annual revenue may put as much as $700 million into AI, while Jellyfish research finds high token consumption badly out of balance with productivity gains. |
 
-## [Rank and Rent: Local SEO Sites That Earn $500 to $3,000 a Month](https://spectracodeai.com/articles/rank-and-rent-local-seo-sites-that-earn-500-to-3-000-a-month.html)
-
-Published 2026-08-09.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `$500` | price | The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, you rank it in Google for the searches that category gets, and then you rent the finished site to one business in that town for somewhere between $500 and $3,000 a month. |
-| `$3,000` per month | price | The rank-and-rent model is old enough that most people have heard of it and specific enough that almost nobody runs the numbers before starting: you build a website for a local service category, you rank it in Google for the searches that category gets, and then you rent the finished site to one business in that town for somewhere between $500 and $3,000 a month. |
-| `$55,000` | price | BackPedal makes the point in an adjacent category: founder James Dunn pairs GPS trackers with an offline recovery team and runs about $55,000 in monthly recurring revenue, and the moat is not the tracker. |
-| `$800` per month | price | A plumber comparing $800 a month to the cost of one lost emergency job is doing arithmetic that favors you. |
-| `$800` per month | price | A plumber comparing $800 a month to what a website "should" cost is doing arithmetic you introduced by accident. |
-| `$500` | price | Every figure in this article comes from operators describing their own results, and the $500 to $3,000 range is a report rather than a distribution — I have no idea what the median is, or how many sites never rent at all. |
-| `$3,000` | price | Every figure in this article comes from operators describing their own results, and the $500 to $3,000 range is a report rather than a distribution — I have no idea what the median is, or how many sites never rent at all. |
-
 ## [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](https://spectracodeai.com/articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.html)
 
 Published 2026-08-09.
@@ -1206,5 +1132,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "661 figures pulled out of 70 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-10-02", "dateModified": "2026-10-02"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "629 figures pulled out of 64 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-10-02", "dateModified": "2026-10-02"}
 </script>
