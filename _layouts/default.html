@@ -15,6 +15,7 @@
 {%- if page.url == '/' or page.url == '/index.html' -%}{%- assign is_home = true -%}{%- endif -%}
 {%- assign is_article = false -%}
 {%- if page.url contains '/articles/' -%}{%- assign is_article = true -%}{%- endif -%}
+{%- if page.url contains '/units/' -%}{%- assign is_article = false -%}{%- endif -%}
 <body class="{% if is_home %}home{% elsif is_article %}article{% else %}page{% endif %}">
   <header class="nav">
     <div class="wrap nav-inner">
@@ -23,7 +24,10 @@
         <span>{{ site.title }}</span>
       </a>
       <nav class="nav-links" aria-label="Main">
-        <a href="{{ '/articles.html' | relative_url }}">Write-ups</a>
+        <a href="{{ '/units/build.html' | relative_url }}">Build</a>
+        <a href="{{ '/units/sell.html' | relative_url }}">Sell</a>
+        <a href="{{ '/units/test.html' | relative_url }}">Test</a>
+        <a class="hide-sm" href="{{ '/articles.html' | relative_url }}">All</a>
         <a href="{{ '/prices.html' | relative_url }}">Prices</a>
         <a class="hide-sm" href="{{ '/figures.html' | relative_url }}">Data</a>
         <a class="btn btn-sm" href="#subscribe-box" data-umami-event="nav-subscribe">Subscribe</a>

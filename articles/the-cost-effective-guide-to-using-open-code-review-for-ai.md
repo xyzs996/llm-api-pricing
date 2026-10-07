@@ -4,7 +4,7 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
-*This piece was first published on [Medium](https://markyanai.medium.com/the-cost-effective-guide-to-using-open-code-review-for-ai-programming-tools-d144b9bb5b46) — that copy is the original, and it is where you can clap or reply.*
+*Also on [Medium](https://markyanai.medium.com/the-cost-effective-guide-to-using-open-code-review-for-ai-programming-tools-d144b9bb5b46), if you'd rather clap or reply there.*
 
 Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both accuracy and F1 than general-purpose agents like Claude Code, which struck me as a strange result until I looked at where the work actually happens. The win isn't the model. It's the split.
 

@@ -132,6 +132,18 @@ article.prose p:has(> img[src*="/assets/cards/a/"]), article.prose img[src*="/as
 .subscribe p { margin: 0 0 16px; color: var(--muted); font-size: 15.5px; }
 .home .subscribe { display: none; }
 
+/* 首页三个单元 */
+.tracks { display: grid; gap: 22px; grid-template-columns: repeat(3, 1fr); }
+.track { display: flex; flex-direction: column; padding: 24px; border-radius: var(--radius); border: 1px solid var(--line);
+  background: var(--card); box-shadow: var(--shadow); }
+.track-head { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.track h3 { margin: 0; font-size: 20px; letter-spacing: -.01em; }
+.track > p { margin: 0 0 14px; color: var(--muted); font-size: 14.5px; }
+.track-list { list-style: none; padding: 0; margin: 0 0 14px; display: grid; gap: 8px; font-size: 14.5px; line-height: 1.4; }
+.track-list a { color: var(--text); font-weight: 500; }
+.track-more { margin-top: auto; font-weight: 600; font-size: 14px; }
+@media (max-width: 900px) { .tracks { grid-template-columns: 1fr; } }
+
 /* 全部文章页 */
 .list { list-style: none; padding: 0; margin: 0; }
 .list li { padding: 18px 0; border-bottom: 1px solid var(--line); }

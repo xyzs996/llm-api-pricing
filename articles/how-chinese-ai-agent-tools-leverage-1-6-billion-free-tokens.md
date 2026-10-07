@@ -4,7 +4,7 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
-*This piece was first published on [Medium](https://markyanai.medium.com/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens-69b483c4eb6a) — that copy is the original, and it is where you can clap or reply.*
+*Also on [Medium](https://markyanai.medium.com/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens-69b483c4eb6a), if you'd rather clap or reply there.*
 
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly. This strategy revolves around using tools like OmniRoute, which aggregates 237 providers, compressing 10,000 tokens to 1080 through RTK+Caveman technology.
 
