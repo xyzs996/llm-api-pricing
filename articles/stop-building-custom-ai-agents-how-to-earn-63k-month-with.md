@@ -59,7 +59,7 @@ Shifting to micro-automation tools effectively addresses real, high-frequency pa
 - [Building High-Income Single-Page Tool Sites via SEO](building-high-income-single-page-tool-sites-via-seo.md)
 - [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 617 more, as JSON and CSV.
 

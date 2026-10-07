@@ -1,6 +1,6 @@
 # SaaS Business
 
-12 of the 65 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+12 of the 64 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -91,7 +91,7 @@ Two brothers ran a single short-video account until one piece of content took of
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

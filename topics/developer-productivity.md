@@ -1,6 +1,6 @@
 # Developer Productivity
 
-4 of the 65 write-ups here are tagged Developer Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 64 write-ups here are tagged Developer Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -43,7 +43,7 @@ When the Claude Code team decided to slash 80% of their system prompts, most dev
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Token Optimization
 
-3 of the 65 write-ups here are tagged Token Optimization. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 64 write-ups here are tagged Token Optimization. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -35,7 +35,7 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

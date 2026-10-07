@@ -87,15 +87,15 @@ AI Coding, Indie Hackers, Software Development, AI Agents, Claude Code, Develope
 
 **Read next**
 
-- [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](the-real-pitfalls-of-ai-agent-development-from-code.md)
 - [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
+- [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 626 more, as JSON and CSV.
 
-Topics: [AI Agents](../topics/ai-agents.md) · [Developer Productivity](../topics/developer-productivity.md) · [Software Development](../topics/software-development.md)
+Topics: [Developer Productivity](../topics/developer-productivity.md) · [AI Agents](../topics/ai-agents.md) · [Software Development](../topics/software-development.md)
 
 
 ---

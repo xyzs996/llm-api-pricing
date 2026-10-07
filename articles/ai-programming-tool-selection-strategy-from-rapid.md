@@ -75,7 +75,7 @@ Start hosted if you are still deciding what to build. Move to files when the pro
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 626 more, as JSON and CSV.
 

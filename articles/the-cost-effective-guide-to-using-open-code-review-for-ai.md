@@ -77,7 +77,7 @@ It solves a problem you solved another way.
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 627 more, as JSON and CSV.
 

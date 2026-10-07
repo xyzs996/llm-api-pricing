@@ -103,7 +103,7 @@ The future of indie development lies in combining AI tools with human judgment. 
 - [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 624 more, as JSON and CSV.
 

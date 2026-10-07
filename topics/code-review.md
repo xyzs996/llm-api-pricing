@@ -1,6 +1,6 @@
 # Code Review
 
-6 of the 65 write-ups here are tagged Code Review. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 64 write-ups here are tagged Code Review. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -55,7 +55,7 @@ Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in R
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

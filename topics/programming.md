@@ -1,6 +1,6 @@
 # Programming
 
-3 of the 65 write-ups here are tagged Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 64 write-ups here are tagged Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -33,7 +33,7 @@ Most people budgeting for a coding assistant reason about it the way they reason
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

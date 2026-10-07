@@ -88,7 +88,7 @@ I could be wrong here. This is one company, one quarter, and Klarna had reasons 
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 606 more, as JSON and CSV.
 

@@ -1,6 +1,6 @@
 # AI Tools
 
-5 of the 65 write-ups here are tagged AI Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 64 write-ups here are tagged AI Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -23,12 +23,6 @@ The myth that more detailed prompts always lead to better AI coding outcomes is 
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/74) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-Over-Prompting-in-AI-Coding-Lessons-from-Claude-Codes-Optimization-09-17)
 
-### [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](../articles/the-real-pitfalls-of-ai-agent-development-from-code.md)
-
-AI Agent development faces critical gaps between code generation and functional verification.
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/68) · [telegra.ph](https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05)
-
 ### [The $22K-a-Month AI Tool That Never Bought a Single Ad](../articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 
 StoryShort hit $22,000 a month in its first three months.
@@ -49,7 +43,7 @@ You can build AI-generated local business websites, rent them to plumbers or den
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # AI Implementation
 
-9 of the 65 write-ups here are tagged AI Implementation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 64 write-ups here are tagged AI Implementation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -73,7 +73,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

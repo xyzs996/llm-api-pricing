@@ -1,6 +1,6 @@
 # Indie Development
 
-17 of the 65 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+17 of the 64 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -121,7 +121,7 @@ Microsoft's evaluation of Kimi K3 landed on a number that should change how you 
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

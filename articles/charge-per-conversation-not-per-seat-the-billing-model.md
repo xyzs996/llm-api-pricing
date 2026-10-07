@@ -75,7 +75,7 @@ Build the connector layer, charge for volume rather than seats, and keep a perso
 - [58 Million Plays Started With One Account, Not Four](58-million-plays-started-with-one-account-not-four.md)
 - [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 628 more, as JSON and CSV.
 

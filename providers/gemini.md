@@ -1,12 +1,12 @@
 # Gemini API pricing: what 12 models cost a coding agent
 
-Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-06**.
+Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-07**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Gemini discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Gemini charges per million tokens
 
-12 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-06**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+12 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-07**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Gemini charges one cache-read rate across every row that publishes one: 10% of that row's own input price.** All 10 of them use it, so within Gemini the cheapest row on list price is also the cheapest row an agent actually pays — the ordering does not change. Repriced at a coding agent's mix, Gemini's list input price overstates what an agent pays by a median **6.6×** (range 6.5×–6.6×).
 
@@ -47,13 +47,13 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | OpenAI | 9 | 10–10.4% | 6.3× | $0.2042 |
 | Llama | 3 | 12% | 6.0× | $0.2067 |
 | Grok | 5 | 15–25% | 5.0× | $0.2494 |
-| Kimi | 5 | 10–32.6% | 4.7× | $0.0918 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
-| GLM | 8 | 18.3–98.7% | 4.1× | $0.0853 |
+| GLM | 8 | 18.3–94.7% | 4.1× | $0.0853 |
 | upstage | 1 | 20% | 4.1× | $0.0219 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
+| Kimi | 5 | 10–69.4% | 3.9× | $0.0918 |
 
-The spread in that fourth column is the whole point: Claude at 6.6× against GLM at 4.1×, across 20 and 8 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
+The spread in that fourth column is the whole point: Claude at 6.6× against Kimi at 3.9×, across 20 and 5 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
 
 
 [All models, every vendor, one table](../prices.md) · [Put your own token counts in](https://xyzs996.github.io/llm-cost-calculator/) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)

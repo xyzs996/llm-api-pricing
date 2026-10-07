@@ -71,7 +71,7 @@ Start with one account and one format. Multiply after the numbers give you permi
 - [How to Build a Micro-SaaS Without Spending a Dime on Ads](how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 - [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](charge-per-conversation-not-per-seat-the-billing-model.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 616 more, as JSON and CSV.
 

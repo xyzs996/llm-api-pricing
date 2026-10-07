@@ -1,6 +1,6 @@
 # AI Costs
 
-7 of the 65 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 64 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -61,7 +61,7 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

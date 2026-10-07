@@ -168,7 +168,7 @@ Loop engineering offers several key advantages.
 - [Sell It Before You Build It: How Indie Devs Validate AI Products](sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 - [Klarna Replaced 700 Support Agents With AI. Then It Started Hiring Again.](klarna-replaced-700-support-agents-with-ai-then-it-started.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 616 more, as JSON and CSV.
 

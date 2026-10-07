@@ -89,7 +89,7 @@ The honest catch is that a workstation demands something a chat box never does: 
 - [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
 - [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 622 more, as JSON and CSV.
 

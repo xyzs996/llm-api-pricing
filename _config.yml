@@ -27,39 +27,39 @@ defaults:
   - scope:
       path: "README_CN.md"
     values:
-      description: "这是一份公开数表。65 篇实测笔记里出现过的每一个数 —— 价格、百分比、倍数、token 数、耗时 —— 都抽成一行,每行都附上它原来所在的那句话和发布日期。"
+      description: "这是一份公开数表。64 篇实测笔记里出现过的每一个数 —— 价格、百分比、倍数、token 数、耗时 —— 都抽成一行,每行都附上它原来所在的那句话和发布日期。"
   - scope:
       path: "README_ES.md"
     values:
-      description: "Un conjunto de datos abierto. Cada cifra publicada en 65 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, con la frase completa de la que salió y la fecha de publicación."
+      description: "Un conjunto de datos abierto. Cada cifra publicada en 64 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, con la frase completa de la que salió y la fecha de publicación."
   - scope:
       path: "README_JA.md"
     values:
-      description: "オープンなデータセットです。65 本の実測ノートに出てきた数字 —— 料金、割合、倍率、トークン数、所要時間 —— をすべて 1 行ずつに抜き出し、元の一文と公開日を必ず添えてあります。"
+      description: "オープンなデータセットです。64 本の実測ノートに出てきた数字 —— 料金、割合、倍率、トークン数、所要時間 —— をすべて 1 行ずつに抜き出し、元の一文と公開日を必ず添えてあります。"
   - scope:
       path: "README_KO.md"
     values:
-      description: "공개 데이터셋입니다. 65편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 원래 문장 전체와 게시 날짜를 함께 실었습니다."
+      description: "공개 데이터셋입니다. 64편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 원래 문장 전체와 게시 날짜를 함께 실었습니다."
   - scope:
       path: "README_VI.md"
     values:
-      description: "Một bộ dữ liệu mở. Mọi con số xuất hiện trong 65 ghi chép thực đo — giá, phần trăm, bội số, số token, thời lượng — đều được tách thành một dòng, kèm nguyên câu chứa nó và ngày công bố."
+      description: "Một bộ dữ liệu mở. Mọi con số xuất hiện trong 64 ghi chép thực đo — giá, phần trăm, bội số, số token, thời lượng — đều được tách thành một dòng, kèm nguyên câu chứa nó và ngày công bố."
   - scope:
       path: "README_FR.md"
     values:
-      description: "Un jeu de données ouvert. Chaque chiffre publié dans 65 notes de terrain — prix, pourcentages, multiples, nombres de tokens et durées — extrait en une ligne, avec la phrase entière dont il provient et sa date de publication."
+      description: "Un jeu de données ouvert. Chaque chiffre publié dans 64 notes de terrain — prix, pourcentages, multiples, nombres de tokens et durées — extrait en une ligne, avec la phrase entière dont il provient et sa date de publication."
   - scope:
       path: "README_DE.md"
     values:
-      description: "Ein offener Datensatz. Jede Zahl aus 65 Praxisnotizen — Preise, Prozentsätze, Vielfache, Token-Zahlen und Laufzeiten — als eigene Zeile, mit dem vollständigen Satz, aus dem sie stammt, und dem Veröffentlichungsdatum."
+      description: "Ein offener Datensatz. Jede Zahl aus 64 Praxisnotizen — Preise, Prozentsätze, Vielfache, Token-Zahlen und Laufzeiten — als eigene Zeile, mit dem vollständigen Satz, aus dem sie stammt, und dem Veröffentlichungsdatum."
   - scope:
       path: "README_RU.md"
     values:
-      description: "Открытый набор данных. Каждая цифра из 65 полевых заметок — цены, проценты, кратности, количество токенов и длительности — вынесена в отдельную строку, вместе с полной фразой, откуда она взята, и датой публикации."
+      description: "Открытый набор данных. Каждая цифра из 64 полевых заметок — цены, проценты, кратности, количество токенов и длительности — вынесена в отдельную строку, вместе с полной фразой, откуда она взята, и датой публикации."
   - scope:
       path: "README_ID.md"
     values:
-      description: "Kumpulan data terbuka. Setiap angka dari 65 catatan lapangan — harga, persentase, kelipatan, jumlah token, dan durasi — ditarik menjadi satu baris, lengkap dengan kalimat asalnya dan tanggal terbitnya."
+      description: "Kumpulan data terbuka. Setiap angka dari 64 catatan lapangan — harga, persentase, kelipatan, jumlah token, dan durasi — ditarik menjadi satu baris, lengkap dengan kalimat asalnya dan tanggal terbitnya."
   - scope:
       path: "units/build.md"
     values:
@@ -133,10 +133,6 @@ defaults:
     values:
       description: "The 5 write-ups in these AI coding field notes tagged AI Automation — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/ai-tools.md"
-    values:
-      description: "The 5 write-ups in these AI coding field notes tagged AI Tools — each with the figures it cited and the sentence every figure came from."
-  - scope:
       path: "topics/chinese-ai.md"
     values:
       description: "The 5 write-ups in these AI coding field notes tagged Chinese AI — each with the figures it cited and the sentence every figure came from."
@@ -145,9 +141,9 @@ defaults:
     values:
       description: "The 5 write-ups in these AI coding field notes tagged Revenue Growth — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/ai-agents.md"
+      path: "topics/ai-tools.md"
     values:
-      description: "The 4 write-ups in these AI coding field notes tagged AI Agents — each with the figures it cited and the sentence every figure came from."
+      description: "The 4 write-ups in these AI coding field notes tagged AI Tools — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/automation.md"
     values:
@@ -157,9 +153,9 @@ defaults:
     values:
       description: "The 4 write-ups in these AI coding field notes tagged Developer Productivity — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/ai-development.md"
+      path: "topics/ai-agents.md"
     values:
-      description: "The 3 write-ups in these AI coding field notes tagged AI Development — each with the figures it cited and the sentence every figure came from."
+      description: "The 3 write-ups in these AI coding field notes tagged AI Agents — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/enterprise-automation.md"
     values:
@@ -378,14 +374,6 @@ defaults:
       image: "https://spectracodeai.com/assets/cards/a/the-ai-automation-ceiling-why-60-efficiency-doesn-t-equal.png"
       description: "Why 60% AI automation efficiency rarely leads to 20% conversion gains, and how to balance human judgment with AI capabilities for realistic results."
       date: "2026-09-05T12:13:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
-      path: "articles/the-real-pitfalls-of-ai-agent-development-from-code.md"
-    values:
-      image: "https://spectracodeai.com/assets/cards/a/the-real-pitfalls-of-ai-agent-development-from-code.png"
-      description: "AI agent development faces critical gaps between code generation and functional verification, with mobile and web developers facing distinct challenges."
-      date: "2026-09-05T08:08:00Z"
       seo:
         type: BlogPosting
   - scope:

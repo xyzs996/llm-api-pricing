@@ -73,7 +73,7 @@ The figures in this piece all come from operators reporting on themselves, and n
 - [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](how-indie-developers-are-building-ai-powered-digital.md)
 - [When the AI Picks for the Customer, You Become a Supplier](when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 627 more, as JSON and CSV.
 

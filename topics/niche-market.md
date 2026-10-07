@@ -1,6 +1,6 @@
 # Niche Market
 
-11 of the 65 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+11 of the 64 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -85,7 +85,7 @@ Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

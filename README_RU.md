@@ -4,17 +4,17 @@
 
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://spectracodeai.com/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
-Открытый набор данных. Каждая цифра из 65 полевых заметок — цены, проценты, кратности, количество токенов и длительности — вынесена в отдельную строку, **вместе с полной фразой, откуда она взята, и датой публикации**.
+Открытый набор данных. Каждая цифра из 64 полевых заметок — цены, проценты, кратности, количество токенов и длительности — вынесена в отдельную строку, **вместе с полной фразой, откуда она взята, и датой публикации**.
 
 ## Сколько сегодня стоят модели для агентов
 
-67 моделей, занявших место в одной из категорий *agents* на Design Arena, с **прейскурантной ценой** за миллион токенов — это не ваш счёт: кэш, пакетный режим и каждый провайдер считают по-своему. Из открытого каталога OpenRouter, последнее чтение 2026-10-06. Три самые дешёвые:
+67 моделей, занявших место в одной из категорий *agents* на Design Arena, с **прейскурантной ценой** за миллион токенов — это не ваш счёт: кэш, пакетный режим и каждый провайдер считают по-своему. Из открытого каталога OpenRouter, последнее чтение 2026-10-07. Три самые дешёвые:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
 | $0.07 | $7.00 | GLM 5.3 | #8 python-pptxslides |
 | $0.09 | $0.36 | Solar Pro 4 | #34 webapps |
-| $0.152 | $12.00 | GLM 5.2 | #10 agenticgamedev |
+| $0.171 | $7.20 | GLM 5.2 | #10 agenticgamedev |
 
 [Все 67 моделей](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 

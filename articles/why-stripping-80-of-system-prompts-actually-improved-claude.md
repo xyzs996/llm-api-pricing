@@ -71,7 +71,7 @@ I think Grill-me's 37 prompts are unnecessary, and I could be wrong about that o
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 627 more, as JSON and CSV.
 

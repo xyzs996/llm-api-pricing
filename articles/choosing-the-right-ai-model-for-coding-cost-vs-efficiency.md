@@ -86,7 +86,7 @@ When choosing tools and models, developers should also consider the user-profile
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 610 more, as JSON and CSV.
 

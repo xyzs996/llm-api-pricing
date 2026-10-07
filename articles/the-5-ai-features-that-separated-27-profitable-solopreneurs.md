@@ -71,7 +71,7 @@ The takeaway from the 27 cases is not that you should use all five. It is that t
 - [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 - [Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)](four-circuit-breakers-every-unattended-ai-pipeline-needs.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 615 more, as JSON and CSV.
 

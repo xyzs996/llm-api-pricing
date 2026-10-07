@@ -1,6 +1,6 @@
 # AI
 
-6 of the 65 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 64 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -55,7 +55,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

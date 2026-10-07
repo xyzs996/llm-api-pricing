@@ -69,7 +69,7 @@ I could be wrong about how much the fallback actually degrades things, and the h
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 27 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 602 more, as JSON and CSV.
 

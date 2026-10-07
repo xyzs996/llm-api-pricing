@@ -1,6 +1,6 @@
 # Chinese AI
 
-5 of the 65 write-ups here are tagged Chinese AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 64 write-ups here are tagged Chinese AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -49,7 +49,7 @@ A monthly report that used to take four hours now takes a few minutes.
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

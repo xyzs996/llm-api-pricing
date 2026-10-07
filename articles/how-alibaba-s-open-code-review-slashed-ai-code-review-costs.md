@@ -69,7 +69,7 @@ For you, the independent developer, the takeaway is clear: stop paying for bloat
 - [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 625 more, as JSON and CSV.
 

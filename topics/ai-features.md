@@ -1,6 +1,6 @@
 # AI Features
 
-8 of the 65 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 64 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -67,7 +67,7 @@ If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, a
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

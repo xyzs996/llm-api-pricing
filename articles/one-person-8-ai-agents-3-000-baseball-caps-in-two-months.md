@@ -73,7 +73,7 @@ If you have the domain knowledge, the relay structure is worth building and the 
 - [Charge Per Conversation, Not Per Seat: The Billing Model Behind AI Support](charge-per-conversation-not-per-seat-the-billing-model.md)
 - [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 622 more, as JSON and CSV.
 

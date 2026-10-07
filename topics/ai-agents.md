@@ -1,6 +1,6 @@
 # AI Agents
 
-4 of the 65 write-ups here are tagged AI Agents. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 64 write-ups here are tagged AI Agents. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -21,12 +21,6 @@
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/77) · [telegra.ph](https://telegra.ph/Your-AI-Didnt-Misread-Your-Code-by-Accident-You-Handed-It-the-Wrong-Context-09-25)
 
-### [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](../articles/the-real-pitfalls-of-ai-agent-development-from-code.md)
-
-AI Agent development faces critical gaps between code generation and functional verification.
-
-[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/68) · [telegra.ph](https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05)
-
 ### [One Person, 8 AI Agents, 3,000 Baseball Caps in Two Months](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
 Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 AI agents and no employees, and in 2 months he shipped 3,000 caps to buyers across Europe, the Americas and South Ame…
@@ -41,7 +35,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 ---
 

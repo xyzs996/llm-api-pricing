@@ -65,7 +65,7 @@ Skip this entirely if what you want is income that arrives on a schedule. Freela
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
-[All 65 write-ups](../README.md)
+[All 64 write-ups](../README.md)
 
 The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 627 more, as JSON and CSV.
 

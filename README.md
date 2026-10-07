@@ -7,13 +7,13 @@
 > 67 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-65 write-ups on what those bills looked like in production.
+64 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (67 models)
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (0.8×–18.4×). Read **2026-10-06**; the three cheapest *to run*:
+median **6.5×** (0.8×–18.4×). Read **2026-10-07**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
@@ -69,7 +69,7 @@ with AI assistance.
 
 ## The figures, as data (629 rows)
 
-Every figure published across the 65 write-ups —
+Every figure published across the 64 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -155,7 +155,7 @@ write-ups land there first.
 
 **By provider.** [Claude](providers/claude.md) (46) · [DeepSeek](providers/deepseek.md) (16) · [GLM](providers/glm.md) (15) · [GPT-5.6](providers/gpt-5-6.md) (13) · [Gemini](providers/gemini.md) (13) · [OpenAI](providers/openai.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [Kimi](providers/kimi.md) (9) · [Codex](providers/codex.md) (8) · [Fable 5](providers/fable-5.md) (8) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) — prices where there are prices, and every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (17) · [Automation Systems](topics/automation-systems.md) (16) · [SaaS Business](topics/saas-business.md) (12) · [Niche Market](topics/niche-market.md) (11) · [Productivity](topics/productivity.md) (11) · [AI Implementation](topics/ai-implementation.md) (9) · [Artificial Intelligence](topics/artificial-intelligence.md) (9) · [AI Features](topics/ai-features.md) (8) · [AI Costs](topics/ai-costs.md) (7) · [Development Tools](topics/development-tools.md) (7) · [AI](topics/ai.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [Code Review](topics/code-review.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Automation](topics/ai-automation.md) (5) · [AI Tools](topics/ai-tools.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [AI Agents](topics/ai-agents.md) (4) · [Automation](topics/automation.md) (4) · [Developer Productivity](topics/developer-productivity.md) (4) · [AI Development](topics/ai-development.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [Software Development](topics/software-development.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (17) · [Automation Systems](topics/automation-systems.md) (16) · [SaaS Business](topics/saas-business.md) (12) · [Niche Market](topics/niche-market.md) (11) · [Productivity](topics/productivity.md) (11) · [AI Implementation](topics/ai-implementation.md) (9) · [Artificial Intelligence](topics/artificial-intelligence.md) (9) · [AI Features](topics/ai-features.md) (8) · [AI Costs](topics/ai-costs.md) (7) · [Development Tools](topics/development-tools.md) (7) · [AI](topics/ai.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [Code Review](topics/code-review.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Automation](topics/ai-automation.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [AI Tools](topics/ai-tools.md) (4) · [Automation](topics/automation.md) (4) · [Developer Productivity](topics/developer-productivity.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [Software Development](topics/software-development.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -254,12 +254,6 @@ This is for the solo developer who repeats the same chores every week and knows 
 "AI automation can boost efficiency by 60% but fails to deliver 20% conversion improvements".
 
 `AI Automation` `AI Implementation` `Business Efficiency` `Conversion Rate` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/69) · [telegra.ph](https://telegra.ph/The-AI-Automation-Ceiling-Why-60-Efficiency-Doesnt-Equal-20-Conversion-09-05)
-
-### [The Real Pitfalls of AI Agent Development: From Code Generation to Functional Verification](articles/the-real-pitfalls-of-ai-agent-development-from-code.md)
-
-AI Agent development faces critical gaps between code generation and functional verification.
-
-`AI Agents` `AI Tools` `AI Development` `Code Verification` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/68) · [telegra.ph](https://telegra.ph/The-Real-Pitfalls-of-AI-Agent-Development-From-Code-Generation-to-Functional-Verification-09-05)
 
 ### [Automating Short Video Marketing with AI: A Low-Cost Growth Strategy for Developers](articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md)
 
