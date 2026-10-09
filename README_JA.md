@@ -8,12 +8,12 @@
 
 ## エージェント向けモデルの今日の値段
 
-Design Arena の *agents* 部門で順位のついた 67 モデルの、100 万トークンあたりの**定価**です。請求額ではありません — キャッシュ、バッチ、提供元ごとに価格は違います。OpenRouter の公開カタログより、最終取得日 2026-10-08。安い順に 3 つ:
+Design Arena の *agents* 部門で順位のついた 67 モデルの、100 万トークンあたりの**定価**です。請求額ではありません — キャッシュ、バッチ、提供元ごとに価格は違います。OpenRouter の公開カタログより、最終取得日 2026-10-09。安い順に 3 つ:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.03 | $10.00 | GLM 5.2 | #10 agenticgamedev |
-| $0.049 | $3.39 | GLM 5.3 | #8 python-pptxslides |
+| $0.04 | $4.80 | GLM 5.3 | #8 python-pptxslides |
+| $0.06 | $4.20 | GLM 5.2 | #10 agenticgamedev |
 | $0.09 | $0.36 | Solar Pro 4 | #34 webapps |
 
 [67 モデル全部](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
