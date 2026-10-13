@@ -6,7 +6,7 @@
   "attribution": "CC BY 4.0. Reuse it however you like, including commercially; the one condition is a credit that names this dataset and links to dataset_url. source below is where the list prices came from, not this dataset — the effective_per_million and vendor_checked fields are computed here and are not in the upstream catalog.",
   "source": "https://openrouter.ai/api/v1/models",
   "source_name": "OpenRouter",
-  "checked": "2026-10-12",
+  "checked": "2026-10-13",
   "agent_token_mix": {
     "cache_read": 0.9564,
     "cache_miss": 0.0407,
@@ -199,7 +199,7 @@
       "batch": false,
       "article": "",
       "article_url": "",
-      "hosts": 41,
+      "hosts": 42,
       "host_cache_ratio_min": 10.0,
       "host_cache_ratio_max": 109.09,
       "host_cheapest": "InferenceNet",
@@ -442,7 +442,7 @@
       "batch": true,
       "article": "",
       "article_url": "",
-      "hosts": 41,
+      "hosts": 42,
       "host_cache_ratio_min": 10.0,
       "host_cache_ratio_max": 109.09,
       "host_cheapest": "InferenceNet",
@@ -608,9 +608,9 @@
       "host_cache_ratio_min": 10.0,
       "host_cache_ratio_max": 50.0,
       "host_cheapest": "Chutes",
-      "host_cheapest_effective": 0.076435,
+      "host_cheapest_effective": 0.067008,
       "host_by_list": "Baidu",
-      "host_overpay": 0.3006,
+      "host_overpay": 0.4077,
       "effective_per_million": 0.179804
     },
     {
@@ -661,10 +661,10 @@
       "hosts": 25,
       "host_cache_ratio_min": 10.0,
       "host_cache_ratio_max": 100.0,
-      "host_cheapest": "Makora",
-      "host_cheapest_effective": 0.294352,
+      "host_cheapest": "Chutes",
+      "host_cheapest_effective": 0.279779,
       "host_by_list": "InferenceNet",
-      "host_overpay": 0.9865,
+      "host_overpay": 1.09,
       "effective_per_million": 0.584731
     },
     {
@@ -825,8 +825,8 @@
       "host_cache_ratio_max": 50.42,
       "host_cheapest": "Chutes",
       "host_cheapest_effective": 0.142545,
-      "host_by_list": "Baidu",
-      "host_overpay": 0.539,
+      "host_by_list": "StreamLake",
+      "host_overpay": 0.5413,
       "effective_per_million": 0.219699
     },
     {
@@ -1498,10 +1498,10 @@
       "hosts": 25,
       "host_cache_ratio_min": 10.0,
       "host_cache_ratio_max": 100.0,
-      "host_cheapest": "Makora",
-      "host_cheapest_effective": 0.294352,
+      "host_cheapest": "Chutes",
+      "host_cheapest_effective": 0.279779,
       "host_by_list": "InferenceNet",
-      "host_overpay": 0.9865,
+      "host_overpay": 1.09,
       "effective_per_million": 0.343915
     },
     {
