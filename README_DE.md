@@ -8,11 +8,11 @@ Ein offener Datensatz. Jede Zahl aus 64 Praxisnotizen — Preise, Prozentsätze,
 
 ## Was Agent-Modelle heute kosten
 
-68 Modelle, die in einer *agents*-Kategorie der Design Arena platziert sind, mit ihrem **Listenpreis** pro Million Token — nicht Ihre Rechnung: Cache, Batch und jeder Anbieter rechnen anders ab. Aus dem öffentlichen Katalog von OpenRouter, zuletzt gelesen am 2026-10-14. Die drei günstigsten:
+68 Modelle, die in einer *agents*-Kategorie der Design Arena platziert sind, mit ihrem **Listenpreis** pro Million Token — nicht Ihre Rechnung: Cache, Batch und jeder Anbieter rechnen anders ab. Aus dem öffentlichen Katalog von OpenRouter, zuletzt gelesen am 2026-10-15. Die drei günstigsten:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.05 | $7.00 | GLM 5.2 | #10 agenticgamedev |
+| $0.02 | $7.00 | GLM 5.2 | #10 agenticgamedev |
 | $0.079 | $4.80 | GLM 5.3 | #8 python-pptxslides |
 | $0.09 | $0.36 | Solar Pro 4 | #35 webapps |
 

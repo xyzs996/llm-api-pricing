@@ -1,12 +1,12 @@
 # Gemini API pricing: what 12 models cost a coding agent
 
-Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-14**.
+Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-15**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Gemini discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Gemini charges per million tokens
 
-12 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-14**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+12 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-15**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Gemini charges one cache-read rate across every row that publishes one: 10% of that row's own input price.** All 10 of them use it, so within Gemini the cheapest row on list price is also the cheapest row an agent actually pays — the ordering does not change. Repriced at a coding agent's mix, Gemini's list input price overstates what an agent pays by a median **6.6×** (range 6.5×–6.6×).
 
@@ -49,10 +49,10 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Grok | 5 | 15–25% | 5.0× | $0.2494 |
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
-| GLM | 8 | 18.3–98% | 4.1× | $0.0692 |
+| GLM | 8 | 18.3–98.7% | 4.1× | $0.0393 |
 | upstage | 1 | 20% | 4.1× | $0.0219 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
-| Kimi | 5 | 10–45.7% | 3.2× | $0.1711 |
+| Kimi | 5 | 10–62.2% | 3.2× | $0.1711 |
 
 The spread in that fourth column is the whole point: Claude at 6.6× against Kimi at 3.2×, across 20 and 5 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
 
