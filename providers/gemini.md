@@ -1,12 +1,12 @@
 # Gemini API pricing: what 12 models cost a coding agent
 
-Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-15**.
+Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-16**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Gemini discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Gemini charges per million tokens
 
-12 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-15**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+12 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-16**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Gemini charges one cache-read rate across every row that publishes one: 10% of that row's own input price.** All 10 of them use it, so within Gemini the cheapest row on list price is also the cheapest row an agent actually pays — the ordering does not change. Repriced at a coding agent's mix, Gemini's list input price overstates what an agent pays by a median **6.6×** (range 6.5×–6.6×).
 
@@ -24,8 +24,8 @@ Every Gemini model in the catalog that has been ranked in an agent category, pri
 | **$0.0769** | $0.50 | $0.05 | $3.00 | [Gemini 3 Flash Preview](https://openrouter.ai/google/gemini-3-flash-preview) | 1M | — | #8 agenticslides |
 | **$0.1131** | $0.75 | $0.075 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | — | #11 androidnative |
 | **$0.1131** | $0.75 | $0.075 | $3.75 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash) | 1M | — | #5 agenticgamedev |
-| **$0.1131** | $0.75 | $0.075 | $3.75 | [Gemini 3.8 Flash](https://openrouter.ai/google/gemini-3.8-flash) | 1M | — | #5 godotgamedev |
 | **$0.1153** | $0.75 | $0.075 | $4.50 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash:batch) `batch` | 1M | — | #2 agenticslides(python-pptx) |
+| **$0.1244** | $0.825 | $0.0825 | $4.125 | [Gemini 3.8 Flash](https://openrouter.ai/google/gemini-3.8-flash) | 1M | — | #5 godotgamedev |
 | **$0.2306** | $1.50 | $0.15 | $9.00 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash) | 1M | — | #2 agenticslides(python-pptx) |
 | **$0.3075** | $2.00 | $0.20 | $12.00 | [Gemini 3.1 Pro Preview](https://openrouter.ai/google/gemini-3.1-pro-preview) | 1M | $4.00 past 200k | #4 agentichtmlslides |
 | — | $0.25 | — | $1.50 | [Gemini 3 Flash Preview](https://openrouter.ai/google/gemini-3-flash-preview:batch) `batch` | 1M | — | #8 agenticslides |
@@ -49,10 +49,10 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Grok | 5 | 15–25% | 5.0× | $0.2494 |
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
-| GLM | 8 | 18.3–98.7% | 4.1× | $0.0393 |
+| GLM | 8 | 18.3–98.7% | 4.1× | $0.062 |
 | upstage | 1 | 20% | 4.1× | $0.0219 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
-| Kimi | 5 | 10–62.2% | 3.2× | $0.1711 |
+| Kimi | 5 | 10–69.1% | 3.2× | $0.1711 |
 
 The spread in that fourth column is the whole point: Claude at 6.6× against Kimi at 3.2×, across 20 and 5 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
 
