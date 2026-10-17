@@ -8,13 +8,13 @@
 
 ## Сколько сегодня стоят модели для агентов
 
-68 моделей, занявших место в одной из категорий *agents* на Design Arena, с **прейскурантной ценой** за миллион токенов — это не ваш счёт: кэш, пакетный режим и каждый провайдер считают по-своему. Из открытого каталога OpenRouter, последнее чтение 2026-10-16. Три самые дешёвые:
+68 моделей, занявших место в одной из категорий *agents* на Design Arena, с **прейскурантной ценой** за миллион токенов — это не ваш счёт: кэш, пакетный режим и каждый провайдер считают по-своему. Из открытого каталога OpenRouter, последнее чтение 2026-10-17. Три самые дешёвые:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.037 | $9.00 | GLM 5.2 | #10 agenticgamedev |
-| $0.079 | $4.80 | GLM 5.3 | #8 python-pptxslides |
+| $0.079 | $4.80 | GLM 5.3 | #7 python-pptxslides |
 | $0.09 | $0.36 | Solar Pro 4 | #35 webapps |
+| $0.2088 | $0.4176 | DeepSeek V4 Pro 0423 | #32 godotgamedev |
 
 [Все 68 моделей](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
