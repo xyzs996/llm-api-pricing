@@ -6,7 +6,7 @@
   "attribution": "CC BY 4.0. Reuse it however you like, including commercially; the one condition is a credit that names this dataset and links to dataset_url. source below is where the list prices came from, not this dataset — the effective_per_million and vendor_checked fields are computed here and are not in the upstream catalog.",
   "source": "https://openrouter.ai/api/v1/models",
   "source_name": "OpenRouter",
-  "checked": "2026-10-17",
+  "checked": "2026-10-18",
   "agent_token_mix": {
     "cache_read": 0.9564,
     "cache_miss": 0.0407,
@@ -159,7 +159,7 @@
       "id": "z-ai/glm-5.3",
       "vendor": "z-ai",
       "input_per_million": 0.079,
-      "output_per_million": 4.8,
+      "output_per_million": 2.5,
       "cached_input_per_million": 0.078,
       "context_tokens": 1048576,
       "long_context_from": null,
@@ -178,8 +178,8 @@
       "host_cheapest": "Morph",
       "host_cheapest_effective": 0.068476,
       "host_by_list": "Relace",
-      "host_overpay": 0.0452,
-      "effective_per_million": 0.091735
+      "host_overpay": 0.1154,
+      "effective_per_million": 0.085065
     },
     {
       "model": "Solar Pro 4",
@@ -310,10 +310,10 @@
       "hosts": 26,
       "host_cache_ratio_min": 10.0,
       "host_cache_ratio_max": 100.0,
-      "host_cheapest": "Sail Research",
-      "host_cheapest_effective": 0.216155,
+      "host_cheapest": "Relace",
+      "host_cheapest_effective": 0.205527,
       "host_by_list": "Relace",
-      "host_overpay": 0.4333,
+      "host_overpay": 0.0,
       "effective_per_million": 0.247831
     },
     {
@@ -448,7 +448,7 @@
       "host_cheapest": "Morph",
       "host_cheapest_effective": 0.068476,
       "host_by_list": "Relace",
-      "host_overpay": 0.0452,
+      "host_overpay": 0.1154,
       "effective_per_million": 0.119755
     },
     {
@@ -1498,10 +1498,10 @@
       "hosts": 26,
       "host_cache_ratio_min": 10.0,
       "host_cache_ratio_max": 100.0,
-      "host_cheapest": "Sail Research",
-      "host_cheapest_effective": 0.216155,
+      "host_cheapest": "Relace",
+      "host_cheapest_effective": 0.205527,
       "host_by_list": "Relace",
-      "host_overpay": 0.4333,
+      "host_overpay": 0.0,
       "effective_per_million": 0.343915
     },
     {

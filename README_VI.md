@@ -8,11 +8,11 @@ Một bộ dữ liệu mở. Mọi con số xuất hiện trong 64 ghi chép th�
 
 ## Hôm nay chạy agent tốn bao nhiêu
 
-68 mô hình được xếp hạng trong một hạng mục *agents* của Design Arena, kèm **giá niêm yết** cho mỗi triệu token — không phải hóa đơn của bạn: cache, batch và từng nhà cung cấp tính khác nhau. Lấy từ danh mục công khai của OpenRouter, đọc lần cuối ngày 2026-10-17. Ba mô hình rẻ nhất:
+68 mô hình được xếp hạng trong một hạng mục *agents* của Design Arena, kèm **giá niêm yết** cho mỗi triệu token — không phải hóa đơn của bạn: cache, batch và từng nhà cung cấp tính khác nhau. Lấy từ danh mục công khai của OpenRouter, đọc lần cuối ngày 2026-10-18. Ba mô hình rẻ nhất:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.079 | $4.80 | GLM 5.3 | #7 python-pptxslides |
+| $0.079 | $2.50 | GLM 5.3 | #7 python-pptxslides |
 | $0.09 | $0.36 | Solar Pro 4 | #35 webapps |
 | $0.2088 | $0.4176 | DeepSeek V4 Pro 0423 | #32 godotgamedev |
 
