@@ -4,30 +4,30 @@
 
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://spectracodeai.com/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
-> 70 models · re-read from OpenRouter every day · no signup · CC BY 4.0
+> 76 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
 64 write-ups on what those bills looked like in production.
 
-## What the agent models cost (70 models)
+## What the agent models cost (76 models)
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (1.0×–18.4×). Read **2026-10-19**; the three cheapest *to run*:
+median **6.6×** (1.0×–18.4×). Read **2026-10-20**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
-| **$0.0219** | $0.018 | $0.09 | $0.36 | Solar Pro 4 | #35 webapps |
-| **$0.0237** | $0.0036 | $0.435 | $0.87 | MiMo-V2.6-Pro | #5 webapps |
-| **$0.0566** | $0.0375 | $0.375 | $1.875 | Gemini 3.6 Flash `batch` | #6 spreadsheet |
+| **$0.0107** | $0.003 | $0.15 | $0.60 | DeepSeek V4.1 Flash 1017 | #9 spreadsheet |
+| **$0.0237** | $0.0036 | $0.435 | $0.87 | MiMo-V2.6-Pro | #6 webapps |
+| **$0.0365** | $0.03 | $0.15 | $0.60 | Solar Pro 4 | #36 webapps |
 
-[All 70 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[All 76 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **Or put your own numbers in.** [The calculator](https://xyzs996.github.io/llm-cost-calculator/) reads this same daily JSON: it resolves [DeepSeek's peak/off-peak clock](deepseek-peak-hours.md) for the moment you ask, applies the long-context price cliff to the request you actually send, and takes your own cache-hit share. One page, nothing to install, no account.
 
 **One number, two answers.** Google and xAI both step to a higher rate at 200,000 prompt tokens — and a prompt of exactly 200,000 bills at the *cheap* rate on Google, the *expensive* rate on xAI. Every table we could find prints one number and stops there. Which side each vendor bills, quoted from the vendor's own page with the date it was read: [same number, opposite answer](prices.md#same-number-opposite-answer).
 
-That 95.6% is **one person's measurement of one coding agent** ([8.04B tokens, 2026-05-16](https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b)), not an industry figure — it is simply the only public measurement we could find. 68 of these rows publish a cached-input price, so the weights ship in the JSON: recompute with your own mix. Cache-*write* prices are not in the catalog, so that 2.7% of tokens is folded into the cache-miss share, which understates cost by roughly 0.7%.
+That 95.6% is **one person's measurement of one coding agent** ([8.04B tokens, 2026-05-16](https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b)), not an industry figure — it is simply the only public measurement we could find. 74 of these rows publish a cached-input price, so the weights ship in the JSON: recompute with your own mix. Cache-*write* prices are not in the catalog, so that 2.7% of tokens is folded into the cache-miss share, which understates cost by roughly 0.7%.
 
 **The table above is a list price. No bill matches it.** What moves
 the number is cache hits, retries, and context you pay to send twice —
@@ -46,7 +46,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json
 ```
 
-70 models, 19 columns per row: list input, output and **cache-read** price per million tokens, the context window and
+76 models, 19 columns per row: list input, output and **cache-read** price per million tokens, the context window and
 the long-context step, the vendor, and where the model places in the agent benchmark. Rebuilt every day from
 OpenRouter's catalog at paths that do not move.
 
@@ -153,7 +153,7 @@ write-ups land there first.
 **Reading this with a model?** [llms.txt](https://spectracodeai.com/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
-**By provider.** [Claude](providers/claude.md) (48) · [DeepSeek](providers/deepseek.md) (16) · [GLM](providers/glm.md) (15) · [GPT-5.6](providers/gpt-5-6.md) (13) · [Gemini](providers/gemini.md) (13) · [OpenAI](providers/openai.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [Kimi](providers/kimi.md) (9) · [Codex](providers/codex.md) (8) · [Fable 5](providers/fable-5.md) (8) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) — prices where there are prices, and every figure whose sentence names it, with the date.
+**By provider.** [Claude](providers/claude.md) (48) · [DeepSeek](providers/deepseek.md) (16) · [GLM](providers/glm.md) (15) · [Gemini](providers/gemini.md) (15) · [OpenAI](providers/openai.md) (15) · [GPT-5.6](providers/gpt-5-6.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [Kimi](providers/kimi.md) (9) · [Codex](providers/codex.md) (8) · [Fable 5](providers/fable-5.md) (8) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) — prices where there are prices, and every figure whose sentence names it, with the date.
 
 **By topic.** [Indie Development](topics/indie-development.md) (17) · [Automation Systems](topics/automation-systems.md) (16) · [SaaS Business](topics/saas-business.md) (12) · [Niche Market](topics/niche-market.md) (11) · [Productivity](topics/productivity.md) (11) · [AI Implementation](topics/ai-implementation.md) (9) · [Artificial Intelligence](topics/artificial-intelligence.md) (9) · [AI Features](topics/ai-features.md) (8) · [AI Costs](topics/ai-costs.md) (7) · [Development Tools](topics/development-tools.md) (7) · [AI](topics/ai.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [Code Review](topics/code-review.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Automation](topics/ai-automation.md) (5) · [Chinese AI](topics/chinese-ai.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [AI Tools](topics/ai-tools.md) (4) · [Automation](topics/automation.md) (4) · [Developer Productivity](topics/developer-productivity.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [Software Development](topics/software-development.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 

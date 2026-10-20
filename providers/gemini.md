@@ -1,31 +1,33 @@
-# Gemini API pricing: what 12 models cost a coding agent
+# Gemini API pricing: what 14 models cost a coding agent
 
-Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-19**.
+Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-20**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Gemini discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Gemini charges per million tokens
 
-12 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-19**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+14 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-20**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
-**Gemini charges one cache-read rate across every row that publishes one: 10% of that row's own input price.** All 10 of them use it, so within Gemini the cheapest row on list price is also the cheapest row an agent actually pays — the ordering does not change. Repriced at a coding agent's mix, Gemini's list input price overstates what an agent pays by a median **6.6×** (range 6.5×–6.6×).
+**Gemini does not have one cache-read rate — it has 2.** Across 12 rows the discount runs from 5.0% to 10.0% of that row's own input price (5%, 10%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Gemini's list input price overstates what an agent pays by a median **6.6×** (range 6.5×–9.7×).
 
-⚠ **2 of these 12 rows publish no cache-read price at all** (`Gemini 3 Flash Preview`, `Gemini 3.1 Pro Preview`), so the agent-mix column is empty for them. That is not a zero and not a discount — it is a number the catalog does not carry, and filling it in with the list input price would make those rows look five to six times dearer than they are.
+⚠ **2 of these 14 rows publish no cache-read price at all** (`Gemini 3 Flash Preview`, `Gemini 3.1 Pro Preview`), so the agent-mix column is empty for them. That is not a zero and not a discount — it is a number the catalog does not carry, and filling it in with the list input price would make those rows look five to six times dearer than they are.
 
-**2 of these 12 rows cost more than the price in their own row once the prompt is long enough.** The threshold reprices *every* token in the request, including the ones under it, so one token over the line roughly doubles the call. The thresholds are in the table.
+**2 of these 14 rows cost more than the price in their own row once the prompt is long enough.** The threshold reprices *every* token in the request, including the ones under it, so one token over the line roughly doubles the call. The thresholds are in the table.
 
-6 rows are marked `batch` — the batch entries the catalog lists separately. They are kept apart on purpose: folding them in would read as if a normal call cost half of what it does.
+7 rows are marked `batch` — the batch entries the catalog lists separately. They are kept apart on purpose: folding them in would read as if a normal call cost half of what it does.
 
 | $ / 1M at agent mix | $ in / 1M | $ cache read / 1M | $ out / 1M | Model | Context | Long-context step | Best agents rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash:batch) `batch` | 1M | — | #6 spreadsheet |
+| **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash:batch) `batch` | 1M | — | #11 androidnative |
 | **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash:batch) `batch` | 1M | — | #5 agenticgamedev |
 | **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.8 Flash](https://openrouter.ai/google/gemini-3.8-flash:batch) `batch` | 1M | — | #5 godotgamedev |
 | **$0.0769** | $0.50 | $0.05 | $3.00 | [Gemini 3 Flash Preview](https://openrouter.ai/google/gemini-3-flash-preview) | 1M | — | #8 agenticslides |
-| **$0.1131** | $0.75 | $0.075 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | — | #6 spreadsheet |
+| **$0.103** | $1.00 | $0.05 | $5.00 | [Gemini 4 Argon](https://openrouter.ai/google/gemini-4-argon:batch) `batch` | 1M | — | #15 spreadsheet |
+| **$0.1131** | $0.75 | $0.075 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | — | #11 androidnative |
 | **$0.1131** | $0.75 | $0.075 | $3.75 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash) | 1M | — | #5 agenticgamedev |
 | **$0.1153** | $0.75 | $0.075 | $4.50 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash:batch) `batch` | 1M | — | #2 agenticslides(python-pptx) |
 | **$0.1244** | $0.825 | $0.0825 | $4.125 | [Gemini 3.8 Flash](https://openrouter.ai/google/gemini-3.8-flash) | 1M | — | #5 godotgamedev |
+| **$0.206** | $2.00 | $0.10 | $10.00 | [Gemini 4 Argon](https://openrouter.ai/google/gemini-4-argon) | 1M | — | #15 spreadsheet |
 | **$0.2306** | $1.50 | $0.15 | $9.00 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash) | 1M | — | #2 agenticslides(python-pptx) |
 | **$0.3075** | $2.00 | $0.20 | $12.00 | [Gemini 3.1 Pro Preview](https://openrouter.ai/google/gemini-3.1-pro-preview) | 1M | $4.00 past 200k | #4 agentichtmlslides |
 | — | $0.25 | — | $1.50 | [Gemini 3 Flash Preview](https://openrouter.ai/google/gemini-3-flash-preview:batch) `batch` | 1M | — | #8 agenticslides |
@@ -41,17 +43,17 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Vendor | Rows | Cache read, % of its own input | List price overstates the agent bill by | Cheapest non-`batch` row at agent mix |
 | --- | --- | --- | --- | --- |
 | xiaomi | 1 | 0.8% | 18.4× | $0.0237 |
-| DeepSeek | 1 | 8.3% | 7.9× | $0.1206 |
+| DeepSeek | 2 | 2–8.3% | 11.0× | $0.0107 |
 | Claude | 22 | 2.5–10% | 6.6× | $0.206 |
-| **Gemini** | 12 | 10% | 6.6× | $0.0769 |
-| OpenAI | 9 | 10–10.4% | 6.3× | $0.2042 |
-| Llama | 3 | 12% | 6.0× | $0.2067 |
+| **Gemini** | 14 | 5–10% | 6.6× | $0.0769 |
+| OpenAI | 11 | 5–10.4% | 6.5× | $0.2042 |
+| Llama | 4 | 5–12% | 6.0× | $0.2067 |
 | Grok | 5 | 15–25% | 5.0× | $0.2494 |
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
-| GLM | 8 | 18.3–98.7% | 4.1× | $0.0819 |
-| upstage | 1 | 20% | 4.1× | $0.0219 |
+| GLM | 8 | 18.3–69.6% | 4.1× | $0.0599 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
+| upstage | 1 | 20% | 4.1× | $0.0365 |
 | Kimi | 5 | 10–87.9% | 3.2× | $0.1711 |
 
 The spread in that fourth column is the whole point: Claude at 6.6× against Kimi at 3.2×, across 22 and 5 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.

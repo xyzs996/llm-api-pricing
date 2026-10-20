@@ -22,80 +22,86 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv): the same rows, one line each.
 
-## Model list prices (70 models, read 2026-10-19)
+## Model list prices (76 models, read 2026-10-20)
 
 Per million tokens, for models ranked in an agents category of the Design Arena. Quoted from OpenRouter's public catalog on the date above — this is list price, not a bill: cache hits, batch tiers and providers all price differently, and rows marked (batch) are the catalog's separate batch entries. Full table: https://spectracodeai.com/prices.html
 
-- **GLM 5.3** — $0.079 in / $1.4 out per 1M tokens, 1048576 token context, best agents rank #8 in python-pptxslides (2026-10-19).
-- **Solar Pro 4** — $0.09 in / $0.36 out per 1M tokens, 524288 token context, best agents rank #35 in webapps (2026-10-19).
-- **Kimi K3** — $0.239 in / $11.936 out per 1M tokens, 1048576 token context, best agents rank #2 in fullstack (2026-10-19). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Gemini 3 Flash Preview (batch)** — $0.25 in / $1.5 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticslides (2026-10-19).
-- **MiniMax M3** — $0.3 in / $1.2 out per 1M tokens, 1048576 token context, best agents rank #3 in spreadsheet (2026-10-19). Written up: https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
-- **Gemini 3.6 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #6 in spreadsheet (2026-10-19).
-- **Gemini 3.7 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #5 in agenticgamedev (2026-10-19). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Gemini 3.8 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #5 in godotgamedev (2026-10-19).
-- **MiMo-V2.6-Pro** — $0.435 in / $0.87 out per 1M tokens, 1050000 token context, best agents rank #5 in webapps (2026-10-19).
-- **GLM 5.3 (batch)** — $0.45 in / $2.0 out per 1M tokens, 1048576 token context, best agents rank #8 in python-pptxslides (2026-10-19).
-- **Kimi K2.5** — $0.5 in / $2.5 out per 1M tokens, 262144 token context, best agents rank #15 in godotgamedev (2026-10-19).
-- **Gemini 3 Flash Preview** — $0.5 in / $3.0 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticslides (2026-10-19).
-- **GLM 4.7** — $0.54 in / $1.98 out per 1M tokens, 204800 token context, best agents rank #27 in androidnative (2026-10-19).
-- **GLM 4.6** — $0.55 in / $2.2 out per 1M tokens, 204800 token context, best agents rank #17 in godotgamedev (2026-10-19).
-- **GLM 5.2** — $0.62 in / $2.42 out per 1M tokens, 1048576 token context, best agents rank #10 in agenticgamedev (2026-10-19). Written up: https://spectracodeai.com/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html
-- **Kimi K2.6** — $0.65 in / $3.41 out per 1M tokens, 262144 token context, best agents rank #2 in agentichtmlslides (2026-10-19). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Kimi K2.7 Code** — $0.6712 in / $3.35 out per 1M tokens, 262144 token context, best agents rank #7 in htmlslides (2026-10-19).
-- **Gemini 3.6 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #6 in spreadsheet (2026-10-19).
-- **Gemini 3.7 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #5 in agenticgamedev (2026-10-19). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Gemini 3.5 Flash (batch)** — $0.75 in / $4.5 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticslides(python-pptx) (2026-10-19).
-- **Gemini 3.8 Flash** — $0.825 in / $4.125 out per 1M tokens, 1048576 token context, best agents rank #5 in godotgamedev (2026-10-19).
-- **GPT-5.2 (batch)** — $0.875 in / $7.0 out per 1M tokens, 400000 token context, best agents rank #23 in godotgamedev (2026-10-19).
-- **DeepSeek V4 Pro 0423** — $0.95526 in / $1.91052 out per 1M tokens, 1048576 token context, best agents rank #32 in godotgamedev (2026-10-19).
-- **GLM 5.1** — $0.966 in / $3.036 out per 1M tokens, 204800 token context, best agents rank #1 in spreadsheet (2026-10-19).
-- **Grok 4.3 (batch)** — $1.0 in / $2.0 out per 1M tokens, 1000000 token context, best agents rank #8 in pptxslides (2026-10-19).
-- **GLM 5** — $1.0 in / $3.2 out per 1M tokens, 204800 token context, best agents rank #18 in htmlslides (2026-10-19).
-- **Inkling** — $1.0 in / $4.05 out per 1M tokens, 524288 token context, best agents rank #23 in webapps (2026-10-19).
-- **Claude Sonnet 5.5 (batch)** — $1.0 in / $5.0 out per 1M tokens, 1000000 token context, best agents rank #3 in mobileapps (2026-10-19).
-- **Claude Sonnet 5 (batch)** — $1.0 in / $5.0 out per 1M tokens, 1000000 token context, best agents rank #5 in htmlslides (2026-10-19). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Gemini 3.1 Pro Preview (batch)** — $1.0 in / $6.0 out per 1M tokens, 1048576 token context, best agents rank #4 in agentichtmlslides (2026-10-19).
-- **GLM 5V Turbo** — $1.2 in / $4.0 out per 1M tokens, 202752 token context, best agents rank #4 in androidnative (2026-10-19).
-- **Grok 4.20** — $1.25 in / $2.5 out per 1M tokens, 2000000 token context, best agents rank #11 in htmlslides (2026-10-19).
-- **Grok 4.3** — $1.25 in / $2.5 out per 1M tokens, 1000000 token context, best agents rank #8 in pptxslides (2026-10-19).
-- **Muse Spark 1.1** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #4 in spreadsheet (2026-10-19). Written up: https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
-- **Muse Spark 1.2** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #10 in androidnative (2026-10-19).
-- **Muse Spark 1.3** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #3 in fullstack (2026-10-19).
-- **GPT-5.4 (batch)** — $1.25 in / $7.5 out per 1M tokens, 1050000 token context, best agents rank #25 in godotgamedev (2026-10-19).
-- **GPT-5.1-Codex** — $1.25 in / $10.0 out per 1M tokens, 400000 token context, best agents rank #19 in mobileapps (2026-10-19).
-- **Qwen3.7 Max** — $1.475 in / $4.425 out per 1M tokens, 1000000 token context, best agents rank #15 in htmlslides (2026-10-19). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Claude Sonnet 4.5 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #32 in mobileapps (2026-10-19).
-- **Claude Sonnet 4.6 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #12 in godotgamedev (2026-10-19).
-- **Gemini 3.5 Flash** — $1.5 in / $9.0 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticslides(python-pptx) (2026-10-19).
-- **GPT-5.2** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #23 in godotgamedev (2026-10-19).
-- **GPT-5.2-Codex** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #20 in androidnative (2026-10-19).
-- **GPT-5.3-Codex** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #27 in godotgamedev (2026-10-19).
-- **Grok 4.5** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #6 in agenticgamedev (2026-10-19).
-- **Grok 4.6** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #1 in androidnative (2026-10-19).
-- **Claude Opus 5.5 (batch)** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #2 in mobileapps (2026-10-19).
-- **Claude Sonnet 5** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #5 in htmlslides (2026-10-19). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Claude Sonnet 5.5** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #3 in mobileapps (2026-10-19).
-- **Gemini 3.1 Pro Preview** — $2.0 in / $12.0 out per 1M tokens, 1048576 token context, best agents rank #4 in agentichtmlslides (2026-10-19).
-- **Kimi K3 (batch)** — $2.28 in / $11.4 out per 1M tokens, 1048576 token context, best agents rank #2 in fullstack (2026-10-19). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Claude Opus 4.5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 200000 token context, best agents rank #17 in androidnative (2026-10-19).
-- **Claude Opus 4.6 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #8 in agenticgamedev (2026-10-19).
-- **Claude Opus 4.8 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-10-19).
-- **Claude Opus 5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in mobileapps (2026-10-19). Written up: https://spectracodeai.com/articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.html
-- **GPT-5.4** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #25 in godotgamedev (2026-10-19).
-- **GPT-5.5 (batch)** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #6 in agenticslides (2026-10-19).
-- **Claude Sonnet 4.5** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #32 in mobileapps (2026-10-19).
-- **Claude Sonnet 4.6** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #12 in godotgamedev (2026-10-19).
-- **Claude Opus 5.5** — $4.0 in / $20.0 out per 1M tokens, 1000000 token context, best agents rank #2 in mobileapps (2026-10-19).
-- **Claude Fable 5.1 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in fullstack (2026-10-19).
-- **Claude Fable 5 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticgamedev (2026-10-19).
-- **Claude Opus 4.5** — $5.0 in / $25.0 out per 1M tokens, 200000 token context, best agents rank #17 in androidnative (2026-10-19).
-- **Claude Opus 4.6** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #8 in agenticgamedev (2026-10-19).
-- **Claude Opus 4.8** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-10-19).
-- **Claude Opus 5** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in mobileapps (2026-10-19). Written up: https://spectracodeai.com/articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.html
-- **GPT-5.5** — $5.0 in / $30.0 out per 1M tokens, 1050000 token context, best agents rank #6 in agenticslides (2026-10-19).
-- **Claude Fable 5** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticgamedev (2026-10-19).
-- **Claude Fable 5.1** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in fullstack (2026-10-19).
+- **GLM 5.3** — $0.079 in / $1.4 out per 1M tokens, 1048576 token context, best agents rank #8 in python-pptxslides (2026-10-20).
+- **DeepSeek V4.1 Flash 1017** — $0.15 in / $0.6 out per 1M tokens, 1048576 token context, best agents rank #9 in spreadsheet (2026-10-20).
+- **Solar Pro 4** — $0.15 in / $0.6 out per 1M tokens, 524288 token context, best agents rank #36 in webapps (2026-10-20).
+- **Kimi K3** — $0.239 in / $11.936 out per 1M tokens, 1048576 token context, best agents rank #2 in fullstack (2026-10-20). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 3 Flash Preview (batch)** — $0.25 in / $1.5 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticslides (2026-10-20).
+- **MiniMax M3** — $0.3 in / $1.2 out per 1M tokens, 1048576 token context, best agents rank #5 in spreadsheet (2026-10-20). Written up: https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
+- **Gemini 3.6 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #11 in androidnative (2026-10-20).
+- **Gemini 3.7 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #5 in agenticgamedev (2026-10-20). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 3.8 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #5 in godotgamedev (2026-10-20).
+- **MiMo-V2.6-Pro** — $0.435 in / $0.87 out per 1M tokens, 1050000 token context, best agents rank #6 in webapps (2026-10-20).
+- **DeepSeek V4 Pro 0423** — $0.447876 in / $0.895752 out per 1M tokens, 1048576 token context, best agents rank #32 in godotgamedev (2026-10-20).
+- **GLM 5.3 (batch)** — $0.45 in / $2.0 out per 1M tokens, 1048576 token context, best agents rank #8 in python-pptxslides (2026-10-20).
+- **Kimi K2.5** — $0.5 in / $2.5 out per 1M tokens, 262144 token context, best agents rank #15 in godotgamedev (2026-10-20).
+- **Gemini 3 Flash Preview** — $0.5 in / $3.0 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticslides (2026-10-20).
+- **GLM 4.7** — $0.54 in / $1.98 out per 1M tokens, 204800 token context, best agents rank #27 in androidnative (2026-10-20).
+- **GLM 4.6** — $0.55 in / $2.2 out per 1M tokens, 204800 token context, best agents rank #17 in godotgamedev (2026-10-20).
+- **GLM 5.2** — $0.62 in / $2.42 out per 1M tokens, 1048576 token context, best agents rank #10 in agenticgamedev (2026-10-20). Written up: https://spectracodeai.com/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html
+- **Kimi K2.6** — $0.65 in / $3.41 out per 1M tokens, 262144 token context, best agents rank #2 in agentichtmlslides (2026-10-20). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Kimi K2.7 Code** — $0.6712 in / $3.35 out per 1M tokens, 262144 token context, best agents rank #7 in htmlslides (2026-10-20).
+- **Gemini 3.6 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #11 in androidnative (2026-10-20).
+- **Gemini 3.7 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #5 in agenticgamedev (2026-10-20). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 3.5 Flash (batch)** — $0.75 in / $4.5 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticslides(python-pptx) (2026-10-20).
+- **Gemini 3.8 Flash** — $0.825 in / $4.125 out per 1M tokens, 1048576 token context, best agents rank #5 in godotgamedev (2026-10-20).
+- **GPT-5.2 (batch)** — $0.875 in / $7.0 out per 1M tokens, 400000 token context, best agents rank #23 in godotgamedev (2026-10-20).
+- **GLM 5.1** — $0.966 in / $3.036 out per 1M tokens, 204800 token context, best agents rank #1 in spreadsheet (2026-10-20).
+- **Grok 4.3 (batch)** — $1.0 in / $2.0 out per 1M tokens, 1000000 token context, best agents rank #8 in pptxslides (2026-10-20).
+- **GLM 5** — $1.0 in / $3.2 out per 1M tokens, 204800 token context, best agents rank #18 in htmlslides (2026-10-20).
+- **Inkling** — $1.0 in / $4.05 out per 1M tokens, 524288 token context, best agents rank #24 in webapps (2026-10-20).
+- **Claude Sonnet 5.5 (batch)** — $1.0 in / $5.0 out per 1M tokens, 1000000 token context, best agents rank #5 in mobileapps (2026-10-20).
+- **Claude Sonnet 5 (batch)** — $1.0 in / $5.0 out per 1M tokens, 1000000 token context, best agents rank #5 in htmlslides (2026-10-20). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 4 Argon (batch)** — $1.0 in / $5.0 out per 1M tokens, 1048576 token context, best agents rank #15 in spreadsheet (2026-10-20).
+- **GPT-6.1 Sol (batch)** — $1.0 in / $5.0 out per 1M tokens, 1050000 token context, best agents rank #6 in spreadsheet (2026-10-20).
+- **Gemini 3.1 Pro Preview (batch)** — $1.0 in / $6.0 out per 1M tokens, 1048576 token context, best agents rank #4 in agentichtmlslides (2026-10-20).
+- **GLM 5V Turbo** — $1.2 in / $4.0 out per 1M tokens, 202752 token context, best agents rank #4 in androidnative (2026-10-20).
+- **Grok 4.20** — $1.25 in / $2.5 out per 1M tokens, 2000000 token context, best agents rank #11 in htmlslides (2026-10-20).
+- **Grok 4.3** — $1.25 in / $2.5 out per 1M tokens, 1000000 token context, best agents rank #8 in pptxslides (2026-10-20).
+- **Muse Spark 1.1** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #7 in spreadsheet (2026-10-20). Written up: https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
+- **Muse Spark 1.2** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #10 in androidnative (2026-10-20).
+- **Muse Spark 1.3** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #3 in fullstack (2026-10-20).
+- **GPT-5.4 (batch)** — $1.25 in / $7.5 out per 1M tokens, 1050000 token context, best agents rank #25 in godotgamedev (2026-10-20).
+- **GPT-5.1-Codex** — $1.25 in / $10.0 out per 1M tokens, 400000 token context, best agents rank #20 in mobileapps (2026-10-20).
+- **Qwen3.7 Max** — $1.475 in / $4.425 out per 1M tokens, 1000000 token context, best agents rank #15 in htmlslides (2026-10-20). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Claude Sonnet 4.5 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #33 in mobileapps (2026-10-20).
+- **Claude Sonnet 4.6 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #12 in godotgamedev (2026-10-20).
+- **Gemini 3.5 Flash** — $1.5 in / $9.0 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticslides(python-pptx) (2026-10-20).
+- **GPT-5.2** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #23 in godotgamedev (2026-10-20).
+- **GPT-5.2-Codex** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #20 in androidnative (2026-10-20).
+- **GPT-5.3-Codex** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #27 in godotgamedev (2026-10-20).
+- **Grok 4.5** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #6 in agenticgamedev (2026-10-20).
+- **Grok 4.6** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #1 in androidnative (2026-10-20).
+- **Claude Opus 5.5 (batch)** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #2 in mobileapps (2026-10-20).
+- **Claude Sonnet 5** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #5 in htmlslides (2026-10-20). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Claude Sonnet 5.5** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #5 in mobileapps (2026-10-20).
+- **Gemini 4 Argon** — $2.0 in / $10.0 out per 1M tokens, 1048576 token context, best agents rank #15 in spreadsheet (2026-10-20).
+- **GPT-6.1 Sol** — $2.0 in / $10.0 out per 1M tokens, 1050000 token context, best agents rank #6 in spreadsheet (2026-10-20).
+- **Gemini 3.1 Pro Preview** — $2.0 in / $12.0 out per 1M tokens, 1048576 token context, best agents rank #4 in agentichtmlslides (2026-10-20).
+- **Kimi K3 (batch)** — $2.28 in / $11.4 out per 1M tokens, 1048576 token context, best agents rank #2 in fullstack (2026-10-20). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Claude Opus 4.5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 200000 token context, best agents rank #16 in androidnative (2026-10-20).
+- **Claude Opus 4.6 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #8 in agenticgamedev (2026-10-20).
+- **Claude Opus 4.8 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-10-20).
+- **Claude Opus 5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in mobileapps (2026-10-20). Written up: https://spectracodeai.com/articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.html
+- **GPT-5.4** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #25 in godotgamedev (2026-10-20).
+- **GPT-5.5 (batch)** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #6 in agenticslides (2026-10-20).
+- **Claude Sonnet 4.5** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #33 in mobileapps (2026-10-20).
+- **Claude Sonnet 4.6** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #12 in godotgamedev (2026-10-20).
+- **Claude Opus 5.5** — $4.0 in / $20.0 out per 1M tokens, 1000000 token context, best agents rank #2 in mobileapps (2026-10-20).
+- **Muse Wonder** — $4.0 in / $20.0 out per 1M tokens, 1048576 token context, best agents rank #10 in spreadsheet (2026-10-20).
+- **Claude Fable 5.1 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in fullstack (2026-10-20).
+- **Claude Fable 5 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticgamedev (2026-10-20).
+- **Claude Opus 4.5** — $5.0 in / $25.0 out per 1M tokens, 200000 token context, best agents rank #16 in androidnative (2026-10-20).
+- **Claude Opus 4.6** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #8 in agenticgamedev (2026-10-20).
+- **Claude Opus 4.8** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-10-20).
+- **Claude Opus 5** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in mobileapps (2026-10-20). Written up: https://spectracodeai.com/articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.html
+- **GPT-5.5** — $5.0 in / $30.0 out per 1M tokens, 1050000 token context, best agents rank #6 in agenticslides (2026-10-20).
+- **Claude Fable 5** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticgamedev (2026-10-20).
+- **Claude Fable 5.1** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in fullstack (2026-10-20).
 
 ## DeepSeek peak / off-peak hours
 
@@ -249,9 +255,9 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [Claude](https://spectracodeai.com/providers/claude.html): 22 priced models and 26 figures from 12 write-ups.
 - [DeepSeek](https://spectracodeai.com/providers/deepseek.html): 16 figures from 7 write-ups.
 - [GLM](https://spectracodeai.com/providers/glm.html): 8 priced models and 7 figures from 4 write-ups.
+- [Gemini](https://spectracodeai.com/providers/gemini.html): 14 priced models and 1 figure from 1 write-up.
+- [OpenAI](https://spectracodeai.com/providers/openai.html): 11 priced models and 4 figures from 4 write-ups.
 - [GPT-5.6](https://spectracodeai.com/providers/gpt-5-6.html): 13 figures from 7 write-ups.
-- [Gemini](https://spectracodeai.com/providers/gemini.html): 12 priced models and 1 figure from 1 write-up.
-- [OpenAI](https://spectracodeai.com/providers/openai.html): 9 priced models and 4 figures from 4 write-ups.
 - [WorkBuddy](https://spectracodeai.com/providers/workbuddy.html): 13 figures from 12 write-ups.
 - [BrowserAct](https://spectracodeai.com/providers/browseract.html): 12 figures from 12 write-ups.
 - [Klarna](https://spectracodeai.com/providers/klarna.html): 12 figures from 4 write-ups.
