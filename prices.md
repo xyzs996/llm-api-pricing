@@ -2,7 +2,7 @@
 
 76 models that have been ranked in an agent category of the
 Design Arena, with what each one lists per million tokens. Read from
-[OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-21**.
+[OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-22**.
 
 **List price is not your bill, and here is by how much.** A coding
 agent re-reads its context on every step, so about **95.6% of the
@@ -53,9 +53,9 @@ take our word for it. A rank without its category is unverifiable.
 
 | $ / 1M at agent mix | $ in / 1M | $ out / 1M | Model | Context | Best agents rank | Written up |
 | --- | --- | --- | --- | --- | --- | --- |
-| **$0.0107** | $0.15 | $0.60 | [DeepSeek V4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) | 1M | #7 spreadsheet |  |
-| **$0.0237** | $0.435 | $0.87 | [MiMo-V2.6-Pro](https://openrouter.ai/xiaomi/mimo-v2.6-pro) | 1.1M | #7 webapps |  |
-| **$0.0365** | $0.15 | $0.60 | [Solar Pro 4](https://openrouter.ai/upstage/solar-pro4) | 524K | #37 webapps |  |
+| **$0.0107** | $0.15 | $0.60 | [DeepSeek V4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) | 1M | #8 spreadsheet |  |
+| **$0.0237** | $0.435 | $0.87 | [MiMo-V2.6-Pro](https://openrouter.ai/xiaomi/mimo-v2.6-pro) | 1.1M | #8 webapps |  |
+| **$0.0365** | $0.15 | $0.60 | [Solar Pro 4](https://openrouter.ai/upstage/solar-pro4) | 524K | #38 webapps |  |
 | **$0.0532** | $0.0341 | $7.00 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | #10 agenticgamedev | [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](https://spectracodeai.com/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html) |
 | **$0.0565** | $0.4479 | $0.8958 | [DeepSeek V4 Pro 0423](https://openrouter.ai/deepseek/deepseek-v4-pro) | 1M | #32 godotgamedev |  |
 | **$0.0566** | $0.375 | $1.875 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash:batch) `batch` | 1M | #11 androidnative |  |
@@ -63,15 +63,15 @@ take our word for it. A rank without its category is unverifiable.
 | **$0.0566** | $0.375 | $1.875 | [Gemini 3.8 Flash](https://openrouter.ai/google/gemini-3.8-flash:batch) `batch` | 1M | #5 godotgamedev |  |
 | **$0.0731** | $0.30 | $1.20 | [MiniMax M3](https://openrouter.ai/minimax/minimax-m3) | 1M | #12 htmlslides | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html) |
 | **$0.0769** | $0.50 | $3.00 | [Gemini 3 Flash Preview](https://openrouter.ai/google/gemini-3-flash-preview) | 1M | #8 agenticslides |  |
-| **$0.0819** | $0.079 | $1.40 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3) | 1M | #8 python-pptxslides |  |
+| **$0.0819** | $0.079 | $1.40 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3) | 1M | #4 htmlslides |  |
 | **$0.103** | $1.00 | $5.00 | [Claude Sonnet 5.5](https://openrouter.ai/anthropic/claude-sonnet-5.5:batch) `batch` | 1M | #3 webapps |  |
-| **$0.103** | $1.00 | $5.00 | [Gemini 4 Argon](https://openrouter.ai/google/gemini-4-argon:batch) `batch` | 1M | #9 spreadsheet |  |
-| **$0.103** | $1.00 | $5.00 | [GPT-6.1 Sol](https://openrouter.ai/openai/gpt-6.1-sol:batch) `batch` | 1.1M | #6 spreadsheet |  |
+| **$0.103** | $1.00 | $5.00 | [Gemini 4 Argon](https://openrouter.ai/google/gemini-4-argon:batch) `batch` | 1M | #10 spreadsheet |  |
+| **$0.103** | $1.00 | $5.00 | [GPT-6.1 Sol](https://openrouter.ai/openai/gpt-6.1-sol:batch) `batch` | 1.1M | #4 webapps |  |
 | **$0.1131** | $0.75 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | #11 androidnative |  |
 | **$0.1131** | $0.75 | $3.75 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash) | 1M | #6 agenticgamedev | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
 | **$0.1153** | $0.75 | $4.50 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash:batch) `batch` | 1M | #2 agenticslides(python-pptx) |  |
-| **$0.1198** | $0.45 | $2.00 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3:batch) `batch` | 1M | #8 python-pptxslides |  |
-| **$0.1224** | $0.54 | $1.98 | [GLM 4.7](https://openrouter.ai/z-ai/glm-4.7) | 204K | #28 androidnative |  |
+| **$0.1198** | $0.45 | $2.00 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3:batch) `batch` | 1M | #4 htmlslides |  |
+| **$0.1224** | $0.54 | $1.98 | [GLM 4.7](https://openrouter.ai/z-ai/glm-4.7) | 204K | #29 androidnative |  |
 | **$0.1244** | $0.825 | $4.125 | [Gemini 3.8 Flash](https://openrouter.ai/google/gemini-3.8-flash) | 1M | #5 godotgamedev |  |
 | **$0.134** | $0.55 | $2.20 | [GLM 4.6](https://openrouter.ai/z-ai/glm-4.6) | 204K | #17 godotgamedev |  |
 | **$0.1396** | $0.875 | $7.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2:batch) `batch` | 400K | #23 godotgamedev |  |
@@ -83,19 +83,19 @@ take our word for it. A rank without its category is unverifiable.
 | **$0.2042** | $1.25 | $10.00 | [GPT-5.1-Codex](https://openrouter.ai/openai/gpt-5.1-codex) | 400K | #20 mobileapps |  |
 | **$0.206** | $2.00 | $10.00 | [Claude Opus 5.5](https://openrouter.ai/anthropic/claude-opus-5.5:batch) `batch` | 1M | #2 mobileapps |  |
 | **$0.206** | $2.00 | $10.00 | [Claude Sonnet 5.5](https://openrouter.ai/anthropic/claude-sonnet-5.5) | 1M | #3 webapps |  |
-| **$0.206** | $2.00 | $10.00 | [Gemini 4 Argon](https://openrouter.ai/google/gemini-4-argon) | 1M | #9 spreadsheet |  |
-| **$0.206** | $2.00 | $10.00 | [GPT-6.1 Sol](https://openrouter.ai/openai/gpt-6.1-sol) | 1.1M | #6 spreadsheet |  |
-| **$0.2067** | $1.25 | $4.25 | [Muse Spark 1.1](https://openrouter.ai/meta/muse-spark-1.1) | 1M | #8 htmlslides | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html) |
+| **$0.206** | $2.00 | $10.00 | [Gemini 4 Argon](https://openrouter.ai/google/gemini-4-argon) | 1M | #10 spreadsheet |  |
+| **$0.206** | $2.00 | $10.00 | [GPT-6.1 Sol](https://openrouter.ai/openai/gpt-6.1-sol) | 1.1M | #4 webapps |  |
+| **$0.2067** | $1.25 | $4.25 | [Muse Spark 1.1](https://openrouter.ai/meta/muse-spark-1.1) | 1M | #10 htmlslides | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html) |
 | **$0.2067** | $1.25 | $4.25 | [Muse Spark 1.2](https://openrouter.ai/meta/muse-spark-1.2) | 1M | #10 androidnative |  |
 | **$0.2067** | $1.25 | $4.25 | [Muse Spark 1.3](https://openrouter.ai/meta/muse-spark-1.3) | 1M | #3 fullstack |  |
-| **$0.2092** | $0.6712 | $3.35 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code) | 262K | #7 htmlslides |  |
-| **$0.215** | $1.00 | $4.05 | [Inkling](https://openrouter.ai/thinkingmachines/inkling) | 524K | #25 webapps |  |
+| **$0.2092** | $0.6712 | $3.35 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code) | 262K | #9 htmlslides |  |
+| **$0.215** | $1.00 | $4.05 | [Inkling](https://openrouter.ai/thinkingmachines/inkling) | 524K | #26 webapps |  |
 | **$0.2263** | $1.50 | $7.50 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5:batch) `batch` | 1M | #33 mobileapps |  |
 | **$0.2263** | $1.50 | $7.50 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6:batch) `batch` | 1M | #12 godotgamedev |  |
 | **$0.2306** | $1.50 | $9.00 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash) | 1M | #2 agenticslides(python-pptx) |  |
 | **$0.2413** | $1.00 | $3.20 | [GLM 5](https://openrouter.ai/z-ai/glm-5) | 204K | #18 htmlslides |  |
 | **$0.2452** | $0.239 | $11.936 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3) | 1M | #2 fullstack | [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html) |
-| **$0.2494** | $1.25 | $2.50 | [Grok 4.20](https://openrouter.ai/x-ai/grok-4.20) | 2M | #11 htmlslides |  |
+| **$0.2494** | $1.25 | $2.50 | [Grok 4.20](https://openrouter.ai/x-ai/grok-4.20) | 2M | #5 htmlslides |  |
 | **$0.2494** | $1.25 | $2.50 | [Grok 4.3](https://openrouter.ai/x-ai/grok-4.3) | 1M | #8 pptxslides |  |
 | **$0.2792** | $1.75 | $14.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2) | 400K | #23 godotgamedev |  |
 | **$0.2792** | $1.75 | $14.00 | [GPT-5.2-Codex](https://openrouter.ai/openai/gpt-5.2-codex) | 400K | #20 androidnative |  |
@@ -115,7 +115,7 @@ take our word for it. A rank without its category is unverifiable.
 | **$0.3857** | $2.00 | $6.00 | [Grok 4.5](https://openrouter.ai/x-ai/grok-4.5) | 500K | #5 agenticgamedev |  |
 | **$0.3956** | $5.00 | $25.00 | [Claude Fable 5.1](https://openrouter.ai/anthropic/claude-fable-5.1:batch) `batch` | 1M | #1 fullstack |  |
 | **$0.4121** | $4.00 | $20.00 | [Claude Opus 5.5](https://openrouter.ai/anthropic/claude-opus-5.5) | 1M | #2 mobileapps |  |
-| **$0.4121** | $4.00 | $20.00 | [Muse Wonder](https://openrouter.ai/meta/muse-wonder) | 1M | #8 spreadsheet |  |
+| **$0.4121** | $4.00 | $20.00 | [Muse Wonder](https://openrouter.ai/meta/muse-wonder) | 1M | #9 spreadsheet |  |
 | **$0.4525** | $3.00 | $15.00 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5) | 1M | #33 mobileapps |  |
 | **$0.4525** | $3.00 | $15.00 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6) | 1M | #12 godotgamedev |  |
 | **$0.577** | $2.00 | $6.00 | [Grok 4.6](https://openrouter.ai/x-ai/grok-4.6) | 500K | #1 androidnative |  |
@@ -163,5 +163,5 @@ Neither is our measurement, and both move — the date above is when
 this copy was last read, not when you are reading it.*
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Coding-agent model prices, next to their agent-arena rank", "description": "List price per million tokens for 76 models that have been ranked in an agent category of the Design Arena, with the context window, the best rank each one holds and the category it holds it in. Read from OpenRouter's public model catalog on 2026-10-21.", "url": "https://spectracodeai.com/prices.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["LLM pricing", "AI coding agents", "token costs", "model comparison", "cost per million tokens"], "variableMeasured": ["input price per million tokens", "output price per million tokens", "context window", "agent arena rank"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv"}], "isBasedOn": "https://openrouter.ai/models", "dateModified": "2026-10-21"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Coding-agent model prices, next to their agent-arena rank", "description": "List price per million tokens for 76 models that have been ranked in an agent category of the Design Arena, with the context window, the best rank each one holds and the category it holds it in. Read from OpenRouter's public model catalog on 2026-10-22.", "url": "https://spectracodeai.com/prices.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["LLM pricing", "AI coding agents", "token costs", "model comparison", "cost per million tokens"], "variableMeasured": ["input price per million tokens", "output price per million tokens", "context window", "agent arena rank"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv"}], "isBasedOn": "https://openrouter.ai/models", "dateModified": "2026-10-22"}
 </script>
