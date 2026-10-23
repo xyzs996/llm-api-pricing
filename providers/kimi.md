@@ -1,14 +1,14 @@
 # Kimi API pricing: what 5 models cost a coding agent
 
-Every Kimi model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-22**.
+Every Kimi model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-23**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Kimi discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Kimi charges per million tokens
 
-5 Kimi models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-22**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+5 Kimi models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-23**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
-**Kimi does not have one cache-read rate — it has 5.** Across 5 rows the discount runs from 10.0% to 87.9% of that row's own input price (10%, 23.1%, 26.8%, 30%, 87.9%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Kimi's list input price overstates what an agent pays by a median **3.2×** (range 1.0×–6.6×).
+**Kimi does not have one cache-read rate — it has 5.** Across 5 rows the discount runs from 10.0% to 87.9% of that row's own input price (10%, 22.3%, 23.1%, 30%, 87.9%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Kimi's list input price overstates what an agent pays by a median **3.6×** (range 1.0×–6.6×).
 
 1 row is marked `batch` — the batch entries the catalog lists separately. They are kept apart on purpose: folding them in would read as if a normal call cost half of what it does.
 
@@ -16,7 +16,7 @@ Every Kimi model in the catalog that has been ranked in an agent category, price
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **$0.1711** | $0.50 | $0.15 | $2.50 | [Kimi K2.5](https://openrouter.ai/moonshotai/kimi-k2.5) | 262K | — | #15 godotgamedev |
 | **$0.1798** | $0.65 | $0.15 | $3.41 | [Kimi K2.6](https://openrouter.ai/moonshotai/kimi-k2.6) | 262K | — | #2 agentichtmlslides |
-| **$0.2092** | $0.6712 | $0.18 | $3.35 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code) | 262K | — | #9 htmlslides |
+| **$0.1805** | $0.6712 | $0.15 | $3.35 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code) | 262K | — | #11 htmlslides |
 | **$0.2452** | $0.239 | $0.21 | $11.936 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3) | 1M | — | #2 fullstack |
 | **$0.3439** | $2.28 | $0.228 | $11.40 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3:batch) `batch` | 1M | — | #2 fullstack |
 
@@ -41,9 +41,9 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | GLM | 8 | 18.3–98.7% | 4.1× | $0.0532 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
 | upstage | 1 | 20% | 4.1× | $0.0365 |
-| **Kimi** | 5 | 10–87.9% | 3.2× | $0.1711 |
+| **Kimi** | 5 | 10–87.9% | 3.6× | $0.1711 |
 
-The spread in that fourth column is the whole point: Claude at 6.6× against Kimi at 3.2×, across 22 and 5 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
+The spread in that fourth column is the whole point: Claude at 6.6× against Kimi at 3.6×, across 22 and 5 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
 
 
 [All models, every vendor, one table](../prices.md) · [Put your own token counts in](https://xyzs996.github.io/llm-cost-calculator/) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
