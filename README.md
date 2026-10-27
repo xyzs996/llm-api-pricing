@@ -13,7 +13,7 @@ Two things: a price table re-read from OpenRouter's catalog every day, and
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.6×** (0.6×–18.4×). Read **2026-10-26**; the three cheapest *to run*:
+median **6.6×** (0.6×–18.4×). Read **2026-10-27**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
