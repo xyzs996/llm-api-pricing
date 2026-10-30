@@ -8,15 +8,15 @@
 
 ## 跑 agent 的模型,今天多少钱
 
-76 个在 Design Arena 的 agents 各档里排过名的模型,每百万 token 的**挂牌价**——不是账单:缓存命中、batch、不同接入方各有各的价。取自 OpenRouter 的公开目录,最后核到 2026-10-29。最便宜的三个:
+77 个在 Design Arena 的 agents 各档里排过名的模型,每百万 token 的**挂牌价**——不是账单:缓存命中、batch、不同接入方各有各的价。取自 OpenRouter 的公开目录,最后核到 2026-10-30。最便宜的三个:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.006 | $7.00 | GLM 5.2 | #9 agenticgamedev |
-| $0.0699 | $1.40 | GLM 5.3 | #2 htmlslides |
+| $0.006 | $7.00 | GLM 5.2 | #10 agenticgamedev |
+| $0.08 | $3.60 | GLM 5.3 | #2 htmlslides |
 | $0.15 | $0.60 | DeepSeek V4.1 Flash 1017 | #6 spreadsheet |
 
-[全部 76 个](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[全部 77 个](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **同一个数,相反的答案。** Google 和 xAI 都在 200,000 个输入 token 上跳贵价档 —— 而**正好** 200,000 这一发,Google 按便宜的收,xAI 按贵的收。别处的价目表印一个门槛数就没了下文。哪家算在哪一边、引的是厂商自己那页上的原话、附核对日期:[same number, opposite answer](prices.md#same-number-opposite-answer)(英文)。
 
