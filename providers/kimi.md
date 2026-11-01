@@ -1,12 +1,12 @@
 # Kimi API pricing: what 6 models cost a coding agent
 
-Every Kimi model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-31**.
+Every Kimi model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-01**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Kimi discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Kimi charges per million tokens
 
-6 Kimi models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-31**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+6 Kimi models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-01**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Kimi does not have one cache-read rate — it has 5.** Across 6 rows the discount runs from 10.0% to 94.8% of that row's own input price (10%, 23.1%, 25%, 30%, 94.8%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Kimi's list input price overstates what an agent pays by a median **3.5×** (range 0.9×–6.6×).
 
@@ -18,7 +18,7 @@ Every Kimi model in the catalog that has been ranked in an agent category, price
 | **$0.178** | $0.60 | $0.15 | $3.50 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code) | 262K | — | #11 htmlslides |
 | **$0.1798** | $0.65 | $0.15 | $3.41 | [Kimi K2.6](https://openrouter.ai/moonshotai/kimi-k2.6) | 262K | — | #2 agentichtmlslides |
 | **$0.2254** | $0.192 | $0.182 | $15.00 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3) | 1M | — | #2 fullstack |
-| **$0.3017** | $2.00 | $0.20 | $10.00 | [Kimi K3.1 Pro](https://openrouter.ai/moonshotai/kimi-k3.1-pro) | 1M | — | #12 pdf |
+| **$0.3017** | $2.00 | $0.20 | $10.00 | [Kimi K3.1 Pro](https://openrouter.ai/moonshotai/kimi-k3.1-pro) | 1M | — | #7 pdf |
 | **$0.3439** | $2.28 | $0.228 | $11.40 | [Kimi K3](https://openrouter.ai/moonshotai/kimi-k3:batch) `batch` | 1M | — | #2 fullstack |
 
 Cheapest Kimi row an agent can call normally is **Kimi K2.5** at $0.1711 per million; the dearest is $0.3017, 2× more. Both numbers exclude the `batch` rows above. Both are computed, not quoted — the arithmetic and the weights are in the JSON.
@@ -39,7 +39,7 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Grok | 6 | 15–25% | 5.0× | $0.2494 |
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
-| GLM | 8 | 18.3–98.6% | 4.1× | $0.0247 |
+| GLM | 8 | 18.3–95% | 4.1× | $0.0247 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
 | upstage | 1 | 20% | 4.1× | $0.0365 |
 | **Kimi** | 6 | 10–94.8% | 3.5× | $0.1711 |

@@ -1,26 +1,26 @@
 # GLM API pricing: what 8 models cost a coding agent
 
-Every GLM model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-10-31**.
+Every GLM model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-01**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep GLM discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What GLM charges per million tokens
 
-8 GLM models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-10-31**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+8 GLM models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-01**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
-**GLM does not have one cache-read rate — it has 6.** Across 8 rows the discount runs from 18.3% to 98.6% of that row's own input price (18.3%, 18.6%, 20%, 22.2%, 83.3%, 98.6%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, GLM's list input price overstates what an agent pays by a median **4.1×** (range 0.2×–4.4×).
+**GLM does not have one cache-read rate — it has 6.** Across 8 rows the discount runs from 18.3% to 95.0% of that row's own input price (18.3%, 18.6%, 20%, 22.2%, 83.3%, 95%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, GLM's list input price overstates what an agent pays by a median **4.1×** (range 0.2×–4.4×).
 
 1 row is marked `batch` — the batch entries the catalog lists separately. They are kept apart on purpose: folding them in would read as if a normal call cost half of what it does.
 
 | $ / 1M at agent mix | $ in / 1M | $ cache read / 1M | $ out / 1M | Model | Context | Long-context step | Best agents rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **$0.0247** | $0.006 | $0.005 | $6.80 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | — | #1 pdf |
-| **$0.0728** | $0.0699 | $0.0689 | $1.40 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3) | 1M | — | #2 htmlslides |
+| **$0.0247** | $0.006 | $0.005 | $6.80 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | — | #9 pdf |
+| **$0.0864** | $0.08 | $0.076 | $3.60 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3) | 1M | — | #2 htmlslides |
 | **$0.1198** | $0.45 | $0.10 | $2.00 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3:batch) `batch` | 1M | — | #2 htmlslides |
 | **$0.1218** | $0.50 | $0.10 | $2.00 | [GLM 4.6](https://openrouter.ai/z-ai/glm-4.6) | 204K | — | #17 godotgamedev |
-| **$0.1224** | $0.54 | $0.099 | $1.98 | [GLM 4.7](https://openrouter.ai/z-ai/glm-4.7) | 204K | — | #29 androidnative |
+| **$0.136** | $0.60 | $0.11 | $2.20 | [GLM 4.7](https://openrouter.ai/z-ai/glm-4.7) | 204K | — | #30 androidnative |
 | **$0.2413** | $1.00 | $0.20 | $3.20 | [GLM 5](https://openrouter.ai/z-ai/glm-5) | 204K | — | #20 htmlslides |
-| **$0.29** | $1.20 | $0.24 | $4.00 | [GLM 5V Turbo](https://openrouter.ai/z-ai/glm-5v-turbo) | 202K | — | #3 androidnative |
+| **$0.29** | $1.20 | $0.24 | $4.00 | [GLM 5V Turbo](https://openrouter.ai/z-ai/glm-5v-turbo) | 202K | — | #4 androidnative |
 | **$0.3184** | $1.40 | $0.26 | $4.40 | [GLM 5.1](https://openrouter.ai/z-ai/glm-5.1) | 204K | — | #2 agenticslides |
 
 Cheapest GLM row an agent can call normally is **GLM 5.2** at $0.0247 per million; the dearest is $0.3184, 13× more. Both numbers exclude the `batch` rows above. Both are computed, not quoted — the arithmetic and the weights are in the JSON.
@@ -41,7 +41,7 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Grok | 6 | 15–25% | 5.0× | $0.2494 |
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
-| **GLM** | 8 | 18.3–98.6% | 4.1× | $0.0247 |
+| **GLM** | 8 | 18.3–95% | 4.1× | $0.0247 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
 | upstage | 1 | 20% | 4.1× | $0.0365 |
 | Kimi | 6 | 10–94.8% | 3.5× | $0.1711 |
