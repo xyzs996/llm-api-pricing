@@ -8,11 +8,11 @@ Kumpulan data terbuka. Setiap angka dari 64 catatan lapangan — harga, persenta
 
 ## Berapa biaya model agent hari ini
 
-78 model yang masuk peringkat di salah satu kategori *agents* Design Arena, dengan **harga daftar** per juta token — bukan tagihan Anda: cache, batch, dan tiap penyedia menghitung berbeda. Dari katalog publik OpenRouter, terakhir dibaca 2026-11-01. Tiga termurah:
+78 model yang masuk peringkat di salah satu kategori *agents* Design Arena, dengan **harga daftar** per juta token — bukan tagihan Anda: cache, batch, dan tiap penyedia menghitung berbeda. Dari katalog publik OpenRouter, terakhir dibaca 2026-11-02. Tiga termurah:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.006 | $6.80 | GLM 5.2 | #9 pdf |
+| $0.006 | $6.80 | GLM 5.2 | #10 agenticgamedev |
 | $0.08 | $3.60 | GLM 5.3 | #2 htmlslides |
 | $0.15 | $0.60 | DeepSeek V4.1 Flash 1017 | #6 spreadsheet |
 
