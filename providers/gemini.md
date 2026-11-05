@@ -1,12 +1,12 @@
 # Gemini API pricing: what 14 models cost a coding agent
 
-Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-04**.
+Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-05**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Gemini discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Gemini charges per million tokens
 
-14 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-04**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+14 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-05**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Gemini does not have one cache-read rate — it has 2.** Across 12 rows the discount runs from 5.0% to 10.0% of that row's own input price (5%, 10%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Gemini's list input price overstates what an agent pays by a median **6.6×** (range 6.5×–9.7×).
 
@@ -20,13 +20,13 @@ Every Gemini model in the catalog that has been ranked in an agent category, pri
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash:batch) `batch` | 1M | — | #13 androidnative |
 | **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash:batch) `batch` | 1M | — | #6 godotgamedev |
-| **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.8 Flash](https://openrouter.ai/google/gemini-3.8-flash:batch) `batch` | 1M | — | #3 codetovideo |
+| **$0.0566** | $0.375 | $0.0375 | $1.875 | [Gemini 3.8 Flash](https://openrouter.ai/google/gemini-3.8-flash:batch) `batch` | 1M | — | #5 codetovideo |
 | **$0.0769** | $0.50 | $0.05 | $3.00 | [Gemini 3 Flash Preview](https://openrouter.ai/google/gemini-3-flash-preview) | 1M | — | #8 agenticslides |
 | **$0.103** | $1.00 | $0.05 | $5.00 | [Gemini 4 Argon](https://openrouter.ai/google/gemini-4-argon:batch) `batch` | 1M | — | #1 agenticgamedev |
 | **$0.1131** | $0.75 | $0.075 | $3.75 | [Gemini 3.6 Flash](https://openrouter.ai/google/gemini-3.6-flash) | 1M | — | #13 androidnative |
 | **$0.1131** | $0.75 | $0.075 | $3.75 | [Gemini 3.7 Flash](https://openrouter.ai/google/gemini-3.7-flash) | 1M | — | #6 godotgamedev |
 | **$0.1153** | $0.75 | $0.075 | $4.50 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash:batch) `batch` | 1M | — | #2 agenticslides(python-pptx) |
-| **$0.1244** | $0.825 | $0.0825 | $4.125 | [Gemini 3.8 Flash](https://openrouter.ai/google/gemini-3.8-flash) | 1M | — | #3 codetovideo |
+| **$0.1244** | $0.825 | $0.0825 | $4.125 | [Gemini 3.8 Flash](https://openrouter.ai/google/gemini-3.8-flash) | 1M | — | #5 codetovideo |
 | **$0.206** | $2.00 | $0.10 | $10.00 | [Gemini 4 Argon](https://openrouter.ai/google/gemini-4-argon) | 1M | — | #1 agenticgamedev |
 | **$0.2306** | $1.50 | $0.15 | $9.00 | [Gemini 3.5 Flash](https://openrouter.ai/google/gemini-3.5-flash) | 1M | — | #2 agenticslides(python-pptx) |
 | **$0.3075** | $2.00 | $0.20 | $12.00 | [Gemini 3.1 Pro Preview](https://openrouter.ai/google/gemini-3.1-pro-preview) | 1M | $4.00 past 200k | #4 agentichtmlslides |
@@ -51,7 +51,7 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
 | Grok | 8 | 15–25% | 4.2× | $0.2494 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
-| GLM | 8 | 18.3–95% | 4.1× | $0.0247 |
+| GLM | 8 | 18.3–98.6% | 4.1× | $0.0247 |
 | MiniMax | 1 | 20% | 4.1× | $0.0731 |
 | upstage | 1 | 20% | 4.1× | $0.0365 |
 | Kimi | 6 | 10–94.8% | 3.5× | $0.1711 |
