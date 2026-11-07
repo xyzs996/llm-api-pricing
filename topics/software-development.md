@@ -1,9 +1,11 @@
 # Software Development
 
-3 of the 64 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 67 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1 <!-- [doc_41a4c25e26655d9dc1ddafedda28748b] -->. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+- **$3** — One Reddit user estimated that three agents handling email, calendar and research would cost about $3–$5 a month on DeepSeek V4 Flash, against roughly $200–$260 on Claude Opus 4.7, with only a small quality gap <!-- [doc_a7947740a61f182190750b03d21aac3c] -->. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - **40%** — 40% of review tasks needed manual backfill, costing about 15 extra minutes each time. [→](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 - **1,000 tokens** — Its original system prompt and tool descriptions came to under 1,000 tokens. [→](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 - **1000-token** — Still, I'd say the Pi base framework's 1000-token limit seems overstated. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
@@ -11,9 +13,13 @@
 - **$1.43** — The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 - **$1.43** — A single run costs about $1.43 on the first and $9.05 on the second. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
-[All figures, 629 rows](../figures.md)
+[All figures, 709 rows](../figures.md)
 
 ## The write-ups
+
+### [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+
+The "10x cheaper" claim in AI model benchmarks is rarely a measure of your actual bill; it is often a product of the specific "harness" used to measure it <!-- [doc_7b7a9d39c7edd7e338e85692ea3084a2…
 
 ### [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 
@@ -35,7 +41,7 @@ On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
 
 ---
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
 ---
 

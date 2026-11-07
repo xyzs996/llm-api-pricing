@@ -1,19 +1,19 @@
 # Code Review
 
-6 of the 64 write-ups here are tagged Code Review. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 67 write-ups here are tagged Code Review. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **36.6 billion tokens** — I don't think chasing raw token volume scales—some projects burned through 36.6 billion tokens, rebuilt twice, still ended up brittle. [→](../articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md)
+- **$15** — Kimi K3 charges $15 per million output tokens, DeepSeek V4 at $0.87, and GLM-5.2 at $4.40—far below Anthropic Fable 5’s $50. [→](../articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md)
 - **80%** — The Claude Code team itself found that 80% of system prompts degrade performance. [→](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - **$5** — The tool runs on a $5/month VPS using Docker. [→](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - **$1.43** — One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - **$0.028** — DeepSeek V4 Flash costs $0.028 per million tokens and is fast. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - **70%** — In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **60%** — The tool has been through 28 iterations, and repetitive work on public recruiting platforms got 60% more efficient. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
-- **80%** — When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
-- **80%** — Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
-[All figures, 629 rows](../figures.md)
+[All figures, 709 rows](../figures.md)
 
 ## The write-ups
 
@@ -22,6 +22,10 @@
 Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/11) · [telegra.ph](https://telegra.ph/The-Cost-Effective-Guide-to-Using-Open-Code-Review-for-AI-Programming-Tools-08-19)
+
+### [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](../articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md)
+
+On July 24, 2026, Alibaba open-sourced Open Code Review, a hybrid code review tool that outperformed Claude Code in a benchmark across 200 real pull requests pulled from 50 active open-source repos…
 
 ### [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 
@@ -55,7 +59,7 @@ Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in R
 
 ---
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
 ---
 

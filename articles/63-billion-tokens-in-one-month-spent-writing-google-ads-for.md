@@ -66,9 +66,9 @@ The open question is where the switch happens. He automated right after getting 
 - [How to Turn Your Obsidian Vault Into an Autonomous AI Research Agent](how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - [Claude Code and Codex for Office Automation](claude-code-and-codex-for-office-automation.md)
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 611 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 691 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [AI Features](../topics/ai-features.md) · [Revenue Growth](../topics/revenue-growth.md)
 

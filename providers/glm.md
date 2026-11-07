@@ -53,8 +53,12 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 
 ## What was written about GLM while these were measured
 
-7 figures in these field notes come from a sentence that names GLM. These are quoted from the write-up, dated the day it went out — unlike the table above, they are **not** recomputed, so read each one as of its own date.
+11 figures in these field notes come from a sentence that names GLM. These are quoted from the write-up, dated the day it went out — unlike the table above, they are **not** recomputed, so read each one as of its own date.
 
+- **1.1 seconds** — “DeepSeek V4.1 Flash starts answering in 1.1 seconds and GLM-5.3 in 1.9 seconds, while Claude Opus 5.5 at its max reasoning setting took as long as 644 seconds during peak hours <!-- [doc_3e5fc44d8368b305e0bdb046c6eeaa03] -->.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+- **$0.87** — “That's expensive next to its Chinese peers, since DeepSeek V4 charges $0.87 and GLM-5.2 charges $4.40.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+- **$0.68** — “GLM-5.3 completes an intelligent task at an average cost of $0.68, well below the $2.75 Claude Fable 5 needs for a comparable workload <!-- [doc_182dcbb2eb956b64d0375127ff6abcd8] -->.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+- **$15 per million output tokens** — “Kimi K3 charges $15 per million output tokens, DeepSeek V4 at $0.87, and GLM-5.2 at $4.40—far below Anthropic Fable 5’s $50.” (2026-11-02) [→](../articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md)
 - **90%** — “The real power shows up in daily use: you can send complex logic to GLM, which performs at about 90% of GPT-level quality, while offloading routine tasks to cheaper models like DeepSeek V4 Flash.” (2026-09-30) [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - **70%** — “Subtitle: How switching to DeepSeek and GLM saved me 70% and gave me back control” (2026-09-30) [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - **$1 per million tokens** — “Even at the high end, models like GLM 5.2 and DeepSeek V4 Pro hover around $1 per million tokens.” (2026-09-30) [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
@@ -63,12 +67,14 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 - **45.2%** — “GLM-5.1 does the same: sort by input and you take GMICloud, and pay 45.2% over Chutes.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 - **10.00%** — “Now the other side. z-ai's GLM-5.1 is served by seventeen hosts, cache read ratios running 10.00% to 50.42%.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 
-[All 629 figures, every kind](../figures.md)
+[All 709 figures, every kind](../figures.md)
 
 - [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
 - [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/81) · [telegra.ph](https://telegra.ph/Bypass-Codex-Rate-Limits-The-Local-Proxy-Path-to-70-Cost-Savings-09-30)
 - [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/66) · [telegra.ph](https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24)
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
+- [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+- [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](../articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md)
 
 **A GLM price that looks wrong?** [Say which row](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=GLM&title=%5Bcorrection%5D+GLM) — the form already knows it is about GLM; you only have to say what the number is now. Every figure here is computed from a published catalog, so a wrong one is a bug, not an opinion.
 

@@ -1,4 +1,16 @@
 <link rel="alternate" type="application/atom+xml"
       title="AI Coding Field Notes" href="https://spectracodeai.com/feed.xml">
 <script defer src="https://cloud.umami.is/script.js" data-website-id="99be711d-d2ab-4592-9102-f70061c1af3e" data-domains="spectracodeai.com"></script>
-<script>document.addEventListener("DOMContentLoaded",function(){var s=document.querySelector("article.prose")||document.querySelector(".prose");if(!s||document.getElementById("subscribe-box"))return;s.insertAdjacentHTML('beforeend','<div id="subscribe-box" class="subscribe"><h3>Get the next write-up by email</h3><p>New write-ups and model price changes, about once a week. Free. No spam; unsubscribe in one click.</p><form class="sub-form" action="https://buttondown.com/api/emails/embed-subscribe/spectracode" method="post" target="popupwindow" onsubmit="window.open(\'https://buttondown.com/spectracode\',\'popupwindow\')"><input class="field" type="email" name="email" placeholder="you@company.com" aria-label="Email address" required><input type="hidden" value="1" name="embed"><button class="btn" type="submit" data-umami-event="subscribe-article">Get the notes</button></form></div>');});</script>
+<script>document.addEventListener("DOMContentLoaded",function(){var s=document.querySelector("article.prose")||document.querySelector(".prose");if(s&&!document.getElementById("subscribe-box"))s.insertAdjacentHTML('beforeend','<div id="subscribe-box" class="subscribe"><h3>Get the next write-up by email</h3><p>New write-ups and model price changes, about once a week. Free. No spam; unsubscribe in one click.</p><form class="sub-form" action="https://buttondown.com/api/emails/embed-subscribe/spectracode" method="post" target="popupwindow" onsubmit="window.open(\'https://buttondown.com/spectracode\',\'popupwindow\')"><input class="field" type="email" name="email" placeholder="you@company.com" aria-label="Email address" required><input type="hidden" value="1" name="embed"><input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="metadata__page" value=""><button class="btn" type="submit" data-umami-event="subscribe-article">Get the notes</button></form></div>');
+var K="sc-utm",q=new URLSearchParams(location.search),u={},N=["utm_source","utm_medium","utm_campaign"];
+N.forEach(function(k){var v=q.get(k);if(v)u[k]=v.slice(0,100);});
+try{if(u.utm_source)sessionStorage.setItem(K,JSON.stringify(u));else u=JSON.parse(sessionStorage.getItem(K)||"{}")||{};}catch(e){}
+if(!u.utm_source&&document.referrer){try{var h=new URL(document.referrer).hostname;if(h&&h!==location.hostname)u={utm_source:h,utm_medium:"referral"};}catch(e){}}
+var m=location.pathname.match(/([^\/]+?)(?:\.html)?$/),pg=m?m[1]:"home";
+document.querySelectorAll("form.sub-form").forEach(function(f){
+N.forEach(function(k){var i=f.querySelector('input[name="'+k+'"]');if(i&&!i.value&&u[k])i.value=u[k];});
+var p=f.querySelector('input[name="metadata__page"]');if(p)p.value=pg;
+var b=f.querySelector("button[data-umami-event]"),src=f.querySelector('input[name="utm_source"]');
+if(b){b.setAttribute("data-umami-event-source",(src&&src.value)||"direct");b.setAttribute("data-umami-event-slug",pg);}
+f.addEventListener("submit",function(){var d=f.parentNode.querySelector(".sub-done");if(d)d.hidden=false;});
+});});</script>

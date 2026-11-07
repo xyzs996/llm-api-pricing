@@ -27,39 +27,39 @@ defaults:
   - scope:
       path: "README_CN.md"
     values:
-      description: "这是一份公开数表。64 篇实测笔记里出现过的每一个数 —— 价格、百分比、倍数、token 数、耗时 —— 都抽成一行,每行都附上它原来所在的那句话和发布日期。"
+      description: "这是一份公开数表。67 篇实测笔记里出现过的每一个数 —— 价格、百分比、倍数、token 数、耗时 —— 都抽成一行,每行都附上它原来所在的那句话和发布日期。"
   - scope:
       path: "README_ES.md"
     values:
-      description: "Un conjunto de datos abierto. Cada cifra publicada en 64 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, con la frase completa de la que salió y la fecha de publicación."
+      description: "Un conjunto de datos abierto. Cada cifra publicada en 67 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, con la frase completa de la que salió y la fecha de publicación."
   - scope:
       path: "README_JA.md"
     values:
-      description: "オープンなデータセットです。64 本の実測ノートに出てきた数字 —— 料金、割合、倍率、トークン数、所要時間 —— をすべて 1 行ずつに抜き出し、元の一文と公開日を必ず添えてあります。"
+      description: "オープンなデータセットです。67 本の実測ノートに出てきた数字 —— 料金、割合、倍率、トークン数、所要時間 —— をすべて 1 行ずつに抜き出し、元の一文と公開日を必ず添えてあります。"
   - scope:
       path: "README_KO.md"
     values:
-      description: "공개 데이터셋입니다. 64편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 원래 문장 전체와 게시 날짜를 함께 실었습니다."
+      description: "공개 데이터셋입니다. 67편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 원래 문장 전체와 게시 날짜를 함께 실었습니다."
   - scope:
       path: "README_VI.md"
     values:
-      description: "Một bộ dữ liệu mở. Mọi con số xuất hiện trong 64 ghi chép thực đo — giá, phần trăm, bội số, số token, thời lượng — đều được tách thành một dòng, kèm nguyên câu chứa nó và ngày công bố."
+      description: "Một bộ dữ liệu mở. Mọi con số xuất hiện trong 67 ghi chép thực đo — giá, phần trăm, bội số, số token, thời lượng — đều được tách thành một dòng, kèm nguyên câu chứa nó và ngày công bố."
   - scope:
       path: "README_FR.md"
     values:
-      description: "Un jeu de données ouvert. Chaque chiffre publié dans 64 notes de terrain — prix, pourcentages, multiples, nombres de tokens et durées — extrait en une ligne, avec la phrase entière dont il provient et sa date de publication."
+      description: "Un jeu de données ouvert. Chaque chiffre publié dans 67 notes de terrain — prix, pourcentages, multiples, nombres de tokens et durées — extrait en une ligne, avec la phrase entière dont il provient et sa date de publication."
   - scope:
       path: "README_DE.md"
     values:
-      description: "Ein offener Datensatz. Jede Zahl aus 64 Praxisnotizen — Preise, Prozentsätze, Vielfache, Token-Zahlen und Laufzeiten — als eigene Zeile, mit dem vollständigen Satz, aus dem sie stammt, und dem Veröffentlichungsdatum."
+      description: "Ein offener Datensatz. Jede Zahl aus 67 Praxisnotizen — Preise, Prozentsätze, Vielfache, Token-Zahlen und Laufzeiten — als eigene Zeile, mit dem vollständigen Satz, aus dem sie stammt, und dem Veröffentlichungsdatum."
   - scope:
       path: "README_RU.md"
     values:
-      description: "Открытый набор данных. Каждая цифра из 64 полевых заметок — цены, проценты, кратности, количество токенов и длительности — вынесена в отдельную строку, вместе с полной фразой, откуда она взята, и датой публикации."
+      description: "Открытый набор данных. Каждая цифра из 67 полевых заметок — цены, проценты, кратности, количество токенов и длительности — вынесена в отдельную строку, вместе с полной фразой, откуда она взята, и датой публикации."
   - scope:
       path: "README_ID.md"
     values:
-      description: "Kumpulan data terbuka. Setiap angka dari 64 catatan lapangan — harga, persentase, kelipatan, jumlah token, dan durasi — ditarik menjadi satu baris, lengkap dengan kalimat asalnya dan tanggal terbitnya."
+      description: "Kumpulan data terbuka. Setiap angka dari 67 catatan lapangan — harga, persentase, kelipatan, jumlah token, dan durasi — ditarik menjadi satu baris, lengkap dengan kalimat asalnya dan tanggal terbitnya."
   - scope:
       path: "units/build.md"
     values:
@@ -105,13 +105,17 @@ defaults:
     values:
       description: "The 8 write-ups in these AI coding field notes tagged AI Features — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "topics/development-tools.md"
+    values:
+      description: "The 8 write-ups in these AI coding field notes tagged Development Tools — each with the figures it cited and the sentence every figure came from."
+  - scope:
       path: "topics/ai-costs.md"
     values:
       description: "The 7 write-ups in these AI coding field notes tagged AI Costs — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/development-tools.md"
+      path: "topics/code-review.md"
     values:
-      description: "The 7 write-ups in these AI coding field notes tagged Development Tools — each with the figures it cited and the sentence every figure came from."
+      description: "The 7 write-ups in these AI coding field notes tagged Code Review — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/ai.md"
     values:
@@ -121,9 +125,9 @@ defaults:
     values:
       description: "The 6 write-ups in these AI coding field notes tagged AI Programming — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/code-review.md"
+      path: "topics/chinese-ai.md"
     values:
-      description: "The 6 write-ups in these AI coding field notes tagged Code Review — each with the figures it cited and the sentence every figure came from."
+      description: "The 6 write-ups in these AI coding field notes tagged Chinese AI — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/cost-savings.md"
     values:
@@ -132,10 +136,6 @@ defaults:
       path: "topics/ai-automation.md"
     values:
       description: "The 5 write-ups in these AI coding field notes tagged AI Automation — each with the figures it cited and the sentence every figure came from."
-  - scope:
-      path: "topics/chinese-ai.md"
-    values:
-      description: "The 5 write-ups in these AI coding field notes tagged Chinese AI — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/revenue-growth.md"
     values:
@@ -153,6 +153,10 @@ defaults:
     values:
       description: "The 4 write-ups in these AI coding field notes tagged Developer Productivity — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "topics/software-development.md"
+    values:
+      description: "The 4 write-ups in these AI coding field notes tagged Software Development — each with the figures it cited and the sentence every figure came from."
+  - scope:
       path: "topics/ai-agents.md"
     values:
       description: "The 3 write-ups in these AI coding field notes tagged AI Agents — each with the figures it cited and the sentence every figure came from."
@@ -160,6 +164,10 @@ defaults:
       path: "topics/enterprise-automation.md"
     values:
       description: "The 3 write-ups in these AI coding field notes tagged Enterprise Automation — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/indie-developer.md"
+    values:
+      description: "The 3 write-ups in these AI coding field notes tagged Indie Developer — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/micro-saas.md"
     values:
@@ -169,9 +177,9 @@ defaults:
     values:
       description: "The 3 write-ups in these AI coding field notes tagged Programming — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/software-development.md"
+      path: "topics/seo.md"
     values:
-      description: "The 3 write-ups in these AI coding field notes tagged Software Development — each with the figures it cited and the sentence every figure came from."
+      description: "The 3 write-ups in these AI coding field notes tagged SEO — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/token-optimization.md"
     values:
@@ -189,6 +197,10 @@ defaults:
     values:
       description: "GLM API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
   - scope:
+      path: "providers/gpt-5-6.md"
+    values:
+      description: "Every figure in these AI coding field notes whose sentence names GPT-5.6 — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
+  - scope:
       path: "providers/gemini.md"
     values:
       description: "Gemini API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
@@ -197,9 +209,13 @@ defaults:
     values:
       description: "OpenAI API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
   - scope:
-      path: "providers/gpt-5-6.md"
+      path: "providers/fable-5.md"
     values:
-      description: "Every figure in these AI coding field notes whose sentence names GPT-5.6 — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
+      description: "Every figure in these AI coding field notes whose sentence names Fable 5 — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
+  - scope:
+      path: "providers/kimi.md"
+    values:
+      description: "Kimi API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
   - scope:
       path: "providers/workbuddy.md"
     values:
@@ -213,17 +229,9 @@ defaults:
     values:
       description: "Every figure in these AI coding field notes whose sentence names Klarna — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
   - scope:
-      path: "providers/kimi.md"
-    values:
-      description: "Kimi API pricing per million tokens — list price, cache-read price, and what the two come to at the token mix a coding agent actually sends, next to the other vendors on the same arithmetic."
-  - scope:
       path: "providers/codex.md"
     values:
       description: "Every figure in these AI coding field notes whose sentence names Codex — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
-  - scope:
-      path: "providers/fable-5.md"
-    values:
-      description: "Every figure in these AI coding field notes whose sentence names Fable 5 — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
   - scope:
       path: "providers/chatgpt.md"
     values:
@@ -262,6 +270,30 @@ defaults:
       image: "https://spectracodeai.com/assets/cards/a/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.png"
       description: "Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly."
       date: "2026-08-07T08:15:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md"
+    values:
+      image: "https://spectracodeai.com/assets/cards/a/the-10x-cheaper-trap-how-to-read-ai-coding-costs.png"
+      description: "The \"10x cheaper\" claim in AI model benchmarks is rarely a measure of your actual bill; it is often a product of the specific \"harness\" used to measure it <!-- [doc_7b7a9d39c7edd7e338e85692ea3084a2…"
+      date: "2026-11-07T15:43:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md"
+    values:
+      image: "https://spectracodeai.com/assets/cards/a/this-open-source-code-review-tool-beats-claude-with-1-9-the.png"
+      description: "On July 24, 2026, Alibaba open-sourced Open Code Review, a hybrid code review tool that outperformed Claude Code in a benchmark across 200 real pull requests pulled from 50 active open-source repos…"
+      date: "2026-11-02T07:31:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/how-a-one-feature-tool-hit-16k-mrr-by-automating-pinterest.md"
+    values:
+      image: "https://spectracodeai.com/assets/cards/a/how-a-one-feature-tool-hit-16k-mrr-by-automating-pinterest.png"
+      description: "How a one-feature tool achieved $16K MRR by automating Pinterest posts with SEO-driven growth and a focused workflow."
+      date: "2026-10-11T09:22:00Z"
       seo:
         type: BlogPosting
   - scope:

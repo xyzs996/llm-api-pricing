@@ -118,12 +118,12 @@ Better to ship the arithmetic than the conclusion. Three prices per host, three 
 **Read next**
 
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
+- [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](this-open-source-code-review-tool-beats-claude-with-1-9-the.md)
 - [Never Use a Model Where Code Can Decide](never-use-a-model-where-code-can-decide.md)
-- [The $22K-a-Month AI Tool That Never Bought a Single Ad](the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
-The 64 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 565 more, as JSON and CSV.
+The 64 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 645 more, as JSON and CSV.
 
 
 ---

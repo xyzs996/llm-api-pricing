@@ -1,21 +1,25 @@
 # Development Tools
 
-7 of the 64 write-ups here are tagged Development Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 67 write-ups here are tagged Development Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1 <!-- [doc_41a4c25e26655d9dc1ddafedda28748b] -->. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+- **$3** — One Reddit user estimated that three agents handling email, calendar and research would cost about $3–$5 a month on DeepSeek V4 Flash, against roughly $200–$260 on Claude Opus 4.7, with only a small quality gap <!-- [doc_a7947740a61f182190750b03d21aac3c] -->. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - **$0.028** — With DeepSeek V4 Flash priced at just $0.028 per million tokens, developers can assign lightweight tasks like boilerplate generation or syntax checking to this model, reserving higher-cost models for nuanced logic or debugging. [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - **$0.028** — One developer swapped their default backend for DeepSeek V4 Flash and saw API costs drop to just $0.028 per million tokens. [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - **20%** — OpenAI is positioning ChatGPT Work as a productivity platform for business teams, and the share of its users who don't code is projected to grow from 20% to 60% within 12 months. [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 - **$1.43** — The price spread is wide even among the Western flagships, which becomes obvious on ReactBench, where one run with GPT 5.6 Sol costs about $1.43 while one run with Fable 5 costs $9.05, which means that a single Fable 5 run comes to a bit more than six times as much as the GPT 5.6 Sol run does. [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 - **30%** — Those who have already made the switch to Chinese tools have seen productivity increases of up to 30%. [→](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
 - **20%** — Developers should build buffer time into their workflows when using Chinese AI coding tools, which is illustrated by the fact that one developer added 20% extra time to their coding sessions when using these tools because of the higher frequency of stability issues. [→](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
-- **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
-- **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All figures, 629 rows](../figures.md)
+[All figures, 709 rows](../figures.md)
 
 ## The write-ups
+
+### [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+
+The "10x cheaper" claim in AI model benchmarks is rarely a measure of your actual bill; it is often a product of the specific "harness" used to measure it <!-- [doc_7b7a9d39c7edd7e338e85692ea3084a2…
 
 ### [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 
@@ -61,7 +65,7 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 ---
 
-[All 64 write-ups](../README.md)
+[All 67 write-ups](../README.md)
 
 ---
 

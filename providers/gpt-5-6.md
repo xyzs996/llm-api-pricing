@@ -1,6 +1,6 @@
 # GPT-5.6 costs and claims: every figure from a sentence that names it
 
-13 of the 629 figures in these field notes come from a sentence that names GPT-5.6. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+17 of the 709 figures in these field notes come from a sentence that names GPT-5.6. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about GPT-5.6 and some only measure against it — a competitor's price quoted next to GPT-5.6's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -8,6 +8,10 @@ Some of these are about GPT-5.6 and some only measure against it — a competito
 
 ## The figures
 
+- **33.2%** — “In the AutomationBench cross-application workflow test, GPT-6 Sol at xhigh reasoning outperformed Claude Opus 5 at max, scoring 33.2% vs. 26.9%, while costing only 9% of what Opus 5 cost per task <!-- [doc_29aa6aa8e5dda0a6ee28545e245052a3] -->.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+- **$2 per million input tokens** — “GPT-6.1 Sol charges $2 per million input tokens, $0.10 for cached input and $10 for output.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+- **$10,** — “GPT-6 Astra charges $10, $1 and $50, five times Sol's input and output rates and ten times its cached-input rate <!-- [doc_b267a847758ffcf7d7d37525673e3bda] -->.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+- **$0.761** — “For example, on LiveBench 2.0, GPT-6.1 Sol costs $0.761 per successful task, roughly nine times cheaper than Claude Fable 5.1's $6.904, while trailing it by only 1.6 points <!-- [doc_3e5fc44d8368b305e0bdb046c6eeaa03] -->.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - **$1.43** — “The price spread is wide even among the Western flagships, which becomes obvious on ReactBench, where one run with GPT 5.6 Sol costs about $1.43 while one run with Fable 5 costs $9.05, which means that a single Fable 5 run comes to a bit more than six times as much as the GPT 5.6 Sol run does.” (2026-09-25) [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 - **54%** — “Through its internal multi-agent system, Sol achieves 54% higher token efficiency on agentic coding tasks compared to peer models, showing how strategic design choices can transform from a development challenge into a cost-saving advantage.” (2026-09-17) [→](../articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md)
 - **$1.43** — “One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task.” (2026-09-15) [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
@@ -22,14 +26,15 @@ Some of these are about GPT-5.6 and some only measure against it — a competito
 - **$1.43 per run** — “For instance, GPT-5.6 Sol, while more expensive at $1.43 per run, shows superior performance with a 43.1% accuracy rate in the same ReactBench tests, which shows that cheaper models may save money upfront but can lead to longer development cycles due to frequent errors and rework.” (2026-08-12) [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - **$1.43** — “On ReactBench, one run of GPT-5.6 Sol costs about $1.43 while Fable 5 costs $9.05 for the same work — a gap that no per-token price list would have predicted, because the expensive model is not six times more expensive per token, it is six times less efficient at finishing the job.” (2026-08-10) [→](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 
-[All 629 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 709 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
-## Where these 13 came from
+## Where these 17 came from
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Model-for-Coding-Cost-vs-Efficiency-08-19)
 - [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/72) · [telegra.ph](https://telegra.ph/Claude-Code-Can-Model-a-Flange-but-Not-a-Freeform-Surface-A-Six-Step-Handoff-Checklist-for-Non-Code-Agent-Output-09-15)
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
+- [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](../articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/74) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-Over-Prompting-in-AI-Coding-Lessons-from-Claude-Codes-Optimization-09-17)
 - [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/36) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Code-Review-Tool-A-Developers-Guide-08-21)
@@ -38,7 +43,7 @@ Some of these are about GPT-5.6 and some only measure against it — a competito
 
 **A GPT-5.6 figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=GPT-5.6). The form already knows it is about GPT-5.6.
 
-**Or is one of the 13 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=GPT-5.6&title=%5Bcorrection%5D+GPT-5.6) — the form already knows it is about GPT-5.6; you only have to say what the number is now.
+**Or is one of the 17 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=GPT-5.6&title=%5Bcorrection%5D+GPT-5.6) — the form already knows it is about GPT-5.6; you only have to say what the number is now.
 
 ---
 

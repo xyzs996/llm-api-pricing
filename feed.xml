@@ -4,8 +4,32 @@
   <id>https://spectracodeai.com/</id>
   <link href="https://spectracodeai.com/"/>
   <link rel="self" href="https://spectracodeai.com/feed.xml"/>
-  <updated>2026-10-02T09:55:00Z</updated>
+  <updated>2026-11-07T15:43:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>The "10x Cheaper" Trap: How to Read AI Coding Costs</title>
+    <link href="https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html"/>
+    <id>https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html</id>
+    <updated>2026-11-07T15:43:00Z</updated>
+    <published>2026-11-07T15:43:00Z</published>
+    <summary>The "10x cheaper" claim in AI model benchmarks is rarely a measure of your actual bill; it is often a product of the specific "harness" used to measure it &lt;!-- [doc_7b7a9d39c7edd7e338e85692ea3084a2…</summary>
+  </entry>
+  <entry>
+    <title>This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens</title>
+    <link href="https://spectracodeai.com/articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.html"/>
+    <id>https://spectracodeai.com/articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.html</id>
+    <updated>2026-11-02T07:31:00Z</updated>
+    <published>2026-11-02T07:31:00Z</published>
+    <summary>On July 24, 2026, Alibaba open-sourced Open Code Review, a hybrid code review tool that outperformed Claude Code in a benchmark across 200 real pull requests pulled from 50 active open-source repos…</summary>
+  </entry>
+  <entry>
+    <title>How a One-Feature Tool Hit $16K MRR by Automating Pinterest Posts</title>
+    <link href="https://spectracodeai.com/articles/how-a-one-feature-tool-hit-16k-mrr-by-automating-pinterest.html"/>
+    <id>https://spectracodeai.com/articles/how-a-one-feature-tool-hit-16k-mrr-by-automating-pinterest.html</id>
+    <updated>2026-10-11T09:22:00Z</updated>
+    <published>2026-10-11T09:22:00Z</published>
+    <summary>Four hundred paying subscribers.</summary>
+  </entry>
   <entry>
     <title>How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs</title>
     <link href="https://spectracodeai.com/articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.html"/>

@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://spectracodeai.com/</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/figures.html</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/llms.txt</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/figures.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/llms.txt</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/prices.html</loc><lastmod>2026-11-07</lastmod></url>
+  <url><loc>https://spectracodeai.com/prices-weekly.html</loc></url>
   <url><loc>https://spectracodeai.com/deepseek-peak-hours.html</loc><lastmod>2026-08-23</lastmod></url>
-  <url><loc>https://spectracodeai.com/README_CN.html</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/README_ES.html</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/README_JA.html</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/README_KO.html</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/README_VI.html</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/README_FR.html</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/README_DE.html</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/README_RU.html</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/README_ID.html</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/README_CN.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/README_ES.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/README_JA.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/README_KO.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/README_VI.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/README_FR.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/README_DE.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/README_RU.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/README_ID.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/indie-development.html</loc><lastmod>2026-09-25T07:52:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/automation-systems.html</loc><lastmod>2026-09-21T08:27:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/saas-business.html</loc><lastmod>2026-09-21T09:31:00Z</lastmod></url>
@@ -22,40 +23,45 @@
   <url><loc>https://spectracodeai.com/topics/ai-implementation.html</loc><lastmod>2026-09-05T12:13:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/artificial-intelligence.html</loc><lastmod>2026-09-25T07:52:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/ai-features.html</loc><lastmod>2026-09-16T09:51:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/topics/development-tools.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/ai-costs.html</loc><lastmod>2026-08-18T07:28:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/topics/development-tools.html</loc><lastmod>2026-09-30T07:55:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/topics/code-review.html</loc><lastmod>2026-11-02T07:31:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/ai.html</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/ai-programming.html</loc><lastmod>2026-10-01T07:45:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/topics/code-review.html</loc><lastmod>2026-10-01T07:45:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/topics/chinese-ai.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/cost-savings.html</loc><lastmod>2026-09-14T11:33:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/ai-automation.html</loc><lastmod>2026-09-24T08:33:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/topics/chinese-ai.html</loc><lastmod>2026-08-23T08:18:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/revenue-growth.html</loc><lastmod>2026-09-16T09:51:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/ai-tools.html</loc><lastmod>2026-09-17T08:05:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/automation.html</loc><lastmod>2026-08-24T10:21:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/developer-productivity.html</loc><lastmod>2026-10-01T07:45:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/topics/software-development.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/ai-agents.html</loc><lastmod>2026-09-25T12:51:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/enterprise-automation.html</loc><lastmod>2026-08-10T11:29:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/topics/indie-developer.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/micro-saas.html</loc><lastmod>2026-08-18T09:56:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/programming.html</loc><lastmod>2026-09-25T07:52:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/topics/software-development.html</loc><lastmod>2026-09-25T12:51:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/topics/seo.html</loc><lastmod>2026-10-11T09:22:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/topics/token-optimization.html</loc><lastmod>2026-08-19T08:19:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/providers/claude.html</loc><lastmod>2026-11-07</lastmod></url>
-  <url><loc>https://spectracodeai.com/providers/deepseek.html</loc><lastmod>2026-09-30T07:55:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/providers/deepseek.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/providers/glm.html</loc><lastmod>2026-11-07</lastmod></url>
+  <url><loc>https://spectracodeai.com/providers/gpt-5-6.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/providers/gemini.html</loc><lastmod>2026-11-07</lastmod></url>
   <url><loc>https://spectracodeai.com/providers/openai.html</loc><lastmod>2026-11-07</lastmod></url>
-  <url><loc>https://spectracodeai.com/providers/gpt-5-6.html</loc><lastmod>2026-09-25T07:52:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/providers/fable-5.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/providers/kimi.html</loc><lastmod>2026-11-07</lastmod></url>
   <url><loc>https://spectracodeai.com/providers/workbuddy.html</loc><lastmod>2026-08-23T21:31:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/providers/browseract.html</loc><lastmod>2026-08-23T21:31:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/providers/klarna.html</loc><lastmod>2026-08-16T12:13:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/providers/kimi.html</loc><lastmod>2026-11-07</lastmod></url>
-  <url><loc>https://spectracodeai.com/providers/codex.html</loc><lastmod>2026-09-30T07:55:00Z</lastmod></url>
-  <url><loc>https://spectracodeai.com/providers/fable-5.html</loc><lastmod>2026-09-25T07:52:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/providers/codex.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/providers/chatgpt.html</loc><lastmod>2026-09-25T07:52:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/providers/gpt-5.html</loc><lastmod>2026-09-15T07:40:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/articles/the-cost-effective-guide-to-using-open-code-review-for-ai.html</loc><lastmod>2026-08-10T11:57:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html</loc><lastmod>2026-08-07T08:15:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html</loc><lastmod>2026-11-07T15:43:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.html</loc><lastmod>2026-11-02T07:31:00Z</lastmod></url>
+  <url><loc>https://spectracodeai.com/articles/how-a-one-feature-tool-hit-16k-mrr-by-automating-pinterest.html</loc><lastmod>2026-10-11T09:22:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.html</loc><lastmod>2026-10-02T09:55:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.html</loc><lastmod>2026-10-01T07:45:00Z</lastmod></url>
   <url><loc>https://spectracodeai.com/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html</loc><lastmod>2026-09-30T07:55:00Z</lastmod></url>
