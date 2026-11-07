@@ -1,12 +1,12 @@
 # Gemini API pricing: what 14 models cost a coding agent
 
-Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-06**.
+Every Gemini model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-07**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Gemini discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Gemini charges per million tokens
 
-14 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-06**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+14 Gemini models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-07**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Gemini does not have one cache-read rate — it has 2.** Across 12 rows the discount runs from 5.0% to 10.0% of that row's own input price (5%, 10%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Gemini's list input price overstates what an agent pays by a median **6.6×** (range 6.5×–9.7×).
 
@@ -52,7 +52,7 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Grok | 8 | 15–25% | 4.2× | $0.2494 |
 | Qwen | 1 | 20% | 4.2× | $0.355 |
 | GLM | 8 | 18.3–98.6% | 4.1× | $0.0247 |
-| MiniMax | 1 | 20% | 4.1× | $0.0731 |
+| MiniMax | 2 | 20% | 4.1× | $0.0731 |
 | upstage | 1 | 20% | 4.1× | $0.0365 |
 | Kimi | 6 | 10–94.8% | 3.4× | $0.1711 |
 
