@@ -44,6 +44,9 @@ If you are considering local deployment, the barrier to entry is high. Running a
 
 Alternatively, platforms like MonkeyCode offer a massive free token tier, shifting the value proposition from raw API costs to data privacy and integration compliance. When the "buy" option includes infrastructure, compliance, and free access, the argument for building your own infrastructure often evaporates.
 
+*Also readable on [Telegraph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07).*
+
+
 ---
 
 **Read next**

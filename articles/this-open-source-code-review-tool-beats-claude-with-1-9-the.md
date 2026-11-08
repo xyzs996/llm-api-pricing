@@ -54,6 +54,9 @@ The real bottleneck in AI coding isn’t generation—it’s validation. AI spit
 
 This isn’t about picking a “better model.” It’s about designing a better system. And for teams counting every token, that difference is everything.
 
+*Also readable on [Telegraph](https://telegra.ph/This-Open-Source-Code-Review-Tool-Beats-Claude--With-19-the-Tokens-11-07).*
+
+
 ---
 
 **Read next**

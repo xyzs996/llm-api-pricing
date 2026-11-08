@@ -97,6 +97,9 @@ And if you’re okay with a tool that does one thing well—then yes.
 The barrier isn’t technical. It’s strategic.
 It’s having the discipline to say no.
 
+*Also readable on [Telegraph](https://telegra.ph/How-a-One-Feature-Tool-Hit-16K-MRR-by-Automating-Pinterest-Posts-11-07).*
+
+
 ---
 
 **Read next**
