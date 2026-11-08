@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/84) — that copy has a reply box under it, and this one does not.*
+
 Four hundred paying subscribers. $16,000 in monthly recurring revenue. All from a tool that does exactly one thing: turn blog URLs into Pinterest-ready vertical images. No AI writing. No cross-platform posting. No fancy analytics. Just pins—automated, scheduled, and published.
 
 The product is BlogToPin, built by Ukrainian indie developer Nic Polotnianko. It solves six repetitive steps content creators face every time they repurpose a blog post for Pinterest: fetch metadata, generate layout, resize to 2:3, add text overlay, schedule, publish. Do that manually once or twice? Fine. Do it 20 times a month? That’s where the pain lives.
@@ -123,6 +125,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** reply with your rough number of blog posts you might consider using BlogToPin to create Pinterest pins for monthly? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/84).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fhow-a-one-feature-tool-hit-16k-mrr-by-automating-pinterest.md). One required field, and the page you came from is already filled

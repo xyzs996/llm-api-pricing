@@ -19,7 +19,7 @@
 
 Four hundred paying subscribers.
 
-[telegra.ph](https://telegra.ph/How-a-One-Feature-Tool-Hit-16K-MRR-by-Automating-Pinterest-Posts-11-07)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/84) · [telegra.ph](https://telegra.ph/How-a-One-Feature-Tool-Hit-16K-MRR-by-Automating-Pinterest-Posts-11-07)
 
 ### [Building High-Income Single-Page Tool Sites via SEO](../articles/building-high-income-single-page-tool-sites-via-seo.md)
 

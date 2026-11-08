@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/86) — that copy has a reply box under it, and this one does not.*
+
 On July 24, 2026, Alibaba open-sourced Open Code Review, a hybrid code review tool that outperformed Claude Code in a benchmark across 200 real pull requests pulled from 50 active open-source repositories. It scored higher on accuracy and F1, and used only about one-ninth the tokens. The test covered 10 programming languages and measured token consumption end-to-end in agent workflows—not synthetic prompts or cherry-picked snippets. This wasn’t a lab experiment. It ran in conditions that mirror how teams actually use AI: full context, real diffs, and integrated review logic. And it suggests a path forward for small teams drowning in API bills and bloated LLM usage.
 
 ## What Happened in Chinese Dev Circles
@@ -80,6 +82,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** How many PRs would you estimate *you* review monthly that you think could use Open Code Review’s token-cutting triage, reply with just one number in this discussion thread? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/86).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthis-open-source-code-review-tool-beats-claude-with-1-9-the.md). One required field, and the page you came from is already filled

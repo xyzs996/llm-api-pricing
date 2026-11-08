@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/85) — that copy has a reply box under it, and this one does not.*
+
 The "10x cheaper" claim in AI model benchmarks is rarely a measure of your actual bill; it is often a product of the specific "harness" used to measure it <!-- [doc_7b7a9d39c7edd7e338e85692ea3084a2] -->. If you are choosing a model based on the headline price per million tokens, you are likely missing the most expensive variable in your development loop: how much extra "reasoning" the model burns before it ever writes a single line of code.
 
 ### The Math of Misleading Benchmarks
@@ -70,6 +72,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** reply with your rough personal single number estimate here of how much extra you think you might overpay an AI coding model provider if skipping peak/off-peak pricing checks. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/85).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-10x-cheaper-trap-how-to-read-ai-coding-costs.md). One required field, and the page you came from is already filled

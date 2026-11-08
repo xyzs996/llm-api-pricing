@@ -175,19 +175,19 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 The "10x cheaper" claim in AI model benchmarks is rarely a measure of your actual bill; it is often a product of the specific "harness" used to measure it <!-- [doc_7b7a9d39c7edd7e338e85692ea3084a2…
 
-`Software Development` `Indie Developer` `Development Tools` `Chinese AI` · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
+`Software Development` `Indie Developer` `Development Tools` `Chinese AI` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
 
 ### [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md)
 
 On July 24, 2026, Alibaba open-sourced Open Code Review, a hybrid code review tool that outperformed Claude Code in a benchmark across 200 real pull requests pulled from 50 active open-source repos…
 
-`Code Review` `Developer Tools` `Generative AI` `LLM` · [telegra.ph](https://telegra.ph/This-Open-Source-Code-Review-Tool-Beats-Claude--With-19-the-Tokens-11-07)
+`Code Review` `Developer Tools` `Generative AI` `LLM` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/86) · [telegra.ph](https://telegra.ph/This-Open-Source-Code-Review-Tool-Beats-Claude--With-19-the-Tokens-11-07)
 
 ### [How a One-Feature Tool Hit $16K MRR by Automating Pinterest Posts](articles/how-a-one-feature-tool-hit-16k-mrr-by-automating-pinterest.md)
 
 Four hundred paying subscribers.
 
-`Creator Economy` `Productivity Tools` `Content Creation` `SEO` · [telegra.ph](https://telegra.ph/How-a-One-Feature-Tool-Hit-16K-MRR-by-Automating-Pinterest-Posts-11-07)
+`Creator Economy` `Productivity Tools` `Content Creation` `SEO` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/84) · [telegra.ph](https://telegra.ph/How-a-One-Feature-Tool-Hit-16K-MRR-by-Automating-Pinterest-Posts-11-07)
 
 ### [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md)
 

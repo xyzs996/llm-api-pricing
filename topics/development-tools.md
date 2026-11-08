@@ -21,7 +21,7 @@
 
 The "10x cheaper" claim in AI model benchmarks is rarely a measure of your actual bill; it is often a product of the specific "harness" used to measure it <!-- [doc_7b7a9d39c7edd7e338e85692ea3084a2…
 
-[telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
 
 ### [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 

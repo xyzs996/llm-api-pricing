@@ -26,7 +26,7 @@ Some of these are about Codex and some only measure against it — a competitor'
 - [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/81) · [telegra.ph](https://telegra.ph/Bypass-Codex-Rate-Limits-The-Local-Proxy-Path-to-70-Cost-Savings-09-30)
 - [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](../articles/how-chinese-developers-are-using-codex-record-replay-to.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/25) · [telegra.ph](https://telegra.ph/How-Chinese-Developers-Are-Using-Codex-Record--Replay-to-Streamline-Repetitive-Workflows-08-19)
 - [How to Turn the Workflows You Won't Document Into Agent Skills](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/71) · [telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)
-- [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
+- [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
 
 **Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.
 
