@@ -8,13 +8,13 @@ Ein offener Datensatz. Jede Zahl aus 67 Praxisnotizen — Preise, Prozentsätze,
 
 ## Was Agent-Modelle heute kosten
 
-83 Modelle, die in einer *agents*-Kategorie der Design Arena platziert sind, mit ihrem **Listenpreis** pro Million Token — nicht Ihre Rechnung: Cache, Batch und jeder Anbieter rechnen anders ab. Aus dem öffentlichen Katalog von OpenRouter, zuletzt gelesen am 2026-11-08. Die drei günstigsten:
+83 Modelle, die in einer *agents*-Kategorie der Design Arena platziert sind, mit ihrem **Listenpreis** pro Million Token — nicht Ihre Rechnung: Cache, Batch und jeder Anbieter rechnen anders ab. Aus dem öffentlichen Katalog von OpenRouter, zuletzt gelesen am 2026-11-09. Die drei günstigsten:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.006 | $0.50 | DeepSeek V4.1 Flash 1017 | #5 spreadsheet |
-| $0.006 | $6.80 | GLM 5.2 | #7 pdf |
-| $0.011 | $0.20 | DeepSeek V4.1 Flash 1017 `batch` | #5 spreadsheet |
+| $0.006 | $0.50 | DeepSeek V4.1 Flash 1017 | #4 spreadsheet |
+| $0.006 | $6.80 | GLM 5.2 | #6 pdf |
+| $0.011 | $0.20 | DeepSeek V4.1 Flash 1017 `batch` | #4 spreadsheet |
 
 [Alle 83 Modelle](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 

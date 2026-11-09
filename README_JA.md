@@ -8,13 +8,13 @@
 
 ## エージェント向けモデルの今日の値段
 
-Design Arena の *agents* 部門で順位のついた 83 モデルの、100 万トークンあたりの**定価**です。請求額ではありません — キャッシュ、バッチ、提供元ごとに価格は違います。OpenRouter の公開カタログより、最終取得日 2026-11-08。安い順に 3 つ:
+Design Arena の *agents* 部門で順位のついた 83 モデルの、100 万トークンあたりの**定価**です。請求額ではありません — キャッシュ、バッチ、提供元ごとに価格は違います。OpenRouter の公開カタログより、最終取得日 2026-11-09。安い順に 3 つ:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.006 | $0.50 | DeepSeek V4.1 Flash 1017 | #5 spreadsheet |
-| $0.006 | $6.80 | GLM 5.2 | #7 pdf |
-| $0.011 | $0.20 | DeepSeek V4.1 Flash 1017 `batch` | #5 spreadsheet |
+| $0.006 | $0.50 | DeepSeek V4.1 Flash 1017 | #4 spreadsheet |
+| $0.006 | $6.80 | GLM 5.2 | #6 pdf |
+| $0.011 | $0.20 | DeepSeek V4.1 Flash 1017 `batch` | #4 spreadsheet |
 
 [83 モデル全部](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 

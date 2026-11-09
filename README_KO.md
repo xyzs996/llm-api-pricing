@@ -8,13 +8,13 @@
 
 ## 에이전트 모델의 오늘 가격
 
-Design Arena의 *agents* 부문에 순위가 있는 83개 모델의 100만 토큰당 **정가**입니다. 청구서가 아닙니다 — 캐시, 배치, 제공자마다 가격이 다릅니다. OpenRouter의 공개 카탈로그에서 2026-11-08에 마지막으로 읽었습니다. 가장 싼 3개:
+Design Arena의 *agents* 부문에 순위가 있는 83개 모델의 100만 토큰당 **정가**입니다. 청구서가 아닙니다 — 캐시, 배치, 제공자마다 가격이 다릅니다. OpenRouter의 공개 카탈로그에서 2026-11-09에 마지막으로 읽었습니다. 가장 싼 3개:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.006 | $0.50 | DeepSeek V4.1 Flash 1017 | #5 spreadsheet |
-| $0.006 | $6.80 | GLM 5.2 | #7 pdf |
-| $0.011 | $0.20 | DeepSeek V4.1 Flash 1017 `batch` | #5 spreadsheet |
+| $0.006 | $0.50 | DeepSeek V4.1 Flash 1017 | #4 spreadsheet |
+| $0.006 | $6.80 | GLM 5.2 | #6 pdf |
+| $0.011 | $0.20 | DeepSeek V4.1 Flash 1017 `batch` | #4 spreadsheet |
 
 [83개 전체](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
