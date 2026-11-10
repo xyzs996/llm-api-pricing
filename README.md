@@ -7,13 +7,13 @@
 > 83 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-67 write-ups on what those bills looked like in production.
+68 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (83 models)
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (0.2×–18.4×). Read **2026-11-09**; the three cheapest *to run*:
+median **6.5×** (0.3×–18.4×). Read **2026-11-10**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
@@ -67,9 +67,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (709 rows)
+## The figures, as data (731 rows)
 
-Every figure published across the 67 write-ups —
+Every figure published across the 68 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -79,6 +79,7 @@ recent write-ups — quoted verbatim, not summarised:
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
+| `$30` | It started as $30 a month, was raised to $60 in "Phase 2", and was kept long-term. <!-- [doc_aca61ff73451846f75e14d9e94317695] --> But dollars of quota are not tokens. | [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md) |
 | `$3` | Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1 <!-- [doc_41a4c25e26655d9dc1ddafedda28748b] -->. | [The "10x Cheaper" Trap: How to Read AI Coding Costs](articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) |
 | `$15` | Kimi K3 charges $15 per million output tokens, DeepSeek V4 at $0.87, and GLM-5.2 at $4.40—far below Anthropic Fable 5’s $50. | [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md) |
 | `$1,000` | But this only works because there’s still demand for Pinterest as a traffic source—especially in niches like home decor, DIY, and personal finance—where one content site, Home Office Setup Guide, earned $1,000 in AdSense in 30 days using only Pinterest and YouTube to drive 5,000 visits, which shows that even with limited channels, targeted traffic from platforms like Pinterest can be monetized effectively when aligned with high-engagement niches that attract consistent user interest and advertiser support. | [How a One-Feature Tool Hit $16K MRR by Automating Pinterest Posts](articles/how-a-one-feature-tool-hit-16k-mrr-by-automating-pinterest.md) |
@@ -90,9 +91,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `20%` | I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year. | [Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)](articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.md) |
 | `$170,000` | In contrast to one-off projects, micro-automation tools excel at addressing single, high-frequency pain points A former Alibaba P8, after facing three months of unsuccessful job applications, pivoted to building AI software that has five core features—including scheduled automation and skill packages—to generate $170,000 in monthly revenue The data from these 27 successful cases reveals that the most effective tools prioritize "scheduled automation," which can reduce manual task time from several hours each day to zero minutes. | [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md) |
 | `80%` | The machine runs for about 11 minutes, and human review takes 10–20 minutes, leading to a total time reduction of ~80%–90%. | [I built a WeChat Official Account writing Agent that cuts work time by 80% — here’s the workflow filter and tool combo I used](articles/i-built-a-wechat-official-account-writing-agent-that-cuts.md) |
-| `54%` | Through its internal multi-agent system, Sol achieves 54% higher token efficiency on agentic coding tasks compared to peer models, showing how strategic design choices can transform from a development challenge into a cost-saving advantage. | [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md) |
 
-[All 709 rows](figures.md) — or as data:
+[All 731 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -153,9 +153,9 @@ write-ups land there first.
 **Reading this with a model?** [llms.txt](https://spectracodeai.com/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
-**By provider.** [Claude](providers/claude.md) (57) · [DeepSeek](providers/deepseek.md) (24) · [GLM](providers/glm.md) (20) · [GPT-5.6](providers/gpt-5-6.md) (17) · [Gemini](providers/gemini.md) (15) · [OpenAI](providers/openai.md) (15) · [Fable 5](providers/fable-5.md) (14) · [Kimi](providers/kimi.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [Codex](providers/codex.md) (9) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) — prices where there are prices, and every figure whose sentence names it, with the date.
+**By provider.** [Claude](providers/claude.md) (58) · [DeepSeek](providers/deepseek.md) (27) · [GLM](providers/glm.md) (21) · [GPT-5.6](providers/gpt-5-6.md) (17) · [Gemini](providers/gemini.md) (15) · [OpenAI](providers/openai.md) (15) · [Fable 5](providers/fable-5.md) (14) · [Kimi](providers/kimi.md) (13) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [Codex](providers/codex.md) (9) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) — prices where there are prices, and every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (17) · [Automation Systems](topics/automation-systems.md) (16) · [SaaS Business](topics/saas-business.md) (12) · [Niche Market](topics/niche-market.md) (11) · [Productivity](topics/productivity.md) (11) · [AI Implementation](topics/ai-implementation.md) (9) · [Artificial Intelligence](topics/artificial-intelligence.md) (9) · [AI Features](topics/ai-features.md) (8) · [Development Tools](topics/development-tools.md) (8) · [AI Costs](topics/ai-costs.md) (7) · [Code Review](topics/code-review.md) (7) · [AI](topics/ai.md) (6) · [AI Programming](topics/ai-programming.md) (6) · [Chinese AI](topics/chinese-ai.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Automation](topics/ai-automation.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [AI Tools](topics/ai-tools.md) (4) · [Automation](topics/automation.md) (4) · [Developer Productivity](topics/developer-productivity.md) (4) · [Software Development](topics/software-development.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Indie Developer](topics/indie-developer.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [SEO](topics/seo.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (17) · [Automation Systems](topics/automation-systems.md) (16) · [SaaS Business](topics/saas-business.md) (12) · [Niche Market](topics/niche-market.md) (11) · [Productivity](topics/productivity.md) (11) · [AI Implementation](topics/ai-implementation.md) (9) · [Artificial Intelligence](topics/artificial-intelligence.md) (9) · [Development Tools](topics/development-tools.md) (9) · [AI Features](topics/ai-features.md) (8) · [AI](topics/ai.md) (7) · [AI Costs](topics/ai-costs.md) (7) · [Chinese AI](topics/chinese-ai.md) (7) · [Code Review](topics/code-review.md) (7) · [AI Programming](topics/ai-programming.md) (6) · [Cost Savings](topics/cost-savings.md) (6) · [AI Automation](topics/ai-automation.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [AI Tools](topics/ai-tools.md) (4) · [Automation](topics/automation.md) (4) · [Developer Productivity](topics/developer-productivity.md) (4) · [Indie Developer](topics/indie-developer.md) (4) · [Software Development](topics/software-development.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [SEO](topics/seo.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -170,6 +170,12 @@ Open Code Review is an open-source review tool built for AI-assisted development
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
 `Token Optimization` `Cost Savings` `Chinese AI` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
+
+### [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
+
+This checklist is for developers who run DeepSeek V4.1 Flash inside a coding agent, direct or through OpenCode Go, and want a monthly bill they can defend.
+
+`AI` `Indie Developer` `Development Tools` `Chinese AI` · [telegra.ph](https://telegra.ph/What-DeepSeek-V41-Flash-Really-Costs-Per-Month-A-Five-Step-Checklist-11-10)
 
 ### [The "10x Cheaper" Trap: How to Read AI Coding Costs](articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 

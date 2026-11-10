@@ -110,9 +110,9 @@ It’s having the discipline to say no.
 - [The $22K-a-Month AI Tool That Never Bought a Single Ad](the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
-[All 67 write-ups](../README.md)
+[All 68 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 691 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 713 more, as JSON and CSV.
 
 Topics: [SEO](../topics/seo.md)
 

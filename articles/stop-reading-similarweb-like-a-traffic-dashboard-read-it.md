@@ -97,9 +97,9 @@ Either way you spent an afternoon instead of a quarter, and you have data instea
 - [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 - [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](how-indie-developers-are-building-ai-powered-digital.md)
 
-[All 67 write-ups](../README.md)
+[All 68 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 704 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 726 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Niche Market](../topics/niche-market.md) · [AI Tools](../topics/ai-tools.md)
 

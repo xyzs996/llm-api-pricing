@@ -1,6 +1,6 @@
 # SEO
 
-3 of the 67 write-ups here are tagged SEO. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 68 write-ups here are tagged SEO. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -11,7 +11,7 @@
 - **$22,000** — The organic channel that produced $22,000 a month is running at roughly half the traffic a million-dollar year would need, and it took three months to get there. [→](../articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 - **$1.2 million** — StoryShort was listed at $1.2 million, about 4.4 times annual revenue, at a point when its most recent thirty days were running 11% below the thirty before them. [→](../articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 
-[All figures, 709 rows](../figures.md)
+[All figures, 731 rows](../figures.md)
 
 ## The write-ups
 
@@ -35,7 +35,7 @@ StoryShort hit $22,000 a month in its first three months.
 
 ---
 
-[All 67 write-ups](../README.md)
+[All 68 write-ups](../README.md)
 
 ---
 

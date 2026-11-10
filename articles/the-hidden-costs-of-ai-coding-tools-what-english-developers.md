@@ -61,13 +61,13 @@ Stability and transparency are likely to improve over time. The recent updates t
 
 **Read next**
 
+- [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
-- [Token Optimization for Indie Developers' AI API Bills](token-optimization-for-indie-developers-ai-api-bills.md)
 
-[All 67 write-ups](../README.md)
+[All 68 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 706 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 728 more, as JSON and CSV.
 
 Topics: [Development Tools](../topics/development-tools.md) · [Chinese AI](../topics/chinese-ai.md)
 

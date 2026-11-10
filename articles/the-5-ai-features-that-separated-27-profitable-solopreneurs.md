@@ -68,12 +68,12 @@ The takeaway from the 27 cases is not that you should use all five. It is that t
 **Read next**
 
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
+- [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
-- [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 
-[All 67 write-ups](../README.md)
+[All 68 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 695 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 717 more, as JSON and CSV.
 
 Topics: [AI Automation](../topics/ai-automation.md) · [Indie Developer](../topics/indie-developer.md) · [Micro SaaS](../topics/micro-saas.md)
 

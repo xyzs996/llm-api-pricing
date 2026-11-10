@@ -1,6 +1,6 @@
 # Software Development
 
-4 of the 67 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 68 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$1.43** — The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 - **$1.43** — A single run costs about $1.43 on the first and $9.05 on the second. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
-[All figures, 709 rows](../figures.md)
+[All figures, 731 rows](../figures.md)
 
 ## The write-ups
 
@@ -43,7 +43,7 @@ On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
 
 ---
 
-[All 67 write-ups](../README.md)
+[All 68 write-ups](../README.md)
 
 ---
 

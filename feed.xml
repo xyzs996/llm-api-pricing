@@ -4,8 +4,16 @@
   <id>https://spectracodeai.com/</id>
   <link href="https://spectracodeai.com/"/>
   <link rel="self" href="https://spectracodeai.com/feed.xml"/>
-  <updated>2026-11-07T15:43:00Z</updated>
+  <updated>2026-11-10T07:44:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist</title>
+    <link href="https://spectracodeai.com/articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.html"/>
+    <id>https://spectracodeai.com/articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.html</id>
+    <updated>2026-11-10T07:44:00Z</updated>
+    <published>2026-11-10T07:44:00Z</published>
+    <summary>This checklist is for developers who run DeepSeek V4.1 Flash inside a coding agent, direct or through OpenCode Go, and want a monthly bill they can defend.</summary>
+  </entry>
   <entry>
     <title>The "10x Cheaper" Trap: How to Read AI Coding Costs</title>
     <link href="https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html"/>
