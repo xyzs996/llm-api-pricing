@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/87) — that copy has a reply box under it, and this one does not.*
+
 This checklist is for developers who run DeepSeek V4.1 Flash inside a coding agent, direct or through OpenCode Go, and want a monthly bill they can defend. If you only use a free allowance, or a flat plan where you never look at tokens, skip it. I'd bet on Flash winning.
 
 It exists because "cheaper" never showed up on bills. A 2026-09-08 report said V4.1 Flash internal-test billing matched deepseek-v4-flash, with peak rates of 0.1, 3 and 9 yuan per million tokens. That test ran two days and auto-expired on 9/10, so any price quoted from it is already stale. <!-- [doc_3f84ec4bbd12a94082dbba3339082afa] --> A 2026-09-18 sheet lists V4.1-Flash at 3 yuan in and 9 yuan out at idle, with weekday peak doubled. <!-- [doc_548375f4087cc017be2bc703f8d16167] --> The same 3 and 9 show up as peak in one source and idle in the other. So every number below carries a date, and every step ends in a formula you fill in yourself: sticker, hour, cache, quota, schedule.
@@ -115,6 +117,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** What percentage of your DeepSeek V4.1 Flash coding agent tokens do you estimate fall in peak pricing windows, reply with one number here? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/87).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fwhat-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md). One required field, and the page you came from is already filled

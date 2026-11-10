@@ -27,7 +27,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 This checklist is for developers who run DeepSeek V4.1 Flash inside a coding agent, direct or through OpenCode Go, and want a monthly bill they can defend.
 
-[telegra.ph](https://telegra.ph/What-DeepSeek-V41-Flash-Really-Costs-Per-Month-A-Five-Step-Checklist-11-10)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/87) · [telegra.ph](https://telegra.ph/What-DeepSeek-V41-Flash-Really-Costs-Per-Month-A-Five-Step-Checklist-11-10)
 
 ### [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 

@@ -21,7 +21,7 @@
 
 This checklist is for developers who run DeepSeek V4.1 Flash inside a coding agent, direct or through OpenCode Go, and want a monthly bill they can defend.
 
-[telegra.ph](https://telegra.ph/What-DeepSeek-V41-Flash-Really-Costs-Per-Month-A-Five-Step-Checklist-11-10)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/87) · [telegra.ph](https://telegra.ph/What-DeepSeek-V41-Flash-Really-Costs-Per-Month-A-Five-Step-Checklist-11-10)
 
 ### [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](../articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md)
 
