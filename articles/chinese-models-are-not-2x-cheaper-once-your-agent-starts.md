@@ -121,9 +121,9 @@ Better to ship the arithmetic than the conclusion. Three prices per host, three 
 - [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](this-open-source-code-review-tool-beats-claude-with-1-9-the.md)
 - [Never Use a Model Where Code Can Decide](never-use-a-model-where-code-can-decide.md)
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
-The 64 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 667 more, as JSON and CSV.
+The 64 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 674 more, as JSON and CSV.
 
 
 ---

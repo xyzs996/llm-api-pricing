@@ -1,6 +1,6 @@
 # AI Costs
 
-7 of the 68 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 69 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$40 million** — Klarna replaced roughly 700 support agents with an AI assistant in early 2024, claimed about $40 million a year, and a bit over a year later the same CEO said they had overshot and started hiring back. [→](../articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 - **5 minutes** — Pairing WorkBuddy with BrowserAct produces a competitive pricing table in about 5 minutes and a product opportunity report in about 7, which is the difference between researching a niche and researching twelve. [→](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
-[All figures, 731 rows](../figures.md)
+[All figures, 738 rows](../figures.md)
 
 ## The write-ups
 
@@ -61,7 +61,7 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 ---
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
 ---
 

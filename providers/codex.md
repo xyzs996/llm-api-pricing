@@ -1,6 +1,6 @@
 # Codex costs and claims: every figure from a sentence that names it
 
-9 of the 731 figures in these field notes come from a sentence that names Codex. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+9 of the 738 figures in these field notes come from a sentence that names Codex. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about Codex and some only measure against it — a competitor's price quoted next to Codex's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -18,7 +18,7 @@ Some of these are about Codex and some only measure against it — a competitor'
 - **5-hour** — “In one case, GPT-6 Astra running a small tool directly in Codex used up a 5-hour quota in 2 minutes 41 seconds.” (2026-09-14) [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **4 hours** — “He used OpenAI Codex's Record & Replay to automate monthly report generation, taking it from 4 hours to a few minutes.” (2026-08-05) [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
-[All 731 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 738 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
 ## Where these 9 came from
 

@@ -1,21 +1,27 @@
 # AI Programming
 
-6 of the 68 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 69 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **90 minutes** — This approach saves 30 to 90 minutes of upfront explanation time before an AI agent starts writing useful code. <!-- [doc_2b1517c75ece783d9315f676a53b1293] --> If you define the boundaries of your SwiftUI app in a spec file first, the agent has a map to follow, and you stop wasting tokens re-explaining what your app does. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
+- **$80** — In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. <!-- [doc_78142061038fcf3b0dc3bc6300aa637e] --> For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI. <!-- [doc_cc86eaf999acb3e8d528d41b7a56f392] --> This kind of speed shift creates entirely new testing ground for product ideas, allowing devs to validate a niche use case in a single weekend instead of burning through months of savings on a half-baked build. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 - **80%** — The Claude Code team itself found that 80% of system prompts degrade performance. [→](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - **$5** — The tool runs on a $5/month VPS using Docker. [→](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - **$0.028** — With DeepSeek V4 Flash priced at just $0.028 per million tokens, developers can assign lightweight tasks like boilerplate generation or syntax checking to this model, reserving higher-cost models for nuanced logic or debugging. [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - **$0.028** — One developer swapped their default backend for DeepSeek V4 Flash and saw API costs drop to just $0.028 per million tokens. [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - **90%** — 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. [→](../articles/best-practices-for-ai-agent-skill-management.md)
 - **90%** — 90% of beginners fixate on tools (e.g., Pi's 4 default tools: read/write/edit/bash) instead of defining clear task boundaries. [→](../articles/best-practices-for-ai-agent-skill-management.md)
-- **1,000 tokens** — The fourth is not a tool so much as an escape hatch to the entire operating system, and it is doing the work that 20 tools would do in a larger framework, which is exactly why the total comes in under 1,000 tokens. [→](../articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
-- **1,000 tokens** — That is arguably the correct decision for Pi, since guided discovery is exactly the kind of thing that costs tokens in the system prompt, and the whole premise here is that the prompt stays under 1,000 tokens. [→](../articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 
-[All figures, 731 rows](../figures.md)
+[All figures, 738 rows](../figures.md)
 
 ## The write-ups
+
+### [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
+
+In January 2026, an indie developer shipped an iOS app using Claude Code as the primary development assistant, letting the agent handle everything from backend API design to the SwiftUI frontend.
+
+[telegra.ph](https://telegra.ph/Shipping-a-SwiftUI-App-with-AI-Where-It-Shines-and-Where-It-Crashes-11-11)
 
 ### [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 
@@ -55,7 +61,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
 ---
 

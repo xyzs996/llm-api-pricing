@@ -1,21 +1,27 @@
 # Indie Development
 
-17 of the 68 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+18 of the 69 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **90 minutes** — This approach saves 30 to 90 minutes of upfront explanation time before an AI agent starts writing useful code. <!-- [doc_2b1517c75ece783d9315f676a53b1293] --> If you define the boundaries of your SwiftUI app in a spec file first, the agent has a map to follow, and you stop wasting tokens re-explaining what your app does. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
+- **$80** — In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. <!-- [doc_78142061038fcf3b0dc3bc6300aa637e] --> For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI. <!-- [doc_cc86eaf999acb3e8d528d41b7a56f392] --> This kind of speed shift creates entirely new testing ground for product ideas, allowing devs to validate a niche use case in a single weekend instead of burning through months of savings on a half-baked build. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 - **20%** — OpenAI is positioning ChatGPT Work as a productivity platform for business teams, and the share of its users who don't code is projected to grow from 20% to 60% within 12 months. [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 - **$1.43** — The price spread is wide even among the Western flagships, which becomes obvious on ReactBench, where one run with GPT 5.6 Sol costs about $1.43 while one run with Fable 5 costs $9.05, which means that a single Fable 5 run comes to a bit more than six times as much as the GPT 5.6 Sol run does. [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 - **$1.43** — One GPT-5.6 Sol run might cost $1.43, while other models could cost upwards of $9.00 for the same task. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - **$0.028** — DeepSeek V4 Flash costs $0.028 per million tokens and is fast. [→](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - **80%** — When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - **80%** — Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
-- **5-minute** — I remain a little skeptical of how well those reports hold up on messy niches, but for a first pass on pricing structure the speed is hard to argue with, and a 5-minute price table you can throw away costs you nothing when the niche turns out to be wrong. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
-- **$30** — With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
-[All figures, 731 rows](../figures.md)
+[All figures, 738 rows](../figures.md)
 
 ## The write-ups
+
+### [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
+
+In January 2026, an indie developer shipped an iOS app using Claude Code as the primary development assistant, letting the agent handle everything from backend API design to the SwiftUI frontend.
+
+[telegra.ph](https://telegra.ph/Shipping-a-SwiftUI-App-with-AI-Where-It-Shines-and-Where-It-Crashes-11-11)
 
 ### [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 
@@ -121,7 +127,7 @@ Microsoft's evaluation of Kimi K3 landed on a number that should change how you 
 
 ---
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Code Review
 
-7 of the 68 write-ups here are tagged Code Review. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 69 write-ups here are tagged Code Review. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **70%** — In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **60%** — The tool has been through 28 iterations, and repetitive work on public recruiting platforms got 60% more efficient. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 
-[All figures, 731 rows](../figures.md)
+[All figures, 738 rows](../figures.md)
 
 ## The write-ups
 
@@ -61,7 +61,7 @@ Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in R
 
 ---
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
 ---
 

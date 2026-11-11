@@ -1,21 +1,27 @@
 # Software Development
 
-4 of the 68 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 69 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **90 minutes** — This approach saves 30 to 90 minutes of upfront explanation time before an AI agent starts writing useful code. <!-- [doc_2b1517c75ece783d9315f676a53b1293] --> If you define the boundaries of your SwiftUI app in a spec file first, the agent has a map to follow, and you stop wasting tokens re-explaining what your app does. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
+- **$80** — In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. <!-- [doc_78142061038fcf3b0dc3bc6300aa637e] --> For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI. <!-- [doc_cc86eaf999acb3e8d528d41b7a56f392] --> This kind of speed shift creates entirely new testing ground for product ideas, allowing devs to validate a niche use case in a single weekend instead of burning through months of savings on a half-baked build. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 - **$3** — Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1 <!-- [doc_41a4c25e26655d9dc1ddafedda28748b] -->. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - **$3** — One Reddit user estimated that three agents handling email, calendar and research would cost about $3–$5 a month on DeepSeek V4 Flash, against roughly $200–$260 on Claude Opus 4.7, with only a small quality gap <!-- [doc_a7947740a61f182190750b03d21aac3c] -->. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - **40%** — 40% of review tasks needed manual backfill, costing about 15 extra minutes each time. [→](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 - **1,000 tokens** — Its original system prompt and tool descriptions came to under 1,000 tokens. [→](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 - **1000-token** — Still, I'd say the Pi base framework's 1000-token limit seems overstated. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 - **1000 tokens** — Its initial system prompt and tool description total under 1000 tokens. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
-- **$1.43** — The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
-- **$1.43** — A single run costs about $1.43 on the first and $9.05 on the second. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
-[All figures, 731 rows](../figures.md)
+[All figures, 738 rows](../figures.md)
 
 ## The write-ups
+
+### [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
+
+In January 2026, an indie developer shipped an iOS app using Claude Code as the primary development assistant, letting the agent handle everything from backend API design to the SwiftUI frontend.
+
+[telegra.ph](https://telegra.ph/Shipping-a-SwiftUI-App-with-AI-Where-It-Shines-and-Where-It-Crashes-11-11)
 
 ### [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 
@@ -43,7 +49,7 @@ On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
 
 ---
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
 ---
 

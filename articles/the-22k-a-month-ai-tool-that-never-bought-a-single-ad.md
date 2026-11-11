@@ -101,9 +101,9 @@ What makes that trade worth taking is the direction the meter runs. Every articl
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - [AI Local Websites Don’t Rent for $3K/Month—Until You Do This](ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 720 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 727 more, as JSON and CSV.
 
 Topics: [AI Tools](../topics/ai-tools.md) · [SEO](../topics/seo.md)
 

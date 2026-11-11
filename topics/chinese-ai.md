@@ -1,6 +1,6 @@
 # Chinese AI
 
-7 of the 68 write-ups here are tagged Chinese AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 69 write-ups here are tagged Chinese AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **9x** — Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **10,000 tokens** — Long coding sessions push entire directory trees into the prompt on every iteration, so gateways have started applying compression algorithms such as RTK and Caveman, which OmniRoute reports can shrink 10,000 tokens to 1,080. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 
-[All figures, 731 rows](../figures.md)
+[All figures, 738 rows](../figures.md)
 
 ## The write-ups
 
@@ -61,7 +61,7 @@ A monthly report that used to take four hours now takes a few minutes.
 
 ---
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
 ---
 

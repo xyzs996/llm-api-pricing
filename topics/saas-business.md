@@ -1,6 +1,6 @@
 # SaaS Business
 
-12 of the 68 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+12 of the 69 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **5 minutes** — Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **20%** — Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
-[All figures, 731 rows](../figures.md)
+[All figures, 738 rows](../figures.md)
 
 ## The write-ups
 
@@ -91,7 +91,7 @@ Two brothers ran a single short-video account until one piece of content took of
 
 ---
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
 ---
 

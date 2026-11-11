@@ -75,13 +75,13 @@ Keep the prompt small and the toolset tight. Put a wall between bash and your fi
 
 **Read next**
 
+- [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - [When the AI Picks for the Customer, You Become a Supplier](when-the-ai-picks-for-the-customer-you-become-a-supplier.md)
-- [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 727 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 734 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Programming](../topics/ai-programming.md)
 

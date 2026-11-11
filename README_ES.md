@@ -1,22 +1,22 @@
-# Cuánto cuestan de verdad los agentes de código con IA: 731 cifras, cada una con su frase y su fecha
+# Cuánto cuestan de verdad los agentes de código con IA: 738 cifras, cada una con su frase y su fecha
 
 [English](./README.md) · [中文](./README_CN.md) · **Español** · [日本語](./README_JA.md) · [한국어](./README_KO.md) · [Tiếng Việt](./README_VI.md) · [Français](./README_FR.md) · [Deutsch](./README_DE.md) · [Русский](./README_RU.md) · [Bahasa Indonesia](./README_ID.md)
 
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://spectracodeai.com/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
-Un conjunto de datos abierto. Cada cifra publicada en 68 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, **con la frase completa de la que salió y la fecha de publicación**.
+Un conjunto de datos abierto. Cada cifra publicada en 69 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, **con la frase completa de la que salió y la fecha de publicación**.
 
 ## Lo que cuestan hoy los modelos de agente
 
-83 modelos clasificados en alguna categoría *agents* de la Design Arena, con su **precio de lista** por millón de tokens — no es tu factura: la caché, los lotes y cada proveedor cobran distinto. Del catálogo público de OpenRouter, leído por última vez el 2026-11-10. Los tres más baratos:
+85 modelos clasificados en alguna categoría *agents* de la Design Arena, con su **precio de lista** por millón de tokens — no es tu factura: la caché, los lotes y cada proveedor cobran distinto. Del catálogo público de OpenRouter, leído por última vez el 2026-11-11. Los tres más baratos:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
 | $0.006 | $0.50 | DeepSeek V4.1 Flash 1017 | #4 spreadsheet |
-| $0.01 | $6.80 | GLM 5.2 | #6 pdf |
+| $0.007 | $6.80 | GLM 5.2 | #7 pdf |
 | $0.011 | $0.20 | DeepSeek V4.1 Flash 1017 `batch` | #4 spreadsheet |
 
-[Los 83 modelos](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[Los 85 modelos](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **Un número, dos respuestas.** Google y xAI pasan a la tarifa alta a los 200,000 tokens de entrada, pero un prompt de exactamente 200,000 se cobra a la tarifa barata en Google y a la cara en xAI. Las demás tablas imprimen el número y ahí lo dejan. Qué lado aplica cada proveedor, citado de su propia página y con la fecha de consulta: [same number, opposite answer](prices.md#same-number-opposite-answer) (en inglés).
 
@@ -28,6 +28,7 @@ Las líneas siguientes están **en inglés, copiadas tal cual**, sin traducir: u
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
+| `$80` | In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. <!-- [doc_78142061038fcf3b0dc3bc6300aa637e] --> For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI. <!-- [doc_cc86eaf999acb3e8d528d41b7a56f392] --> This kind of speed shift creates entirely new testing ground for product ideas, allowing devs to validate a niche use case in a single weekend instead of burning through months of savings on a half-baked build. | [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md) |
 | `$30` | It started as $30 a month, was raised to $60 in "Phase 2", and was kept long-term. <!-- [doc_aca61ff73451846f75e14d9e94317695] --> But dollars of quota are not tokens. | [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md) |
 | `$3` | Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1 <!-- [doc_41a4c25e26655d9dc1ddafedda28748b] -->. | [The "10x Cheaper" Trap: How to Read AI Coding Costs](articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) |
 | `$15` | Kimi K3 charges $15 per million output tokens, DeepSeek V4 at $0.87, and GLM-5.2 at $4.40—far below Anthropic Fable 5’s $50. | [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md) |
@@ -39,9 +40,8 @@ Las líneas siguientes están **en inglés, copiadas tal cual**, sin traducir: u
 | `$1.43` | The price spread is wide even among the Western flagships, which becomes obvious on ReactBench, where one run with GPT 5.6 Sol costs about $1.43 while one run with Fable 5 costs $9.05, which means that a single Fable 5 run comes to a bit more than six times as much as the GPT 5.6 Sol run does. | [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) |
 | `20%` | I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year. | [Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)](articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.md) |
 | `$170,000` | In contrast to one-off projects, micro-automation tools excel at addressing single, high-frequency pain points A former Alibaba P8, after facing three months of unsuccessful job applications, pivoted to building AI software that has five core features—including scheduled automation and skill packages—to generate $170,000 in monthly revenue The data from these 27 successful cases reveals that the most effective tools prioritize "scheduled automation," which can reduce manual task time from several hours each day to zero minutes. | [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md) |
-| `80%` | The machine runs for about 11 minutes, and human review takes 10–20 minutes, leading to a total time reduction of ~80%–90%. | [I built a WeChat Official Account writing Agent that cuts work time by 80% — here’s the workflow filter and tool combo I used](articles/i-built-a-wechat-official-account-writing-agent-that-cuts.md) |
 
-[Las 731 filas](figures.md)
+[Las 738 filas](figures.md)
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json

@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-9 of the 68 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 69 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$1.43** — The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 - **$1.43** — A single run costs about $1.43 on the first and $9.05 on the second. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
-[All figures, 731 rows](../figures.md)
+[All figures, 738 rows](../figures.md)
 
 ## The write-ups
 
@@ -73,7 +73,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 68 write-ups](../README.md)
+[All 69 write-ups](../README.md)
 
 ---
 
