@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/88) — that copy has a reply box under it, and this one does not.*
+
 In January 2026, an indie developer shipped an iOS app using Claude Code as the primary development assistant, letting the agent handle everything from backend API design to the SwiftUI frontend. A few months earlier, another developer shipped a SwiftUI debt calculator app called PayoffPilot to TestFlight in a matter of weeks—a timeline they noted would have taken months to build traditionally. <!-- [doc_2412c8c9e9770ae76317b74f089cd276] --> <!-- [doc_31d577522a80b07d47c0b1929d40455b] --> When you read these accounts, the pattern is obvious: AI can move you from an empty repository to a working app incredibly fast.
 
 What gets lost in the excitement is exactly where the wheels fall off.
@@ -82,6 +84,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** If you’ve ever built SwiftUI apps manually, how many hours of boilerplate do you estimate you’d save by using an AI assistant like the ones here—reply with a single whole number here. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/88).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fshipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md). One required field, and the page you came from is already filled
