@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/89) — that copy has a reply box under it, and this one does not.*
+
 "DeepSeek V4.1 Flash is 3 yuan per million input tokens off-peak and 9 yuan output — cheap enough to run anything." That sentence is true on the price sheet. It is also the beginning of your bill, not the end of it. <!-- [doc_548375f4087cc017be2bc703f8d16167] -->
 
 Here is where it goes wrong. The same batch of coding tasks, run at peak versus off-peak, can cost you double, and if you stack a rate-limit window and a credit expiry on top of that, your real cost per task can double again — or worse, which means the combined effect of timing and these two additional constraints can leave you paying far more than you would ever expect from the raw task count alone. <!-- [doc_5528073dd1f937283caedd2c3baea7bc] -->
@@ -112,6 +114,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** How many hours per week you actually run your coding agent inside DeepSeek's peak windows — reply with one word (none, few, most) saying where your usage falls. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/89).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md). One required field, and the page you came from is already filled
