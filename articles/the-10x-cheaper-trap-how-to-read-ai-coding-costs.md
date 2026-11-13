@@ -57,9 +57,9 @@ Alternatively, platforms like MonkeyCode offer a massive free token tier, shifti
 - [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 - [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
-The 57 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 681 more, as JSON and CSV.
+The 57 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 712 more, as JSON and CSV.
 
 Topics: [Development Tools](../topics/development-tools.md) · [Chinese AI](../topics/chinese-ai.md) · [Software Development](../topics/software-development.md) · [Indie Developer](../topics/indie-developer.md)
 

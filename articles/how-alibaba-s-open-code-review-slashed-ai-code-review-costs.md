@@ -67,11 +67,11 @@ For you, the independent developer, the takeaway is clear: stop paying for bloat
 
 - [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](why-stripping-80-of-system-prompts-actually-improved-claude.md)
-- [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
+- [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 734 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 765 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [Code Review](../topics/code-review.md) · [Developer Productivity](../topics/developer-productivity.md)
 

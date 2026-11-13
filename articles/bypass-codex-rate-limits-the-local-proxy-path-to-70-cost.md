@@ -104,13 +104,13 @@ You’re not replacing Codex. You’re upgrading your control over it.
 
 **Read next**
 
+- [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
-- [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
-The 22 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 716 more, as JSON and CSV.
+The 22 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 747 more, as JSON and CSV.
 
 Topics: [Development Tools](../topics/development-tools.md) · [AI Programming](../topics/ai-programming.md) · [Developer Productivity](../topics/developer-productivity.md)
 

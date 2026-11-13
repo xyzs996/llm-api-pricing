@@ -75,9 +75,9 @@ Cheap code did not make engineering cheap. It moved the whole cost into the part
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 737 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 768 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Implementation](../topics/ai-implementation.md) · [AI Costs](../topics/ai-costs.md) · [Chinese AI](../topics/chinese-ai.md)
 

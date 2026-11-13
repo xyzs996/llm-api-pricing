@@ -1,21 +1,27 @@
 # AI Costs
 
-7 of the 69 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 70 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$20** — Financial Datasets sells a $20 one-time credit pack, with Build at $200/month and Scale at $2,000/month. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- **$17** — Refero's Pro subscription is $17/month or $120/year, with commercial documents at $0.001 per request and a $2,000 minimum commitment. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - **9x** — Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **10,000 tokens** — Long coding sessions push entire directory trees into the prompt on every iteration, so gateways have started applying compression algorithms such as RTK and Caveman, which OmniRoute reports can shrink 10,000 tokens to 1,080. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **$4 million** — Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - **$4 million** — This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - **900 million tokens** — The free allocation is what people notice, since 900 million tokens is well beyond what most competing tools give away and beyond what a solo developer exhausts in normal work. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - **80 percent** — Track consumption from the first week rather than from the first warning at 80 percent. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
-- **$40 million** — Klarna replaced roughly 700 support agents with an AI assistant in early 2024, claimed about $40 million a year, and a bit over a year later the same CEO said they had overshot and started hiring back. [→](../articles/ai-took-over-my-coding-what-broke-was-how-i-learn.md)
-- **5 minutes** — Pairing WorkBuddy with BrowserAct produces a competitive pricing table in about 5 minutes and a product opportunity report in about 7, which is the difference between researching a niche and researching twelve. [→](../articles/sell-it-before-you-build-it-how-indie-devs-validate-ai.md)
 
-[All figures, 738 rows](../figures.md)
+[All figures, 769 rows](../figures.md)
 
 ## The write-ups
+
+### [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+
+"DeepSeek V4.1 Flash is 3 yuan per million input tokens off-peak and 9 yuan output — cheap enough to run anything." That sentence is true on the price sheet.
+
+[telegra.ph](https://telegra.ph/The-Listed-Price-Is-a-Lie-What-DeepSeeks-PeakOff-Peak-Pricing-Rate-Limit-Windows-and-Permanent-Credits-Actually-Cost-Per-Task-11-13)
 
 ### [Token Optimization for Indie Developers' AI API Bills](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 
@@ -61,7 +67,7 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 ---
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
 ---
 

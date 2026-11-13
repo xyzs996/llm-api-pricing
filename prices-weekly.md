@@ -1,6 +1,6 @@
 # Model price changes, once a week
 
-Every day this site re-reads the list price of 86 models from OpenRouter (last checked 2026-11-12). About once a week the newsletter lists the models whose price **actually moved**, old price next to new, per million tokens. If nothing moved, the email says nothing about prices.
+Every day this site re-reads the list price of 88 models from OpenRouter (last checked 2026-11-13). About once a week the newsletter lists the models whose price **actually moved**, old price next to new, per million tokens. If nothing moved, the email says nothing about prices.
 
 <div id="subscribe-box" class="subscribe"><h3>Get the weekly price changes</h3><p>Free. No spam; unsubscribe in one click.</p><form class="sub-form" action="https://buttondown.com/api/emails/embed-subscribe/spectracode" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/spectracode','popupwindow')"><input class="field" type="email" name="email" placeholder="you@company.com" aria-label="Email address" required><input type="hidden" value="1" name="embed"><input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_campaign" value="lead-prices"><input type="hidden" name="metadata__page" value=""><button class="btn" type="submit" data-umami-event="subscribe-lead-prices">Get the notes</button></form></div>
 
@@ -8,8 +8,8 @@ Every day this site re-reads the list price of 86 models from OpenRouter (last c
 
 | Model | Input / M | Output / M | Cached input / M | At agent mix / M |
 | --- | ---: | ---: | ---: | ---: |
-| DeepSeek V4.1 Flash 1017 | $0.011 | $0.20 | $0.002 | $0.0029 |
-| DeepSeek V4.1 Flash 1017 | $0.15 | $0.60 | $0.003 | $0.0107 |
+| DeepSeek V4.1 Flash 1017 | $0.05 | $0.15 | $0.004 | $0.0063 |
+| DeepSeek V4.1 Flash 1017 | $0.038 | $0.50 | $0.01 | $0.0126 |
 | MiMo-V2.6-Pro | $0.435 | $0.87 | $0.0036 | $0.0237 |
 | GLM 5.2 | $0.007 | $6.80 | $0.006 | $0.0257 |
 | Solar Pro 4 | $0.15 | $0.60 | $0.03 | $0.0365 |
@@ -17,4 +17,4 @@ Every day this site re-reads the list price of 86 models from OpenRouter (last c
 | Gemini 3.6 Flash | $0.375 | $1.875 | $0.0375 | $0.0566 |
 | Gemini 3.7 Flash | $0.375 | $1.875 | $0.0375 | $0.0566 |
 
-The full table, with the token mix and where every price came from: [86 models](https://spectracodeai.com/prices.html).
+The full table, with the token mix and where every price came from: [88 models](https://spectracodeai.com/prices.html).

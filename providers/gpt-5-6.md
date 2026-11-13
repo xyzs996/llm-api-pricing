@@ -1,6 +1,6 @@
 # GPT-5.6 costs and claims: every figure from a sentence that names it
 
-17 of the 738 figures in these field notes come from a sentence that names GPT-5.6. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+18 of the 769 figures in these field notes come from a sentence that names GPT-5.6. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about GPT-5.6 and some only measure against it — a competitor's price quoted next to GPT-5.6's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -8,6 +8,7 @@ Some of these are about GPT-5.6 and some only measure against it — a competito
 
 ## The figures
 
+- **$2** — “GPT-6.1 Sol charges $2 input and $10 output per million tokens; GPT-6 Astra charges $10 and $50. <!-- [doc_7b7a9d39c7edd7e338e85692ea3084a2] --> <!-- [doc_b267a847758ffcf7d7d37525673e3bda] -->” (2026-11-13) [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - **33.2%** — “In the AutomationBench cross-application workflow test, GPT-6 Sol at xhigh reasoning outperformed Claude Opus 5 at max, scoring 33.2% vs. 26.9%, while costing only 9% of what Opus 5 cost per task <!-- [doc_29aa6aa8e5dda0a6ee28545e245052a3] -->.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - **$2 per million input tokens** — “GPT-6.1 Sol charges $2 per million input tokens, $0.10 for cached input and $10 for output.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - **$10,** — “GPT-6 Astra charges $10, $1 and $50, five times Sol's input and output rates and ten times its cached-input rate <!-- [doc_b267a847758ffcf7d7d37525673e3bda] -->.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
@@ -26,9 +27,9 @@ Some of these are about GPT-5.6 and some only measure against it — a competito
 - **$1.43 per run** — “For instance, GPT-5.6 Sol, while more expensive at $1.43 per run, shows superior performance with a 43.1% accuracy rate in the same ReactBench tests, which shows that cheaper models may save money upfront but can lead to longer development cycles due to frequent errors and rework.” (2026-08-12) [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - **$1.43** — “On ReactBench, one run of GPT-5.6 Sol costs about $1.43 while Fable 5 costs $9.05 for the same work — a gap that no per-token price list would have predicted, because the expensive model is not six times more expensive per token, it is six times less efficient at finishing the job.” (2026-08-10) [→](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 
-[All 738 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 769 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
-## Where these 17 came from
+## Where these 18 came from
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Model-for-Coding-Cost-vs-Efficiency-08-19)
@@ -36,6 +37,7 @@ Some of these are about GPT-5.6 and some only measure against it — a competito
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
 - [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](../articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/74) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-Over-Prompting-in-AI-Coding-Lessons-from-Claude-Codes-Optimization-09-17)
+- [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md) · [telegra.ph](https://telegra.ph/The-Listed-Price-Is-a-Lie-What-DeepSeeks-PeakOff-Peak-Pricing-Rate-Limit-Windows-and-Permanent-Credits-Actually-Cost-Per-Task-11-13)
 - [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/36) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Code-Review-Tool-A-Developers-Guide-08-21)
 
@@ -43,7 +45,7 @@ Some of these are about GPT-5.6 and some only measure against it — a competito
 
 **A GPT-5.6 figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=GPT-5.6). The form already knows it is about GPT-5.6.
 
-**Or is one of the 17 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=GPT-5.6&title=%5Bcorrection%5D+GPT-5.6) — the form already knows it is about GPT-5.6; you only have to say what the number is now.
+**Or is one of the 18 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=GPT-5.6&title=%5Bcorrection%5D+GPT-5.6) — the form already knows it is about GPT-5.6; you only have to say what the number is now.
 
 ---
 

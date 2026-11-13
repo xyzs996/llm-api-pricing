@@ -1,6 +1,6 @@
 # Software Development
 
-5 of the 69 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 70 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **1000-token** — Still, I'd say the Pi base framework's 1000-token limit seems overstated. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 - **1000 tokens** — Its initial system prompt and tool description total under 1000 tokens. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 
-[All figures, 738 rows](../figures.md)
+[All figures, 769 rows](../figures.md)
 
 ## The write-ups
 
@@ -49,7 +49,7 @@ On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
 
 ---
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # DeepSeek costs and claims: every figure from a sentence that names it
 
-27 of the 738 figures in these field notes come from a sentence that names DeepSeek. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+33 of the 769 figures in these field notes come from a sentence that names DeepSeek. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about DeepSeek and some only measure against it — a competitor's price quoted next to DeepSeek's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -8,6 +8,12 @@ Some of these are about DeepSeek and some only measure against it — a competit
 
 ## The figures
 
+- **2x** — “On DeepSeek's published schedule, idle-time prices are half the peak rate: weekdays 9:00–12:00 and 14:00–18:00 bill at 2x the table price, while weekends and the 12:00–14:00 and post-18:00 weekday windows sit at the base rate. <!-- [doc_a2038db8e4ae681c3866106c792fca3c] --> So the same batch job costs twice as much depending on when you press run.” (2026-11-13) [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- **2x** — “DeepSeek's 2x window doesn't reach me.” (2026-11-13) [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- **100K tokens** — “GLM 5.3 Flash uses flat per-token pricing above 100K tokens, avoiding the long-context premium that Haiku applies. <!-- [doc_821b28eca470cf387e599c30b7725f23] --> DeepSeek V4.1 Flash, meanwhile, supports a 1M-token context window, with official tests covering coding-agent tasks like NL2Repo and Cybergym. <!-- [doc_aca61ff73451846f75e14d9e94317695] --> A 1M window means a single request can carry an enormous input — and the 2x peak multiplier scales that input right along with it.” (2026-11-13) [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- **1%** — “DeepSeek V4 Flash's output price of 2 yuan per million tokens is roughly 1% of Claude Opus.” (2026-11-13) [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- **$3** — “DeepSeek V4.1 Flash is 3 yuan per million input tokens off-peak, 9 yuan output; double both during the weekday windows above. <!-- [doc_548375f4087cc017be2bc703f8d16167] --> Ant Group's Ling-3.0-flash sits at 0.12 yuan in and 0.38 yuan out, the cheapest light tier in the domestic lineup. <!-- [doc_a2038db8e4ae681c3866106c792fca3c] --> A nightly cron job that reprocesses your repo at 2 a.m. buys the same tokens at the off-peak rate instead of the peak one — and if it hits KV cache, the 2026 batch compresses on hit down to one tenth of list price. <!-- [doc_548375f4087cc017be2bc703f8d16167] --> For an agent doing email, calendar, and research, one developer's monthly bill came to roughly $3–5 on V4 Flash against $200–260 on Opus 4.7. <!-- [doc_a7947740a61f182190750b03d21aac3c] -->” (2026-11-13) [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- **$10 per month** — “OpenCode Go users pay $10/month and receive $60 of DeepSeek V4.1 Flash usage credit that never expires — up from the original $30/month allotment, upgraded in Phase 2 to $60 and kept long-term. <!-- [doc_aca61ff73451846f75e14d9e94317695] -->” (2026-11-13) [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - **2x** — “Comparison tables make this worse, because they quote the off-peak price, not the one you pay at 10 a.m. Three tables (10-03, 10-12, 10-06) carry the same footnote: the DeepSeek price shown is the idle price, covering weekends all day plus weekdays 12:00-14:00 and after 18:00, and peak is 2x the table value.” (2026-11-10) [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 - **2x** — “That is a forecast for non-coding agents, not a bill. <!-- [doc_a7947740a61f182190750b03d21aac3c] --> A July article says DeepSeek announced peak/off-peak pricing for the V4 series from mid-July, with peak at 2x off-peak, so the April number could not have included it. <!-- [doc_5528073dd1f937283caedd2c3baea7bc] -->” (2026-11-10) [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 - **$3 per month** — “The Reddit forecast was $3-5 a month for three light agents, and GLM-4-Flash's 20M free tokens don't expire, while DeepSeek's sign-up grant of 10M tokens (2026-05-02 article) was valid for only 30 days. <!-- [doc_a7947740a61f182190750b03d21aac3c] --> <!-- [doc_498fb0bdb45e57d43725ed947a23c384] -->” (2026-11-10) [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
@@ -36,9 +42,9 @@ Some of these are about DeepSeek and some only measure against it — a competit
 - **$1 per million tokens** — “Top-tier Chinese models such as GLM5.2 and DeepSeek V4 Pro sit near $1 per million tokens at inference gross margins of 10% to 20%.” (2026-08-19) [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **$1 per million tokens** — “DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 
-[All 738 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 769 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
-## Where these 27 came from
+## Where these 33 came from
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
@@ -48,6 +54,7 @@ Some of these are about DeepSeek and some only measure against it — a competit
 - [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/72) · [telegra.ph](https://telegra.ph/Claude-Code-Can-Model-a-Flange-but-Not-a-Freeform-Surface-A-Six-Step-Handoff-Checklist-for-Non-Code-Agent-Output-09-15)
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
+- [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md) · [telegra.ph](https://telegra.ph/The-Listed-Price-Is-a-Lie-What-DeepSeeks-PeakOff-Peak-Pricing-Rate-Limit-Windows-and-Permanent-Credits-Actually-Cost-Per-Task-11-13)
 - [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](../articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/86) · [telegra.ph](https://telegra.ph/This-Open-Source-Code-Review-Tool-Beats-Claude--With-19-the-Tokens-11-07)
 - [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/87) · [telegra.ph](https://telegra.ph/What-DeepSeek-V41-Flash-Really-Costs-Per-Month-A-Five-Step-Checklist-11-10)
 
@@ -55,7 +62,7 @@ Some of these are about DeepSeek and some only measure against it — a competit
 
 **A DeepSeek figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=DeepSeek). The form already knows it is about DeepSeek.
 
-**Or is one of the 27 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=DeepSeek&title=%5Bcorrection%5D+DeepSeek) — the form already knows it is about DeepSeek; you only have to say what the number is now.
+**Or is one of the 33 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=DeepSeek&title=%5Bcorrection%5D+DeepSeek) — the form already knows it is about DeepSeek; you only have to say what the number is now.
 
 ---
 

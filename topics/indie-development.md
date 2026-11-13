@@ -1,6 +1,6 @@
 # Indie Development
 
-18 of the 69 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+18 of the 70 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **80%** — When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - **80%** — Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
-[All figures, 738 rows](../figures.md)
+[All figures, 769 rows](../figures.md)
 
 ## The write-ups
 
@@ -127,7 +127,7 @@ Microsoft's evaluation of Kimi K3 landed on a number that should change how you 
 
 ---
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
 ---
 

@@ -1,21 +1,27 @@
 # Developer Productivity
 
-4 of the 69 write-ups here are tagged Developer Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 70 write-ups here are tagged Developer Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$20** — Financial Datasets sells a $20 one-time credit pack, with Build at $200/month and Scale at $2,000/month. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- **$17** — Refero's Pro subscription is $17/month or $120/year, with commercial documents at $0.001 per request and a $2,000 minimum commitment. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - **80%** — The Claude Code team itself found that 80% of system prompts degrade performance. [→](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - **$5** — The tool runs on a $5/month VPS using Docker. [→](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - **$0.028** — With DeepSeek V4 Flash priced at just $0.028 per million tokens, developers can assign lightweight tasks like boilerplate generation or syntax checking to this model, reserving higher-cost models for nuanced logic or debugging. [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - **$0.028** — One developer swapped their default backend for DeepSeek V4 Flash and saw API costs drop to just $0.028 per million tokens. [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - **40%** — 40% of review tasks needed manual backfill, costing about 15 extra minutes each time. [→](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 - **1,000 tokens** — Its original system prompt and tool descriptions came to under 1,000 tokens. [→](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
-- **80%** — When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
-- **80%** — Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
-[All figures, 738 rows](../figures.md)
+[All figures, 769 rows](../figures.md)
 
 ## The write-ups
+
+### [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+
+"DeepSeek V4.1 Flash is 3 yuan per million input tokens off-peak and 9 yuan output — cheap enough to run anything." That sentence is true on the price sheet.
+
+[telegra.ph](https://telegra.ph/The-Listed-Price-Is-a-Lie-What-DeepSeeks-PeakOff-Peak-Pricing-Rate-Limit-Windows-and-Permanent-Credits-Actually-Cost-Per-Task-11-13)
 
 ### [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 
@@ -43,7 +49,7 @@ When the Claude Code team decided to slash 80% of their system prompts, most dev
 
 ---
 
-[All 69 write-ups](../README.md)
+[All 70 write-ups](../README.md)
 
 ---
 

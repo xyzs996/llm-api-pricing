@@ -4,30 +4,30 @@
 
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://spectracodeai.com/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
-> 86 models · re-read from OpenRouter every day · no signup · CC BY 4.0
+> 88 models · re-read from OpenRouter every day · no signup · CC BY 4.0
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-69 write-ups on what those bills looked like in production.
+70 write-ups on what those bills looked like in production.
 
-## What the agent models cost (86 models)
+## What the agent models cost (88 models)
 
 A coding agent re-reads its context every step, so **95.6% of the tokens
 it sends are cache reads**. Repriced at that mix, the list input price every other table sorts by overstates the bill by a
-median **6.5×** (0.3×–18.4×). Read **2026-11-12**; the three cheapest *to run*:
+median **6.5×** (0.3×–18.4×). Read **2026-11-13**; the three cheapest *to run*:
 
 | $ / 1M at agent mix | $ cache read | $ in | $ out | Model | Best agents rank |
 | --- | --- | --- | --- | --- | --- |
-| **$0.0029** | $0.002 | $0.011 | $0.20 | DeepSeek V4.1 Flash 1017 `batch` | #4 spreadsheet |
-| **$0.0107** | $0.003 | $0.15 | $0.60 | DeepSeek V4.1 Flash 1017 | #4 spreadsheet |
-| **$0.0237** | $0.0036 | $0.435 | $0.87 | MiMo-V2.6-Pro | #8 webapps |
+| **$0.0063** | $0.004 | $0.05 | $0.15 | DeepSeek V4.1 Flash 1017 `batch` | #4 spreadsheet |
+| **$0.0126** | $0.01 | $0.038 | $0.50 | DeepSeek V4.1 Flash 1017 | #4 spreadsheet |
+| **$0.0237** | $0.0036 | $0.435 | $0.87 | MiMo-V2.6-Pro | #9 webapps |
 
-[All 86 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[All 88 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **Or put your own numbers in.** [The calculator](https://xyzs996.github.io/llm-cost-calculator/) reads this same daily JSON: it resolves [DeepSeek's peak/off-peak clock](deepseek-peak-hours.md) for the moment you ask, applies the long-context price cliff to the request you actually send, and takes your own cache-hit share. One page, nothing to install, no account.
 
 **One number, two answers.** Google and xAI both step to a higher rate at 200,000 prompt tokens — and a prompt of exactly 200,000 bills at the *cheap* rate on Google, the *expensive* rate on xAI. Every table we could find prints one number and stops there. Which side each vendor bills, quoted from the vendor's own page with the date it was read: [same number, opposite answer](prices.md#same-number-opposite-answer).
 
-That 95.6% is **one person's measurement of one coding agent** ([8.04B tokens, 2026-05-16](https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b)), not an industry figure — it is simply the only public measurement we could find. 84 of these rows publish a cached-input price, so the weights ship in the JSON: recompute with your own mix. Cache-*write* prices are not in the catalog, so that 2.7% of tokens is folded into the cache-miss share, which understates cost by roughly 0.7%.
+That 95.6% is **one person's measurement of one coding agent** ([8.04B tokens, 2026-05-16](https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b)), not an industry figure — it is simply the only public measurement we could find. 86 of these rows publish a cached-input price, so the weights ship in the JSON: recompute with your own mix. Cache-*write* prices are not in the catalog, so that 2.7% of tokens is folded into the cache-miss share, which understates cost by roughly 0.7%.
 
 **The table above is a list price. No bill matches it.** What moves
 the number is cache hits, retries, and context you pay to send twice —
@@ -46,7 +46,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json
 ```
 
-86 models, 19 columns per row: list input, output and **cache-read** price per million tokens, the context window and
+88 models, 19 columns per row: list input, output and **cache-read** price per million tokens, the context window and
 the long-context step, the vendor, and where the model places in the agent benchmark. Rebuilt every day from
 OpenRouter's catalog at paths that do not move.
 
@@ -67,9 +67,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (738 rows)
+## The figures, as data (769 rows)
 
-Every figure published across the 69 write-ups —
+Every figure published across the 70 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -79,6 +79,7 @@ recent write-ups — quoted verbatim, not summarised:
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
+| `$17` | Refero's Pro subscription is $17/month or $120/year, with commercial documents at $0.001 per request and a $2,000 minimum commitment. | [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md) |
 | `$80` | In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. <!-- [doc_78142061038fcf3b0dc3bc6300aa637e] --> For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI. <!-- [doc_cc86eaf999acb3e8d528d41b7a56f392] --> This kind of speed shift creates entirely new testing ground for product ideas, allowing devs to validate a niche use case in a single weekend instead of burning through months of savings on a half-baked build. | [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md) |
 | `$30` | It started as $30 a month, was raised to $60 in "Phase 2", and was kept long-term. <!-- [doc_aca61ff73451846f75e14d9e94317695] --> But dollars of quota are not tokens. | [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md) |
 | `$3` | Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1 <!-- [doc_41a4c25e26655d9dc1ddafedda28748b] -->. | [The "10x Cheaper" Trap: How to Read AI Coding Costs](articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) |
@@ -90,9 +91,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `40%` | 40% of review tasks needed manual backfill, costing about 15 extra minutes each time. | [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md) |
 | `$1.43` | The price spread is wide even among the Western flagships, which becomes obvious on ReactBench, where one run with GPT 5.6 Sol costs about $1.43 while one run with Fable 5 costs $9.05, which means that a single Fable 5 run comes to a bit more than six times as much as the GPT 5.6 Sol run does. | [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) |
 | `20%` | I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year. | [Four Circuit Breakers Every Unattended AI Pipeline Needs (Learned the Expensive Way)](articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.md) |
-| `$170,000` | In contrast to one-off projects, micro-automation tools excel at addressing single, high-frequency pain points A former Alibaba P8, after facing three months of unsuccessful job applications, pivoted to building AI software that has five core features—including scheduled automation and skill packages—to generate $170,000 in monthly revenue The data from these 27 successful cases reveals that the most effective tools prioritize "scheduled automation," which can reduce manual task time from several hours each day to zero minutes. | [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md) |
 
-[All 738 rows](figures.md) — or as data:
+[All 769 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -153,9 +153,9 @@ write-ups land there first.
 **Reading this with a model?** [llms.txt](https://spectracodeai.com/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
-**By provider.** [Claude](providers/claude.md) (62) · [DeepSeek](providers/deepseek.md) (27) · [GLM](providers/glm.md) (21) · [GPT-5.6](providers/gpt-5-6.md) (17) · [Gemini](providers/gemini.md) (15) · [OpenAI](providers/openai.md) (15) · [Fable 5](providers/fable-5.md) (14) · [Kimi](providers/kimi.md) (14) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [Codex](providers/codex.md) (9) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) — prices where there are prices, and every figure whose sentence names it, with the date.
+**By provider.** [Claude](providers/claude.md) (64) · [DeepSeek](providers/deepseek.md) (33) · [GLM](providers/glm.md) (22) · [GPT-5.6](providers/gpt-5-6.md) (18) · [Gemini](providers/gemini.md) (17) · [OpenAI](providers/openai.md) (15) · [Fable 5](providers/fable-5.md) (14) · [Kimi](providers/kimi.md) (14) · [WorkBuddy](providers/workbuddy.md) (13) · [BrowserAct](providers/browseract.md) (12) · [Klarna](providers/klarna.md) (12) · [Codex](providers/codex.md) (9) · [ChatGPT](providers/chatgpt.md) (6) · [GPT-5](providers/gpt-5.md) (6) — prices where there are prices, and every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (18) · [Automation Systems](topics/automation-systems.md) (16) · [SaaS Business](topics/saas-business.md) (12) · [Niche Market](topics/niche-market.md) (11) · [Productivity](topics/productivity.md) (11) · [AI Implementation](topics/ai-implementation.md) (9) · [Artificial Intelligence](topics/artificial-intelligence.md) (9) · [Development Tools](topics/development-tools.md) (9) · [AI](topics/ai.md) (8) · [AI Features](topics/ai-features.md) (8) · [AI Costs](topics/ai-costs.md) (7) · [AI Programming](topics/ai-programming.md) (7) · [Chinese AI](topics/chinese-ai.md) (7) · [Code Review](topics/code-review.md) (7) · [Cost Savings](topics/cost-savings.md) (6) · [AI Automation](topics/ai-automation.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [Software Development](topics/software-development.md) (5) · [AI Tools](topics/ai-tools.md) (4) · [Automation](topics/automation.md) (4) · [Developer Productivity](topics/developer-productivity.md) (4) · [Indie Developer](topics/indie-developer.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [SEO](topics/seo.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (18) · [Automation Systems](topics/automation-systems.md) (16) · [SaaS Business](topics/saas-business.md) (12) · [Niche Market](topics/niche-market.md) (11) · [Productivity](topics/productivity.md) (11) · [AI Implementation](topics/ai-implementation.md) (9) · [Artificial Intelligence](topics/artificial-intelligence.md) (9) · [Development Tools](topics/development-tools.md) (9) · [AI](topics/ai.md) (8) · [AI Costs](topics/ai-costs.md) (8) · [AI Features](topics/ai-features.md) (8) · [AI Programming](topics/ai-programming.md) (8) · [Chinese AI](topics/chinese-ai.md) (8) · [Code Review](topics/code-review.md) (7) · [Cost Savings](topics/cost-savings.md) (6) · [AI Automation](topics/ai-automation.md) (5) · [Developer Productivity](topics/developer-productivity.md) (5) · [Revenue Growth](topics/revenue-growth.md) (5) · [Software Development](topics/software-development.md) (5) · [AI Tools](topics/ai-tools.md) (4) · [Automation](topics/automation.md) (4) · [Indie Developer](topics/indie-developer.md) (4) · [AI Agents](topics/ai-agents.md) (3) · [Enterprise Automation](topics/enterprise-automation.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Programming](topics/programming.md) (3) · [SEO](topics/seo.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -170,6 +170,12 @@ Open Code Review is an open-source review tool built for AI-assisted development
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
 `Token Optimization` `Cost Savings` `Chinese AI` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
+
+### [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+
+"DeepSeek V4.1 Flash is 3 yuan per million input tokens off-peak and 9 yuan output — cheap enough to run anything." That sentence is true on the price sheet.
+
+`Developer Productivity` `AI Costs` `Chinese AI` `AI Programming` · [telegra.ph](https://telegra.ph/The-Listed-Price-Is-a-Lie-What-DeepSeeks-PeakOff-Peak-Pricing-Rate-Limit-Windows-and-Permanent-Credits-Actually-Cost-Per-Task-11-13)
 
 ### [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 
