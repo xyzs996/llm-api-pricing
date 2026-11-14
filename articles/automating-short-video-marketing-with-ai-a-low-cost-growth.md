@@ -89,9 +89,9 @@ Developers must also be aware of the limitations and challenges associated with 
 - [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
-[All 70 write-ups](../README.md)
+[All 71 write-ups](../README.md)
 
-The 10 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 759 more, as JSON and CSV.
+The 10 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 780 more, as JSON and CSV.
 
 Topics: [Cost Savings](../topics/cost-savings.md) · [Automation](../topics/automation.md)
 

@@ -67,9 +67,9 @@ This isn’t about picking a “better model.” It’s about designing a better
 - [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md)
 - [How to Turn the Workflows You Won't Document Into Agent Skills](how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 
-[All 70 write-ups](../README.md)
+[All 71 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 764 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 785 more, as JSON and CSV.
 
 Topics: [Code Review](../topics/code-review.md)
 

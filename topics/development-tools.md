@@ -1,6 +1,6 @@
 # Development Tools
 
-9 of the 70 write-ups here are tagged Development Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 71 write-ups here are tagged Development Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **20%** — OpenAI is positioning ChatGPT Work as a productivity platform for business teams, and the share of its users who don't code is projected to grow from 20% to 60% within 12 months. [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 - **$1.43** — The price spread is wide even among the Western flagships, which becomes obvious on ReactBench, where one run with GPT 5.6 Sol costs about $1.43 while one run with Fable 5 costs $9.05, which means that a single Fable 5 run comes to a bit more than six times as much as the GPT 5.6 Sol run does. [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 
-[All figures, 769 rows](../figures.md)
+[All figures, 790 rows](../figures.md)
 
 ## The write-ups
 
@@ -73,7 +73,7 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 71 write-ups](../README.md)
 
 ---
 

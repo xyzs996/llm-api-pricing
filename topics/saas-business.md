@@ -1,19 +1,19 @@
 # SaaS Business
 
-12 of the 70 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+13 of the 71 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **60%** — For rider recruitment, this meant focusing on repetitive actions like resume browsing and initial outreach, which is where the team, using Codex, developed a tool that iterated 28 times before it was able to achieve a 60% efficiency increase in public domain recruitment tasks — the same repetitive work of resume browsing and initial outreach that had been the focus from the start. [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
+- **60%** — A delivery driver recruitment team built a stable automation workflow by breaking down daily tasks into verifiable steps and iterating 28 times, achieving a 60% efficiency boost in repetitive operations. [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 - **$29** — For instance, if you intend to build a contract comparison tool, start by manually assisting three to ten legal assistants at a rate of $29 per document to validate the demand before writing a single line of production code. [→](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
 - **$170,000** — In contrast to one-off projects, micro-automation tools excel at addressing single, high-frequency pain points A former Alibaba P8, after facing three months of unsuccessful job applications, pivoted to building AI software that has five core features—including scheduled automation and skill packages—to generate $170,000 in monthly revenue The data from these 27 successful cases reveals that the most effective tools prioritize "scheduled automation," which can reduce manual task time from several hours each day to zero minutes. [→](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
 - **$62.50** — It does about 80,000 visits a month and around ¥5,000 a month in affiliate revenue, an effective RPM of $62.50 — five to ten times what most content sites earn per thousand reads. [→](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 - **$10** — An AI image generation tool used Google Ads to boost its monthly paying subscribers from approximately 80 to over 500, maintaining a customer acquisition cost of around $10 per paying user. [→](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 - **$63,000,** — Consider Jordan, who noticed his partner spending hours manually sharing items on Poshmark, and by developing a simple 30-line JavaScript automation script to solve this pain point, he created Resellbot, which eventually scaled to a monthly revenue of $63,000, while this progression highlights how identifying such tedious manual tasks can serve as a potent foundation for building highly profitable and scalable software solutions. [→](../articles/building-high-income-single-page-tool-sites-via-seo.md)
 - **$1 million** — For instance, the insight highlights that a $1 million annual revenue target for a solo company can be broken down into a daily goal of $2777. [→](../articles/building-high-income-single-page-tool-sites-via-seo.md)
-- **5 minutes** — Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
-- **20%** — Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
-[All figures, 769 rows](../figures.md)
+[All figures, 790 rows](../figures.md)
 
 ## The write-ups
 
@@ -22,6 +22,12 @@
 Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/11) · [telegra.ph](https://telegra.ph/The-Cost-Effective-Guide-to-Using-Open-Code-Review-for-AI-Programming-Tools-08-19)
+
+### [The Hidden Cost of AI Automation: Turning Human Instincts into Rules](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
+
+This guide is for solo developers or small teams who’ve hit the wall with AI automation, where your agent writes clean code but fails to handle the fuzzy, human-like judgment calls in your workflow…
+
+[telegra.ph](https://telegra.ph/The-Hidden-Cost-of-AI-Automation-Turning-Human-Instincts-into-Rules-11-14)
 
 ### [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
 
@@ -91,7 +97,7 @@ Two brothers ran a single short-video account until one piece of content took of
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 71 write-ups](../README.md)
 
 ---
 

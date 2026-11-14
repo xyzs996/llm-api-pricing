@@ -1,21 +1,27 @@
 # Artificial Intelligence
 
-9 of the 70 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+10 of the 71 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **60%** — For rider recruitment, this meant focusing on repetitive actions like resume browsing and initial outreach, which is where the team, using Codex, developed a tool that iterated 28 times before it was able to achieve a 60% efficiency increase in public domain recruitment tasks — the same repetitive work of resume browsing and initial outreach that had been the focus from the start. [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
+- **60%** — A delivery driver recruitment team built a stable automation workflow by breaking down daily tasks into verifiable steps and iterating 28 times, achieving a 60% efficiency boost in repetitive operations. [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 - **20%** — OpenAI is positioning ChatGPT Work as a productivity platform for business teams, and the share of its users who don't code is projected to grow from 20% to 60% within 12 months. [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 - **$1.43** — The price spread is wide even among the Western flagships, which becomes obvious on ReactBench, where one run with GPT 5.6 Sol costs about $1.43 while one run with Fable 5 costs $9.05, which means that a single Fable 5 run comes to a bit more than six times as much as the GPT 5.6 Sol run does. [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 - **$29** — For instance, if you intend to build a contract comparison tool, start by manually assisting three to ten legal assistants at a rate of $29 per document to validate the demand before writing a single line of production code. [→](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
 - **$170,000** — In contrast to one-off projects, micro-automation tools excel at addressing single, high-frequency pain points A former Alibaba P8, after facing three months of unsuccessful job applications, pivoted to building AI software that has five core features—including scheduled automation and skill packages—to generate $170,000 in monthly revenue The data from these 27 successful cases reveals that the most effective tools prioritize "scheduled automation," which can reduce manual task time from several hours each day to zero minutes. [→](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
 - **1000-token** — Still, I'd say the Pi base framework's 1000-token limit seems overstated. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 - **1000 tokens** — Its initial system prompt and tool description total under 1000 tokens. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
-- **$1.43** — The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
-- **$1.43** — A single run costs about $1.43 on the first and $9.05 on the second. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
-[All figures, 769 rows](../figures.md)
+[All figures, 790 rows](../figures.md)
 
 ## The write-ups
+
+### [The Hidden Cost of AI Automation: Turning Human Instincts into Rules](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
+
+This guide is for solo developers or small teams who’ve hit the wall with AI automation, where your agent writes clean code but fails to handle the fuzzy, human-like judgment calls in your workflow…
+
+[telegra.ph](https://telegra.ph/The-Hidden-Cost-of-AI-Automation-Turning-Human-Instincts-into-Rules-11-14)
 
 ### [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 
@@ -73,7 +79,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 71 write-ups](../README.md)
 
 ---
 

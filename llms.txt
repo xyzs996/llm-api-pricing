@@ -1,6 +1,6 @@
 # AI Coding Field Notes
 
-> 70 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://spectracodeai.com/ under CC BY 4.0.
+> 71 write-ups on what AI coding tools actually cost, and one dataset of every figure they cite. Published from https://spectracodeai.com/ under CC BY 4.0.
 
 Every number in these notes traces back to a named source. Figures without one were cut before publishing.
 
@@ -18,102 +18,104 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 ## Dataset
 
-- [Every published figure, 769 rows](https://spectracodeai.com/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
+- [Every published figure, 790 rows](https://spectracodeai.com/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box).
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv): the same rows, one line each.
 
-## Model list prices (88 models, read 2026-11-13)
+## Model list prices (90 models, read 2026-11-14)
 
 Per million tokens, for models ranked in an agents category of the Design Arena. Quoted from OpenRouter's public catalog on the date above — this is list price, not a bill: cache hits, batch tiers and providers all price differently, and rows marked (batch) are the catalog's separate batch entries. Full table: https://spectracodeai.com/prices.html
 
-- **GLM 5.2** — $0.007 in / $6.8 out per 1M tokens, 1048576 token context, best agents rank #8 in pdf (2026-11-13). Written up: https://spectracodeai.com/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html
-- **DeepSeek V4.1 Flash 1017** — $0.038 in / $0.5 out per 1M tokens, 1048576 token context, best agents rank #4 in spreadsheet (2026-11-13).
-- **DeepSeek V4.1 Flash 1017 (batch)** — $0.05 in / $0.15 out per 1M tokens, 1048576 token context, best agents rank #4 in spreadsheet (2026-11-13).
-- **GLM 5.3** — $0.084 in / $3.6 out per 1M tokens, 1048576 token context, best agents rank #2 in htmlslides (2026-11-13). Written up: https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html
-- **Solar Pro 4** — $0.15 in / $0.6 out per 1M tokens, 524288 token context, best agents rank #40 in webapps (2026-11-13).
-- **Kimi K3** — $0.192 in / $16.0 out per 1M tokens, 1048576 token context, best agents rank #3 in codetovideo (2026-11-13). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
-- **MiniMax M3 (batch)** — $0.224 in / $0.88 out per 1M tokens, 524288 token context, best agents rank #6 in codetovideo (2026-11-13). Written up: https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
-- **Gemini 3 Flash Preview (batch)** — $0.25 in / $1.5 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticslides (2026-11-13).
-- **GLM 5.2 (batch)** — $0.298 in / $0.916 out per 1M tokens, 1048576 token context, best agents rank #8 in pdf (2026-11-13). Written up: https://spectracodeai.com/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html
-- **MiniMax M3** — $0.3 in / $1.2 out per 1M tokens, 1048576 token context, best agents rank #6 in codetovideo (2026-11-13). Written up: https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
-- **Gemini 3.6 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #13 in blender3d (2026-11-13).
-- **Gemini 3.7 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #6 in godotgamedev (2026-11-13). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Gemini 3.8 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #5 in godotgamedev (2026-11-13).
-- **MiMo-V2.6-Pro** — $0.435 in / $0.87 out per 1M tokens, 1050000 token context, best agents rank #9 in webapps (2026-11-13).
-- **GLM 5.3 (batch)** — $0.45 in / $2.0 out per 1M tokens, 1048576 token context, best agents rank #2 in htmlslides (2026-11-13). Written up: https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html
-- **GLM 4.6** — $0.5 in / $2.0 out per 1M tokens, 204800 token context, best agents rank #15 in godotgamedev (2026-11-13).
-- **Kimi K2.5** — $0.5 in / $2.5 out per 1M tokens, 262144 token context, best agents rank #8 in godotgamedev (2026-11-13).
-- **Gemini 3 Flash Preview** — $0.5 in / $3.0 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticslides (2026-11-13).
-- **GLM 4.7** — $0.6 in / $2.2 out per 1M tokens, 204800 token context, best agents rank #33 in godotgamedev (2026-11-13).
-- **Kimi K2.7 Code** — $0.6 in / $3.5 out per 1M tokens, 262144 token context, best agents rank #11 in htmlslides (2026-11-13).
-- **Kimi K2.6** — $0.65 in / $3.41 out per 1M tokens, 262144 token context, best agents rank #2 in agentichtmlslides (2026-11-13). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Kimi K3.1 Pro (batch)** — $0.7 in / $6.0 out per 1M tokens, 1048576 token context, best agents rank #3 in fullstack (2026-11-13).
-- **Gemini 3.6 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #13 in blender3d (2026-11-13).
-- **Gemini 3.7 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #6 in godotgamedev (2026-11-13). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Gemini 3.5 Flash (batch)** — $0.75 in / $4.5 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticslides(python-pptx) (2026-11-13).
-- **Gemini 3.8 Flash** — $0.825 in / $4.125 out per 1M tokens, 1048576 token context, best agents rank #5 in godotgamedev (2026-11-13).
-- **GPT-5.2 (batch)** — $0.875 in / $7.0 out per 1M tokens, 400000 token context, best agents rank #22 in godotgamedev (2026-11-13).
-- **DeepSeek V4 Pro 0423** — $0.9 in / $1.5 out per 1M tokens, 1048576 token context, best agents rank #32 in godotgamedev (2026-11-13).
-- **Grok 4.3 (batch)** — $1.0 in / $2.0 out per 1M tokens, 1000000 token context, best agents rank #8 in pptxslides (2026-11-13).
-- **GLM 5** — $1.0 in / $3.2 out per 1M tokens, 204800 token context, best agents rank #19 in godotgamedev (2026-11-13).
-- **Inkling** — $1.0 in / $4.05 out per 1M tokens, 524288 token context, best agents rank #28 in webapps (2026-11-13).
-- **Claude Sonnet 5.5 (batch)** — $1.0 in / $5.0 out per 1M tokens, 1000000 token context, best agents rank #2 in codetovideo (2026-11-13).
-- **Claude Sonnet 5 (batch)** — $1.0 in / $5.0 out per 1M tokens, 1000000 token context, best agents rank #8 in agenticgamedev (2026-11-13). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Gemini 4 Argon (batch)** — $1.0 in / $5.0 out per 1M tokens, 1048576 token context, best agents rank #1 in agenticgamedev (2026-11-13).
-- **Gemini 4 Carbon (batch)** — $1.0 in / $5.0 out per 1M tokens, 1048576 token context, best agents rank #1 in pdf (2026-11-13).
-- **GPT-6.1 Sol (batch)** — $1.0 in / $5.0 out per 1M tokens, 1050000 token context, best agents rank #2 in blender3d (2026-11-13). Written up: https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html
-- **Gemini 3.1 Pro Preview (batch)** — $1.0 in / $6.0 out per 1M tokens, 1048576 token context, best agents rank #4 in agentichtmlslides (2026-11-13).
-- **GLM 5V Turbo** — $1.2 in / $4.0 out per 1M tokens, 202752 token context, best agents rank #5 in agenticslides (2026-11-13).
-- **Grok 4.20** — $1.25 in / $2.5 out per 1M tokens, 2000000 token context, best agents rank #3 in htmlslides (2026-11-13).
-- **Grok 4.3** — $1.25 in / $2.5 out per 1M tokens, 1000000 token context, best agents rank #8 in pptxslides (2026-11-13).
-- **Muse Spark 1.1** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #12 in agenticgamedev (2026-11-13). Written up: https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
-- **Muse Spark 1.2** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #13 in androidnative (2026-11-13).
-- **Muse Spark 1.3** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #2 in androidnative (2026-11-13).
-- **GPT-5.4 (batch)** — $1.25 in / $7.5 out per 1M tokens, 1050000 token context, best agents rank #24 in godotgamedev (2026-11-13).
-- **GPT-5.1-Codex** — $1.25 in / $10.0 out per 1M tokens, 400000 token context, best agents rank #23 in mobileapps (2026-11-13).
-- **GLM 5.1** — $1.4 in / $4.4 out per 1M tokens, 204800 token context, best agents rank #2 in agenticslides (2026-11-13).
-- **Qwen3.7 Max** — $1.475 in / $4.425 out per 1M tokens, 1000000 token context, best agents rank #16 in godotgamedev (2026-11-13). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Claude Sonnet 4.5 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #37 in mobileapps (2026-11-13). Written up: https://spectracodeai.com/articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.html
-- **Claude Sonnet 4.6 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #7 in godotgamedev (2026-11-13).
-- **Gemini 3.5 Flash** — $1.5 in / $9.0 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticslides(python-pptx) (2026-11-13).
-- **Grok 4.6 (batch)** — $1.6 in / $4.8 out per 1M tokens, 500000 token context, best agents rank #3 in androidnative (2026-11-13).
-- **Grok 4.7 (batch)** — $1.6 in / $4.8 out per 1M tokens, 500000 token context, best agents rank #7 in blender3d (2026-11-13).
-- **GPT-5.2** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #22 in godotgamedev (2026-11-13).
-- **GPT-5.2-Codex** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #19 in androidnative (2026-11-13).
-- **GPT-5.3-Codex** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #27 in godotgamedev (2026-11-13).
-- **Grok 4.5** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #6 in agenticgamedev (2026-11-13).
-- **Grok 4.6** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #3 in androidnative (2026-11-13).
-- **Grok 4.7** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #7 in blender3d (2026-11-13).
-- **Claude Opus 5.5 (batch)** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #1 in androidnative (2026-11-13). Written up: https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html
-- **Claude Sonnet 5** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #8 in agenticgamedev (2026-11-13). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
-- **Claude Sonnet 5.5** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #2 in codetovideo (2026-11-13).
-- **Gemini 4 Argon** — $2.0 in / $10.0 out per 1M tokens, 1048576 token context, best agents rank #1 in agenticgamedev (2026-11-13).
-- **Gemini 4 Carbon** — $2.0 in / $10.0 out per 1M tokens, 1048576 token context, best agents rank #1 in pdf (2026-11-13).
-- **Kimi K3.1 Pro** — $2.0 in / $10.0 out per 1M tokens, 1048576 token context, best agents rank #3 in fullstack (2026-11-13).
-- **GPT-6.1 Sol** — $2.0 in / $10.0 out per 1M tokens, 1050000 token context, best agents rank #2 in blender3d (2026-11-13). Written up: https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html
-- **Gemini 3.1 Pro Preview** — $2.0 in / $12.0 out per 1M tokens, 1048576 token context, best agents rank #4 in agentichtmlslides (2026-11-13).
-- **Kimi K3 (batch)** — $2.28 in / $11.4 out per 1M tokens, 1048576 token context, best agents rank #3 in codetovideo (2026-11-13). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
-- **Claude Opus 4.5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 200000 token context, best agents rank #24 in androidnative (2026-11-13).
-- **Claude Opus 4.6 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #10 in spreadsheet (2026-11-13).
-- **Claude Opus 4.8 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-11-13).
-- **Claude Opus 5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in mobileapps (2026-11-13). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
-- **GPT-5.4** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #24 in godotgamedev (2026-11-13).
-- **GPT-5.5 (batch)** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #6 in agenticslides (2026-11-13).
-- **Claude Sonnet 4.5** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #37 in mobileapps (2026-11-13). Written up: https://spectracodeai.com/articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.html
-- **Claude Sonnet 4.6** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #7 in godotgamedev (2026-11-13).
-- **Claude Fable 5.2 (batch)** — $4.0 in / $20.0 out per 1M tokens, 1000000 token context, best agents rank #1 in fullstack (2026-11-13).
-- **Claude Opus 5.5** — $4.0 in / $20.0 out per 1M tokens, 1000000 token context, best agents rank #1 in androidnative (2026-11-13). Written up: https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html
-- **Muse Wonder** — $4.0 in / $20.0 out per 1M tokens, 1048576 token context, best agents rank #7 in codetovideo (2026-11-13).
-- **Claude Fable 5.1 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in godotgamedev (2026-11-13). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
-- **Claude Fable 5 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agentichtmlslides (2026-11-13). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
-- **Claude Opus 4.5** — $5.0 in / $25.0 out per 1M tokens, 200000 token context, best agents rank #24 in androidnative (2026-11-13).
-- **Claude Opus 4.6** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #10 in spreadsheet (2026-11-13).
-- **Claude Opus 4.8** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-11-13).
-- **Claude Opus 5** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in mobileapps (2026-11-13). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
-- **GPT-5.5** — $5.0 in / $30.0 out per 1M tokens, 1050000 token context, best agents rank #6 in agenticslides (2026-11-13).
-- **Claude Fable 5.2** — $8.0 in / $40.0 out per 1M tokens, 1000000 token context, best agents rank #1 in fullstack (2026-11-13).
-- **Claude Fable 5** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agentichtmlslides (2026-11-13). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
-- **Claude Fable 5.1** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in godotgamedev (2026-11-13). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
+- **GLM 5.2** — $0.007 in / $6.8 out per 1M tokens, 1048576 token context, best agents rank #9 in agenticgamedev (2026-11-14). Written up: https://spectracodeai.com/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html
+- **DeepSeek V4.1 Flash 1017** — $0.038 in / $0.5 out per 1M tokens, 1048576 token context, best agents rank #8 in spreadsheet (2026-11-14).
+- **DeepSeek V4.1 Flash 1017 (batch)** — $0.05 in / $0.15 out per 1M tokens, 1048576 token context, best agents rank #8 in spreadsheet (2026-11-14).
+- **GLM 5.3** — $0.084 in / $3.6 out per 1M tokens, 1048576 token context, best agents rank #2 in htmlslides (2026-11-14). Written up: https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html
+- **Solar Pro 4** — $0.15 in / $0.6 out per 1M tokens, 524288 token context, best agents rank #41 in webapps (2026-11-14).
+- **Kimi K3** — $0.192 in / $16.0 out per 1M tokens, 1048576 token context, best agents rank #3 in codetovideo (2026-11-14). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
+- **MiniMax M3 (batch)** — $0.224 in / $0.88 out per 1M tokens, 524288 token context, best agents rank #6 in pdf (2026-11-14). Written up: https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
+- **Gemini 3 Flash Preview (batch)** — $0.25 in / $1.5 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticslides (2026-11-14).
+- **MiniMax M3** — $0.3 in / $1.2 out per 1M tokens, 1048576 token context, best agents rank #6 in pdf (2026-11-14). Written up: https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
+- **GLM 5.2 (batch)** — $0.322 in / $0.989 out per 1M tokens, 1048576 token context, best agents rank #9 in agenticgamedev (2026-11-14). Written up: https://spectracodeai.com/articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.html
+- **Gemini 3.6 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #15 in androidnative (2026-11-14).
+- **Gemini 3.7 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #6 in godotgamedev (2026-11-14). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 3.8 Flash (batch)** — $0.375 in / $1.875 out per 1M tokens, 1048576 token context, best agents rank #5 in godotgamedev (2026-11-14).
+- **MiMo-V2.6-Pro** — $0.435 in / $0.87 out per 1M tokens, 1050000 token context, best agents rank #11 in webapps (2026-11-14).
+- **GLM 5.3 (batch)** — $0.45 in / $2.0 out per 1M tokens, 1048576 token context, best agents rank #2 in htmlslides (2026-11-14). Written up: https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html
+- **GLM 4.6** — $0.5 in / $2.0 out per 1M tokens, 204800 token context, best agents rank #15 in godotgamedev (2026-11-14).
+- **Kimi K2.5** — $0.5 in / $2.5 out per 1M tokens, 262144 token context, best agents rank #8 in godotgamedev (2026-11-14).
+- **Gemini 3 Flash Preview** — $0.5 in / $3.0 out per 1M tokens, 1048576 token context, best agents rank #8 in agenticslides (2026-11-14).
+- **GLM 4.7** — $0.6 in / $2.2 out per 1M tokens, 204800 token context, best agents rank #33 in godotgamedev (2026-11-14).
+- **Kimi K2.7 Code** — $0.6 in / $3.5 out per 1M tokens, 262144 token context, best agents rank #11 in htmlslides (2026-11-14).
+- **Kimi K2.6** — $0.65 in / $3.41 out per 1M tokens, 262144 token context, best agents rank #2 in agentichtmlslides (2026-11-14). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Kimi K3.1 Pro (batch)** — $0.7 in / $6.0 out per 1M tokens, 1048576 token context, best agents rank #3 in fullstack (2026-11-14).
+- **Gemini 3.6 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #15 in androidnative (2026-11-14).
+- **Gemini 3.7 Flash** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #6 in godotgamedev (2026-11-14). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 4 Hydrogen (batch)** — $0.75 in / $3.75 out per 1M tokens, 1048576 token context, best agents rank #13 in pdf (2026-11-14).
+- **Gemini 3.5 Flash (batch)** — $0.75 in / $4.5 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticslides(python-pptx) (2026-11-14).
+- **Gemini 3.8 Flash** — $0.825 in / $4.125 out per 1M tokens, 1048576 token context, best agents rank #5 in godotgamedev (2026-11-14).
+- **GPT-5.2 (batch)** — $0.875 in / $7.0 out per 1M tokens, 400000 token context, best agents rank #22 in godotgamedev (2026-11-14).
+- **DeepSeek V4 Pro 0423** — $0.9 in / $1.5 out per 1M tokens, 1048576 token context, best agents rank #32 in godotgamedev (2026-11-14).
+- **Grok 4.3 (batch)** — $1.0 in / $2.0 out per 1M tokens, 1000000 token context, best agents rank #8 in pptxslides (2026-11-14).
+- **GLM 5** — $1.0 in / $3.2 out per 1M tokens, 204800 token context, best agents rank #19 in godotgamedev (2026-11-14).
+- **Inkling** — $1.0 in / $4.05 out per 1M tokens, 524288 token context, best agents rank #29 in webapps (2026-11-14).
+- **Claude Sonnet 5.5 (batch)** — $1.0 in / $5.0 out per 1M tokens, 1000000 token context, best agents rank #2 in codetovideo (2026-11-14).
+- **Claude Sonnet 5 (batch)** — $1.0 in / $5.0 out per 1M tokens, 1000000 token context, best agents rank #8 in agenticgamedev (2026-11-14). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Gemini 4 Argon (batch)** — $1.0 in / $5.0 out per 1M tokens, 1048576 token context, best agents rank #1 in agenticgamedev (2026-11-14).
+- **Gemini 4 Carbon (batch)** — $1.0 in / $5.0 out per 1M tokens, 1048576 token context, best agents rank #1 in pdf (2026-11-14).
+- **GPT-6.1 Sol (batch)** — $1.0 in / $5.0 out per 1M tokens, 1050000 token context, best agents rank #2 in blender3d (2026-11-14). Written up: https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html
+- **Gemini 3.1 Pro Preview (batch)** — $1.0 in / $6.0 out per 1M tokens, 1048576 token context, best agents rank #4 in agentichtmlslides (2026-11-14).
+- **GLM 5V Turbo** — $1.2 in / $4.0 out per 1M tokens, 202752 token context, best agents rank #5 in agenticslides (2026-11-14).
+- **Grok 4.20** — $1.25 in / $2.5 out per 1M tokens, 2000000 token context, best agents rank #3 in htmlslides (2026-11-14).
+- **Grok 4.3** — $1.25 in / $2.5 out per 1M tokens, 1000000 token context, best agents rank #8 in pptxslides (2026-11-14).
+- **Muse Spark 1.1** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #12 in agenticgamedev (2026-11-14). Written up: https://spectracodeai.com/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html
+- **Muse Spark 1.2** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #13 in androidnative (2026-11-14).
+- **Muse Spark 1.3** — $1.25 in / $4.25 out per 1M tokens, 1048576 token context, best agents rank #2 in androidnative (2026-11-14).
+- **GPT-5.4 (batch)** — $1.25 in / $7.5 out per 1M tokens, 1050000 token context, best agents rank #24 in godotgamedev (2026-11-14).
+- **GPT-5.1-Codex** — $1.25 in / $10.0 out per 1M tokens, 400000 token context, best agents rank #22 in mobileapps (2026-11-14).
+- **GLM 5.1** — $1.4 in / $4.4 out per 1M tokens, 204800 token context, best agents rank #2 in agenticslides (2026-11-14).
+- **Qwen3.7 Max** — $1.475 in / $4.425 out per 1M tokens, 1000000 token context, best agents rank #16 in godotgamedev (2026-11-14). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Claude Sonnet 4.5 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #37 in mobileapps (2026-11-14). Written up: https://spectracodeai.com/articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.html
+- **Claude Sonnet 4.6 (batch)** — $1.5 in / $7.5 out per 1M tokens, 1000000 token context, best agents rank #7 in godotgamedev (2026-11-14).
+- **Gemini 4 Hydrogen** — $1.5 in / $7.5 out per 1M tokens, 1048576 token context, best agents rank #13 in pdf (2026-11-14).
+- **Gemini 3.5 Flash** — $1.5 in / $9.0 out per 1M tokens, 1048576 token context, best agents rank #2 in agenticslides(python-pptx) (2026-11-14).
+- **Grok 4.6 (batch)** — $1.6 in / $4.8 out per 1M tokens, 500000 token context, best agents rank #3 in androidnative (2026-11-14).
+- **Grok 4.7 (batch)** — $1.6 in / $4.8 out per 1M tokens, 500000 token context, best agents rank #2 in spreadsheet (2026-11-14).
+- **GPT-5.2** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #22 in godotgamedev (2026-11-14).
+- **GPT-5.2-Codex** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #19 in androidnative (2026-11-14).
+- **GPT-5.3-Codex** — $1.75 in / $14.0 out per 1M tokens, 400000 token context, best agents rank #27 in godotgamedev (2026-11-14).
+- **Grok 4.5** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #6 in agenticgamedev (2026-11-14).
+- **Grok 4.6** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #3 in androidnative (2026-11-14).
+- **Grok 4.7** — $2.0 in / $6.0 out per 1M tokens, 500000 token context, best agents rank #2 in spreadsheet (2026-11-14).
+- **Claude Opus 5.5 (batch)** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #1 in androidnative (2026-11-14). Written up: https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html
+- **Claude Sonnet 5** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #8 in agenticgamedev (2026-11-14). Written up: https://spectracodeai.com/articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.html
+- **Claude Sonnet 5.5** — $2.0 in / $10.0 out per 1M tokens, 1000000 token context, best agents rank #2 in codetovideo (2026-11-14).
+- **Gemini 4 Argon** — $2.0 in / $10.0 out per 1M tokens, 1048576 token context, best agents rank #1 in agenticgamedev (2026-11-14).
+- **Gemini 4 Carbon** — $2.0 in / $10.0 out per 1M tokens, 1048576 token context, best agents rank #1 in pdf (2026-11-14).
+- **Kimi K3.1 Pro** — $2.0 in / $10.0 out per 1M tokens, 1048576 token context, best agents rank #3 in fullstack (2026-11-14).
+- **GPT-6.1 Sol** — $2.0 in / $10.0 out per 1M tokens, 1050000 token context, best agents rank #2 in blender3d (2026-11-14). Written up: https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html
+- **Gemini 3.1 Pro Preview** — $2.0 in / $12.0 out per 1M tokens, 1048576 token context, best agents rank #4 in agentichtmlslides (2026-11-14).
+- **Kimi K3 (batch)** — $2.28 in / $11.4 out per 1M tokens, 1048576 token context, best agents rank #3 in codetovideo (2026-11-14). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
+- **Claude Opus 4.5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 200000 token context, best agents rank #24 in androidnative (2026-11-14).
+- **Claude Opus 4.6 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #11 in agenticgamedev (2026-11-14).
+- **Claude Opus 4.8 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-11-14).
+- **Claude Opus 5 (batch)** — $2.5 in / $12.5 out per 1M tokens, 1000000 token context, best agents rank #1 in mobileapps (2026-11-14). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
+- **GPT-5.4** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #24 in godotgamedev (2026-11-14).
+- **GPT-5.5 (batch)** — $2.5 in / $15.0 out per 1M tokens, 1050000 token context, best agents rank #6 in agenticslides (2026-11-14).
+- **Claude Sonnet 4.5** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #37 in mobileapps (2026-11-14). Written up: https://spectracodeai.com/articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.html
+- **Claude Sonnet 4.6** — $3.0 in / $15.0 out per 1M tokens, 1000000 token context, best agents rank #7 in godotgamedev (2026-11-14).
+- **Claude Fable 5.2 (batch)** — $4.0 in / $20.0 out per 1M tokens, 1000000 token context, best agents rank #1 in fullstack (2026-11-14).
+- **Claude Opus 5.5** — $4.0 in / $20.0 out per 1M tokens, 1000000 token context, best agents rank #1 in androidnative (2026-11-14). Written up: https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html
+- **Muse Wonder** — $4.0 in / $20.0 out per 1M tokens, 1048576 token context, best agents rank #6 in codetovideo (2026-11-14).
+- **Claude Fable 5.1 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in godotgamedev (2026-11-14). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
+- **Claude Fable 5 (batch)** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agentichtmlslides (2026-11-14). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
+- **Claude Opus 4.5** — $5.0 in / $25.0 out per 1M tokens, 200000 token context, best agents rank #24 in androidnative (2026-11-14).
+- **Claude Opus 4.6** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #11 in agenticgamedev (2026-11-14).
+- **Claude Opus 4.8** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agenticslides (2026-11-14).
+- **Claude Opus 5** — $5.0 in / $25.0 out per 1M tokens, 1000000 token context, best agents rank #1 in mobileapps (2026-11-14). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
+- **GPT-5.5** — $5.0 in / $30.0 out per 1M tokens, 1050000 token context, best agents rank #6 in agenticslides (2026-11-14).
+- **Claude Fable 5.2** — $8.0 in / $40.0 out per 1M tokens, 1000000 token context, best agents rank #1 in fullstack (2026-11-14).
+- **Claude Fable 5** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in agentichtmlslides (2026-11-14). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
+- **Claude Fable 5.1** — $10.0 in / $50.0 out per 1M tokens, 1000000 token context, best agents rank #1 in godotgamedev (2026-11-14). Written up: https://spectracodeai.com/articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.html
 
 ## DeepSeek peak / off-peak hours
 
@@ -312,15 +314,15 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [Claude](https://spectracodeai.com/providers/claude.html): 24 priced models and 40 figures from 17 write-ups.
 - [DeepSeek](https://spectracodeai.com/providers/deepseek.html): 33 figures from 11 write-ups.
 - [GLM](https://spectracodeai.com/providers/glm.html): 9 priced models and 13 figures from 8 write-ups.
+- [Gemini](https://spectracodeai.com/providers/gemini.html): 18 priced models and 1 figure from 1 write-up.
 - [GPT-5.6](https://spectracodeai.com/providers/gpt-5-6.html): 18 figures from 9 write-ups.
-- [Gemini](https://spectracodeai.com/providers/gemini.html): 16 priced models and 1 figure from 1 write-up.
 - [OpenAI](https://spectracodeai.com/providers/openai.html): 11 priced models and 4 figures from 4 write-ups.
 - [Fable 5](https://spectracodeai.com/providers/fable-5.html): 14 figures from 7 write-ups.
 - [Kimi](https://spectracodeai.com/providers/kimi.html): 7 priced models and 7 figures from 4 write-ups.
-- [WorkBuddy](https://spectracodeai.com/providers/workbuddy.html): 13 figures from 12 write-ups.
+- [WorkBuddy](https://spectracodeai.com/providers/workbuddy.html): 14 figures from 13 write-ups.
 - [BrowserAct](https://spectracodeai.com/providers/browseract.html): 12 figures from 12 write-ups.
 - [Klarna](https://spectracodeai.com/providers/klarna.html): 12 figures from 4 write-ups.
-- [Codex](https://spectracodeai.com/providers/codex.html): 9 figures from 5 write-ups.
+- [Codex](https://spectracodeai.com/providers/codex.html): 11 figures from 6 write-ups.
 - [ChatGPT](https://spectracodeai.com/providers/chatgpt.html): 6 figures from 6 write-ups.
 - [GPT-5](https://spectracodeai.com/providers/gpt-5.html): 6 figures from 5 write-ups.
 
@@ -328,11 +330,11 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 
 - [Indie Development](https://spectracodeai.com/topics/indie-development.html): 18 write-ups.
 - [Automation Systems](https://spectracodeai.com/topics/automation-systems.html): 16 write-ups.
-- [SaaS Business](https://spectracodeai.com/topics/saas-business.html): 12 write-ups.
+- [SaaS Business](https://spectracodeai.com/topics/saas-business.html): 13 write-ups.
 - [Niche Market](https://spectracodeai.com/topics/niche-market.html): 11 write-ups.
 - [Productivity](https://spectracodeai.com/topics/productivity.html): 11 write-ups.
+- [Artificial Intelligence](https://spectracodeai.com/topics/artificial-intelligence.html): 10 write-ups.
 - [AI Implementation](https://spectracodeai.com/topics/ai-implementation.html): 9 write-ups.
-- [Artificial Intelligence](https://spectracodeai.com/topics/artificial-intelligence.html): 9 write-ups.
 - [Development Tools](https://spectracodeai.com/topics/development-tools.html): 9 write-ups.
 - [AI](https://spectracodeai.com/topics/ai.html): 8 write-ups.
 - [AI Costs](https://spectracodeai.com/topics/ai-costs.html): 8 write-ups.
@@ -341,10 +343,10 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 - [Chinese AI](https://spectracodeai.com/topics/chinese-ai.html): 8 write-ups.
 - [Code Review](https://spectracodeai.com/topics/code-review.html): 7 write-ups.
 - [Cost Savings](https://spectracodeai.com/topics/cost-savings.html): 6 write-ups.
+- [Software Development](https://spectracodeai.com/topics/software-development.html): 6 write-ups.
 - [AI Automation](https://spectracodeai.com/topics/ai-automation.html): 5 write-ups.
 - [Developer Productivity](https://spectracodeai.com/topics/developer-productivity.html): 5 write-ups.
 - [Revenue Growth](https://spectracodeai.com/topics/revenue-growth.html): 5 write-ups.
-- [Software Development](https://spectracodeai.com/topics/software-development.html): 5 write-ups.
 - [AI Tools](https://spectracodeai.com/topics/ai-tools.html): 4 write-ups.
 - [Automation](https://spectracodeai.com/topics/automation.html): 4 write-ups.
 - [Indie Developer](https://spectracodeai.com/topics/indie-developer.html): 4 write-ups.
@@ -359,6 +361,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 
 - [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](https://spectracodeai.com/articles/the-cost-effective-guide-to-using-open-code-review-for-ai.html): Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both… Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/11 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/The-Cost-Effective-Guide-to-Using-Open-Code-Review-for-AI-Programming-Tools-08-19
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://spectracodeai.com/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html): Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/10 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19
+- [The Hidden Cost of AI Automation: Turning Human Instincts into Rules](https://spectracodeai.com/articles/the-hidden-cost-of-ai-automation-turning-human-instincts.html): This guide is for solo developers or small teams who’ve hit the wall with AI automation, where your agent writes clean code but fails to handle the fuzzy, human-like judgment calls in your workflow… Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/The-Hidden-Cost-of-AI-Automation-Turning-Human-Instincts-into-Rules-11-14
 - [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html): "DeepSeek V4.1 Flash is 3 yuan per million input tokens off-peak and 9 yuan output — cheap enough to run anything." That sentence is true on the price sheet. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/89 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/The-Listed-Price-Is-a-Lie-What-DeepSeeks-PeakOff-Peak-Pricing-Rate-Limit-Windows-and-Permanent-Credits-Actually-Cost-Per-Task-11-13
 - [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](https://spectracodeai.com/articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.html): In January 2026, an indie developer shipped an iOS app using Claude Code as the primary development assistant, letting the agent handle everything from backend API design to the SwiftUI frontend. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/88 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/Shipping-a-SwiftUI-App-with-AI-Where-It-Shines-and-Where-It-Crashes-11-11
 - [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](https://spectracodeai.com/articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.html): This checklist is for developers who run DeepSeek V4.1 Flash inside a coding agent, direct or through OpenCode Go, and want a monthly bill they can defend. Same piece with a reply box: https://github.com/xyzs996/llm-api-pricing/discussions/87 Mirrored as plain static HTML, no account and no scripts: https://telegra.ph/What-DeepSeek-V41-Flash-Really-Costs-Per-Month-A-Five-Step-Checklist-11-10

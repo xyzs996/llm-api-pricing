@@ -1,6 +1,6 @@
 # Codex costs and claims: every figure from a sentence that names it
 
-9 of the 769 figures in these field notes come from a sentence that names Codex. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+11 of the 790 figures in these field notes come from a sentence that names Codex. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about Codex and some only measure against it — a competitor's price quoted next to Codex's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -8,6 +8,8 @@ Some of these are about Codex and some only measure against it — a competitor'
 
 ## The figures
 
+- **60%** — “For rider recruitment, this meant focusing on repetitive actions like resume browsing and initial outreach, which is where the team, using Codex, developed a tool that iterated 28 times before it was able to achieve a 60% efficiency increase in public domain recruitment tasks — the same repetitive work of resume browsing and initial outreach that had been the focus from the start.” (2026-11-14) [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
+- **3 hours** — “A zero-experience developer slashed mini-program development from a week to just 3 hours by feeding AI tools like Codex or WorkBuddy with 5 checkpoint flowcharts and a clear requirement doc.” (2026-11-14) [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 - **$40,000 per month** — “One Reddit poster said their company spends $40,000–$50,000 a month on Codex and Claude across very large codebases.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - **70%** — “Headline: 70% Cheaper AI Coding: How I Bypassed Codex’s 5-Hour Limit” (2026-09-30) [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - **5-hour** — “If you're hitting the 5-hour Codex limit like clockwork every day, stop counting minutes.” (2026-09-30) [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
@@ -18,21 +20,22 @@ Some of these are about Codex and some only measure against it — a competitor'
 - **5-hour** — “In one case, GPT-6 Astra running a small tool directly in Codex used up a 5-hour quota in 2 minutes 41 seconds.” (2026-09-14) [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **4 hours** — “He used OpenAI Codex's Record & Replay to automate monthly report generation, taking it from 4 hours to a few minutes.” (2026-08-05) [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
-[All 769 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 790 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
-## Where these 9 came from
+## Where these 11 came from
 
 - [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
 - [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/81) · [telegra.ph](https://telegra.ph/Bypass-Codex-Rate-Limits-The-Local-Proxy-Path-to-70-Cost-Savings-09-30)
 - [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](../articles/how-chinese-developers-are-using-codex-record-replay-to.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/25) · [telegra.ph](https://telegra.ph/How-Chinese-Developers-Are-Using-Codex-Record--Replay-to-Streamline-Repetitive-Workflows-08-19)
 - [How to Turn the Workflows You Won't Document Into Agent Skills](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/71) · [telegra.ph](https://telegra.ph/How-to-Turn-the-Workflows-You-Wont-Document-Into-Agent-Skills-09-14)
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
+- [The Hidden Cost of AI Automation: Turning Human Instincts into Rules](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md) · [telegra.ph](https://telegra.ph/The-Hidden-Cost-of-AI-Automation-Turning-Human-Instincts-into-Rules-11-14)
 
 **Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.
 
 **A Codex figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=Codex). The form already knows it is about Codex.
 
-**Or is one of the 9 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=Codex&title=%5Bcorrection%5D+Codex) — the form already knows it is about Codex; you only have to say what the number is now.
+**Or is one of the 11 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=Codex&title=%5Bcorrection%5D+Codex) — the form already knows it is about Codex; you only have to say what the number is now.
 
 ---
 

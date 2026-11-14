@@ -65,9 +65,9 @@ Stability and transparency are likely to improve over time. The recent updates t
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All 70 write-ups](../README.md)
+[All 71 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 766 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 787 more, as JSON and CSV.
 
 Topics: [Development Tools](../topics/development-tools.md) · [Chinese AI](../topics/chinese-ai.md)
 

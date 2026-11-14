@@ -4,8 +4,16 @@
   <id>https://spectracodeai.com/</id>
   <link href="https://spectracodeai.com/"/>
   <link rel="self" href="https://spectracodeai.com/feed.xml"/>
-  <updated>2026-11-13T07:29:00Z</updated>
+  <updated>2026-11-14T11:49:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>The Hidden Cost of AI Automation: Turning Human Instincts into Rules</title>
+    <link href="https://spectracodeai.com/articles/the-hidden-cost-of-ai-automation-turning-human-instincts.html"/>
+    <id>https://spectracodeai.com/articles/the-hidden-cost-of-ai-automation-turning-human-instincts.html</id>
+    <updated>2026-11-14T11:49:00Z</updated>
+    <published>2026-11-14T11:49:00Z</published>
+    <summary>This guide is for solo developers or small teams who’ve hit the wall with AI automation, where your agent writes clean code but fails to handle the fuzzy, human-like judgment calls in your workflow…</summary>
+  </entry>
   <entry>
     <title>The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task</title>
     <link href="https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html"/>

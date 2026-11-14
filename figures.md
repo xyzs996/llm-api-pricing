@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-769 figures pulled out of 70 write-ups in
+790 figures pulled out of 71 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,34 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://sp
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [The Hidden Cost of AI Automation: Turning Human Instincts into Rules](https://spectracodeai.com/articles/the-hidden-cost-of-ai-automation-turning-human-instincts.html)
+
+Published 2026-11-14.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `1 hour` | duration | Non-coders have automated bid monitoring, reducing work from 1 hour to 15 minutes using AI agents, but only after codifying those intuitive judgments. |
+| `15 minutes` | duration | Non-coders have automated bid monitoring, reducing work from 1 hour to 15 minutes using AI agents, but only after codifying those intuitive judgments. |
+| `60 minutes` | duration | For example, in bid monitoring, the agent doesn’t just need to scrape data—it needs to know which bids matter, which is why a non-coder was able to reduce their daily monitoring from 60 minutes to 15 after defining clear criteria for what constituted a bid worth tracking and then letting the agent filter based on those. |
+| `90 minutes` | duration | Similarly, a CLI tool called quickStart cuts 30–90 minutes of pre-development back-and-forth by converting rough ideas into SPEC.md files through interactive interviews, proving that explicit rules save more time than clever algorithms. <!-- [doc_2b1517c75ece783d9315f676a53b1293] --> I buy the ClearSpec flow. |
+| `60%` | percent | A delivery driver recruitment team built a stable automation workflow by breaking down daily tasks into verifiable steps and iterating 28 times, achieving a 60% efficiency boost in repetitive operations. |
+| `215 minutes` | duration | Another creator turned a manual public account workflow into an automated pipeline by standardizing inputs and outputs, cutting human effort from 115–215 minutes to just 11 minutes of machine runtime plus 10–20 minutes of review. |
+| `11 minutes` | duration | Another creator turned a manual public account workflow into an automated pipeline by standardizing inputs and outputs, cutting human effort from 115–215 minutes to just 11 minutes of machine runtime plus 10–20 minutes of review. |
+| `20 minutes` | duration | Another creator turned a manual public account workflow into an automated pipeline by standardizing inputs and outputs, cutting human effort from 115–215 minutes to just 11 minutes of machine runtime plus 10–20 minutes of review. |
+| `90%` | percent | This 80–90% reduction came from codifying rules for material sorting, AI taste checks, cover generation, HTML formatting, and publishing. |
+| `60%` | percent | For rider recruitment, this meant focusing on repetitive actions like resume browsing and initial outreach, which is where the team, using Codex, developed a tool that iterated 28 times before it was able to achieve a 60% efficiency increase in public domain recruitment tasks — the same repetitive work of resume browsing and initial outreach that had been the focus from the start. |
+| `60 minutes` | duration | This allowed an AI agent to compress the workflow from 60 minutes to 15 minutes without sacrificing accuracy. |
+| `15 minutes` | duration | This allowed an AI agent to compress the workflow from 60 minutes to 15 minutes without sacrificing accuracy. |
+| `60-minute` | duration | The 60-minute claim misses for me. |
+| `70%` | percent | For content creation workflows like WeChat articles, 70% of the work was repetitive labor—organizing materials, generating thumbnails, or formatting. |
+| `215 minutes` | duration | Manual time dropped from 115–215 minutes to ~11 minutes (machine) + 10–20 minutes (human review) by applying these questions to each step. |
+| `11 minutes` | duration | Manual time dropped from 115–215 minutes to ~11 minutes (machine) + 10–20 minutes (human review) by applying these questions to each step. |
+| `20 minutes` | duration | Manual time dropped from 115–215 minutes to ~11 minutes (machine) + 10–20 minutes (human review) by applying these questions to each step. |
+| `3 hours` | duration | A zero-experience developer slashed mini-program development from a week to just 3 hours by feeding AI tools like Codex or WorkBuddy with 5 checkpoint flowcharts and a clear requirement doc. |
+| `60%` | percent | Each iteration should focus on a single closed loop, such as "send 10 messages/hour." Efficiency gains (60%) come from incremental improvements, not breakthroughs. |
+| `215 minutes` | duration | The initial manual process (115–215 minutes) was reduced to ~30 minutes total (machine + human). |
+| `30 minutes` | duration | The initial manual process (115–215 minutes) was reduced to ~30 minutes total (machine + human). |
 
 ## [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](https://spectracodeai.com/articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.html)
 
@@ -1314,5 +1342,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "769 figures pulled out of 70 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-13", "dateModified": "2026-11-13"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "790 figures pulled out of 71 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-14", "dateModified": "2026-11-14"}
 </script>

@@ -1,12 +1,12 @@
 # OpenAI API pricing: what 11 models cost a coding agent
 
-Every OpenAI model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-13**.
+Every OpenAI model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-14**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep OpenAI discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What OpenAI charges per million tokens
 
-11 OpenAI models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-13**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+11 OpenAI models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-14**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **OpenAI does not have one cache-read rate — it has 3.** Across 11 rows the discount runs from 5.0% to 10.4% of that row's own input price (5%, 10%, 10.4%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, OpenAI's list input price overstates what an agent pays by a median **6.5×** (range 6.1×–9.7×).
 
@@ -19,7 +19,7 @@ Every OpenAI model in the catalog that has been ranked in an agent category, pri
 | **$0.103** | $1.00 | $0.05 | $5.00 | [GPT-6.1 Sol](https://openrouter.ai/openai/gpt-6.1-sol:batch) `batch` | 1.1M | $2.00 past 272k | #2 blender3d |
 | **$0.1396** | $0.875 | $0.0875 | $7.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2:batch) `batch` | 400K | — | #22 godotgamedev |
 | **$0.1922** | $1.25 | $0.125 | $7.50 | [GPT-5.4](https://openrouter.ai/openai/gpt-5.4:batch) `batch` | 1.1M | $2.50 past 272k | #24 godotgamedev |
-| **$0.2042** | $1.25 | $0.13 | $10.00 | [GPT-5.1-Codex](https://openrouter.ai/openai/gpt-5.1-codex) | 400K | — | #23 mobileapps |
+| **$0.2042** | $1.25 | $0.13 | $10.00 | [GPT-5.1-Codex](https://openrouter.ai/openai/gpt-5.1-codex) | 400K | — | #22 mobileapps |
 | **$0.206** | $2.00 | $0.10 | $10.00 | [GPT-6.1 Sol](https://openrouter.ai/openai/gpt-6.1-sol) | 1.1M | $4.00 past 272k | #2 blender3d |
 | **$0.2792** | $1.75 | $0.175 | $14.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2) | 400K | — | #22 godotgamedev |
 | **$0.2792** | $1.75 | $0.175 | $14.00 | [GPT-5.2-Codex](https://openrouter.ai/openai/gpt-5.2-codex) | 400K | — | #19 androidnative |
@@ -39,7 +39,7 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | --- | --- | --- | --- | --- |
 | xiaomi | 1 | 0.8% | 18.4× | $0.0237 |
 | Claude | 24 | 2.5–10% | 6.6× | $0.206 |
-| Gemini | 16 | 5–10% | 6.6× | $0.0769 |
+| Gemini | 18 | 5–10% | 6.6× | $0.0769 |
 | **OpenAI** | 11 | 5–10.4% | 6.5× | $0.2042 |
 | Llama | 4 | 5–12% | 6.0× | $0.2067 |
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
@@ -65,7 +65,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 - **$0.19 per million tokens** — “Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - **4 hours** — “He used OpenAI Codex's Record & Replay to automate monthly report generation, taking it from 4 hours to a few minutes.” (2026-08-05) [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
-[All 769 figures, every kind](../figures.md)
+[All 790 figures, every kind](../figures.md)
 
 - [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/66) · [telegra.ph](https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)

@@ -1,6 +1,6 @@
 # AI Programming
 
-8 of the 70 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 71 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$0.028** — With DeepSeek V4 Flash priced at just $0.028 per million tokens, developers can assign lightweight tasks like boilerplate generation or syntax checking to this model, reserving higher-cost models for nuanced logic or debugging. [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - **$0.028** — One developer swapped their default backend for DeepSeek V4 Flash and saw API costs drop to just $0.028 per million tokens. [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 
-[All figures, 769 rows](../figures.md)
+[All figures, 790 rows](../figures.md)
 
 ## The write-ups
 
@@ -67,7 +67,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 71 write-ups](../README.md)
 
 ---
 

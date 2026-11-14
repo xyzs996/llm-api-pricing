@@ -1,6 +1,6 @@
 # AI Costs
 
-8 of the 70 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 71 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **900 million tokens** — The free allocation is what people notice, since 900 million tokens is well beyond what most competing tools give away and beyond what a solo developer exhausts in normal work. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - **80 percent** — Track consumption from the first week rather than from the first warning at 80 percent. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
-[All figures, 769 rows](../figures.md)
+[All figures, 790 rows](../figures.md)
 
 ## The write-ups
 
@@ -67,7 +67,7 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 ---
 
-[All 70 write-ups](../README.md)
+[All 71 write-ups](../README.md)
 
 ---
 

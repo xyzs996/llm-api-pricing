@@ -1,12 +1,12 @@
 # GLM API pricing: what 9 models cost a coding agent
 
-Every GLM model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-13**.
+Every GLM model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-14**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep GLM discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What GLM charges per million tokens
 
-9 GLM models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-13**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+9 GLM models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-14**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **GLM does not have one cache-read rate — it has 7.** Across 9 rows the discount runs from 18.3% to 94.0% of that row's own input price. So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, GLM's list input price overstates what an agent pays by a median **4.1×** (range 0.3×–4.4×).
 
@@ -14,10 +14,10 @@ Every GLM model in the catalog that has been ranked in an agent category, priced
 
 | $ / 1M at agent mix | $ in / 1M | $ cache read / 1M | $ out / 1M | Model | Context | Long-context step | Best agents rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **$0.0257** | $0.007 | $0.006 | $6.80 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | — | #8 pdf |
+| **$0.0257** | $0.007 | $0.006 | $6.80 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2) | 1M | — | #9 agenticgamedev |
 | **$0.0894** | $0.084 | $0.079 | $3.60 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3) | 1M | — | #2 htmlslides |
-| **$0.1114** | $0.298 | $0.101 | $0.916 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2:batch) `batch` | 1M | — | #8 pdf |
 | **$0.1198** | $0.45 | $0.10 | $2.00 | [GLM 5.3](https://openrouter.ai/z-ai/glm-5.3:batch) `batch` | 1M | — | #2 htmlslides |
+| **$0.1202** | $0.322 | $0.109 | $0.989 | [GLM 5.2](https://openrouter.ai/z-ai/glm-5.2:batch) `batch` | 1M | — | #9 agenticgamedev |
 | **$0.1218** | $0.50 | $0.10 | $2.00 | [GLM 4.6](https://openrouter.ai/z-ai/glm-4.6) | 204K | — | #15 godotgamedev |
 | **$0.136** | $0.60 | $0.11 | $2.20 | [GLM 4.7](https://openrouter.ai/z-ai/glm-4.7) | 204K | — | #33 godotgamedev |
 | **$0.2413** | $1.00 | $0.20 | $3.20 | [GLM 5](https://openrouter.ai/z-ai/glm-5) | 204K | — | #19 godotgamedev |
@@ -35,7 +35,7 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | --- | --- | --- | --- | --- |
 | xiaomi | 1 | 0.8% | 18.4× | $0.0237 |
 | Claude | 24 | 2.5–10% | 6.6× | $0.206 |
-| Gemini | 16 | 5–10% | 6.6× | $0.0769 |
+| Gemini | 18 | 5–10% | 6.6× | $0.0769 |
 | OpenAI | 11 | 5–10.4% | 6.5× | $0.2042 |
 | Llama | 4 | 5–12% | 6.0× | $0.2067 |
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
@@ -70,7 +70,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 - **45.2%** — “GLM-5.1 does the same: sort by input and you take GMICloud, and pay 45.2% over Chutes.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 - **10.00%** — “Now the other side. z-ai's GLM-5.1 is served by seventeen hosts, cache read ratios running 10.00% to 50.42%.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 
-[All 769 figures, every kind](../figures.md)
+[All 790 figures, every kind](../figures.md)
 
 - [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
 - [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/81) · [telegra.ph](https://telegra.ph/Bypass-Codex-Rate-Limits-The-Local-Proxy-Path-to-70-Cost-Savings-09-30)
