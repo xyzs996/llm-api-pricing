@@ -71,7 +71,7 @@ The system reads local project directories and applies modifications directly to
 
 [All 71 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 789 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 791 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md)
 

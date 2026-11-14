@@ -73,7 +73,7 @@ The takeaway from the 27 cases is not that you should use all five. It is that t
 
 [All 71 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 776 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 778 more, as JSON and CSV.
 
 Topics: [AI Automation](../topics/ai-automation.md) · [Indie Developer](../topics/indie-developer.md) · [Micro SaaS](../topics/micro-saas.md)
 

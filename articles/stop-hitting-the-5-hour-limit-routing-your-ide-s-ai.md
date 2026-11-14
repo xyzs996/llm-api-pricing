@@ -77,7 +77,7 @@ You should treat AI as a modular service rather than a monolithic solution. Use 
 
 [All 71 write-ups](../README.md)
 
-The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 782 more, as JSON and CSV.
+The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 784 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Development Tools](../topics/development-tools.md) · [Programming](../topics/programming.md)
 

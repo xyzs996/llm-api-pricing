@@ -112,7 +112,7 @@ It’s having the discipline to say no.
 
 [All 71 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 772 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 774 more, as JSON and CSV.
 
 Topics: [SEO](../topics/seo.md)
 

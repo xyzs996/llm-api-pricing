@@ -85,7 +85,7 @@ Establish clear task boundaries within your AI product. This involves determinin
 
 [All 71 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 783 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 785 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md) · [Code Review](../topics/code-review.md)
 

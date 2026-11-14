@@ -114,7 +114,7 @@ AI Agents · Indie Hackers · Automation · Developer Productivity · Workflow �
 
 [All 71 write-ups](../README.md)
 
-The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 778 more, as JSON and CSV.
+The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 780 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [AI Features](../topics/ai-features.md) · [Code Review](../topics/code-review.md) · [Cost Savings](../topics/cost-savings.md)
 

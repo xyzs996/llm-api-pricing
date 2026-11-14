@@ -4,8 +4,8 @@
 
 ## The figures
 
-- **$20** — Financial Datasets sells a $20 one-time credit pack, with Build at $200/month and Scale at $2,000/month. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
-- **$17** — Refero's Pro subscription is $17/month or $120/year, with commercial documents at $0.001 per request and a $2,000 minimum commitment. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- **$3** — For an agent doing email, calendar, and research, one developer's monthly bill came to roughly $3–5 on V4 Flash against $200–260 on Opus 4.7. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- **$10** — OpenCode Go users pay $10/month and receive $60 of DeepSeek V4.1 Flash usage credit that never expires — up from the original $30/month allotment, upgraded in Phase 2 to $60 and kept long-term. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - **9x** — Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **10,000 tokens** — Long coding sessions push entire directory trees into the prompt on every iteration, so gateways have started applying compression algorithms such as RTK and Caveman, which OmniRoute reports can shrink 10,000 tokens to 1,080. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **$4 million** — Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
@@ -13,7 +13,7 @@
 - **900 million tokens** — The free allocation is what people notice, since 900 million tokens is well beyond what most competing tools give away and beyond what a solo developer exhausts in normal work. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 - **80 percent** — Track consumption from the first week rather than from the first warning at 80 percent. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
-[All figures, 790 rows](../figures.md)
+[All figures, 792 rows](../figures.md)
 
 ## The write-ups
 

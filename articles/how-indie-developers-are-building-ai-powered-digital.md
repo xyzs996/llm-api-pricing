@@ -85,7 +85,7 @@ In those setups the person you talk to is the owner, the operator, and the one h
 
 [All 71 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 776 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 778 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md)
 

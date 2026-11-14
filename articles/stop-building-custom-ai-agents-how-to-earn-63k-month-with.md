@@ -61,7 +61,7 @@ Shifting to micro-automation tools effectively addresses real, high-frequency pa
 
 [All 71 write-ups](../README.md)
 
-The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 778 more, as JSON and CSV.
+The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 780 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md) · [Artificial Intelligence](../topics/artificial-intelligence.md)
 

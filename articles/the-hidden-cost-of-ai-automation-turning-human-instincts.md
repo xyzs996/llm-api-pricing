@@ -17,8 +17,8 @@ The real bottleneck in AI automation isn’t the code—it’s defining the impl
 For example, in bid monitoring, the agent doesn’t just need to scrape data—it needs to know *which bids matter*, which is why a non-coder was able to reduce their daily monitoring from 60 minutes to 15 after defining clear criteria for what constituted a bid worth tracking and then letting the agent filter based on those. Without that rule, the agent just churns out noise.
 
 Independent developers often split tasks by model strengths to avoid context switching, using Claude Code for product discussions, Codex for targeted execution, and Kimi for precise, low-latency tasks — a division that prevents agent stalls but requires manual judgment of task categories, which itself is a rule that needs codification.
-Tools like ClearSpec show how structured outputs—user stories, edge cases, security gaps, and acceptance criteria—transform vague ideas into executable tasks, closing the rule gap before coding even starts. <!-- [doc_349e4eb84c99b7710c4285c49e0be7e1] -->
-Similarly, a CLI tool called quickStart cuts 30–90 minutes of pre-development back-and-forth by converting rough ideas into SPEC.md files through interactive interviews, proving that explicit rules save more time than clever algorithms. <!-- [doc_2b1517c75ece783d9315f676a53b1293] --> I buy the ClearSpec flow.
+Tools like ClearSpec show how structured outputs—user stories, edge cases, security gaps, and acceptance criteria—transform vague ideas into executable tasks, closing the rule gap before coding even starts.
+Similarly, a CLI tool called quickStart cuts 30–90 minutes of pre-development back-and-forth by converting rough ideas into SPEC.md files through interactive interviews, proving that explicit rules save more time than clever algorithms. I buy the ClearSpec flow.
 
 A delivery driver recruitment team built a stable automation workflow by breaking down daily tasks into verifiable steps and iterating 28 times, achieving a 60% efficiency boost in repetitive operations. Their key lesson was focusing on one closed loop at a time—such as classifying candidates or sending initial messages—rather than attempting to automate the entire process at once.
 Another creator turned a manual public account workflow into an automated pipeline by standardizing inputs and outputs, cutting human effort from 115–215 minutes to just 11 minutes of machine runtime plus 10–20 minutes of review. This 80–90% reduction came from codifying rules for material sorting, AI taste checks, cover generation, HTML formatting, and publishing. I prefer the 28 iterations.
@@ -48,7 +48,7 @@ Similarly, a creator building a "knowledge hand-drawn" tool repositioned its val
 
 Dynamic web elements—shifting button positions, pop-ups, or delayed loads—are the #1 stability killer for page-interaction agents. The core issue isn’t generating replies but reliably locating and interacting with elements. Solutions like adding page state recognition, task status logging, and post-operation verification helped mitigate failures. Tools like Codex required explicit rules for handling these edge cases.
 
-Without structured specs, AI-generated code becomes unmaintainable. Lack of documentation for key decisions (e.g., database schema choices) leads to technical debt. ClearSpec addresses this by generating structured specs with user stories, edge cases, and acceptance criteria. <!-- [doc_80c252b409abd58a52cc62149ee4067e] -->
+Without structured specs, AI-generated code becomes unmaintainable. Lack of documentation for key decisions (e.g., database schema choices) leads to technical debt. ClearSpec addresses this by generating structured specs with user stories, edge cases, and acceptance criteria.
 
 A zero-experience developer slashed mini-program development from a week to just 3 hours by feeding AI tools like Codex or WorkBuddy with 5 checkpoint flowcharts and a clear requirement doc. The AI then guided them through registration, requirement validation, filing, feature testing, and approval—key steps that previously stalled independent creators.
 
@@ -93,7 +93,7 @@ Building a reliable AI Agent requires defining its goal, boundaries, tools, and 
 
 [All 71 write-ups](../README.md)
 
-The 21 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 769 more, as JSON and CSV.
+The 21 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 771 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Software Development](../topics/software-development.md)
 

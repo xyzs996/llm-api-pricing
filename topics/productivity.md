@@ -13,7 +13,7 @@
 - **30%** — The Agency Agents project keeps 232 structured expert persona files, each one pinning down an identity, a workflow, a delivery standard and a definition of success; the project claims over 30% better output across the 14 AI tools it supports. [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 - **$24,000** — One watched competitor prices, one produced ad creative, one answered customer mail, and together they pulled 170,000 yuan a month out of them, somewhere near $24,000. [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 
-[All figures, 790 rows](../figures.md)
+[All figures, 792 rows](../figures.md)
 
 ## The write-ups
 

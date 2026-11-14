@@ -102,7 +102,7 @@ This system worked because it was narrow, monitored, and built to fail safely. Y
 
 [All 71 write-ups](../README.md)
 
-The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 777 more, as JSON and CSV.
+The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 779 more, as JSON and CSV.
 
 Topics: [AI](../topics/ai.md)
 

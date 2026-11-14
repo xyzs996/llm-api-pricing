@@ -11,7 +11,7 @@
 - **$22,000** — The organic channel that produced $22,000 a month is running at roughly half the traffic a million-dollar year would need, and it took three months to get there. [→](../articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 - **$1.2 million** — StoryShort was listed at $1.2 million, about 4.4 times annual revenue, at a point when its most recent thirty days were running 11% below the thirty before them. [→](../articles/the-22k-a-month-ai-tool-that-never-bought-a-single-ad.md)
 
-[All figures, 790 rows](../figures.md)
+[All figures, 792 rows](../figures.md)
 
 ## The write-ups
 

@@ -110,7 +110,7 @@ You’re not replacing Codex. You’re upgrading your control over it.
 
 [All 71 write-ups](../README.md)
 
-The 22 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 768 more, as JSON and CSV.
+The 22 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 770 more, as JSON and CSV.
 
 Topics: [Development Tools](../topics/development-tools.md) · [AI Programming](../topics/ai-programming.md) · [Developer Productivity](../topics/developer-productivity.md)
 

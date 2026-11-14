@@ -77,7 +77,7 @@ Build the connector layer, charge for volume rather than seats, and keep a perso
 
 [All 71 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 789 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 791 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [SaaS Business](../topics/saas-business.md) · [Revenue Growth](../topics/revenue-growth.md)
 

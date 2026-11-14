@@ -92,7 +92,7 @@ Enterprises don't apply to me.
 
 [All 71 write-ups](../README.md)
 
-The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 784 more, as JSON and CSV.
+The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 786 more, as JSON and CSV.
 
 Topics: [AI Automation](../topics/ai-automation.md)
 

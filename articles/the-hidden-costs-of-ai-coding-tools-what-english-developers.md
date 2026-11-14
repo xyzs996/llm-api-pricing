@@ -67,7 +67,7 @@ Stability and transparency are likely to improve over time. The recent updates t
 
 [All 71 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 787 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 789 more, as JSON and CSV.
 
 Topics: [Development Tools](../topics/development-tools.md) · [Chinese AI](../topics/chinese-ai.md)
 

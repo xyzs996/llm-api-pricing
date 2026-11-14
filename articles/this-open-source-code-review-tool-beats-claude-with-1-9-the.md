@@ -69,7 +69,7 @@ This isn’t about picking a “better model.” It’s about designing a better
 
 [All 71 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 785 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 787 more, as JSON and CSV.
 
 Topics: [Code Review](../topics/code-review.md)
 

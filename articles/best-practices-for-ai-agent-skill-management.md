@@ -73,7 +73,7 @@ Another advantageous tool is OpenWorker. It automates tasks across 25+ tools. Ho
 
 [All 71 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 779 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 781 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md) · [AI Programming](../topics/ai-programming.md)
 

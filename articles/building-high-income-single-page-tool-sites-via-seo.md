@@ -56,7 +56,7 @@ Matching your domain and content to user search intents, optimizing your content
 
 [All 71 write-ups](../README.md)
 
-The 22 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 768 more, as JSON and CSV.
+The 22 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 770 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md) · [SEO](../topics/seo.md)
 

@@ -85,7 +85,7 @@ Independent developers use reusable AI skills through Record & Replay or Codex a
 
 [All 71 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 785 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 787 more, as JSON and CSV.
 
 Topics: [AI Tools](../topics/ai-tools.md)
 

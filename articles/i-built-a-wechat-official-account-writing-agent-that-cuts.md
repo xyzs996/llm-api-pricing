@@ -54,7 +54,7 @@ One key lesson is to avoid over-automating by focusing only on nodes that truly 
 
 [All 71 write-ups](../README.md)
 
-The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 778 more, as JSON and CSV.
+The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 780 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [AI Automation](../topics/ai-automation.md)
 

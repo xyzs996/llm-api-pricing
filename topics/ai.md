@@ -4,16 +4,16 @@
 
 ## The figures
 
-- **90 minutes** — This approach saves 30 to 90 minutes of upfront explanation time before an AI agent starts writing useful code. <!-- [doc_2b1517c75ece783d9315f676a53b1293] --> If you define the boundaries of your SwiftUI app in a spec file first, the agent has a map to follow, and you stop wasting tokens re-explaining what your app does. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
-- **$80** — In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. <!-- [doc_78142061038fcf3b0dc3bc6300aa637e] --> For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI. <!-- [doc_cc86eaf999acb3e8d528d41b7a56f392] --> This kind of speed shift creates entirely new testing ground for product ideas, allowing devs to validate a niche use case in a single weekend instead of burning through months of savings on a half-baked build. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
-- **$30** — It started as $30 a month, was raised to $60 in "Phase 2", and was kept long-term. <!-- [doc_aca61ff73451846f75e14d9e94317695] --> But dollars of quota are not tokens. [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
+- **4-year** — For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
+- **$80** — In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
+- **$3** — The Reddit forecast was $3-5 a month for three light agents, and GLM-4-Flash's 20M free tokens don't expire, while DeepSeek's sign-up grant of 10M tokens (2026-05-02 article) was valid for only 30 days. [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 - **$3** — A Reddit poster on 2026-04-28 guessed about $3-5 a month for three agents doing email, calendar and research on V4 Flash, against $200-260 for Opus 4.7. [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 - **$7,600** — An AI crypto trading bot reportedly made $7,600 in a week.” That line gets clicks. [→](../articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md)
 - **$100** — The real story isn’t the profit — it’s the cost: under $100 in API fees. [→](../articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md)
 - **30%** — The Agency Agents project keeps 232 structured expert persona files, each one pinning down an identity, a workflow, a delivery standard and a definition of success; the project claims over 30% better output across the 14 AI tools it supports. [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 - **$24,000** — One watched competitor prices, one produced ad creative, one answered customer mail, and together they pulled 170,000 yuan a month out of them, somewhere near $24,000. [→](../articles/stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 
-[All figures, 790 rows](../figures.md)
+[All figures, 792 rows](../figures.md)
 
 ## The write-ups
 

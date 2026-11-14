@@ -13,7 +13,7 @@
 - **$500** — You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 - **$3,000** — High-ticket services in low-competition cities often sit at the $3,000 end for websites that actually deliver customers. [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 
-[All figures, 790 rows](../figures.md)
+[All figures, 792 rows](../figures.md)
 
 ## The write-ups
 

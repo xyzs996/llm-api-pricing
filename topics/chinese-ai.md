@@ -4,16 +4,16 @@
 
 ## The figures
 
-- **$20** — Financial Datasets sells a $20 one-time credit pack, with Build at $200/month and Scale at $2,000/month. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
-- **$17** — Refero's Pro subscription is $17/month or $120/year, with commercial documents at $0.001 per request and a $2,000 minimum commitment. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
-- **$30** — It started as $30 a month, was raised to $60 in "Phase 2", and was kept long-term. <!-- [doc_aca61ff73451846f75e14d9e94317695] --> But dollars of quota are not tokens. [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
+- **$3** — For an agent doing email, calendar, and research, one developer's monthly bill came to roughly $3–5 on V4 Flash against $200–260 on Opus 4.7. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- **$10** — OpenCode Go users pay $10/month and receive $60 of DeepSeek V4.1 Flash usage credit that never expires — up from the original $30/month allotment, upgraded in Phase 2 to $60 and kept long-term. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- **$3** — The Reddit forecast was $3-5 a month for three light agents, and GLM-4-Flash's 20M free tokens don't expire, while DeepSeek's sign-up grant of 10M tokens (2026-05-02 article) was valid for only 30 days. [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 - **$3** — A Reddit poster on 2026-04-28 guessed about $3-5 a month for three agents doing email, calendar and research on V4 Flash, against $200-260 for Opus 4.7. [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
-- **$3** — Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1 <!-- [doc_41a4c25e26655d9dc1ddafedda28748b] -->. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
-- **$3** — One Reddit user estimated that three agents handling email, calendar and research would cost about $3–$5 a month on DeepSeek V4 Flash, against roughly $200–$260 on Claude Opus 4.7, with only a small quality gap <!-- [doc_a7947740a61f182190750b03d21aac3c] -->. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+- **$3** — Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
+- **$3** — One Reddit user estimated that three agents handling email, calendar and research would cost about $3–$5 a month on DeepSeek V4 Flash, against roughly $200–$260 on Claude Opus 4.7, with only a small quality gap. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - **30%** — Those who have already made the switch to Chinese tools have seen productivity increases of up to 30%. [→](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
 - **20%** — Developers should build buffer time into their workflows when using Chinese AI coding tools, which is illustrated by the fact that one developer added 20% extra time to their coding sessions when using these tools because of the higher frequency of stability issues. [→](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
 
-[All figures, 790 rows](../figures.md)
+[All figures, 792 rows](../figures.md)
 
 ## The write-ups
 
@@ -37,7 +37,7 @@ This checklist is for developers who run DeepSeek V4.1 Flash inside a coding age
 
 ### [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 
-The "10x cheaper" claim in AI model benchmarks is rarely a measure of your actual bill; it is often a product of the specific "harness" used to measure it <!-- [doc_7b7a9d39c7edd7e338e85692ea3084a2…
+The "10x cheaper" claim in AI model benchmarks is rarely a measure of your actual bill; it is often a product of the specific "harness" used to measure it.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
 

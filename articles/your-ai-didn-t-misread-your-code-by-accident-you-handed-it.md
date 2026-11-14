@@ -93,7 +93,7 @@ AI Coding, Indie Hackers, Software Development, AI Agents, Claude Code, Develope
 
 [All 71 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 787 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 789 more, as JSON and CSV.
 
 Topics: [Software Development](../topics/software-development.md) · [Developer Productivity](../topics/developer-productivity.md) · [Indie Developer](../topics/indie-developer.md) · [AI Agents](../topics/ai-agents.md)
 

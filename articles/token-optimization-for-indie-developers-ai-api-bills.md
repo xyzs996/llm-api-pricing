@@ -73,7 +73,7 @@ That trade is usually worth making, and it is worth making deliberately. Start w
 
 [All 71 write-ups](../README.md)
 
-The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 784 more, as JSON and CSV.
+The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 786 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [AI Costs](../topics/ai-costs.md) · [Chinese AI](../topics/chinese-ai.md) · [Token Optimization](../topics/token-optimization.md)
 

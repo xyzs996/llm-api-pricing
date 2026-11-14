@@ -123,7 +123,7 @@ Better to ship the arithmetic than the conclusion. Three prices per host, three 
 
 [All 71 write-ups](../README.md)
 
-The 64 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 726 more, as JSON and CSV.
+The 64 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 728 more, as JSON and CSV.
 
 
 ---

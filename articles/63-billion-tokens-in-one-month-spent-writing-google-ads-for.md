@@ -68,7 +68,7 @@ The open question is where the switch happens. He automated right after getting 
 
 [All 71 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 772 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 774 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [AI Features](../topics/ai-features.md) · [Revenue Growth](../topics/revenue-growth.md)
 

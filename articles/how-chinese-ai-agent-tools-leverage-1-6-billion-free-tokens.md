@@ -93,7 +93,7 @@ Chinese AI agent tools have revolutionized token accessibility, offering indepen
 
 [All 71 write-ups](../README.md)
 
-The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 771 more, as JSON and CSV.
+The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 773 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Chinese AI](../topics/chinese-ai.md) · [Cost Savings](../topics/cost-savings.md) · [Token Optimization](../topics/token-optimization.md)
 

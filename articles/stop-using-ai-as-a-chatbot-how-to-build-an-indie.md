@@ -91,7 +91,7 @@ The honest catch is that a workstation demands something a chat box never does: 
 
 [All 71 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 783 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 785 more, as JSON and CSV.
 
 Topics: [Productivity](../topics/productivity.md) · [AI](../topics/ai.md)
 

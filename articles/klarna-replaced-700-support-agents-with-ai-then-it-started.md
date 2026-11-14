@@ -73,7 +73,7 @@ Klarna's $40 million was probably accurate on the day it was published. The ques
 
 [All 71 write-ups](../README.md)
 
-The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 783 more, as JSON and CSV.
+The 7 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 785 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [AI Implementation](../topics/ai-implementation.md) · [Enterprise Automation](../topics/enterprise-automation.md)
 

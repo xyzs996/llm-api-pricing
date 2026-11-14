@@ -13,7 +13,7 @@
 - **$3,000** — High-ticket services in low-competition cities often sit at the $3,000 end for websites that actually deliver customers. [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
 - **3 minutes** — The numbers underneath that headline are the interesting part: 3 minutes for a deep market research pass, 1,800 designs produced in a month, 12 minutes from a customer request to a rendering, and orders signed on the spot while the buyer was still in the conversation. [→](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
-[All figures, 790 rows](../figures.md)
+[All figures, 792 rows](../figures.md)
 
 ## The write-ups
 

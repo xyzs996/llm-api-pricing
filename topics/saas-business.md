@@ -13,7 +13,7 @@
 - **$63,000,** — Consider Jordan, who noticed his partner spending hours manually sharing items on Poshmark, and by developing a simple 30-line JavaScript automation script to solve this pain point, he created Resellbot, which eventually scaled to a monthly revenue of $63,000, while this progression highlights how identifying such tedious manual tasks can serve as a potent foundation for building highly profitable and scalable software solutions. [→](../articles/building-high-income-single-page-tool-sites-via-seo.md)
 - **$1 million** — For instance, the insight highlights that a $1 million annual revenue target for a solo company can be broken down into a daily goal of $2777. [→](../articles/building-high-income-single-page-tool-sites-via-seo.md)
 
-[All figures, 790 rows](../figures.md)
+[All figures, 792 rows](../figures.md)
 
 ## The write-ups
 
