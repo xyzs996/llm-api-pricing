@@ -175,7 +175,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 This guide is for solo developers or small teams who’ve hit the wall with AI automation, where your agent writes clean code but fails to handle the fuzzy, human-like judgment calls in your workflow…
 
-`Artificial Intelligence` `Software Development` `SaaS Business` `Startup Strategy` · [telegra.ph](https://telegra.ph/The-Hidden-Cost-of-AI-Automation-Turning-Human-Instincts-into-Rules-11-14)
+`Artificial Intelligence` `Software Development` `SaaS Business` `Startup Strategy` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/90) · [telegra.ph](https://telegra.ph/The-Hidden-Cost-of-AI-Automation-Turning-Human-Instincts-into-Rules-11-14)
 
 ### [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 

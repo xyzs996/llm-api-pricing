@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/90) — that copy has a reply box under it, and this one does not.*
+
 This guide is for solo developers or small teams who’ve hit the wall with AI automation, where your agent writes clean code but fails to handle the fuzzy, human-like judgment calls in your workflow, while it’s not meant for teams who are looking to optimize pricing, marketing, or hiring. The core challenge isn’t writing code—it’s translating human intuition into executable rules. Non-coders have automated bid monitoring, reducing work from 1 hour to 15 minutes using AI agents, but only after codifying those intuitive judgments.
 
 ---
@@ -104,6 +106,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** the recruitment team needed 28 iterations before one closed loop held. How many tries did your own first stable agent loop take? Leave it in a reply here — reply with one number, from memory. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/90).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-hidden-cost-of-ai-automation-turning-human-instincts.md). One required field, and the page you came from is already filled

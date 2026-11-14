@@ -21,7 +21,7 @@
 
 This guide is for solo developers or small teams who’ve hit the wall with AI automation, where your agent writes clean code but fails to handle the fuzzy, human-like judgment calls in your workflow…
 
-[telegra.ph](https://telegra.ph/The-Hidden-Cost-of-AI-Automation-Turning-Human-Instincts-into-Rules-11-14)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/90) · [telegra.ph](https://telegra.ph/The-Hidden-Cost-of-AI-Automation-Turning-Human-Instincts-into-Rules-11-14)
 
 ### [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 

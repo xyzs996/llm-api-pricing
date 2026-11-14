@@ -27,7 +27,7 @@ Open Code Review is an open-source review tool built for AI-assisted development
 
 This guide is for solo developers or small teams who’ve hit the wall with AI automation, where your agent writes clean code but fails to handle the fuzzy, human-like judgment calls in your workflow…
 
-[telegra.ph](https://telegra.ph/The-Hidden-Cost-of-AI-Automation-Turning-Human-Instincts-into-Rules-11-14)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/90) · [telegra.ph](https://telegra.ph/The-Hidden-Cost-of-AI-Automation-Turning-Human-Instincts-into-Rules-11-14)
 
 ### [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
 
