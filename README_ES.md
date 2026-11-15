@@ -8,15 +8,15 @@ Un conjunto de datos abierto. Cada cifra publicada en 71 notas de campo — prec
 
 ## Lo que cuestan hoy los modelos de agente
 
-90 modelos clasificados en alguna categoría *agents* de la Design Arena, con su **precio de lista** por millón de tokens — no es tu factura: la caché, los lotes y cada proveedor cobran distinto. Del catálogo público de OpenRouter, leído por última vez el 2026-11-14. Los tres más baratos:
+89 modelos clasificados en alguna categoría *agents* de la Design Arena, con su **precio de lista** por millón de tokens — no es tu factura: la caché, los lotes y cada proveedor cobran distinto. Del catálogo público de OpenRouter, leído por última vez el 2026-11-15. Los tres más baratos:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.007 | $6.80 | GLM 5.2 | #9 agenticgamedev |
-| $0.038 | $0.50 | DeepSeek V4.1 Flash 1017 | #8 spreadsheet |
-| $0.05 | $0.15 | DeepSeek V4.1 Flash 1017 `batch` | #8 spreadsheet |
+| $0.007 | $6.80 | GLM 5.2 | #8 pdf |
+| $0.038 | $0.333 | DeepSeek V4.1 Flash 1017 `batch` | #8 spreadsheet |
+| $0.084 | $3.60 | GLM 5.3 | #2 htmlslides |
 
-[Los 90 modelos](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[Los 89 modelos](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **Un número, dos respuestas.** Google y xAI pasan a la tarifa alta a los 200,000 tokens de entrada, pero un prompt de exactamente 200,000 se cobra a la tarifa barata en Google y a la cara en xAI. Las demás tablas imprimen el número y ahí lo dejan. Qué lado aplica cada proveedor, citado de su propia página y con la fecha de consulta: [same number, opposite answer](prices.md#same-number-opposite-answer) (en inglés).
 

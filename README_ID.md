@@ -8,15 +8,15 @@ Kumpulan data terbuka. Setiap angka dari 71 catatan lapangan — harga, persenta
 
 ## Berapa biaya model agent hari ini
 
-90 model yang masuk peringkat di salah satu kategori *agents* Design Arena, dengan **harga daftar** per juta token — bukan tagihan Anda: cache, batch, dan tiap penyedia menghitung berbeda. Dari katalog publik OpenRouter, terakhir dibaca 2026-11-14. Tiga termurah:
+89 model yang masuk peringkat di salah satu kategori *agents* Design Arena, dengan **harga daftar** per juta token — bukan tagihan Anda: cache, batch, dan tiap penyedia menghitung berbeda. Dari katalog publik OpenRouter, terakhir dibaca 2026-11-15. Tiga termurah:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.007 | $6.80 | GLM 5.2 | #9 agenticgamedev |
-| $0.038 | $0.50 | DeepSeek V4.1 Flash 1017 | #8 spreadsheet |
-| $0.05 | $0.15 | DeepSeek V4.1 Flash 1017 `batch` | #8 spreadsheet |
+| $0.007 | $6.80 | GLM 5.2 | #8 pdf |
+| $0.038 | $0.333 | DeepSeek V4.1 Flash 1017 `batch` | #8 spreadsheet |
+| $0.084 | $3.60 | GLM 5.3 | #2 htmlslides |
 
-[Seluruh 90 model](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[Seluruh 89 model](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **Satu angka, dua jawaban berlawanan.** Google dan xAI sama-sama naik ke tarif mahal pada 200,000 token input, tetapi prompt yang tepat 200,000 ditagih dengan tarif murah di Google dan tarif mahal di xAI. Tabel harga lain hanya mencetak angkanya lalu berhenti. Siapa menagih di sisi mana, dikutip dari halaman vendor itu sendiri lengkap dengan tanggal pengecekan: [same number, opposite answer](prices.md#same-number-opposite-answer) (bahasa Inggris).
 
