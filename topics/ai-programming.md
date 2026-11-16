@@ -1,21 +1,27 @@
 # AI Programming
 
-8 of the 71 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 72 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — For scale on what a real month looks like: three agents doing email, calendar, and research ran about $3–5 per month on DeepSeek V4 Flash against $200–260 on Opus 4.7, with what the user described as a small quality gap. [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
+- **$0.181** — For a coding agent that runs as your daily driver, the pick is DeepSeek V4.1-Flash — and the reason is the $0.181 per successful task and the 96.0 coding score, not the 3/9 yuan on the price table. [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 - **$3** — For an agent doing email, calendar, and research, one developer's monthly bill came to roughly $3–5 on V4 Flash against $200–260 on Opus 4.7. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - **$10** — OpenCode Go users pay $10/month and receive $60 of DeepSeek V4.1 Flash usage credit that never expires — up from the original $30/month allotment, upgraded in Phase 2 to $60 and kept long-term. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - **4-year** — For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 - **$80** — In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 - **80%** — The Claude Code team itself found that 80% of system prompts degrade performance. [→](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - **$5** — The tool runs on a $5/month VPS using Docker. [→](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
-- **$0.028** — With DeepSeek V4 Flash priced at just $0.028 per million tokens, developers can assign lightweight tasks like boilerplate generation or syntax checking to this model, reserving higher-cost models for nuanced logic or debugging. [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
-- **$0.028** — One developer swapped their default backend for DeepSeek V4 Flash and saw API costs drop to just $0.028 per million tokens. [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 
-[All figures, 792 rows](../figures.md)
+[All figures, 810 rows](../figures.md)
 
 ## The write-ups
+
+### [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
+
+Qwen3.8-Flash lists 0.2 yuan per million input tokens and 2 yuan per million output tokens.
+
+[telegra.ph](https://telegra.ph/The-Sticker-Price-Said-9x-Cheaper-My-Bill-at-Peak-Hour-Didnt-Move-11-16)
 
 ### [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 
@@ -67,7 +73,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 71 write-ups](../README.md)
+[All 72 write-ups](../README.md)
 
 ---
 

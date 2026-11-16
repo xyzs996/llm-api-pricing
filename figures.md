@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-792 figures pulled out of 71 write-ups in
+810 figures pulled out of 72 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,31 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://sp
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](https://spectracodeai.com/articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.html)
+
+Published 2026-11-16.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `9x` | multiple | On paper that is roughly a 9x gap on input, and if you picked your coding agent off a price table you already know which column you circled. |
+| `9x` | multiple | Then you run the agent on a Tuesday afternoon and the invoice does not behave like a 9x gap. |
+| `2x` | multiple | If your agent runs while you are awake and working, you are on the 2x column — DeepSeek's peak pricing doubles the listed rate for weekday mornings and afternoons — so the real comparison against Qwen3.8-Flash is far wider on input than the headline suggests, and that is before cache hits, which I will get to. |
+| `6x` | multiple | The same beta run reported SVG code generation about 6x faster than V4 Flash Vision-Exp and long-context retrieval more than 5x faster. |
+| `5x` | multiple | The same beta run reported SVG code generation about 6x faster than V4 Flash Vision-Exp and long-context retrieval more than 5x faster. |
+| `272,000 tokens` | tokens | On the GPT-6 series, once input crosses 272,000 tokens the whole request is repriced: input and cache rates double, output rises 50%. |
+| `50%` | percent | On the GPT-6 series, once input crosses 272,000 tokens the whole request is repriced: input and cache rates double, output rises 50%. |
+| `300,000 tokens` | tokens | Going from 270,000 to 300,000 tokens of input can more than double the cost of that call. |
+| `100K tokens` | tokens | If your workload lives above 100K tokens, flat pricing is worth more than a low headline rate. |
+| `60%` | percent | A model that thinks longer and writes longer chains can eat most of a 60% sticker-price advantage through sheer volume. |
+| `$0.181` | price | DeepSeek V4.1-Flash scores 96.0 on coding and costs $0.181 per successful task — close to Fable 5.1's 97.7 and ahead of Mistral Large 4's 95.4, at a fraction of the per-task cost. |
+| `$0.181` | price | That $0.181 is the number to compare, not the 3/9 yuan. |
+| `644 seconds` | duration | First-token latency in that same comparison: Step 5 Preview 0.9s, DeepSeek V4.1 Flash 1.1s, GLM-5.3 1.9s, and Opus 5.5 at max reasoning strength a staggering 644 seconds. |
+| `644 seconds` | duration | 644 seconds doesn't reach me. |
+| `$3` per month | price | For scale on what a real month looks like: three agents doing email, calendar, and research ran about $3–5 per month on DeepSeek V4 Flash against $200–260 on Opus 4.7, with what the user described as a small quality gap. |
+| `$200` | price | For scale on what a real month looks like: three agents doing email, calendar, and research ran about $3–5 per month on DeepSeek V4 Flash against $200–260 on Opus 4.7, with what the user described as a small quality gap. |
+| `$0.181` | price | For a coding agent that runs as your daily driver, the pick is DeepSeek V4.1-Flash — and the reason is the $0.181 per successful task and the 96.0 coding score, not the 3/9 yuan on the price table. |
+| `100K tokens` | tokens | If your prompts routinely exceed 100K tokens, take GLM 5.3 Flash for the flat pricing and skip the long-context cliff entirely. |
 
 ## [The Hidden Cost of AI Automation: Turning Human Instincts into Rules](https://spectracodeai.com/articles/the-hidden-cost-of-ai-automation-turning-human-instincts.html)
 
@@ -1344,5 +1369,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "792 figures pulled out of 71 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-14", "dateModified": "2026-11-14"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "810 figures pulled out of 72 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-16", "dateModified": "2026-11-16"}
 </script>

@@ -99,11 +99,11 @@ One caveat on the numbers above: the price figures here were captured across mar
 - [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - [Token Optimization for Indie Developers' AI API Bills](token-optimization-for-indie-developers-ai-api-bills.md)
 
-[All 71 write-ups](../README.md)
+[All 72 write-ups](../README.md)
 
-The 31 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 761 more, as JSON and CSV.
+The 31 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 779 more, as JSON and CSV.
 
-Topics: [AI Costs](../topics/ai-costs.md) · [AI Programming](../topics/ai-programming.md) · [Chinese AI](../topics/chinese-ai.md) · [Developer Productivity](../topics/developer-productivity.md)
+Topics: [AI Programming](../topics/ai-programming.md) · [AI Costs](../topics/ai-costs.md) · [Chinese AI](../topics/chinese-ai.md) · [Developer Productivity](../topics/developer-productivity.md)
 
 
 ---

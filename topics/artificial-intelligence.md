@@ -1,21 +1,27 @@
 # Artificial Intelligence
 
-10 of the 71 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+11 of the 72 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — For scale on what a real month looks like: three agents doing email, calendar, and research ran about $3–5 per month on DeepSeek V4 Flash against $200–260 on Opus 4.7, with what the user described as a small quality gap. [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
+- **$0.181** — For a coding agent that runs as your daily driver, the pick is DeepSeek V4.1-Flash — and the reason is the $0.181 per successful task and the 96.0 coding score, not the 3/9 yuan on the price table. [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 - **60%** — For rider recruitment, this meant focusing on repetitive actions like resume browsing and initial outreach, which is where the team, using Codex, developed a tool that iterated 28 times before it was able to achieve a 60% efficiency increase in public domain recruitment tasks — the same repetitive work of resume browsing and initial outreach that had been the focus from the start. [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 - **60%** — A delivery driver recruitment team built a stable automation workflow by breaking down daily tasks into verifiable steps and iterating 28 times, achieving a 60% efficiency boost in repetitive operations. [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 - **20%** — OpenAI is positioning ChatGPT Work as a productivity platform for business teams, and the share of its users who don't code is projected to grow from 20% to 60% within 12 months. [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 - **$1.43** — The price spread is wide even among the Western flagships, which becomes obvious on ReactBench, where one run with GPT 5.6 Sol costs about $1.43 while one run with Fable 5 costs $9.05, which means that a single Fable 5 run comes to a bit more than six times as much as the GPT 5.6 Sol run does. [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 - **$29** — For instance, if you intend to build a contract comparison tool, start by manually assisting three to ten legal assistants at a rate of $29 per document to validate the demand before writing a single line of production code. [→](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
 - **$170,000** — In contrast to one-off projects, micro-automation tools excel at addressing single, high-frequency pain points A former Alibaba P8, after facing three months of unsuccessful job applications, pivoted to building AI software that has five core features—including scheduled automation and skill packages—to generate $170,000 in monthly revenue The data from these 27 successful cases reveals that the most effective tools prioritize "scheduled automation," which can reduce manual task time from several hours each day to zero minutes. [→](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
-- **1000-token** — Still, I'd say the Pi base framework's 1000-token limit seems overstated. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
-- **1000 tokens** — Its initial system prompt and tool description total under 1000 tokens. [→](../articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 
-[All figures, 792 rows](../figures.md)
+[All figures, 810 rows](../figures.md)
 
 ## The write-ups
+
+### [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
+
+Qwen3.8-Flash lists 0.2 yuan per million input tokens and 2 yuan per million output tokens.
+
+[telegra.ph](https://telegra.ph/The-Sticker-Price-Said-9x-Cheaper-My-Bill-at-Peak-Hour-Didnt-Move-11-16)
 
 ### [The Hidden Cost of AI Automation: Turning Human Instincts into Rules](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 
@@ -79,7 +85,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 71 write-ups](../README.md)
+[All 72 write-ups](../README.md)
 
 ---
 

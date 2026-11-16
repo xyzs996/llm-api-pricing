@@ -1,9 +1,11 @@
 # Token Optimization
 
-3 of the 71 write-ups here are tagged Token Optimization. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 72 write-ups here are tagged Token Optimization. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — For scale on what a real month looks like: three agents doing email, calendar, and research ran about $3–5 per month on DeepSeek V4 Flash against $200–260 on Opus 4.7, with what the user described as a small quality gap. [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
+- **$0.181** — For a coding agent that runs as your daily driver, the pick is DeepSeek V4.1-Flash — and the reason is the $0.181 per successful task and the 96.0 coding score, not the 3/9 yuan on the price table. [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 - **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **9x** — Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
@@ -11,7 +13,7 @@
 - **$0.19** — Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - **$0.06** — It offers a price range of $0.06-0.2 per million tokens, targeting global small and medium-sized enterprises and individual users. [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All figures, 792 rows](../figures.md)
+[All figures, 810 rows](../figures.md)
 
 ## The write-ups
 
@@ -20,6 +22,12 @@
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
+
+### [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
+
+Qwen3.8-Flash lists 0.2 yuan per million input tokens and 2 yuan per million output tokens.
+
+[telegra.ph](https://telegra.ph/The-Sticker-Price-Said-9x-Cheaper-My-Bill-at-Peak-Hour-Didnt-Move-11-16)
 
 ### [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
@@ -35,7 +43,7 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 71 write-ups](../README.md)
+[All 72 write-ups](../README.md)
 
 ---
 

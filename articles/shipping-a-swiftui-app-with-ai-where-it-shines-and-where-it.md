@@ -69,11 +69,11 @@ You can take this even further by formalizing your upfront context. One develope
 - [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 
-[All 71 write-ups](../README.md)
+[All 72 write-ups](../README.md)
 
-The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 784 more, as JSON and CSV.
+The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 802 more, as JSON and CSV.
 
-Topics: [Indie Development](../topics/indie-development.md) · [AI](../topics/ai.md) · [AI Programming](../topics/ai-programming.md) · [Software Development](../topics/software-development.md)
+Topics: [Indie Development](../topics/indie-development.md) · [AI Programming](../topics/ai-programming.md) · [AI](../topics/ai.md) · [Software Development](../topics/software-development.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # Software Development
 
-6 of the 71 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 72 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **40%** — 40% of review tasks needed manual backfill, costing about 15 extra minutes each time. [→](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 - **1,000 tokens** — Its original system prompt and tool descriptions came to under 1,000 tokens. [→](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 
-[All figures, 792 rows](../figures.md)
+[All figures, 810 rows](../figures.md)
 
 ## The write-ups
 
@@ -55,7 +55,7 @@ On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
 
 ---
 
-[All 71 write-ups](../README.md)
+[All 72 write-ups](../README.md)
 
 ---
 

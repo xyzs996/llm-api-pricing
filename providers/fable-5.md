@@ -1,6 +1,6 @@
 # Fable 5 costs and claims: every figure from a sentence that names it
 
-14 of the 792 figures in these field notes come from a sentence that names Fable 5. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+15 of the 810 figures in these field notes come from a sentence that names Fable 5. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about Fable 5 and some only measure against it — a competitor's price quoted next to Fable 5's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -8,6 +8,7 @@ Some of these are about Fable 5 and some only measure against it — a competito
 
 ## The figures
 
+- **$0.181** — “DeepSeek V4.1-Flash scores 96.0 on coding and costs $0.181 per successful task — close to Fable 5.1's 97.7 and ahead of Mistral Large 4's 95.4, at a fraction of the per-task cost.” (2026-11-16) [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 - **$3** — “Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - **$15** — “Yet the same $15 is less than one-third of Claude Fable 5's output price, so where K3 sits on the cost-quality curve depends on which group you compare it with.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - **$0.761** — “For example, on LiveBench 2.0, GPT-6.1 Sol costs $0.761 per successful task, roughly nine times cheaper than Claude Fable 5.1's $6.904, while trailing it by only 1.6 points.” (2026-11-07) [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
@@ -23,14 +24,15 @@ Some of these are about Fable 5 and some only measure against it — a competito
 - **$9.05 per run** — “The most affordable AI model option, Fable 5, costs just $9.05 per run, but delivers only 41.2% accuracy in React projects.” (2026-08-12) [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - **$1.43** — “On ReactBench, one run of GPT-5.6 Sol costs about $1.43 while Fable 5 costs $9.05 for the same work — a gap that no per-token price list would have predicted, because the expensive model is not six times more expensive per token, it is six times less efficient at finishing the job.” (2026-08-10) [→](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 
-[All 792 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 810 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
-## Where these 14 came from
+## Where these 15 came from
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Model-for-Coding-Cost-vs-Efficiency-08-19)
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
+- [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md) · [telegra.ph](https://telegra.ph/The-Sticker-Price-Said-9x-Cheaper-My-Bill-at-Peak-Hour-Didnt-Move-11-16)
 - [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/36) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Code-Review-Tool-A-Developers-Guide-08-21)
 - [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](../articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/86) · [telegra.ph](https://telegra.ph/This-Open-Source-Code-Review-Tool-Beats-Claude--With-19-the-Tokens-11-07)
@@ -39,7 +41,7 @@ Some of these are about Fable 5 and some only measure against it — a competito
 
 **A Fable 5 figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=Fable+5). The form already knows it is about Fable 5.
 
-**Or is one of the 14 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=Fable+5&title=%5Bcorrection%5D+Fable+5) — the form already knows it is about Fable 5; you only have to say what the number is now.
+**Or is one of the 15 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=Fable+5&title=%5Bcorrection%5D+Fable+5) — the form already knows it is about Fable 5; you only have to say what the number is now.
 
 ---
 

@@ -78,11 +78,11 @@ The credential your AI tool never saw is the one you never have to rotate.
 
 - [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](how-chinese-developers-are-using-codex-record-replay-to.md)
 - [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
-- [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 
-[All 71 write-ups](../README.md)
+[All 72 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 788 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 806 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md)
 
