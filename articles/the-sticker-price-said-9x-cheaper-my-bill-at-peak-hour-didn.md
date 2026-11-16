@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/91) — that copy has a reply box under it, and this one does not.*
+
 Qwen3.8-Flash lists 0.2 yuan per million input tokens and 2 yuan per million output tokens. DeepSeek V4.1-Flash lists 3 yuan in and 9 yuan out during off-peak hours. On paper that is roughly a 9x gap on input, and if you picked your coding agent off a price table you already know which column you circled.
 
 Then you run the agent on a Tuesday afternoon and the invoice does not behave like a 9x gap. DeepSeek's own pricing page says the off-peak rate is half the peak rate, and peak is weekdays 9:00–12:00 and 14:00–18:00 — which is, inconveniently, when most of us are at a keyboard.
@@ -104,6 +106,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** What share of your agent's input tokens actually hit the cache — reply with your rough hit rate, in one word or a percentage, from memory. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/91).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md). One required field, and the page you came from is already filled
