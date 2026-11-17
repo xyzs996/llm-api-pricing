@@ -102,11 +102,11 @@ Don't reuse any number here without re-checking the pricing page. The 09-08 test
 - [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
 - [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md)
 
-[All 72 write-ups](../README.md)
+[All 73 write-ups](../README.md)
 
-The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 787 more, as JSON and CSV.
+The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 805 more, as JSON and CSV.
 
-Topics: [Development Tools](../topics/development-tools.md) · [AI](../topics/ai.md) · [Chinese AI](../topics/chinese-ai.md) · [Indie Developer](../topics/indie-developer.md)
+Topics: [AI](../topics/ai.md) · [Development Tools](../topics/development-tools.md) · [Chinese AI](../topics/chinese-ai.md) · [Indie Developer](../topics/indie-developer.md)
 
 
 ---

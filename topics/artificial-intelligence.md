@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-11 of the 72 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+11 of the 73 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$29** — For instance, if you intend to build a contract comparison tool, start by manually assisting three to ten legal assistants at a rate of $29 per document to validate the demand before writing a single line of production code. [→](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
 - **$170,000** — In contrast to one-off projects, micro-automation tools excel at addressing single, high-frequency pain points A former Alibaba P8, after facing three months of unsuccessful job applications, pivoted to building AI software that has five core features—including scheduled automation and skill packages—to generate $170,000 in monthly revenue The data from these 27 successful cases reveals that the most effective tools prioritize "scheduled automation," which can reduce manual task time from several hours each day to zero minutes. [→](../articles/stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
 
-[All figures, 810 rows](../figures.md)
+[All figures, 828 rows](../figures.md)
 
 ## The write-ups
 
@@ -85,7 +85,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 72 write-ups](../README.md)
+[All 73 write-ups](../README.md)
 
 ---
 

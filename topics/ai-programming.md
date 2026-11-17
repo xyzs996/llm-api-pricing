@@ -1,6 +1,6 @@
 # AI Programming
 
-9 of the 72 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 73 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **80%** — The Claude Code team itself found that 80% of system prompts degrade performance. [→](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 - **$5** — The tool runs on a $5/month VPS using Docker. [→](../articles/how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 
-[All figures, 810 rows](../figures.md)
+[All figures, 828 rows](../figures.md)
 
 ## The write-ups
 
@@ -73,7 +73,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 72 write-ups](../README.md)
+[All 73 write-ups](../README.md)
 
 ---
 

@@ -4,8 +4,16 @@
   <id>https://spectracodeai.com/</id>
   <link href="https://spectracodeai.com/"/>
   <link rel="self" href="https://spectracodeai.com/feed.xml"/>
-  <updated>2026-11-16T07:16:00Z</updated>
+  <updated>2026-11-17T07:17:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>Your LLM Bill Is 2x the Sticker Price: Peak-Hour Pricing and the 272K Token Cliff</title>
+    <link href="https://spectracodeai.com/articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.html"/>
+    <id>https://spectracodeai.com/articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.html</id>
+    <updated>2026-11-17T07:17:00Z</updated>
+    <published>2026-11-17T07:17:00Z</published>
+    <summary>In September and October 2026, a run of Chinese-language model price sheets started circulating with a line at the top that English cost write-ups still don't have: these are off-peak prices.</summary>
+  </entry>
   <entry>
     <title>The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.</title>
     <link href="https://spectracodeai.com/articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.html"/>

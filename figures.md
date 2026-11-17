@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-810 figures pulled out of 72 write-ups in
+828 figures pulled out of 73 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,31 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://sp
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [Your LLM Bill Is 2x the Sticker Price: Peak-Hour Pricing and the 272K Token Cliff](https://spectracodeai.com/articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.html)
+
+Published 2026-11-17.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `272,000 tokens` | tokens | In the same sheets, the GPT-6 series carries a second trap: once input crosses 272,000 tokens, the entire request is repriced, input and cache rates double, output goes up 50%. |
+| `50%` | percent | In the same sheets, the GPT-6 series carries a second trap: once input crosses 272,000 tokens, the entire request is repriced, input and cache rates double, output goes up 50%. |
+| `2x` | multiple | Stack those two mechanisms and a budget built on sticker price can miss by 2x by month end. |
+| `2x` | multiple | Stack's 2x feels overstated to me. |
+| `272,000 tokens` | tokens | Cross 272,000 tokens and the whole request is repriced: input and cache rates double, output rises 50%. |
+| `50%` | percent | Cross 272,000 tokens and the whole request is repriced: input and cache rates double, output rises 50%. |
+| `5x` | multiple | Take Qwen3.5 Plus: input runs 0.12–0.57 USD per million tokens and output 0.69–3.44 USD per million tokens, a spread of nearly 5x on both sides of the same model, alongside a 1M-token context window aimed at ultra-long text and multimodal agents. |
+| `1M-token` | tokens | Take Qwen3.5 Plus: input runs 0.12–0.57 USD per million tokens and output 0.69–3.44 USD per million tokens, a spread of nearly 5x on both sides of the same model, alongside a 1M-token context window aimed at ultra-long text and multimodal agents. |
+| `20x` | multiple | Notice that caching, not the headline rate, is what separates a cheap workload from an expensive one — the cached-input figure is 20x and 50x below the uncached input figure respectively, so any estimate that ignores cache hit rate will be wrong by an order of magnitude before it ever reaches the peak/off-peak question. |
+| `50x` | multiple | Notice that caching, not the headline rate, is what separates a cheap workload from an expensive one — the cached-input figure is 20x and 50x below the uncached input figure respectively, so any estimate that ignores cache hit rate will be wrong by an order of magnitude before it ever reaches the peak/off-peak question. |
+| `2x` | multiple | The result is that the same model reads as an off-peak price in an English blog post and as a 2x line item on a Chinese bill. |
+| `$0.181` | price | DeepSeek V4.1 Flash scores 96.0 on coding and comes in at $0.181 per successful task. |
+| `$462.60` | price | One estimate has two models both scoring 99/100 on writing tasks with monthly API bills of $462.60 and $116.10 — roughly a 4x gap on similar list prices. |
+| `$116.10` | price | One estimate has two models both scoring 99/100 on writing tasks with monthly API bills of $462.60 and $116.10 — roughly a 4x gap on similar list prices. |
+| `4x` | multiple | One estimate has two models both scoring 99/100 on writing tasks with monthly API bills of $462.60 and $116.10 — roughly a 4x gap on similar list prices. |
+| `100K tokens` | tokens | GLM 5.3 Flash uses a flat token price for inputs above 100K tokens, which avoids the long-context cost jump that Haiku carries. |
+| `$0.181` | price | Sources are already presenting $0.181 per successful task next to a coding score of 96.0, side by side, which is the shape the conversation is heading toward. |
+| `272,000 tokens` | tokens | The one thing you can do today without switching models: schedule non-realtime batch work past 18:00, onto weekends, or into the 12:00–14:00 window, and cap client-side input below 272,000 tokens. |
 
 ## [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](https://spectracodeai.com/articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.html)
 
@@ -1369,5 +1394,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "810 figures pulled out of 72 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-16", "dateModified": "2026-11-16"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "828 figures pulled out of 73 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-17", "dateModified": "2026-11-17"}
 </script>

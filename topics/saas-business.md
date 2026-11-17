@@ -1,6 +1,6 @@
 # SaaS Business
 
-13 of the 72 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+13 of the 73 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$63,000,** — Consider Jordan, who noticed his partner spending hours manually sharing items on Poshmark, and by developing a simple 30-line JavaScript automation script to solve this pain point, he created Resellbot, which eventually scaled to a monthly revenue of $63,000, while this progression highlights how identifying such tedious manual tasks can serve as a potent foundation for building highly profitable and scalable software solutions. [→](../articles/building-high-income-single-page-tool-sites-via-seo.md)
 - **$1 million** — For instance, the insight highlights that a $1 million annual revenue target for a solo company can be broken down into a daily goal of $2777. [→](../articles/building-high-income-single-page-tool-sites-via-seo.md)
 
-[All figures, 810 rows](../figures.md)
+[All figures, 828 rows](../figures.md)
 
 ## The write-ups
 
@@ -97,7 +97,7 @@ Two brothers ran a single short-video account until one piece of content took of
 
 ---
 
-[All 72 write-ups](../README.md)
+[All 73 write-ups](../README.md)
 
 ---
 
