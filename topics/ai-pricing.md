@@ -19,7 +19,7 @@
 
 In September and October 2026, a run of Chinese-language model price sheets started circulating with a line at the top that English cost write-ups still don't have: these are off-peak prices.
 
-[telegra.ph](https://telegra.ph/Your-LLM-Bill-Is-2x-the-Sticker-Price-Peak-Hour-Pricing-and-the-272K-Token-Cliff-11-17)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/92) · [telegra.ph](https://telegra.ph/Your-LLM-Bill-Is-2x-the-Sticker-Price-Peak-Hour-Pricing-and-the-272K-Token-Cliff-11-17)
 
 ### [The Hidden Costs of AI Coding Tools: What English Developers Don't Know](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
 

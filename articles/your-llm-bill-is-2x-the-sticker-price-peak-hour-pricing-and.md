@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/92) — that copy has a reply box under it, and this one does not.*
+
 In September and October 2026, a run of Chinese-language model price sheets started circulating with a line at the top that English cost write-ups still don't have: these are off-peak prices. The DeepSeek numbers in them apply on weekends and after hours. On weekday peak windows — 9:00–12:00 and 14:00–18:00 — you pay double the table. In the same sheets, the GPT-6 series carries a second trap: once input crosses 272,000 tokens, the entire request is repriced, input and cache rates double, output goes up 50%.
 
 Stack those two mechanisms and a budget built on sticker price can miss by 2x by month end. This piece doesn't guess at it. It takes the two thresholds apart, computes what each one does to a bill, and shows where off-peak scheduling actually saves you money.
@@ -90,6 +92,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** When you think about your own LLM usage, would moving your heaviest workloads to off-peak hours save you money — yes or no? Reply with your answer below. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/92).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fyour-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md). One required field, and the page you came from is already filled
