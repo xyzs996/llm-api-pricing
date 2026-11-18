@@ -1,6 +1,6 @@
 # Model price changes, once a week
 
-Every day this site re-reads the list price of 99 models from OpenRouter (last checked 2026-11-17). About once a week the newsletter lists the models whose price **actually moved**, old price next to new, per million tokens. If nothing moved, the email says nothing about prices.
+Every day this site re-reads the list price of 103 models from OpenRouter (last checked 2026-11-18). About once a week the newsletter lists the models whose price **actually moved**, old price next to new, per million tokens. If nothing moved, the email says nothing about prices.
 
 <div id="subscribe-box" class="subscribe"><h3>Get the weekly price changes</h3><p>Free. No spam; unsubscribe in one click.</p><form class="sub-form" action="https://buttondown.com/api/emails/embed-subscribe/spectracode" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/spectracode','popupwindow')"><input class="field" type="email" name="email" placeholder="you@company.com" aria-label="Email address" required><input type="hidden" value="1" name="embed"><input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_campaign" value="lead-prices"><input type="hidden" name="metadata__page" value=""><button class="btn" type="submit" data-umami-event="subscribe-lead-prices">Get the notes</button></form></div>
 
@@ -17,4 +17,4 @@ Every day this site re-reads the list price of 99 models from OpenRouter (last c
 | Nemotron 3.5 Super VL | $0.15 | $0.50 | $0.02 | $0.0267 |
 | Solar Pro 4 | $0.15 | $0.60 | $0.03 | $0.0365 |
 
-The full table, with the token mix and where every price came from: [99 models](https://spectracodeai.com/prices.html).
+The full table, with the token mix and where every price came from: [103 models](https://spectracodeai.com/prices.html).

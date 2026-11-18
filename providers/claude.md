@@ -1,12 +1,12 @@
 # Claude API pricing: what 26 models cost a coding agent
 
-Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-17**.
+Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-18**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Claude discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Claude charges per million tokens
 
-26 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-17**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+26 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-18**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Claude does not have one cache-read rate — it has 3.** Across 26 rows the discount runs from 2.5% to 10.0% of that row's own input price (2.5%, 5%, 10%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Claude's list input price overstates what an agent pays by a median **6.6×** (range 6.6×–12.6×).
 
@@ -16,8 +16,8 @@ Every Claude model in the catalog that has been ranked in an agent category, pri
 
 | $ / 1M at agent mix | $ in / 1M | $ cache read / 1M | $ out / 1M | Model | Context | Long-context step | Best agents rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **$0.0075** | $0.05 | $0.005 | $0.25 | [Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5:batch) `batch` | 1M | $0.25 past 100k | #8 pdf |
-| **$0.0151** | $0.10 | $0.01 | $0.50 | [Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5) | 1M | $0.50 past 100k | #8 pdf |
+| **$0.0075** | $0.05 | $0.005 | $0.25 | [Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5:batch) `batch` | 1M | $0.25 past 100k | #15 pdf |
+| **$0.0151** | $0.10 | $0.01 | $0.50 | [Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5) | 1M | $0.50 past 100k | #15 pdf |
 | **$0.103** | $1.00 | $0.05 | $5.00 | [Claude Sonnet 5.5](https://openrouter.ai/anthropic/claude-sonnet-5.5:batch) `batch` | 1M | — | #3 blender3d |
 | **$0.1508** | $1.00 | $0.10 | $5.00 | [Claude Sonnet 5](https://openrouter.ai/anthropic/claude-sonnet-5:batch) `batch` | 1M | — | #8 agenticgamedev |
 | **$0.206** | $2.00 | $0.10 | $10.00 | [Claude Opus 5.5](https://openrouter.ai/anthropic/claude-opus-5.5:batch) `batch` | 1M | — | #1 androidnative |
@@ -53,14 +53,16 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | Vendor | Rows | Cache read, % of its own input | List price overstates the agent bill by | Cheapest non-`batch` row at agent mix |
 | --- | --- | --- | --- | --- |
 | xiaomi | 1 | 0.8% | 18.4× | $0.0237 |
+| tencent | 1 | 5% | 10.3× | $0.0407 |
 | **Claude** | 26 | 2.5–10% | 6.6× | $0.0151 |
 | Gemini | 18 | 5–10% | 6.6× | $0.0769 |
 | OpenAI | 11 | 5–10.4% | 6.5× | $0.2042 |
 | Llama | 7 | 5–13.3% | 6.0× | $0.0569 |
-| nvidia | 1 | 13.3% | 5.6× | $0.0267 |
+| reflection | 1 | 13.3% | 5.6× | $0.0534 |
+| nvidia | 2 | 13.3–20% | 4.9× | $0.0267 |
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
 | Grok | 8 | 15–25% | 4.2× | $0.2494 |
-| Qwen | 3 | 20% | 4.1× | $0.0779 |
+| Qwen | 4 | 20% | 4.1× | $0.0779 |
 | MiniMax | 2 | 20% | 4.1× | $0.0731 |
 | upstage | 1 | 20% | 4.1× | $0.0365 |
 | GLM | 9 | 18.6–98.6% | 4.1× | $0.0257 |
