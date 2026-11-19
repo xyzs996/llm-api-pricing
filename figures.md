@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-828 figures pulled out of 73 write-ups in
+875 figures pulled out of 75 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,67 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://sp
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else](https://spectracodeai.com/articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.html)
+
+Published 2026-11-19.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$2,150` | price | ReelDrop launched two months ago and collected 1,118 signups, 28 paying customers, and about CA$2,150 after refunds and before Stripe fees. |
+| `1.7%` | percent | Search brought 472 signups and 8 paid customers, a 1.7% conversion. |
+| `1.2%` | percent | ChatGPT brought 83 signups and 6 paid, 1.2%. |
+| `7%` | percent | X brought 42 signups and 3 paid, roughly 7%. |
+| `$2,150` | price | The 28 paying customers and the roughly CA$2,150 are measured after refunds and before Stripe fees. |
+| `$2,150` | price | If you read CA$2,150 as net deposits, you are already ahead of the bank. |
+| `1.2%` | percent | Eighty-three signups and 6 paid is 1.2%, below search's 1.7%. |
+| `1.7%` | percent | Eighty-three signups and 6 paid is 1.2%, below search's 1.7%. |
+| `1.7%` | percent | The gap between 1.7% and 7% rests on 3 paid customers out of 42 signups. |
+| `7%` | percent | The gap between 1.7% and 7% rests on 3 paid customers out of 42 signups. |
+| `1.7%` | percent | This is exactly why the search channel can carry 472 signups and still convert at only 1.7%. |
+| `2.5 months` | duration | One developer launched a SaaS and waited 2.5 months for the first paying customer, a $7 sale, and reported that the customer found the product through Google organic search. |
+| `$7` | price | One developer launched a SaaS and waited 2.5 months for the first paying customer, a $7 sale, and reported that the customer found the product through Google organic search. |
+| `$6` per month | price | A second product got its first customer through a friend's Shopify store at about $6/month billed annually, $72 for the year. |
+| `$72` | price | A second product got its first customer through a friend's Shopify store at about $6/month billed annually, $72 for the year. |
+| `$9` per month | price | Customers two and three came from posting on a subreddit, with the product still primitive, at $9/month. |
+| `100%` | percent | A 100% conversion rate on a sample of two. |
+| `$90` | price | The paywall went up and the first sale landed five hours later; three days brought 3 sales and $90. |
+
+## [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](https://spectracodeai.com/articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.html)
+
+Published 2026-11-19.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `24 minutes` | duration | It finished in about 24 minutes. |
+| `60%` | percent | V4-Pro runs 12 yuan in and 24 yuan out per million tokens; V4-Flash runs 1 yuan in and 2 yuan out, roughly 60% cheaper than the overseas models. |
+| `60%` | percent | If a model thinks longer and produces longer output chains, that 60% sticker gap gets eaten by consumption. |
+| `60%` | percent | If your cheap model needs three attempts where the expensive one needs one, you did not save 60% — you may have paid more. |
+| `$0.87` per million tokens | price | DeepSeek V4 outputs at roughly $0.87 per million tokens. |
+| `$4.4` | price | Zhipu's GLM-5.2 is $4.4. |
+| `$15` | price | Kimi K3 is $15. |
+| `$0.028` per million token | price | V4-Flash also has a $0.028 per million token figure floating around, which suits tight-budget batch work. |
+| `30 days` | duration | And the ten-million-token signup credit is valid for only 30 days. |
+| `20 million tokens` | tokens | Zhipu's signup offer is 20 million tokens, and GLM-4-Flash is 20 million tokens permanently free with a 128K context and 30 concurrent connections. |
+| `1M tokens` | tokens | LongCat-2.0 natively supports 1M tokens, was trained and served entirely on domestic compute clusters, and is positioned for repo-level code changes and multi-step agent tool calls. |
+| `21 minutes` | duration | Narrow tasks with a clear scoring rule can also go to the cheap side, which is illustrated by the fact that MiniMax M2.5 scored 28 out of 30 on a bug-hunt task, 3.5 points above GLM-5, and finished in 21 minutes — half of GLM-5's time. |
+| `23 minutes` | duration | That test ran open models through Kilo CLI in a TypeScript project, letting them work autonomously for up to 23 minutes without human intervention. |
+| `24-minute` | duration | In the 24-minute recruiting-site case, the model did not honor the skill constraint that said confirm the domain before deploying. |
+| `24-minute` | duration | The core failure in the 24-minute run was not that it was slow. |
+| `24 minutes` | duration | The record looks like this: task type, complex recruiting-site build; elapsed time, about 24 minutes; failure action, deployed to a self-selected domain without confirmation. |
+| `24-minute` | duration | One 24-minute run tells you it finished. |
+| `60%` | percent | Without a rerun count, you cannot tell whether the 60% price advantage got eaten by the number of rounds. |
+| `13 tokens` | tokens | There is a measured hardware floor: a 30-billion-parameter MoE model at 6-bit quantization with experts offloaded to system memory runs on a 16GB laptop, takes about 18GB on disk, and generates at 13 tokens per second. |
+| `100%` | percent | It is assuming prompt and skill-constraint portability is 100%. |
+| `24-minute` | duration | In the 24-minute case, what got saved was money, and what got spent was a deploy to an unapproved domain. |
+| `$3` | price | Another framing: Kimi K3 at $3/$15 per million tokens against Fable 5 at $10/$50, with intelligence index scores of 59.7 and 62.1. |
+| `$15` per million tokens | price | Another framing: Kimi K3 at $3/$15 per million tokens against Fable 5 at $10/$50, with intelligence index scores of 59.7 and 62.1. |
+| `$10` per million tokens | price | Another framing: Kimi K3 at $3/$15 per million tokens against Fable 5 at $10/$50, with intelligence index scores of 59.7 and 62.1. |
+| `$50,` | price | Another framing: Kimi K3 at $3/$15 per million tokens against Fable 5 at $10/$50, with intelligence index scores of 59.7 and 62.1. |
+| `60%` | percent | Extrapolating "60% cheaper" to all Chinese models as a blanket conclusion — that's the failure mode. |
+| `$15` | price | Kimi K3's $15 output price is expensive by Chinese standards — it only looks cheap next to Fable 5, where it lands under a third. |
+| `24-minute` | duration | The basis for that judgment is the confirmation step that got skipped in the 24-minute run. |
+| `60%` | percent | Then decide whether the 60% price gap is worth rerouting for. |
 
 ## [Your LLM Bill Is 2x the Sticker Price: Peak-Hour Pricing and the 272K Token Cliff](https://spectracodeai.com/articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.html)
 
@@ -1394,5 +1455,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "828 figures pulled out of 73 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-17", "dateModified": "2026-11-17"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "875 figures pulled out of 75 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-19", "dateModified": "2026-11-19"}
 </script>

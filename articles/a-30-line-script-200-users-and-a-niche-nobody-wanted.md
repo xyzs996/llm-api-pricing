@@ -122,13 +122,13 @@ Independent developers can validate product demand quickly by creating a Minimum
 
 **Read next**
 
+- [Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else](your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
 - [Stop Building Custom AI Agents: How to Earn $63K/Month with Micro-Automation](stop-building-custom-ai-agents-how-to-earn-63k-month-with.md)
 - [Building High-Income Single-Page Tool Sites via SEO](building-high-income-single-page-tool-sites-via-seo.md)
-- [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-[All 73 write-ups](../README.md)
+[All 75 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 817 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 864 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [AI Automation](../topics/ai-automation.md) · [Micro SaaS](../topics/micro-saas.md)
 

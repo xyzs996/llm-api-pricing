@@ -1,18 +1,26 @@
 # Micro SaaS
 
-3 of the 73 write-ups here are tagged Micro SaaS. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 75 write-ups here are tagged Micro SaaS. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$7** — One developer launched a SaaS and waited 2.5 months for the first paying customer, a $7 sale, and reported that the customer found the product through Google organic search. [→](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
+- **$2,150** — ReelDrop launched two months ago and collected 1,118 signups, 28 paying customers, and about CA$2,150 after refunds and before Stripe fees. [→](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
 - **87 percent** — The 87 percent figure and those two cases are measuring the same thing from different angles, which is time spent moving data by hand between a system that knows the answer and a system that needs it. [→](../articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 - **87 percent** — MCP connectors reduced manual data handling time by 87 percent in the cases that used them. [→](../articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 - **$10,000** — Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. [→](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 - **$500** — Using AI tools to batch generate local SEO content reduces development costs for independent developers, accelerating website ranking on Google, after which the optimized site can be rented to local businesses for monthly revenue ranging from $500 to $3,000. [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 - **$10,000** — Sam Shore's experience with Typeshare, which shows how sharing equity with KOLs can accelerate growth, is a prime example; by granting three-fifths of his company's stock to two influential figures, he achieved a remarkable increase in monthly revenue, jumping from $10,000 to $15,000 in only 30 days. [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 
-[All figures, 828 rows](../figures.md)
+[All figures, 875 rows](../figures.md)
 
 ## The write-ups
+
+### [Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
+
+ReelDrop launched two months ago and collected 1,118 signups, 28 paying customers, and about CA$2,150 after refunds and before Stripe fees.
+
+[telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--1215-of-1463-Branded-Search-Clicks-Came-From-Somewhere-Else-11-19)
 
 ### [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](../articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 
@@ -34,7 +42,7 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 
 ---
 
-[All 73 write-ups](../README.md)
+[All 75 write-ups](../README.md)
 
 ---
 

@@ -63,15 +63,15 @@ None of that requires the agent to be clever. It requires the task to be bounded
 
 **Read next**
 
+- [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 - [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
-- [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 
-[All 73 write-ups](../README.md)
+[All 75 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 825 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 872 more, as JSON and CSV.
 
-Topics: [AI Implementation](../topics/ai-implementation.md) · [AI Programming](../topics/ai-programming.md) · [AI Agents](../topics/ai-agents.md)
+Topics: [AI Programming](../topics/ai-programming.md) · [AI Implementation](../topics/ai-implementation.md) · [AI Agents](../topics/ai-agents.md)
 
 
 ---

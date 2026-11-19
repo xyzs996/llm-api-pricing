@@ -1,21 +1,27 @@
 # AI
 
-9 of the 73 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+10 of the 75 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$7** — One developer launched a SaaS and waited 2.5 months for the first paying customer, a $7 sale, and reported that the customer found the product through Google organic search. [→](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
+- **$2,150** — ReelDrop launched two months ago and collected 1,118 signups, 28 paying customers, and about CA$2,150 after refunds and before Stripe fees. [→](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
 - **$462.60** — One estimate has two models both scoring 99/100 on writing tasks with monthly API bills of $462.60 and $116.10 — roughly a 4x gap on similar list prices. [→](../articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 - **$0.181** — Sources are already presenting $0.181 per successful task next to a coding score of 96.0, side by side, which is the shape the conversation is heading toward. [→](../articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 - **4-year** — For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 - **$80** — In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 - **$3** — The Reddit forecast was $3-5 a month for three light agents, and GLM-4-Flash's 20M free tokens don't expire, while DeepSeek's sign-up grant of 10M tokens (2026-05-02 article) was valid for only 30 days. [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 - **$3** — A Reddit poster on 2026-04-28 guessed about $3-5 a month for three agents doing email, calendar and research on V4 Flash, against $200-260 for Opus 4.7. [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
-- **$7,600** — An AI crypto trading bot reportedly made $7,600 in a week.” That line gets clicks. [→](../articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md)
-- **$100** — The real story isn’t the profit — it’s the cost: under $100 in API fees. [→](../articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md)
 
-[All figures, 828 rows](../figures.md)
+[All figures, 875 rows](../figures.md)
 
 ## The write-ups
+
+### [Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
+
+ReelDrop launched two months ago and collected 1,118 signups, 28 paying customers, and about CA$2,150 after refunds and before Stripe fees.
+
+[telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--1215-of-1463-Branded-Search-Clicks-Came-From-Somewhere-Else-11-19)
 
 ### [Your LLM Bill Is 2x the Sticker Price: Peak-Hour Pricing and the 272K Token Cliff](../articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 
@@ -73,7 +79,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 73 write-ups](../README.md)
+[All 75 write-ups](../README.md)
 
 ---
 

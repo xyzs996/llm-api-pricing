@@ -1,12 +1,12 @@
 # Claude API pricing: what 26 models cost a coding agent
 
-Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-18**.
+Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-19**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Claude discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Claude charges per million tokens
 
-26 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-18**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+26 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-19**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Claude does not have one cache-read rate — it has 3.** Across 26 rows the discount runs from 2.5% to 10.0% of that row's own input price (2.5%, 5%, 10%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Claude's list input price overstates what an agent pays by a median **6.6×** (range 6.6×–12.6×).
 
@@ -16,8 +16,8 @@ Every Claude model in the catalog that has been ranked in an agent category, pri
 
 | $ / 1M at agent mix | $ in / 1M | $ cache read / 1M | $ out / 1M | Model | Context | Long-context step | Best agents rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **$0.0075** | $0.05 | $0.005 | $0.25 | [Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5:batch) `batch` | 1M | $0.25 past 100k | #15 pdf |
-| **$0.0151** | $0.10 | $0.01 | $0.50 | [Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5) | 1M | $0.50 past 100k | #15 pdf |
+| **$0.0075** | $0.05 | $0.005 | $0.25 | [Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5:batch) `batch` | 1M | $0.25 past 100k | #17 pdf |
+| **$0.0151** | $0.10 | $0.01 | $0.50 | [Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5) | 1M | $0.50 past 100k | #17 pdf |
 | **$0.103** | $1.00 | $0.05 | $5.00 | [Claude Sonnet 5.5](https://openrouter.ai/anthropic/claude-sonnet-5.5:batch) `batch` | 1M | — | #3 blender3d |
 | **$0.1508** | $1.00 | $0.10 | $5.00 | [Claude Sonnet 5](https://openrouter.ai/anthropic/claude-sonnet-5:batch) `batch` | 1M | — | #8 agenticgamedev |
 | **$0.206** | $2.00 | $0.10 | $10.00 | [Claude Opus 5.5](https://openrouter.ai/anthropic/claude-opus-5.5:batch) `batch` | 1M | — | #1 androidnative |
@@ -54,20 +54,20 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | --- | --- | --- | --- | --- |
 | xiaomi | 1 | 0.8% | 18.4× | $0.0237 |
 | tencent | 1 | 5% | 10.3× | $0.0407 |
+| DeepSeek | 3 | 2–27.8% | 7.5× | $0.0107 |
 | **Claude** | 26 | 2.5–10% | 6.6× | $0.0151 |
 | Gemini | 18 | 5–10% | 6.6× | $0.0769 |
 | OpenAI | 11 | 5–10.4% | 6.5× | $0.2042 |
 | Llama | 7 | 5–13.3% | 6.0× | $0.0569 |
-| reflection | 1 | 13.3% | 5.6× | $0.0534 |
+| upstage | 2 | 10–20% | 5.4× | $0.0074 |
 | nvidia | 2 | 13.3–20% | 4.9× | $0.0267 |
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
 | Grok | 8 | 15–25% | 4.2× | $0.2494 |
 | Qwen | 4 | 20% | 4.1× | $0.0779 |
 | MiniMax | 2 | 20% | 4.1× | $0.0731 |
-| upstage | 1 | 20% | 4.1× | $0.0365 |
-| GLM | 9 | 18.6–98.6% | 4.1× | $0.0257 |
+| reflection | 1 | 20% | 4.1× | $0.0609 |
 | stepfun | 1 | 20% | 4.0× | $0.0497 |
-| DeepSeek | 3 | 8.3–27.8% | 3.2× | $0.0125 |
+| GLM | 11 | 20–98.6% | 3.8× | $0.0362 |
 | Kimi | 7 | 10–94.8% | 2.9× | $0.1711 |
 
 The spread in that fourth column is the whole point: Claude at 6.6× against Kimi at 2.9×, across 26 and 7 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
@@ -120,7 +120,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 - **$19 billion** — “Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 - **$19 billion** — “Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 
-[All 828 figures, every kind](../figures.md)
+[All 875 figures, every kind](../figures.md)
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [AI Model Costs: Beyond Per-Token Pricing](../articles/ai-model-costs-beyond-per-token-pricing.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20) · [telegra.ph](https://telegra.ph/Beyond-Token-Pricing-How-Indie-Devs-Should-Really-Evaluate-AI-Model-Costs-08-19)

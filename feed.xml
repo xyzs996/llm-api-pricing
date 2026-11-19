@@ -4,8 +4,24 @@
   <id>https://spectracodeai.com/</id>
   <link href="https://spectracodeai.com/"/>
   <link rel="self" href="https://spectracodeai.com/feed.xml"/>
-  <updated>2026-11-17T07:17:00Z</updated>
+  <updated>2026-11-19T09:17:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else</title>
+    <link href="https://spectracodeai.com/articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.html"/>
+    <id>https://spectracodeai.com/articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.html</id>
+    <updated>2026-11-19T09:17:00Z</updated>
+    <published>2026-11-19T09:17:00Z</published>
+    <summary>ReelDrop launched two months ago and collected 1,118 signups, 28 paying customers, and about CA$2,150 after refunds and before Stripe fees.</summary>
+  </entry>
+  <entry>
+    <title>Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models</title>
+    <link href="https://spectracodeai.com/articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.html"/>
+    <id>https://spectracodeai.com/articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.html</id>
+    <updated>2026-11-19T07:16:00Z</updated>
+    <published>2026-11-19T07:16:00Z</published>
+    <summary>This checklist is for developers who are about to point Claude Code, or any other coding agent, at a cheap Chinese model like DeepSeek V4-Pro or V4-Flash and want to know what breaks before they fi…</summary>
+  </entry>
   <entry>
     <title>Your LLM Bill Is 2x the Sticker Price: Peak-Hour Pricing and the 272K Token Cliff</title>
     <link href="https://spectracodeai.com/articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.html"/>
