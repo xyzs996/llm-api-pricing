@@ -21,7 +21,7 @@
 
 ReelDrop launched two months ago and collected 1,118 signups, 28 paying customers, and about CA$2,150 after refunds and before Stripe fees.
 
-[telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--1215-of-1463-Branded-Search-Clicks-Came-From-Somewhere-Else-11-19)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/94) · [telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--1215-of-1463-Branded-Search-Clicks-Came-From-Somewhere-Else-11-19)
 
 ### [Your LLM Bill Is 2x the Sticker Price: Peak-Hour Pricing and the 272K Token Cliff](../articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 

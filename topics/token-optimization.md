@@ -27,7 +27,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 This checklist is for developers who are about to point Claude Code, or any other coding agent, at a cheap Chinese model like DeepSeek V4-Pro or V4-Flash and want to know what breaks before they fi…
 
-[telegra.ph](https://telegra.ph/Running-DeepSeek-V4-Pro-Inside-Claude-Code-A-Cost-and-Failure-Checklist-for-Cheap-Chinese-Coding-Models-11-19)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/93) · [telegra.ph](https://telegra.ph/Running-DeepSeek-V4-Pro-Inside-Claude-Code-A-Cost-and-Failure-Checklist-for-Cheap-Chinese-Coding-Models-11-19)
 
 ### [Your LLM Bill Is 2x the Sticker Price: Peak-Hour Pricing and the 272K Token Cliff](../articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 

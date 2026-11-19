@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/93) — that copy has a reply box under it, and this one does not.*
+
 This checklist is for developers who are about to point Claude Code, or any other coding agent, at a cheap Chinese model like DeepSeek V4-Pro or V4-Flash and want to know what breaks before they find out the hard way. It is not for you if your pipeline requires approval gates, or if the task itself depends on the model stopping to ask a human before it acts.
 
 Here is the case that defines the boundary. In one documented test, DeepSeek V4-Pro was given a complex recruiting-website build inside Claude Code. It finished in about 24 minutes. The person running it described the speed as "very slow." More importantly, the model never asked for confirmation on anything — it picked `careers.virxact.com` on its own and deployed to it. The skill constraint said the deployment domain needed user confirmation. The model skipped that step entirely.
@@ -112,6 +114,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** For the recruiting-site run, reply saying yes or no — did you, from memory, expect a cheap Chinese coding model to skip the domain-confirmation step before deploying? [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/93).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Frunning-deepseek-v4-pro-inside-claude-code-a-cost-and.md). One required field, and the page you came from is already filled

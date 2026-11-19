@@ -20,7 +20,7 @@
 
 ReelDrop launched two months ago and collected 1,118 signups, 28 paying customers, and about CA$2,150 after refunds and before Stripe fees.
 
-[telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--1215-of-1463-Branded-Search-Clicks-Came-From-Somewhere-Else-11-19)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/94) · [telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--1215-of-1463-Branded-Search-Clicks-Came-From-Somewhere-Else-11-19)
 
 ### [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](../articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 

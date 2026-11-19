@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/94) — that copy has a reply box under it, and this one does not.*
+
 ReelDrop launched two months ago and collected 1,118 signups, 28 paying customers, and about CA$2,150 after refunds and before Stripe fees. Sorted by signups, the channels look healthy. Sorted by revenue, one of the biggest ones is a zero. Search brought 472 signups and 8 paid customers, a 1.7% conversion. ChatGPT brought 83 signups and 6 paid, 1.2%. X brought 42 signups and 3 paid, roughly 7%. Two channels, UGC creators and the referral program, brought 124 signups between them and not one dollar.
 
 So the signup leaderboard and the revenue leaderboard give you two different answers about the same two months. This is a breakdown of why, and how to reconcile three data sources until the numbers agree.
@@ -96,6 +98,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** Of the paying customers you can trace, how many first heard about your product through a branded Google search rather than discovering it there? Reply with that number — reply in the thread. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/94).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fyour-channel-report-is-lying-1-215-of-1-463-branded-search.md). One required field, and the page you came from is already filled

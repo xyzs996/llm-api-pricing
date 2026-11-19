@@ -27,7 +27,7 @@ Open Code Review is an open-source review tool built for AI-assisted development
 
 ReelDrop launched two months ago and collected 1,118 signups, 28 paying customers, and about CA$2,150 after refunds and before Stripe fees.
 
-[telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--1215-of-1463-Branded-Search-Clicks-Came-From-Somewhere-Else-11-19)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/94) · [telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--1215-of-1463-Branded-Search-Clicks-Came-From-Somewhere-Else-11-19)
 
 ### [The Hidden Cost of AI Automation: Turning Human Instincts into Rules](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 
