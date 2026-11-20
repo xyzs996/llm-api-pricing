@@ -67,9 +67,9 @@ If your current project is still a loose, exploratory prototype experiencing rap
 - [The Hidden Cost of AI Automation: Turning Human Instincts into Rules](the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-[All 75 write-ups](../README.md)
+[All 76 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 873 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 899 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [Software Development](../topics/software-development.md) · [Automation](../topics/automation.md)
 

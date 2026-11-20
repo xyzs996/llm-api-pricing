@@ -1,22 +1,22 @@
-# AI 코딩 에이전트의 실제 비용: 875개 수치, 모두 출처 문장과 날짜 포함
+# AI 코딩 에이전트의 실제 비용: 901개 수치, 모두 출처 문장과 날짜 포함
 
 [English](./README.md) · [中文](./README_CN.md) · [Español](./README_ES.md) · [日本語](./README_JA.md) · **한국어** · [Tiếng Việt](./README_VI.md) · [Français](./README_FR.md) · [Deutsch](./README_DE.md) · [Русский](./README_RU.md) · [Bahasa Indonesia](./README_ID.md)
 
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://spectracodeai.com/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
-공개 데이터셋입니다. 75편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 **원래 문장 전체와 게시 날짜를 함께** 실었습니다.
+공개 데이터셋입니다. 76편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 **원래 문장 전체와 게시 날짜를 함께** 실었습니다.
 
 ## 에이전트 모델의 오늘 가격
 
-Design Arena의 *agents* 부문에 순위가 있는 106개 모델의 100만 토큰당 **정가**입니다. 청구서가 아닙니다 — 캐시, 배치, 제공자마다 가격이 다릅니다. OpenRouter의 공개 카탈로그에서 2026-11-19에 마지막으로 읽었습니다. 가장 싼 3개:
+Design Arena의 *agents* 부문에 순위가 있는 108개 모델의 100만 토큰당 **정가**입니다. 청구서가 아닙니다 — 캐시, 배치, 제공자마다 가격이 다릅니다. OpenRouter의 공개 카탈로그에서 2026-11-20에 마지막으로 읽었습니다. 가장 싼 3개:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.024 | $0.069 | GLM 5.3 Flash `batch` | #32 pdf |
-| $0.036 | $0.15 | DeepSeek V4.1 Flash 1017 `batch` | #9 spreadsheet |
-| $0.05 | $0.20 | Solar Mini 4 | #43 pdf |
+| $0.023 | $0.068 | GLM 5.3 Flash `batch` | #18 pdf |
+| $0.035 | $0.149 | DeepSeek V4.1 Flash 1017 `batch` | #9 spreadsheet |
+| $0.0399 | $0.0784 | GLM 5.3 Flash | #18 pdf |
 
-[106개 전체](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[108개 전체](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **같은 숫자, 반대의 답.** Google 와 xAI 모두 입력 200,000 토큰에서 비싼 요금으로 넘어갑니다. 그런데 **정확히** 200,000 인 요청은 Google 에서는 싼 쪽, xAI 에서는 비싼 쪽으로 청구됩니다. 다른 가격표는 경계 숫자만 적고 끝납니다. 어느 쪽인지를 각 업체 공식 페이지의 원문과 확인 날짜와 함께: [same number, opposite answer](prices.md#same-number-opposite-answer) (영문).
 
@@ -28,6 +28,7 @@ Design Arena의 *agents* 부문에 순위가 있는 106개 모델의 100만 토�
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
+| `$3` | One user running three agents for email, calendar, and research put their monthly bill at $3–5 on DeepSeek V4 Flash against $200–260 on Opus 4.7, and described the quality gap as small rather than night-and-day. | [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md) |
 | `$7` | One developer launched a SaaS and waited 2.5 months for the first paying customer, a $7 sale, and reported that the customer found the product through Google organic search. | [Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else](articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md) |
 | `$3` | Another framing: Kimi K3 at $3/$15 per million tokens against Fable 5 at $10/$50, with intelligence index scores of 59.7 and 62.1. | [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md) |
 | `$0.181` | Sources are already presenting $0.181 per successful task next to a coding score of 96.0, side by side, which is the shape the conversation is heading toward. | [Your LLM Bill Is 2x the Sticker Price: Peak-Hour Pricing and the 272K Token Cliff](articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md) |
@@ -39,9 +40,8 @@ Design Arena의 *agents* 부문에 순위가 있는 106개 모델의 100만 토�
 | `$3` | Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1. | [The "10x Cheaper" Trap: How to Read AI Coding Costs](articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) |
 | `$15` | Kimi K3 charges $15 per million output tokens, DeepSeek V4 at $0.87, and GLM-5.2 at $4.40—far below Anthropic Fable 5’s $50. | [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md) |
 | `$1,000` | But this only works because there’s still demand for Pinterest as a traffic source—especially in niches like home decor, DIY, and personal finance—where one content site, Home Office Setup Guide, earned $1,000 in AdSense in 30 days using only Pinterest and YouTube to drive 5,000 visits, which shows that even with limited channels, targeted traffic from platforms like Pinterest can be monetized effectively when aligned with high-engagement niches that attract consistent user interest and advertiser support. | [How a One-Feature Tool Hit $16K MRR by Automating Pinterest Posts](articles/how-a-one-feature-tool-hit-16k-mrr-by-automating-pinterest.md) |
-| `$7,600` | An AI crypto trading bot reportedly made $7,600 in a week.” That line gets clicks. | [How a Multi-Agent AI System Made $7,600 in 7 Days for Under $100 in API Costs](articles/how-a-multi-agent-ai-system-made-7-600-in-7-days-for-under.md) |
 
-[875개 전체](figures.md)
+[901개 전체](figures.md)
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json

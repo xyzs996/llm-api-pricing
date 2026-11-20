@@ -77,9 +77,9 @@ The one thing you can do today without switching models: schedule non-realtime b
 - [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 - [The Hidden Cost of AI Automation: Turning Human Instincts into Rules](the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 
-[All 75 write-ups](../README.md)
+[All 76 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 857 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 883 more, as JSON and CSV.
 
 Topics: [AI](../topics/ai.md) · [Software Development](../topics/software-development.md) · [Token Optimization](../topics/token-optimization.md) · [AI Pricing](../topics/ai-pricing.md)
 

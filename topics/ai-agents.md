@@ -1,9 +1,11 @@
 # AI Agents
 
-3 of the 75 write-ups here are tagged AI Agents. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 76 write-ups here are tagged AI Agents. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — One user running three agents for email, calendar, and research put their monthly bill at $3–5 on DeepSeek V4 Flash against $200–260 on Opus 4.7, and described the quality gap as small rather than night-and-day. [→](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
+- **$0.30** — Compare MiniMax M2.7 at $0.30 in and $1.20 out with 204.8K context, where the output spread is compressed and the pricing is easier to reason about for multi-turn agent work. [→](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 - **40%** — 40% of review tasks needed manual backfill, costing about 15 extra minutes each time. [→](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 - **1,000 tokens** — Its original system prompt and tool descriptions came to under 1,000 tokens. [→](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 - **300 million tokens** — One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology: 300 million tokens on day one, about 200 million on day two, about 100 million on day three. [→](../articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
@@ -11,9 +13,15 @@
 - **3 minutes** — The numbers underneath that headline are the interesting part: 3 minutes for a deep market research pass, 1,800 designs produced in a month, 12 minutes from a customer request to a rendering, and orders signed on the spot while the buyer was still in the conversation. [→](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 - **1%** — The version of this I have seen bite hardest is on the payments side, where one developer's Stripe account was frozen for a dispute rate above 1% and 1,500-plus paying subscriptions stopped at once. [→](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
-[All figures, 875 rows](../figures.md)
+[All figures, 901 rows](../figures.md)
 
 ## The write-ups
+
+### [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
+
+DeepSeek V3.2 costs $0.26 per million input tokens and $0.38 per million output tokens.
+
+[telegra.ph](https://telegra.ph/The-Cheap-Model-Is-50x-Cheaper-Until-It-Gets-Banned-Real-Per-Token-Costs-vs-What-Actually-Breaks-11-20)
 
 ### [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 
@@ -35,7 +43,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 75 write-ups](../README.md)
+[All 76 write-ups](../README.md)
 
 ---
 

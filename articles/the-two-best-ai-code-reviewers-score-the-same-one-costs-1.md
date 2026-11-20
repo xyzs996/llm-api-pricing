@@ -87,9 +87,9 @@ And read the output like a filter, not a verdict. At 43.1%, that is what it is.
 - [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 - [Your Agent Writes Code Faster Than Anyone Can Review It](your-agent-writes-code-faster-than-anyone-can-review-it.md)
 
-[All 75 write-ups](../README.md)
+[All 76 write-ups](../README.md)
 
-The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 860 more, as JSON and CSV.
+The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 886 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [Software Development](../topics/software-development.md)
 

@@ -1,19 +1,19 @@
 # Token Optimization
 
-6 of the 75 write-ups here are tagged Token Optimization. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 76 write-ups here are tagged Token Optimization. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — One user running three agents for email, calendar, and research put their monthly bill at $3–5 on DeepSeek V4 Flash against $200–260 on Opus 4.7, and described the quality gap as small rather than night-and-day. [→](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
+- **$0.30** — Compare MiniMax M2.7 at $0.30 in and $1.20 out with 204.8K context, where the output spread is compressed and the pricing is easier to reason about for multi-turn agent work. [→](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 - **$3** — Another framing: Kimi K3 at $3/$15 per million tokens against Fable 5 at $10/$50, with intelligence index scores of 59.7 and 62.1. [→](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - **$15** — Kimi K3's $15 output price is expensive by Chinese standards — it only looks cheap next to Fable 5, where it lands under a third. [→](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - **$462.60** — One estimate has two models both scoring 99/100 on writing tasks with monthly API bills of $462.60 and $116.10 — roughly a 4x gap on similar list prices. [→](../articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 - **$0.181** — Sources are already presenting $0.181 per successful task next to a coding score of 96.0, side by side, which is the shape the conversation is heading toward. [→](../articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 - **$3** — For scale on what a real month looks like: three agents doing email, calendar, and research ran about $3–5 per month on DeepSeek V4 Flash against $200–260 on Opus 4.7, with what the user described as a small quality gap. [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 - **$0.181** — For a coding agent that runs as your daily driver, the pick is DeepSeek V4.1-Flash — and the reason is the $0.181 per successful task and the 96.0 coding score, not the 3/9 yuan on the price table. [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
-- **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
-- **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All figures, 875 rows](../figures.md)
+[All figures, 901 rows](../figures.md)
 
 ## The write-ups
 
@@ -22,6 +22,12 @@
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
+
+### [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
+
+DeepSeek V3.2 costs $0.26 per million input tokens and $0.38 per million output tokens.
+
+[telegra.ph](https://telegra.ph/The-Cheap-Model-Is-50x-Cheaper-Until-It-Gets-Banned-Real-Per-Token-Costs-vs-What-Actually-Breaks-11-20)
 
 ### [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 
@@ -55,7 +61,7 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 75 write-ups](../README.md)
+[All 76 write-ups](../README.md)
 
 ---
 

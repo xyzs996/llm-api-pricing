@@ -1,12 +1,12 @@
 # OpenAI API pricing: what 11 models cost a coding agent
 
-Every OpenAI model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-19**.
+Every OpenAI model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-20**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep OpenAI discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What OpenAI charges per million tokens
 
-11 OpenAI models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-19**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+11 OpenAI models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-20**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **OpenAI does not have one cache-read rate — it has 3.** Across 11 rows the discount runs from 5.0% to 10.4% of that row's own input price (5%, 10%, 10.4%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, OpenAI's list input price overstates what an agent pays by a median **6.5×** (range 6.1×–9.7×).
 
@@ -17,14 +17,14 @@ Every OpenAI model in the catalog that has been ranked in an agent category, pri
 | $ / 1M at agent mix | $ in / 1M | $ cache read / 1M | $ out / 1M | Model | Context | Long-context step | Best agents rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **$0.103** | $1.00 | $0.05 | $5.00 | [GPT-6.1 Sol](https://openrouter.ai/openai/gpt-6.1-sol:batch) `batch` | 1.1M | $2.00 past 272k | #2 blender3d |
-| **$0.1396** | $0.875 | $0.0875 | $7.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2:batch) `batch` | 400K | — | #21 godotgamedev |
-| **$0.1922** | $1.25 | $0.125 | $7.50 | [GPT-5.4](https://openrouter.ai/openai/gpt-5.4:batch) `batch` | 1.1M | $2.50 past 272k | #24 godotgamedev |
-| **$0.2042** | $1.25 | $0.13 | $10.00 | [GPT-5.1-Codex](https://openrouter.ai/openai/gpt-5.1-codex) | 400K | — | #23 mobileapps |
+| **$0.1396** | $0.875 | $0.0875 | $7.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2:batch) `batch` | 400K | — | #20 godotgamedev |
+| **$0.1922** | $1.25 | $0.125 | $7.50 | [GPT-5.4](https://openrouter.ai/openai/gpt-5.4:batch) `batch` | 1.1M | $2.50 past 272k | #23 godotgamedev |
+| **$0.2042** | $1.25 | $0.13 | $10.00 | [GPT-5.1-Codex](https://openrouter.ai/openai/gpt-5.1-codex) | 400K | — | #24 mobileapps |
 | **$0.206** | $2.00 | $0.10 | $10.00 | [GPT-6.1 Sol](https://openrouter.ai/openai/gpt-6.1-sol) | 1.1M | $4.00 past 272k | #2 blender3d |
-| **$0.2792** | $1.75 | $0.175 | $14.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2) | 400K | — | #21 godotgamedev |
+| **$0.2792** | $1.75 | $0.175 | $14.00 | [GPT-5.2](https://openrouter.ai/openai/gpt-5.2) | 400K | — | #20 godotgamedev |
 | **$0.2792** | $1.75 | $0.175 | $14.00 | [GPT-5.2-Codex](https://openrouter.ai/openai/gpt-5.2-codex) | 400K | — | #19 androidnative |
 | **$0.2792** | $1.75 | $0.175 | $14.00 | [GPT-5.3-Codex](https://openrouter.ai/openai/gpt-5.3-codex) | 400K | — | #26 godotgamedev |
-| **$0.3843** | $2.50 | $0.25 | $15.00 | [GPT-5.4](https://openrouter.ai/openai/gpt-5.4) | 1.1M | $5.00 past 272k | #24 godotgamedev |
+| **$0.3843** | $2.50 | $0.25 | $15.00 | [GPT-5.4](https://openrouter.ai/openai/gpt-5.4) | 1.1M | $5.00 past 272k | #23 godotgamedev |
 | **$0.3843** | $2.50 | $0.25 | $15.00 | [GPT-5.5](https://openrouter.ai/openai/gpt-5.5:batch) `batch` | 1.1M | $5.00 past 272k | #6 agenticslides |
 | **$0.7687** | $5.00 | $0.50 | $30.00 | [GPT-5.5](https://openrouter.ai/openai/gpt-5.5) | 1.1M | $10.00 past 272k | #6 agenticslides |
 
@@ -37,9 +37,9 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 
 | Vendor | Rows | Cache read, % of its own input | List price overstates the agent bill by | Cheapest non-`batch` row at agent mix |
 | --- | --- | --- | --- | --- |
-| xiaomi | 1 | 0.8% | 18.4× | $0.0237 |
+| xiaomi | 2 | 0.8–20% | 11.2× | $0.0237 |
 | tencent | 1 | 5% | 10.3× | $0.0407 |
-| DeepSeek | 3 | 2–27.8% | 7.5× | $0.0107 |
+| DeepSeek | 3 | 2–22.2% | 7.6× | $0.0107 |
 | Claude | 26 | 2.5–10% | 6.6× | $0.0151 |
 | Gemini | 18 | 5–10% | 6.6× | $0.0769 |
 | **OpenAI** | 11 | 5–10.4% | 6.5× | $0.2042 |
@@ -52,8 +52,8 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | MiniMax | 2 | 20% | 4.1× | $0.0731 |
 | reflection | 1 | 20% | 4.1× | $0.0609 |
 | stepfun | 1 | 20% | 4.0× | $0.0497 |
-| GLM | 11 | 20–98.6% | 3.8× | $0.0362 |
-| Kimi | 7 | 10–94.8% | 2.9× | $0.1711 |
+| GLM | 12 | 20–98.6% | 3.8× | $0.0305 |
+| Kimi | 7 | 10–94.8% | 2.9× | $0.1479 |
 
 The spread in that fourth column is the whole point: Claude at 6.6× against Kimi at 2.9×, across 26 and 7 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
 
@@ -62,19 +62,21 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 
 ## What was written about OpenAI while these were measured
 
-4 figures in these field notes come from a sentence that names OpenAI. These are quoted from the write-up, dated the day it went out — unlike the table above, they are **not** recomputed, so read each one as of its own date.
+5 figures in these field notes come from a sentence that names OpenAI. These are quoted from the write-up, dated the day it went out — unlike the table above, they are **not** recomputed, so read each one as of its own date.
 
+- **14.753-second** — “An agent running tool calls through the OpenAI API in Lumina hit a 14.753-second rate limit after one call, or at most two.” (2026-11-20) [→](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 - **20%** — “OpenAI is positioning ChatGPT Work as a productivity platform for business teams, and the share of its users who don't code is projected to grow from 20% to 60% within 12 months.” (2026-09-25) [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 - **10%** — “Anthropic, Google and OpenAI each charge 10% of input for a cache read — flat, every model, and stable across sellers too.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 - **$0.19 per million tokens** — “Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - **4 hours** — “He used OpenAI Codex's Record & Replay to automate monthly report generation, taking it from 4 hours to a few minutes.” (2026-08-05) [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
-[All 875 figures, every kind](../figures.md)
+[All 901 figures, every kind](../figures.md)
 
 - [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/66) · [telegra.ph](https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
 - [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](../articles/how-chinese-developers-are-using-codex-record-replay-to.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/25) · [telegra.ph](https://telegra.ph/How-Chinese-Developers-Are-Using-Codex-Record--Replay-to-Streamline-Repetitive-Workflows-08-19)
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
+- [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md) · [telegra.ph](https://telegra.ph/The-Cheap-Model-Is-50x-Cheaper-Until-It-Gets-Banned-Real-Per-Token-Costs-vs-What-Actually-Breaks-11-20)
 
 **A OpenAI price that looks wrong?** [Say which row](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=OpenAI&title=%5Bcorrection%5D+OpenAI) — the form already knows it is about OpenAI; you only have to say what the number is now. Every figure here is computed from a published catalog, so a wrong one is a bug, not an opinion.
 

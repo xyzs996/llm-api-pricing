@@ -1,6 +1,6 @@
 # Chinese AI
 
-8 of the 75 write-ups here are tagged Chinese AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 76 write-ups here are tagged Chinese AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **30%** — Those who have already made the switch to Chinese tools have seen productivity increases of up to 30%. [→](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
 - **20%** — Developers should build buffer time into their workflows when using Chinese AI coding tools, which is illustrated by the fact that one developer added 20% extra time to their coding sessions when using these tools because of the higher frequency of stability issues. [→](../articles/the-hidden-costs-of-ai-coding-tools-what-english-developers.md)
 
-[All figures, 875 rows](../figures.md)
+[All figures, 901 rows](../figures.md)
 
 ## The write-ups
 
@@ -67,7 +67,7 @@ A monthly report that used to take four hours now takes a few minutes.
 
 ---
 
-[All 75 write-ups](../README.md)
+[All 76 write-ups](../README.md)
 
 ---
 

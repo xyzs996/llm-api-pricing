@@ -100,9 +100,9 @@ This system worked because it was narrow, monitored, and built to fail safely. Y
 - [Stop Using AI as a Chatbot: How to Build an Indie Workstation with Skills and Automation](stop-using-ai-as-a-chatbot-how-to-build-an-indie.md)
 - [Your Agent Writes Code Faster Than Anyone Can Review It](your-agent-writes-code-faster-than-anyone-can-review-it.md)
 
-[All 75 write-ups](../README.md)
+[All 76 write-ups](../README.md)
 
-The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 862 more, as JSON and CSV.
+The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 888 more, as JSON and CSV.
 
 Topics: [AI](../topics/ai.md)
 

@@ -99,11 +99,11 @@ One thing you can do today: spend a day on the task type you run most, and recor
 - [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 
-[All 75 write-ups](../README.md)
+[All 76 write-ups](../README.md)
 
-The 29 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 846 more, as JSON and CSV.
+The 29 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 872 more, as JSON and CSV.
 
-Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [AI Programming](../topics/ai-programming.md) · [Developer Productivity](../topics/developer-productivity.md) · [Token Optimization](../topics/token-optimization.md)
+Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [AI Programming](../topics/ai-programming.md) · [Token Optimization](../topics/token-optimization.md) · [Developer Productivity](../topics/developer-productivity.md)
 
 
 ---

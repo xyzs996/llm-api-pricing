@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-875 figures pulled out of 75 write-ups in
+901 figures pulled out of 76 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,39 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://sp
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](https://spectracodeai.com/articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.html)
+
+Published 2026-11-20.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$0.26` per million input tokens | price | DeepSeek V3.2 costs $0.26 per million input tokens and $0.38 per million output tokens. |
+| `$0.38` per million output tokens | price | DeepSeek V3.2 costs $0.26 per million input tokens and $0.38 per million output tokens. |
+| `$5.00` per million | price | Opus 4.7 lists at $5.00 per million input — except that's not what you pay, because a 35% tokenizer increase pushes the effective input price to roughly $6.75 per million. |
+| `35%` | percent | Opus 4.7 lists at $5.00 per million input — except that's not what you pay, because a 35% tokenizer increase pushes the effective input price to roughly $6.75 per million. |
+| `$6.75` per million | price | Opus 4.7 lists at $5.00 per million input — except that's not what you pay, because a 35% tokenizer increase pushes the effective input price to roughly $6.75 per million. |
+| `50x` | multiple | Same task, same agent loop, and one side of that comparison is about 50x cheaper than the other. |
+| `$3` | price | One user running three agents for email, calendar, and research put their monthly bill at $3–5 on DeepSeek V4 Flash against $200–260 on Opus 4.7, and described the quality gap as small rather than night-and-day. |
+| `$200` | price | One user running three agents for email, calendar, and research put their monthly bill at $3–5 on DeepSeek V4 Flash against $200–260 on Opus 4.7, and described the quality gap as small rather than night-and-day. |
+| `$5.00` per million tokens | price | Opus 4.7's input price is $5.00 per million tokens. |
+| `35%` | percent | But the same prompt gets cut into more tokens than it used to — a 35% increase — so the effective input cost lands around $6.75 per million. |
+| `$6.75` per million | price | But the same prompt gets cut into more tokens than it used to — a 35% increase — so the effective input cost lands around $6.75 per million. |
+| `$60` per million tokens | price | If you call Qwen 3 Coder through OpenRouter and leave Alibaba selected as the inference provider, output can run up to $60 per million tokens. |
+| `$0.12` per million | price | Qwen3.5 Plus runs $0.12–0.57 per million input and $0.69–3.44 per million output, with context up to 1M tokens. |
+| `$0.69` per million | price | Qwen3.5 Plus runs $0.12–0.57 per million input and $0.69–3.44 per million output, with context up to 1M tokens. |
+| `1M tokens` | tokens | Qwen3.5 Plus runs $0.12–0.57 per million input and $0.69–3.44 per million output, with context up to 1M tokens. |
+| `$0.30` | price | Compare MiniMax M2.7 at $0.30 in and $1.20 out with 204.8K context, where the output spread is compressed and the pricing is easier to reason about for multi-turn agent work. |
+| `$1.20` | price | Compare MiniMax M2.7 at $0.30 in and $1.20 out with 204.8K context, where the output spread is compressed and the pricing is easier to reason about for multi-turn agent work. |
+| `50x` | multiple | Here's where the 50x gap gets spent. |
+| `14.753-second` | duration | An agent running tool calls through the OpenAI API in Lumina hit a 14.753-second rate limit after one call, or at most two. |
+| `10x` | multiple | The consequence isn't just waiting: agentic tasks ran 10x slower, required repeated "continue" prompts, and each continue burned context and usage while requiring a human to sit there and press it. |
+| `$0.26` | price | For high-frequency, short-turn, structured-output agent calls, DeepSeek V3.2 at $0.26 in and $0.38 out with 163K context is the right default. |
+| `$0.38` | price | For high-frequency, short-turn, structured-output agent calls, DeepSeek V3.2 at $0.26 in and $0.38 out with 163K context is the right default. |
+| `$3` | price | And with a monthly gap of $3–5 against $200–260, you have an enormous retry budget before the cheap route stops being cheaper. |
+| `$200` | price | And with a monthly gap of $3–5 against $200–260, you have an enormous retry budget before the cheap route stops being cheaper. |
+| `14.753-second` | duration | A single call can hit a 14.753-second rate limit. |
+| `35%` | percent | The tokenizer adds 35% to your effective input price, and in the comparison we have, the higher spend didn't buy better output. |
 
 ## [Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else](https://spectracodeai.com/articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.html)
 
@@ -1455,5 +1488,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "875 figures pulled out of 75 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-19", "dateModified": "2026-11-19"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "901 figures pulled out of 76 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-20", "dateModified": "2026-11-20"}
 </script>

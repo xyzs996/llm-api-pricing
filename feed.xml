@@ -4,8 +4,16 @@
   <id>https://spectracodeai.com/</id>
   <link href="https://spectracodeai.com/"/>
   <link rel="self" href="https://spectracodeai.com/feed.xml"/>
-  <updated>2026-11-19T09:17:00Z</updated>
+  <updated>2026-11-20T07:15:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks</title>
+    <link href="https://spectracodeai.com/articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.html"/>
+    <id>https://spectracodeai.com/articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.html</id>
+    <updated>2026-11-20T07:15:00Z</updated>
+    <published>2026-11-20T07:15:00Z</published>
+    <summary>DeepSeek V3.2 costs $0.26 per million input tokens and $0.38 per million output tokens.</summary>
+  </entry>
   <entry>
     <title>Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else</title>
     <link href="https://spectracodeai.com/articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.html"/>

@@ -1,6 +1,6 @@
 # Software Development
 
-7 of the 75 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 76 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$3** — Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 - **$3** — One Reddit user estimated that three agents handling email, calendar and research would cost about $3–$5 a month on DeepSeek V4 Flash, against roughly $200–$260 on Claude Opus 4.7, with only a small quality gap. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 
-[All figures, 875 rows](../figures.md)
+[All figures, 901 rows](../figures.md)
 
 ## The write-ups
 
@@ -61,7 +61,7 @@ On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
 
 ---
 
-[All 75 write-ups](../README.md)
+[All 76 write-ups](../README.md)
 
 ---
 
