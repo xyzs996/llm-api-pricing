@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/95) — that copy has a reply box under it, and this one does not.*
+
 DeepSeek V3.2 costs $0.26 per million input tokens and $0.38 per million output tokens. Opus 4.7 lists at $5.00 per million input — except that's not what you pay, because a 35% tokenizer increase pushes the effective input price to roughly $6.75 per million.
 
 Same task, same agent loop, and one side of that comparison is about 50x cheaper than the other. One user running three agents for email, calendar, and research put their monthly bill at $3–5 on DeepSeek V4 Flash against $200–260 on Opus 4.7, and described the quality gap as small rather than night-and-day.
@@ -92,6 +94,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** Before you read this, what was your own input/output token split for a real agent workload — reply with that ratio below, since you'd know it from memory without checking any dashboard. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/95).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md). One required field, and the page you came from is already filled

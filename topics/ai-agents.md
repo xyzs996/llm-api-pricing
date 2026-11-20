@@ -21,7 +21,7 @@
 
 DeepSeek V3.2 costs $0.26 per million input tokens and $0.38 per million output tokens.
 
-[telegra.ph](https://telegra.ph/The-Cheap-Model-Is-50x-Cheaper-Until-It-Gets-Banned-Real-Per-Token-Costs-vs-What-Actually-Breaks-11-20)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/95) · [telegra.ph](https://telegra.ph/The-Cheap-Model-Is-50x-Cheaper-Until-It-Gets-Banned-Real-Per-Token-Costs-vs-What-Actually-Breaks-11-20)
 
 ### [Your AI Didn't Misread Your Code by Accident. You Handed It the Wrong Context.](../articles/your-ai-didn-t-misread-your-code-by-accident-you-handed-it.md)
 
