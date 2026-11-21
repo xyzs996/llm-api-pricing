@@ -8,13 +8,13 @@ Un jeu de données ouvert. Chaque chiffre publié dans 76 notes de terrain — p
 
 ## Ce que coûtent aujourd'hui les modèles d'agent
 
-108 modèles classés dans une catégorie *agents* de la Design Arena, avec leur **prix affiché** par million de jetons — ce n'est pas votre facture : le cache, les lots et chaque fournisseur facturent différemment. Depuis le catalogue public de OpenRouter, relu le 2026-11-20. Les trois moins chers :
+108 modèles classés dans une catégorie *agents* de la Design Arena, avec leur **prix affiché** par million de jetons — ce n'est pas votre facture : le cache, les lots et chaque fournisseur facturent différemment. Depuis le catalogue public de OpenRouter, relu le 2026-11-21. Les trois moins chers :
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.023 | $0.068 | GLM 5.3 Flash `batch` | #18 pdf |
+| $0.023 | $0.068 | GLM 5.3 Flash `batch` | #16 pdf |
 | $0.035 | $0.149 | DeepSeek V4.1 Flash 1017 `batch` | #9 spreadsheet |
-| $0.0399 | $0.0784 | GLM 5.3 Flash | #18 pdf |
+| $0.0399 | $0.0784 | GLM 5.3 Flash | #16 pdf |
 
 [Les 108 modèles](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
