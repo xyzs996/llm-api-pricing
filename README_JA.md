@@ -8,15 +8,15 @@
 
 ## エージェント向けモデルの今日の値段
 
-Design Arena の *agents* 部門で順位のついた 108 モデルの、100 万トークンあたりの**定価**です。請求額ではありません — キャッシュ、バッチ、提供元ごとに価格は違います。OpenRouter の公開カタログより、最終取得日 2026-11-21。安い順に 3 つ:
+Design Arena の *agents* 部門で順位のついた 110 モデルの、100 万トークンあたりの**定価**です。請求額ではありません — キャッシュ、バッチ、提供元ごとに価格は違います。OpenRouter の公開カタログより、最終取得日 2026-11-22。安い順に 3 つ:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.023 | $0.068 | GLM 5.3 Flash `batch` | #16 pdf |
+| $0.023 | $0.068 | GLM 5.3 Flash `batch` | #21 pdf |
 | $0.035 | $0.149 | DeepSeek V4.1 Flash 1017 `batch` | #9 spreadsheet |
-| $0.0399 | $0.0784 | GLM 5.3 Flash | #16 pdf |
+| $0.05 | $0.20 | Solar Mini 4 | #46 pdf |
 
-[108 モデル全部](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[110 モデル全部](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **同じ数字、逆の答え。** Google と xAI はどちらも入力 200,000 トークンで高い方の料金に切り替わります。ただし**ちょうど** 200,000 のとき、Google は安い方、xAI は高い方で課金されます。ほかの価格表は境界の数字を載せてそこで終わりです。どちらに入るかを、各社の公式ページの原文と確認日つきで: [same number, opposite answer](prices.md#same-number-opposite-answer)(英語)。
 

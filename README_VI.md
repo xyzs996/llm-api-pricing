@@ -8,15 +8,15 @@ Một bộ dữ liệu mở. Mọi con số xuất hiện trong 76 ghi chép th�
 
 ## Hôm nay chạy agent tốn bao nhiêu
 
-108 mô hình được xếp hạng trong một hạng mục *agents* của Design Arena, kèm **giá niêm yết** cho mỗi triệu token — không phải hóa đơn của bạn: cache, batch và từng nhà cung cấp tính khác nhau. Lấy từ danh mục công khai của OpenRouter, đọc lần cuối ngày 2026-11-21. Ba mô hình rẻ nhất:
+110 mô hình được xếp hạng trong một hạng mục *agents* của Design Arena, kèm **giá niêm yết** cho mỗi triệu token — không phải hóa đơn của bạn: cache, batch và từng nhà cung cấp tính khác nhau. Lấy từ danh mục công khai của OpenRouter, đọc lần cuối ngày 2026-11-22. Ba mô hình rẻ nhất:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.023 | $0.068 | GLM 5.3 Flash `batch` | #16 pdf |
+| $0.023 | $0.068 | GLM 5.3 Flash `batch` | #21 pdf |
 | $0.035 | $0.149 | DeepSeek V4.1 Flash 1017 `batch` | #9 spreadsheet |
-| $0.0399 | $0.0784 | GLM 5.3 Flash | #16 pdf |
+| $0.05 | $0.20 | Solar Mini 4 | #46 pdf |
 
-[Toàn bộ 108 mô hình](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[Toàn bộ 110 mô hình](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **Cùng một con số, hai câu trả lời trái ngược.** Google và xAI đều chuyển sang mức giá cao ở 200,000 token đầu vào, nhưng một prompt đúng bằng 200,000 lại được tính giá rẻ ở Google và giá đắt ở xAI. Các bảng giá khác chỉ in con số rồi dừng ở đó. Bên nào tính theo cách nào, trích nguyên văn từ trang của chính nhà cung cấp kèm ngày kiểm tra: [same number, opposite answer](prices.md#same-number-opposite-answer) (tiếng Anh).
 
