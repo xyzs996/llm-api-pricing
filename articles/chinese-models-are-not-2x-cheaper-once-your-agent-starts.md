@@ -121,9 +121,9 @@ Better to ship the arithmetic than the conclusion. Three prices per host, three 
 - [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 - [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](this-open-source-code-review-tool-beats-claude-with-1-9-the.md)
 
-[All 76 write-ups](../README.md)
+[All 77 write-ups](../README.md)
 
-The 64 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 837 more, as JSON and CSV.
+The 64 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 867 more, as JSON and CSV.
 
 Topics: [LLM](../topics/llm.md)
 

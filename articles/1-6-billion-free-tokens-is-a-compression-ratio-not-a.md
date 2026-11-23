@@ -69,9 +69,9 @@ I could be wrong about how much the fallback actually degrades things, and the h
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All 76 write-ups](../README.md)
+[All 77 write-ups](../README.md)
 
-The 27 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 874 more, as JSON and CSV.
+The 27 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 904 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Development Tools](../topics/development-tools.md) · [Token Optimization](../topics/token-optimization.md) · [Cost Savings](../topics/cost-savings.md)
 

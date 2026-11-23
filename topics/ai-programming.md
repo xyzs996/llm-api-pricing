@@ -1,21 +1,27 @@
 # AI Programming
 
-11 of the 76 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+12 of the 77 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — Those numbers aren't marketing, because they show up in real monthly bills, where one developer running three agents for email, calendar, and research put DeepSeek V4 Flash at roughly $3–5 per month against Opus 4.7 at $200–260 — with what they described as a small quality gap. [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
+- **$0.26** — DeepSeek V3.2 under the OpenClaw framework comes in at $0.26 per million input tokens and $0.38 output, the lowest-cost model in that particular comparison, while MiniMax M2.7 sits at $0.30 input and $1.20 output with a 204.8K context window, built for coding and agent workflows. [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - **$3** — One user running three agents for email, calendar, and research put their monthly bill at $3–5 on DeepSeek V4 Flash against $200–260 on Opus 4.7, and described the quality gap as small rather than night-and-day. [→](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 - **$0.30** — Compare MiniMax M2.7 at $0.30 in and $1.20 out with 204.8K context, where the output spread is compressed and the pricing is easier to reason about for multi-turn agent work. [→](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 - **$3** — Another framing: Kimi K3 at $3/$15 per million tokens against Fable 5 at $10/$50, with intelligence index scores of 59.7 and 62.1. [→](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - **$15** — Kimi K3's $15 output price is expensive by Chinese standards — it only looks cheap next to Fable 5, where it lands under a third. [→](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - **$3** — For scale on what a real month looks like: three agents doing email, calendar, and research ran about $3–5 per month on DeepSeek V4 Flash against $200–260 on Opus 4.7, with what the user described as a small quality gap. [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 - **$0.181** — For a coding agent that runs as your daily driver, the pick is DeepSeek V4.1-Flash — and the reason is the $0.181 per successful task and the 96.0 coding score, not the 3/9 yuan on the price table. [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
-- **$3** — For an agent doing email, calendar, and research, one developer's monthly bill came to roughly $3–5 on V4 Flash against $200–260 on Opus 4.7. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
-- **$10** — OpenCode Go users pay $10/month and receive $60 of DeepSeek V4.1 Flash usage credit that never expires — up from the original $30/month allotment, upgraded in Phase 2 to $60 and kept long-term. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 
-[All figures, 901 rows](../figures.md)
+[All figures, 931 rows](../figures.md)
 
 ## The write-ups
+
+### [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
+
+Just pick the model with the lowest per-million-token price — that's how you keep your agent bill down — but that advice breaks the moment your agent touches any of three structural traps: time-of-…
+
+[telegra.ph](https://telegra.ph/The-Same-Model-Costs-2x-More-at-10am--Three-Pricing-Cliffs-That-Blow-Up-Your-Coding-Agents-Bill-11-23)
 
 ### [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 
@@ -85,7 +91,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 76 write-ups](../README.md)
+[All 77 write-ups](../README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # AI Agents
 
-4 of the 76 write-ups here are tagged AI Agents. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 77 write-ups here are tagged AI Agents. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **3 minutes** — The numbers underneath that headline are the interesting part: 3 minutes for a deep market research pass, 1,800 designs produced in a month, 12 minutes from a customer request to a rendering, and orders signed on the spot while the buyer was still in the conversation. [→](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 - **1%** — The version of this I have seen bite hardest is on the payments side, where one developer's Stripe account was frozen for a dispute rate above 1% and 1,500-plus paying subscriptions stopped at once. [→](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
-[All figures, 901 rows](../figures.md)
+[All figures, 931 rows](../figures.md)
 
 ## The write-ups
 
@@ -43,7 +43,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 76 write-ups](../README.md)
+[All 77 write-ups](../README.md)
 
 ---
 

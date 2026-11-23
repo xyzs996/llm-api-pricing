@@ -1,21 +1,27 @@
 # Artificial Intelligence
 
-12 of the 76 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+13 of the 77 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — Those numbers aren't marketing, because they show up in real monthly bills, where one developer running three agents for email, calendar, and research put DeepSeek V4 Flash at roughly $3–5 per month against Opus 4.7 at $200–260 — with what they described as a small quality gap. [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
+- **$0.26** — DeepSeek V3.2 under the OpenClaw framework comes in at $0.26 per million input tokens and $0.38 output, the lowest-cost model in that particular comparison, while MiniMax M2.7 sits at $0.30 input and $1.20 output with a 204.8K context window, built for coding and agent workflows. [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - **$3** — Another framing: Kimi K3 at $3/$15 per million tokens against Fable 5 at $10/$50, with intelligence index scores of 59.7 and 62.1. [→](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - **$15** — Kimi K3's $15 output price is expensive by Chinese standards — it only looks cheap next to Fable 5, where it lands under a third. [→](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - **$3** — For scale on what a real month looks like: three agents doing email, calendar, and research ran about $3–5 per month on DeepSeek V4 Flash against $200–260 on Opus 4.7, with what the user described as a small quality gap. [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 - **$0.181** — For a coding agent that runs as your daily driver, the pick is DeepSeek V4.1-Flash — and the reason is the $0.181 per successful task and the 96.0 coding score, not the 3/9 yuan on the price table. [→](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 - **60%** — For rider recruitment, this meant focusing on repetitive actions like resume browsing and initial outreach, which is where the team, using Codex, developed a tool that iterated 28 times before it was able to achieve a 60% efficiency increase in public domain recruitment tasks — the same repetitive work of resume browsing and initial outreach that had been the focus from the start. [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 - **60%** — A delivery driver recruitment team built a stable automation workflow by breaking down daily tasks into verifiable steps and iterating 28 times, achieving a 60% efficiency boost in repetitive operations. [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
-- **20%** — OpenAI is positioning ChatGPT Work as a productivity platform for business teams, and the share of its users who don't code is projected to grow from 20% to 60% within 12 months. [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
-- **$1.43** — The price spread is wide even among the Western flagships, which becomes obvious on ReactBench, where one run with GPT 5.6 Sol costs about $1.43 while one run with Fable 5 costs $9.05, which means that a single Fable 5 run comes to a bit more than six times as much as the GPT 5.6 Sol run does. [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 
-[All figures, 901 rows](../figures.md)
+[All figures, 931 rows](../figures.md)
 
 ## The write-ups
+
+### [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
+
+Just pick the model with the lowest per-million-token price — that's how you keep your agent bill down — but that advice breaks the moment your agent touches any of three structural traps: time-of-…
+
+[telegra.ph](https://telegra.ph/The-Same-Model-Costs-2x-More-at-10am--Three-Pricing-Cliffs-That-Blow-Up-Your-Coding-Agents-Bill-11-23)
 
 ### [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 
@@ -91,7 +97,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 76 write-ups](../README.md)
+[All 77 write-ups](../README.md)
 
 ---
 

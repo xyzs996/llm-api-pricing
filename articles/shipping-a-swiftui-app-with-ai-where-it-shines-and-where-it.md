@@ -66,12 +66,12 @@ You can take this even further by formalizing your upfront context. One develope
 **Read next**
 
 - [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
+- [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - [Your LLM Bill Is 2x the Sticker Price: Peak-Hour Pricing and the 272K Token Cliff](your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
-- [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 
-[All 76 write-ups](../README.md)
+[All 77 write-ups](../README.md)
 
-The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 893 more, as JSON and CSV.
+The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 923 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Programming](../topics/ai-programming.md) · [AI](../topics/ai.md) · [Software Development](../topics/software-development.md)
 

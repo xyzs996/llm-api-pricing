@@ -1,21 +1,27 @@
 # Software Development
 
-7 of the 76 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+8 of the 77 write-ups here are tagged Software Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — Those numbers aren't marketing, because they show up in real monthly bills, where one developer running three agents for email, calendar, and research put DeepSeek V4 Flash at roughly $3–5 per month against Opus 4.7 at $200–260 — with what they described as a small quality gap. [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
+- **$0.26** — DeepSeek V3.2 under the OpenClaw framework comes in at $0.26 per million input tokens and $0.38 output, the lowest-cost model in that particular comparison, while MiniMax M2.7 sits at $0.30 input and $1.20 output with a 204.8K context window, built for coding and agent workflows. [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - **$462.60** — One estimate has two models both scoring 99/100 on writing tasks with monthly API bills of $462.60 and $116.10 — roughly a 4x gap on similar list prices. [→](../articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 - **$0.181** — Sources are already presenting $0.181 per successful task next to a coding score of 96.0, side by side, which is the shape the conversation is heading toward. [→](../articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 - **60%** — For rider recruitment, this meant focusing on repetitive actions like resume browsing and initial outreach, which is where the team, using Codex, developed a tool that iterated 28 times before it was able to achieve a 60% efficiency increase in public domain recruitment tasks — the same repetitive work of resume browsing and initial outreach that had been the focus from the start. [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 - **60%** — A delivery driver recruitment team built a stable automation workflow by breaking down daily tasks into verifiable steps and iterating 28 times, achieving a 60% efficiency boost in repetitive operations. [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 - **4-year** — For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 - **$80** — In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
-- **$3** — Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
-- **$3** — One Reddit user estimated that three agents handling email, calendar and research would cost about $3–$5 a month on DeepSeek V4 Flash, against roughly $200–$260 on Claude Opus 4.7, with only a small quality gap. [→](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md)
 
-[All figures, 901 rows](../figures.md)
+[All figures, 931 rows](../figures.md)
 
 ## The write-ups
+
+### [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
+
+Just pick the model with the lowest per-million-token price — that's how you keep your agent bill down — but that advice breaks the moment your agent touches any of three structural traps: time-of-…
+
+[telegra.ph](https://telegra.ph/The-Same-Model-Costs-2x-More-at-10am--Three-Pricing-Cliffs-That-Blow-Up-Your-Coding-Agents-Bill-11-23)
 
 ### [Your LLM Bill Is 2x the Sticker Price: Peak-Hour Pricing and the 272K Token Cliff](../articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 
@@ -61,7 +67,7 @@ On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
 
 ---
 
-[All 76 write-ups](../README.md)
+[All 77 write-ups](../README.md)
 
 ---
 

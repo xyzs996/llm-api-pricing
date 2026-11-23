@@ -1,12 +1,12 @@
 # Claude API pricing: what 26 models cost a coding agent
 
-Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-22**.
+Every Claude model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-23**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Claude discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Claude charges per million tokens
 
-26 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-22**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+26 Claude models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-23**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Claude does not have one cache-read rate — it has 3.** Across 26 rows the discount runs from 2.5% to 10.0% of that row's own input price (2.5%, 5%, 10%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Claude's list input price overstates what an agent pays by a median **6.6×** (range 6.6×–12.6×).
 
@@ -16,13 +16,13 @@ Every Claude model in the catalog that has been ranked in an agent category, pri
 
 | $ / 1M at agent mix | $ in / 1M | $ cache read / 1M | $ out / 1M | Model | Context | Long-context step | Best agents rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **$0.0075** | $0.05 | $0.005 | $0.25 | [Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5:batch) `batch` | 1M | $0.25 past 100k | #26 pdf |
-| **$0.0151** | $0.10 | $0.01 | $0.50 | [Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5) | 1M | $0.50 past 100k | #26 pdf |
+| **$0.0075** | $0.05 | $0.005 | $0.25 | [Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5:batch) `batch` | 1M | $0.25 past 100k | #25 pdf |
+| **$0.0151** | $0.10 | $0.01 | $0.50 | [Claude Haiku 5.5](https://openrouter.ai/anthropic/claude-haiku-5.5) | 1M | $0.50 past 100k | #25 pdf |
 | **$0.103** | $1.00 | $0.05 | $5.00 | [Claude Sonnet 5.5](https://openrouter.ai/anthropic/claude-sonnet-5.5:batch) `batch` | 1M | — | #3 blender3d |
 | **$0.1508** | $1.00 | $0.10 | $5.00 | [Claude Sonnet 5](https://openrouter.ai/anthropic/claude-sonnet-5:batch) `batch` | 1M | — | #8 agenticgamedev |
 | **$0.206** | $2.00 | $0.10 | $10.00 | [Claude Opus 5.5](https://openrouter.ai/anthropic/claude-opus-5.5:batch) `batch` | 1M | — | #1 androidnative |
 | **$0.206** | $2.00 | $0.10 | $10.00 | [Claude Sonnet 5.5](https://openrouter.ai/anthropic/claude-sonnet-5.5) | 1M | — | #3 blender3d |
-| **$0.2263** | $1.50 | $0.15 | $7.50 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5:batch) `batch` | 1M | $3.00 past 200k | #40 fullstack |
+| **$0.2263** | $1.50 | $0.15 | $7.50 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5:batch) `batch` | 1M | $3.00 past 200k | #38 fullstack |
 | **$0.2263** | $1.50 | $0.15 | $7.50 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6:batch) `batch` | 1M | — | #7 godotgamedev |
 | **$0.3017** | $2.00 | $0.20 | $10.00 | [Claude Sonnet 5](https://openrouter.ai/anthropic/claude-sonnet-5) | 1M | — | #8 agenticgamedev |
 | **$0.3164** | $4.00 | $0.10 | $20.00 | [Claude Fable 5.2](https://openrouter.ai/anthropic/claude-fable-5.2:batch) `batch` | 1M | — | #1 codetovideo |
@@ -32,7 +32,7 @@ Every Claude model in the catalog that has been ranked in an agent category, pri
 | **$0.3771** | $2.50 | $0.25 | $12.50 | [Claude Opus 5](https://openrouter.ai/anthropic/claude-opus-5:batch) `batch` | 1M | — | #1 mobileapps |
 | **$0.3956** | $5.00 | $0.125 | $25.00 | [Claude Fable 5.1](https://openrouter.ai/anthropic/claude-fable-5.1:batch) `batch` | 1M | — | #1 godotgamedev |
 | **$0.4121** | $4.00 | $0.20 | $20.00 | [Claude Opus 5.5](https://openrouter.ai/anthropic/claude-opus-5.5) | 1M | — | #1 androidnative |
-| **$0.4525** | $3.00 | $0.30 | $15.00 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5) | 1M | $6.00 past 200k | #40 fullstack |
+| **$0.4525** | $3.00 | $0.30 | $15.00 | [Claude Sonnet 4.5](https://openrouter.ai/anthropic/claude-sonnet-4.5) | 1M | $6.00 past 200k | #38 fullstack |
 | **$0.4525** | $3.00 | $0.30 | $15.00 | [Claude Sonnet 4.6](https://openrouter.ai/anthropic/claude-sonnet-4.6) | 1M | — | #7 godotgamedev |
 | **$0.6329** | $8.00 | $0.20 | $40.00 | [Claude Fable 5.2](https://openrouter.ai/anthropic/claude-fable-5.2) | 1M | — | #1 codetovideo |
 | **$0.7542** | $5.00 | $0.50 | $25.00 | [Claude Fable 5](https://openrouter.ai/anthropic/claude-fable-5:batch) `batch` | 1M | — | #1 agentichtmlslides |
@@ -52,7 +52,6 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 
 | Vendor | Rows | Cache read, % of its own input | List price overstates the agent bill by | Cheapest non-`batch` row at agent mix |
 | --- | --- | --- | --- | --- |
-| xiaomi | 2 | 0.8–20% | 11.2× | $0.0237 |
 | tencent | 1 | 5% | 10.3× | $0.0407 |
 | DeepSeek | 3 | 2–22.2% | 7.6× | $0.0107 |
 | **Claude** | 26 | 2.5–10% | 6.6× | $0.0151 |
@@ -64,10 +63,11 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
 | Grok | 8 | 15–25% | 4.2× | $0.2494 |
 | Qwen | 4 | 20% | 4.1× | $0.0779 |
-| GLM | 12 | 18.3–98.6% | 4.1× | $0.0362 |
-| MiniMax | 2 | 20% | 4.1× | $0.0731 |
+| xiaomi | 3 | 0.8–20% | 4.1× | $0.0237 |
+| MiniMax | 3 | 20% | 4.1× | $0.0731 |
 | reflection | 1 | 20% | 4.1× | $0.0609 |
 | stepfun | 1 | 20% | 4.0× | $0.0497 |
+| GLM | 12 | 18.3–98.6% | 4.0× | $0.0305 |
 | Kimi | 7 | 10–94.8% | 2.9× | $0.1479 |
 
 The spread in that fourth column is the whole point: Claude at 6.6× against Kimi at 2.9×, across 26 and 7 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
@@ -77,8 +77,12 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 
 ## What was written about Claude while these were measured
 
-40 figures in these field notes come from a sentence that names Claude. These are quoted from the write-up, dated the day it went out — unlike the table above, they are **not** recomputed, so read each one as of its own date.
+44 figures in these field notes come from a sentence that names Claude. These are quoted from the write-up, dated the day it went out — unlike the table above, they are **not** recomputed, so read each one as of its own date.
 
+- **644 seconds** — “And peak hours cost more than money, because first-token latency gets worse too — Claude Opus 5.5 hit 644 seconds at peak in deep-reasoning mode, against 1.1 seconds for DeepSeek V4.1 Flash and 0.9 seconds for Step 5 Preview.” (2026-11-23) [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
+- **33.2%** — “GPT-6 Sol scores 33.2% on AutomationBench, beating Claude Opus 5's 26.9%, at 9% of Opus 5's per-task cost.” (2026-11-23) [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
+- **10,000,000 tokens** — “LongCat gives new verified users 10,000,000 tokens, with an API compatible with OpenAI and Claude so it drops into Claude Code, OpenClaw, Qoder and similar agents.” (2026-11-23) [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
+- **$462.60** — “On a writing task where Claude Fable 5.2 and Gemini 4 Carbon both scored 99/100, the monthly API bills came to $462.60 and $116.10 — roughly a 4x gap.” (2026-11-23) [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - **644-second** — “Claude Opus 5.5 hit a 644-second time-to-first-token at peak in its deep-reasoning tier.” (2026-11-13) [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - **1%** — “DeepSeek V4 Flash's output price of 2 yuan per million tokens is roughly 1% of Claude Opus.” (2026-11-13) [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - **4-year** — “For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI.” (2026-11-11) [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
@@ -120,7 +124,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 - **$19 billion** — “Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 - **$19 billion** — “Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 
-[All 901 figures, every kind](../figures.md)
+[All 931 figures, every kind](../figures.md)
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [AI Model Costs: Beyond Per-Token Pricing](../articles/ai-model-costs-beyond-per-token-pricing.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20) · [telegra.ph](https://telegra.ph/Beyond-Token-Pricing-How-Indie-Devs-Should-Really-Evaluate-AI-Model-Costs-08-19)
@@ -135,6 +139,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
 - [The Hidden Costs of Over-Prompting in AI Coding: Lessons from Claude Code's Optimization](../articles/the-hidden-costs-of-over-prompting-in-ai-coding-lessons.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/74) · [telegra.ph](https://telegra.ph/The-Hidden-Costs-of-Over-Prompting-in-AI-Coding-Lessons-from-Claude-Codes-Optimization-09-17)
 - [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/89) · [telegra.ph](https://telegra.ph/The-Listed-Price-Is-a-Lie-What-DeepSeeks-PeakOff-Peak-Pricing-Rate-Limit-Windows-and-Permanent-Credits-Actually-Cost-Per-Task-11-13)
+- [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md) · [telegra.ph](https://telegra.ph/The-Same-Model-Costs-2x-More-at-10am--Three-Pricing-Cliffs-That-Blow-Up-Your-Coding-Agents-Bill-11-23)
 - [The Token Cost War: Why Price per Million Tokens Now Decides the AI Market](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/51) · [telegra.ph](https://telegra.ph/The-Token-Cost-War-Why-Price-per-Million-Tokens-Now-Decides-the-AI-Market-08-23)
 - [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](../articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/86) · [telegra.ph](https://telegra.ph/This-Open-Source-Code-Review-Tool-Beats-Claude--With-19-the-Tokens-11-07)
 - [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/87) · [telegra.ph](https://telegra.ph/What-DeepSeek-V41-Flash-Really-Costs-Per-Month-A-Five-Step-Checklist-11-10)

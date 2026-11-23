@@ -79,9 +79,9 @@ One last caveat on every number in this piece: model names and prices move fast,
 - [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 - [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
 
-[All 76 write-ups](../README.md)
+[All 77 write-ups](../README.md)
 
-The 26 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 875 more, as JSON and CSV.
+The 26 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 905 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [Token Optimization](../topics/token-optimization.md) · [AI Agents](../topics/ai-agents.md) · [LLM](../topics/llm.md)
 

@@ -1,6 +1,6 @@
 # Developer Productivity
 
-6 of the 76 write-ups here are tagged Developer Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 77 write-ups here are tagged Developer Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$0.028** — With DeepSeek V4 Flash priced at just $0.028 per million tokens, developers can assign lightweight tasks like boilerplate generation or syntax checking to this model, reserving higher-cost models for nuanced logic or debugging. [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 - **$0.028** — One developer swapped their default backend for DeepSeek V4 Flash and saw API costs drop to just $0.028 per million tokens. [→](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md)
 
-[All figures, 901 rows](../figures.md)
+[All figures, 931 rows](../figures.md)
 
 ## The write-ups
 
@@ -55,7 +55,7 @@ When the Claude Code team decided to slash 80% of their system prompts, most dev
 
 ---
 
-[All 76 write-ups](../README.md)
+[All 77 write-ups](../README.md)
 
 ---
 

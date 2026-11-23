@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-901 figures pulled out of 76 write-ups in
+931 figures pulled out of 77 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,43 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://sp
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](https://spectracodeai.com/articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.html)
+
+Published 2026-11-23.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `272,000 tokens` | tokens | While DeepSeek V4.1-Flash lists 3 yuan per million input tokens and 9 yuan output in off-peak hours — and doubles during the weekday daytime peak — GPT-6 series reprices the entire request once input crosses 272,000 tokens, so going from 270K to 300K can more than double the cost, which means the two models' headline rates diverge sharply depending on when and how much you send. |
+| `50 million tokens` | tokens | LongCat sells 50 million tokens for 9.9 yuan, but the package has an expiry date and the service throttles at peak. |
+| `$0.26` per million input tokens | price | DeepSeek V3.2 under the OpenClaw framework comes in at $0.26 per million input tokens and $0.38 output, the lowest-cost model in that particular comparison, while MiniMax M2.7 sits at $0.30 input and $1.20 output with a 204.8K context window, built for coding and agent workflows. |
+| `$0.38` | price | DeepSeek V3.2 under the OpenClaw framework comes in at $0.26 per million input tokens and $0.38 output, the lowest-cost model in that particular comparison, while MiniMax M2.7 sits at $0.30 input and $1.20 output with a 204.8K context window, built for coding and agent workflows. |
+| `$0.30` | price | DeepSeek V3.2 under the OpenClaw framework comes in at $0.26 per million input tokens and $0.38 output, the lowest-cost model in that particular comparison, while MiniMax M2.7 sits at $0.30 input and $1.20 output with a 204.8K context window, built for coding and agent workflows. |
+| `$1.20` | price | DeepSeek V3.2 under the OpenClaw framework comes in at $0.26 per million input tokens and $0.38 output, the lowest-cost model in that particular comparison, while MiniMax M2.7 sits at $0.30 input and $1.20 output with a 204.8K context window, built for coding and agent workflows. |
+| `$3` per month | price | Those numbers aren't marketing, because they show up in real monthly bills, where one developer running three agents for email, calendar, and research put DeepSeek V4 Flash at roughly $3–5 per month against Opus 4.7 at $200–260 — with what they described as a small quality gap. |
+| `$200` | price | Those numbers aren't marketing, because they show up in real monthly bills, where one developer running three agents for email, calendar, and research put DeepSeek V4 Flash at roughly $3–5 per month against Opus 4.7 at $200–260 — with what they described as a small quality gap. |
+| `2x` | multiple | DeepSeek's own documentation is blunt about this: the idle-period price is half the peak price, with weekday peaks at 9:00–12:00 and 14:00–18:00 billed at 2x the published table, while weekends all day, plus weekday 12:00–14:00 and after 18:00, are off-peak. |
+| `6x` | multiple | Meanwhile the same test batch showed V4.1 Flash generating SVG code 6x faster than V4 Flash Vision-Exp and doing long-context retrieval more than 5x faster, yet faster is not the same as cheaper, and a new version number is not the same as a new price structure, because speed gains alone do not guarantee that the underlying cost of running the model has actually gone down for anyone paying the published rates. |
+| `5x` | multiple | Meanwhile the same test batch showed V4.1 Flash generating SVG code 6x faster than V4 Flash Vision-Exp and doing long-context retrieval more than 5x faster, yet faster is not the same as cheaper, and a new version number is not the same as a new price structure, because speed gains alone do not guarantee that the underlying cost of running the model has actually gone down for anyone paying the published rates. |
+| `644 seconds` | duration | And peak hours cost more than money, because first-token latency gets worse too — Claude Opus 5.5 hit 644 seconds at peak in deep-reasoning mode, against 1.1 seconds for DeepSeek V4.1 Flash and 0.9 seconds for Step 5 Preview. |
+| `1.1 seconds` | duration | And peak hours cost more than money, because first-token latency gets worse too — Claude Opus 5.5 hit 644 seconds at peak in deep-reasoning mode, against 1.1 seconds for DeepSeek V4.1 Flash and 0.9 seconds for Step 5 Preview. |
+| `0.9 seconds` | duration | And peak hours cost more than money, because first-token latency gets worse too — Claude Opus 5.5 hit 644 seconds at peak in deep-reasoning mode, against 1.1 seconds for DeepSeek V4.1 Flash and 0.9 seconds for Step 5 Preview. |
+| `272,000 tokens` | tokens | On GPT-6 series, once input passes 272,000 tokens, the entire request is repriced: input and cache rates double, output rises 50%. |
+| `50%` | percent | On GPT-6 series, once input passes 272,000 tokens, the entire request is repriced: input and cache rates double, output rises 50%. |
+| `1M token` | tokens | LongCat-2.0 natively supports a 1M token window and is positioned for repo-scale code edits and multi-step agent tool calls. |
+| `1M token` | tokens | DeepSeek V4.1 Flash's API changelog lists a 1M token context window and tests it on coding-agent tasks like DeepSWE and NL2Repo. |
+| `50 million tokens` | tokens | LongCat's 9.9 yuan gets you 50 million tokens, but both gifted and purchased packs carry expiry dates you're told to watch. |
+| `10,000,000 tokens` | tokens | LongCat gives new verified users 10,000,000 tokens, with an API compatible with OpenAI and Claude so it drops into Claude Code, OpenClaw, Qoder and similar agents. |
+| `20 million tokens` | tokens | Compare GLM-4-Flash: new users get 20 million tokens, permanently valid, 128K context, 30 concurrent. |
+| `10,000,000 tokens` | tokens | The 10,000,000 tokens don't reach me. |
+| `2x` | multiple | Concretely: DeepSeek must be labeled "off-peak price + 2x at peak," while Xiaomi's mimo-v2.6-pro at 3 yuan input and 6 yuan output is a flat rate. |
+| `$0.181` | price | DeepSeek V4.1 Flash scores 96.0 on coding at $0.181 per successful task. |
+| `33.2%` | percent | GPT-6 Sol scores 33.2% on AutomationBench, beating Claude Opus 5's 26.9%, at 9% of Opus 5's per-task cost. |
+| `26.9%` | percent | GPT-6 Sol scores 33.2% on AutomationBench, beating Claude Opus 5's 26.9%, at 9% of Opus 5's per-task cost. |
+| `9%` | percent | GPT-6 Sol scores 33.2% on AutomationBench, beating Claude Opus 5's 26.9%, at 9% of Opus 5's per-task cost. |
+| `$462.60` | price | On a writing task where Claude Fable 5.2 and Gemini 4 Carbon both scored 99/100, the monthly API bills came to $462.60 and $116.10 — roughly a 4x gap. |
+| `$116.10` | price | On a writing task where Claude Fable 5.2 and Gemini 4 Carbon both scored 99/100, the monthly API bills came to $462.60 and $116.10 — roughly a 4x gap. |
+| `4x` | multiple | On a writing task where Claude Fable 5.2 and Gemini 4 Carbon both scored 99/100, the monthly API bills came to $462.60 and $116.10 — roughly a 4x gap. |
 
 ## [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](https://spectracodeai.com/articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.html)
 
@@ -1488,5 +1525,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "901 figures pulled out of 76 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-20", "dateModified": "2026-11-20"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "931 figures pulled out of 77 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-23", "dateModified": "2026-11-23"}
 </script>

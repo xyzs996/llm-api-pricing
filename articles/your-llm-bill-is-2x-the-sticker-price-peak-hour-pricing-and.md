@@ -74,12 +74,12 @@ The one thing you can do today without switching models: schedule non-realtime b
 **Read next**
 
 - [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
+- [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
-- [The Hidden Cost of AI Automation: Turning Human Instincts into Rules](the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 
-[All 76 write-ups](../README.md)
+[All 77 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 883 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 913 more, as JSON and CSV.
 
 Topics: [AI](../topics/ai.md) · [Software Development](../topics/software-development.md) · [Token Optimization](../topics/token-optimization.md) · [AI Pricing](../topics/ai-pricing.md)
 
