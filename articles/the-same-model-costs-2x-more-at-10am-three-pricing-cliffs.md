@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/96) — that copy has a reply box under it, and this one does not.*
+
 Just pick the model with the lowest per-million-token price — that's how you keep your agent bill down — but that advice breaks the moment your agent touches any of three structural traps: time-of-day pricing, context-threshold repricing, and prepaid packages that expire or throttle, any one of which can double your bill and all three of which together can do worse.
 
 Here's the shape of it before we go deep. While DeepSeek V4.1-Flash lists 3 yuan per million input tokens and 9 yuan output in off-peak hours — and doubles during the weekday daytime peak — GPT-6 series reprices the entire request once input crosses 272,000 tokens, so going from 270K to 300K can more than double the cost, which means the two models' headline rates diverge sharply depending on when and how much you send. LongCat sells 50 million tokens for 9.9 yuan, but the package has an expiry date and the service throttles at peak.
@@ -112,6 +114,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** When your coding agent last ran during DeepSeek's weekday peak window, did it land in the 9:00–12:00 block or the 14:00–18:00 block? Reply saying which one — from memory, no lookup. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/96).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md). One required field, and the page you came from is already filled
