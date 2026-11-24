@@ -1,6 +1,6 @@
 # SaaS Business
 
-14 of the 77 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+14 of the 78 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$62.50** — It does about 80,000 visits a month and around ¥5,000 a month in affiliate revenue, an effective RPM of $62.50 — five to ten times what most content sites earn per thousand reads. [→](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 - **$10** — An AI image generation tool used Google Ads to boost its monthly paying subscribers from approximately 80 to over 500, maintaining a customer acquisition cost of around $10 per paying user. [→](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 
-[All figures, 931 rows](../figures.md)
+[All figures, 950 rows](../figures.md)
 
 ## The write-ups
 
@@ -103,7 +103,7 @@ Two brothers ran a single short-video account until one piece of content took of
 
 ---
 
-[All 77 write-ups](../README.md)
+[All 78 write-ups](../README.md)
 
 ---
 

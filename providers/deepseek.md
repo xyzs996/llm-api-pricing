@@ -1,6 +1,6 @@
 # DeepSeek costs and claims: every figure from a sentence that names it
 
-50 of the 931 figures in these field notes come from a sentence that names DeepSeek. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+55 of the 950 figures in these field notes come from a sentence that names DeepSeek. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about DeepSeek and some only measure against it — a competitor's price quoted next to DeepSeek's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -8,6 +8,11 @@ Some of these are about DeepSeek and some only measure against it — a competit
 
 ## The figures
 
+- **30 days** — “DeepSeek gives ten million, but they expire in 30 days.” (2026-11-24) [→](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
+- **30 days** — “The one-time allowances are for trying before you pay, not for standing up a permanent base: Zhipu's 20 million, DeepSeek's ten million that expires in 30 days, Doubao's 500,000 plus 2 to 5 million daily.” (2026-11-24) [→](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
+- **24 minutes** — “DeepSeek V4-Pro took 24 minutes to build a recruiting site inside Claude Code, then skipped the skill constraint that said it must confirm the deployment domain with the user, because it picked on its own and shipped it without ever asking.” (2026-11-24) [→](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
+- **$0.87 per million output tokens** — “If you think in dollars, another data point puts DeepSeek V4 at $0.87 per million output tokens, against GLM-5.2 at $4.4 and Kimi K3 at $15, while a third puts V4-Flash at $0.028 per million tokens, which is an order of magnitude off the previous figures.” (2026-11-24) [→](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
+- **$0.87 per million tokens** — “In dollar terms the same source group puts DeepSeek V4 output at $0.87 per million tokens against GLM-5.2 at $4.4 and Kimi K3 at $15, which is the other half of why the cheap tier is where I start.” (2026-11-24) [→](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
 - **644 seconds** — “And peak hours cost more than money, because first-token latency gets worse too — Claude Opus 5.5 hit 644 seconds at peak in deep-reasoning mode, against 1.1 seconds for DeepSeek V4.1 Flash and 0.9 seconds for Step 5 Preview.” (2026-11-23) [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - **2x** — “DeepSeek's own documentation is blunt about this: the idle-period price is half the peak price, with weekday peaks at 9:00–12:00 and 14:00–18:00 billed at 2x the published table, while weekends all day, plus weekday 12:00–14:00 and after 18:00, are off-peak.” (2026-11-23) [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - **2x** — “Concretely: DeepSeek must be labeled "off-peak price + 2x at peak," while Xiaomi's mimo-v2.6-pro at 3 yuan input and 6 yuan output is a flat rate.” (2026-11-23) [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
@@ -59,9 +64,9 @@ Some of these are about DeepSeek and some only measure against it — a competit
 - **$1 per million tokens** — “Top-tier Chinese models such as GLM5.2 and DeepSeek V4 Pro sit near $1 per million tokens at inference gross margins of 10% to 20%.” (2026-08-19) [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **$1 per million tokens** — “DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 
-[All 931 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 950 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
-## Where these 50 came from
+## Where these 55 came from
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
@@ -69,6 +74,7 @@ Some of these are about DeepSeek and some only measure against it — a competit
 - [Bypass Codex Rate Limits: The Local Proxy Path to 70% Cost Savings](../articles/bypass-codex-rate-limits-the-local-proxy-path-to-70-cost.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/81) · [telegra.ph](https://telegra.ph/Bypass-Codex-Rate-Limits-The-Local-Proxy-Path-to-70-Cost-Savings-09-30)
 - [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/66) · [telegra.ph](https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24)
 - [Claude Code Can Model a Flange but Not a Freeform Surface: A Six-Step Handoff Checklist for Non-Code Agent Output](../articles/claude-code-can-model-a-flange-but-not-a-freeform-surface-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/72) · [telegra.ph](https://telegra.ph/Claude-Code-Can-Model-a-Flange-but-Not-a-Freeform-Surface-A-Six-Step-Handoff-Checklist-for-Non-Code-Agent-Output-09-15)
+- [I Ran DeepSeek V4-Pro and GLM-4-Flash in the Same Coding Agent. One Took 24 Minutes and Deployed Without Asking.](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md) · [telegra.ph](https://telegra.ph/I-Ran-DeepSeek-V4-Pro-and-GLM-4-Flash-in-the-Same-Coding-Agent-One-Took-24-Minutes-and-Deployed-Without-Asking-11-24)
 - [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/93) · [telegra.ph](https://telegra.ph/Running-DeepSeek-V4-Pro-Inside-Claude-Code-A-Cost-and-Failure-Checklist-for-Cheap-Chinese-Coding-Models-11-19)
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
@@ -84,7 +90,7 @@ Some of these are about DeepSeek and some only measure against it — a competit
 
 **A DeepSeek figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=DeepSeek). The form already knows it is about DeepSeek.
 
-**Or is one of the 50 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=DeepSeek&title=%5Bcorrection%5D+DeepSeek) — the form already knows it is about DeepSeek; you only have to say what the number is now.
+**Or is one of the 55 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=DeepSeek&title=%5Bcorrection%5D+DeepSeek) — the form already knows it is about DeepSeek; you only have to say what the number is now.
 
 ---
 

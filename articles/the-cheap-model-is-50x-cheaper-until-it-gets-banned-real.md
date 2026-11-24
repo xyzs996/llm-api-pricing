@@ -75,13 +75,13 @@ One last caveat on every number in this piece: model names and prices move fast,
 
 **Read next**
 
+- [I Ran DeepSeek V4-Pro and GLM-4-Flash in the Same Coding Agent. One Took 24 Minutes and Deployed Without Asking.](i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
 - [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
-- [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
 
-[All 77 write-ups](../README.md)
+[All 78 write-ups](../README.md)
 
-The 26 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 905 more, as JSON and CSV.
+The 26 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 924 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [Token Optimization](../topics/token-optimization.md) · [AI Agents](../topics/ai-agents.md) · [LLM](../topics/llm.md)
 

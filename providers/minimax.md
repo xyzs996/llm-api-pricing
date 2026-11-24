@@ -1,6 +1,6 @@
 # MiniMax costs and claims: every figure from a sentence that names it
 
-4 of the 931 figures in these field notes come from a sentence that names MiniMax. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+4 of the 950 figures in these field notes come from a sentence that names MiniMax. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about MiniMax and some only measure against it — a competitor's price quoted next to MiniMax's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -13,7 +13,7 @@ Some of these are about MiniMax and some only measure against it — a competito
 - **21 minutes** — “Narrow tasks with a clear scoring rule can also go to the cheap side, which is illustrated by the fact that MiniMax M2.5 scored 28 out of 30 on a bug-hunt task, 3.5 points above GLM-5, and finished in 21 minutes — half of GLM-5's time.” (2026-11-19) [→](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - **$0.06 per million** — “At the low end, MiniMax M3 runs $0.06 to $0.2 per million and draws 60% to 70% of its revenue from outside its home market.” (2026-08-19) [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All 931 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 950 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
 ## Where these 4 came from
 

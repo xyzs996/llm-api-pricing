@@ -1,22 +1,22 @@
-# Cuánto cuestan de verdad los agentes de código con IA: 931 cifras, cada una con su frase y su fecha
+# Cuánto cuestan de verdad los agentes de código con IA: 950 cifras, cada una con su frase y su fecha
 
 [English](./README.md) · [中文](./README_CN.md) · **Español** · [日本語](./README_JA.md) · [한국어](./README_KO.md) · [Tiếng Việt](./README_VI.md) · [Français](./README_FR.md) · [Deutsch](./README_DE.md) · [Русский](./README_RU.md) · [Bahasa Indonesia](./README_ID.md)
 
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://spectracodeai.com/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
-Un conjunto de datos abierto. Cada cifra publicada en 77 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, **con la frase completa de la que salió y la fecha de publicación**.
+Un conjunto de datos abierto. Cada cifra publicada en 78 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, **con la frase completa de la que salió y la fecha de publicación**.
 
 ## Lo que cuestan hoy los modelos de agente
 
-112 modelos clasificados en alguna categoría *agents* de la Design Arena, con su **precio de lista** por millón de tokens — no es tu factura: la caché, los lotes y cada proveedor cobran distinto. Del catálogo público de OpenRouter, leído por última vez el 2026-11-23. Los tres más baratos:
+111 modelos clasificados en alguna categoría *agents* de la Design Arena, con su **precio de lista** por millón de tokens — no es tu factura: la caché, los lotes y cada proveedor cobran distinto. Del catálogo público de OpenRouter, leído por última vez el 2026-11-24. Los tres más baratos:
 
 | $ in / 1M | $ out / 1M | Model | Best agents rank |
 | --- | --- | --- | --- |
-| $0.023 | $0.068 | GLM 5.3 Flash `batch` | #21 pdf |
+| $0.023 | $0.068 | GLM 5.3 Flash `batch` | #24 pdf |
+| $0.03 | $0.20 | DeepSeek V4.1 Flash 1017 | #9 spreadsheet |
 | $0.035 | $0.149 | DeepSeek V4.1 Flash 1017 `batch` | #9 spreadsheet |
-| $0.0399 | $0.074 | GLM 5.3 Flash | #21 pdf |
 
-[Los 112 modelos](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
+[Los 111 modelos](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **Un número, dos respuestas.** Google y xAI pasan a la tarifa alta a los 200,000 tokens de entrada, pero un prompt de exactamente 200,000 se cobra a la tarifa barata en Google y a la cara en xAI. Las demás tablas imprimen el número y ahí lo dejan. Qué lado aplica cada proveedor, citado de su propia página y con la fecha de consulta: [same number, opposite answer](prices.md#same-number-opposite-answer) (en inglés).
 
@@ -28,6 +28,7 @@ Las líneas siguientes están **en inglés, copiadas tal cual**, sin traducir: u
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
+| `$0.87` | If you think in dollars, another data point puts DeepSeek V4 at $0.87 per million output tokens, against GLM-5.2 at $4.4 and Kimi K3 at $15, while a third puts V4-Flash at $0.028 per million tokens, which is an order of magnitude off the previous figures. | [I Ran DeepSeek V4-Pro and GLM-4-Flash in the Same Coding Agent. One Took 24 Minutes and Deployed Without Asking.](articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md) |
 | `$0.26` | DeepSeek V3.2 under the OpenClaw framework comes in at $0.26 per million input tokens and $0.38 output, the lowest-cost model in that particular comparison, while MiniMax M2.7 sits at $0.30 input and $1.20 output with a 204.8K context window, built for coding and agent workflows. | [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md) |
 | `$3` | One user running three agents for email, calendar, and research put their monthly bill at $3–5 on DeepSeek V4 Flash against $200–260 on Opus 4.7, and described the quality gap as small rather than night-and-day. | [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md) |
 | `$7` | One developer launched a SaaS and waited 2.5 months for the first paying customer, a $7 sale, and reported that the customer found the product through Google organic search. | [Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else](articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md) |
@@ -39,9 +40,8 @@ Las líneas siguientes están **en inglés, copiadas tal cual**, sin traducir: u
 | `$80` | In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. | [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md) |
 | `$3` | The Reddit forecast was $3-5 a month for three light agents, and GLM-4-Flash's 20M free tokens don't expire, while DeepSeek's sign-up grant of 10M tokens (2026-05-02 article) was valid for only 30 days. | [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md) |
 | `$3` | Kimi K3 is often cited as a premium model, yet at $3 input / $15 output per million tokens its API cost is only 30% of Anthropic Fable 5's $10 / $50, while its intelligence index of 59.7 sits within 3 points of Fable 5's 62.1. | [The "10x Cheaper" Trap: How to Read AI Coding Costs](articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) |
-| `$15` | Kimi K3 charges $15 per million output tokens, DeepSeek V4 at $0.87, and GLM-5.2 at $4.40—far below Anthropic Fable 5’s $50. | [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md) |
 
-[Las 931 filas](figures.md)
+[Las 950 filas](figures.md)
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json

@@ -71,9 +71,9 @@ The takeaway from the 27 cases is not that you should use all five. It is that t
 - [Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else](your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
 - [What DeepSeek V4.1 Flash Really Costs Per Month: A Five-Step Checklist](what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 
-[All 77 write-ups](../README.md)
+[All 78 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 917 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 936 more, as JSON and CSV.
 
 Topics: [AI Automation](../topics/ai-automation.md) · [Indie Developer](../topics/indie-developer.md) · [Micro SaaS](../topics/micro-saas.md)
 

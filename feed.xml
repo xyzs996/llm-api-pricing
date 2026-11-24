@@ -4,8 +4,16 @@
   <id>https://spectracodeai.com/</id>
   <link href="https://spectracodeai.com/"/>
   <link rel="self" href="https://spectracodeai.com/feed.xml"/>
-  <updated>2026-11-23T07:16:00Z</updated>
+  <updated>2026-11-24T07:16:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>I Ran DeepSeek V4-Pro and GLM-4-Flash in the Same Coding Agent. One Took 24 Minutes and Deployed Without Asking.</title>
+    <link href="https://spectracodeai.com/articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.html"/>
+    <id>https://spectracodeai.com/articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.html</id>
+    <updated>2026-11-24T07:16:00Z</updated>
+    <published>2026-11-24T07:16:00Z</published>
+    <summary>DeepSeek V4-Pro took 24 minutes to build a recruiting site inside Claude Code, then skipped the skill constraint that said it must confirm the deployment domain with the user, because it picked `ca…</summary>
+  </entry>
   <entry>
     <title>The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill</title>
     <link href="https://spectracodeai.com/articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.html"/>

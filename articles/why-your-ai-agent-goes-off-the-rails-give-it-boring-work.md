@@ -63,13 +63,13 @@ None of that requires the agent to be clever. It requires the task to be bounded
 
 **Read next**
 
+- [I Ran DeepSeek V4-Pro and GLM-4-Flash in the Same Coding Agent. One Took 24 Minutes and Deployed Without Asking.](i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
 - [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 - [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
-- [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 
-[All 77 write-ups](../README.md)
+[All 78 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 928 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 947 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [AI Implementation](../topics/ai-implementation.md) · [AI Agents](../topics/ai-agents.md)
 

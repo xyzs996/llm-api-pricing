@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-13 of the 77 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+13 of the 78 write-ups here are tagged Artificial Intelligence. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **60%** — For rider recruitment, this meant focusing on repetitive actions like resume browsing and initial outreach, which is where the team, using Codex, developed a tool that iterated 28 times before it was able to achieve a 60% efficiency increase in public domain recruitment tasks — the same repetitive work of resume browsing and initial outreach that had been the focus from the start. [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 - **60%** — A delivery driver recruitment team built a stable automation workflow by breaking down daily tasks into verifiable steps and iterating 28 times, achieving a 60% efficiency boost in repetitive operations. [→](../articles/the-hidden-cost-of-ai-automation-turning-human-instincts.md)
 
-[All figures, 931 rows](../figures.md)
+[All figures, 950 rows](../figures.md)
 
 ## The write-ups
 
@@ -97,7 +97,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 77 write-ups](../README.md)
+[All 78 write-ups](../README.md)
 
 ---
 

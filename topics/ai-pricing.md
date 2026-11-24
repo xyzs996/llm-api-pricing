@@ -1,6 +1,6 @@
 # AI Pricing
 
-3 of the 77 write-ups here are tagged AI Pricing. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 78 write-ups here are tagged AI Pricing. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -11,7 +11,7 @@
 - **$19 billion** — Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years. [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 - **$1** — My reading, and I could be wrong about the timing, is that the $1 tier holds while that build-out is being financed and that the pressure surfaces later as capacity limits rather than as price rises. [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 
-[All figures, 931 rows](../figures.md)
+[All figures, 950 rows](../figures.md)
 
 ## The write-ups
 
@@ -35,7 +35,7 @@ Microsoft's evaluation of Kimi K3 landed on a number that should change how you 
 
 ---
 
-[All 77 write-ups](../README.md)
+[All 78 write-ups](../README.md)
 
 ---
 

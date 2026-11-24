@@ -99,11 +99,11 @@ One thing you can do today: spend a day on the task type you run most, and recor
 - [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 
-[All 77 write-ups](../README.md)
+[All 78 write-ups](../README.md)
 
-The 29 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 902 more, as JSON and CSV.
+The 29 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 921 more, as JSON and CSV.
 
-Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [AI Programming](../topics/ai-programming.md) · [Token Optimization](../topics/token-optimization.md) · [Developer Productivity](../topics/developer-productivity.md)
+Topics: [AI Programming](../topics/ai-programming.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Token Optimization](../topics/token-optimization.md) · [Developer Productivity](../topics/developer-productivity.md)
 
 
 ---

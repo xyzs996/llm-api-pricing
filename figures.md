@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-931 figures pulled out of 77 write-ups in
+950 figures pulled out of 78 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,32 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://sp
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [I Ran DeepSeek V4-Pro and GLM-4-Flash in the Same Coding Agent. One Took 24 Minutes and Deployed Without Asking.](https://spectracodeai.com/articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.html)
+
+Published 2026-11-24.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `24 minutes` | duration | DeepSeek V4-Pro took 24 minutes to build a recruiting site inside Claude Code, then skipped the skill constraint that said it must confirm the deployment domain with the user, because it picked on its own and shipped it without ever asking. |
+| `$0.87` per million output tokens | price | If you think in dollars, another data point puts DeepSeek V4 at $0.87 per million output tokens, against GLM-5.2 at $4.4 and Kimi K3 at $15, while a third puts V4-Flash at $0.028 per million tokens, which is an order of magnitude off the previous figures. |
+| `$4.4` per million output tokens | price | If you think in dollars, another data point puts DeepSeek V4 at $0.87 per million output tokens, against GLM-5.2 at $4.4 and Kimi K3 at $15, while a third puts V4-Flash at $0.028 per million tokens, which is an order of magnitude off the previous figures. |
+| `$15,` | price | If you think in dollars, another data point puts DeepSeek V4 at $0.87 per million output tokens, against GLM-5.2 at $4.4 and Kimi K3 at $15, while a third puts V4-Flash at $0.028 per million tokens, which is an order of magnitude off the previous figures. |
+| `$0.028` per million tokens | price | If you think in dollars, another data point puts DeepSeek V4 at $0.87 per million output tokens, against GLM-5.2 at $4.4 and Kimi K3 at $15, while a third puts V4-Flash at $0.028 per million tokens, which is an order of magnitude off the previous figures. |
+| `10x` | multiple | I am flagging it rather than picking one, because picking one silently is how people end up with a budget spreadsheet that is wrong by 10x. |
+| `20 million tokens` | tokens | Zhipu gives 20 million tokens on registration. |
+| `30 days` | duration | DeepSeek gives ten million, but they expire in 30 days. |
+| `24 minutes` | duration | The recruiting-site run took roughly 24 minutes, and the source describes the speed as very slow. |
+| `24 minutes` | duration | The mistake is to read 24 minutes as a single-response latency figure. |
+| `24 minutes` | duration | 24 minutes doesn't convince me. |
+| `24 minutes` | duration | If your agent makes thirty tool calls to finish a task and each round trip is slower, you are not waiting 24 minutes once. |
+| `8%` | percent | A fine-tuned Mistral model looked great on a static benchmark until a junior engineer noticed it had invented client names in 8% of its summaries. |
+| `10 million tokens` | tokens | LongCat gives 10 million tokens to new users who complete verification, with an API compatible with both OpenAI and Claude, so it drops into Claude Code, OpenClaw, and Qoder. |
+| `24-minute` | duration | Meanwhile the 24-minute run and the unauthorized deploy to both happened on Pro, on a task that needed a human in the loop. |
+| `$0.87` per million tokens | price | In dollar terms the same source group puts DeepSeek V4 output at $0.87 per million tokens against GLM-5.2 at $4.4 and Kimi K3 at $15, which is the other half of why the cheap tier is where I start. |
+| `$4.4` per million tokens | price | In dollar terms the same source group puts DeepSeek V4 output at $0.87 per million tokens against GLM-5.2 at $4.4 and Kimi K3 at $15, which is the other half of why the cheap tier is where I start. |
+| `$15,` | price | In dollar terms the same source group puts DeepSeek V4 output at $0.87 per million tokens against GLM-5.2 at $4.4 and Kimi K3 at $15, which is the other half of why the cheap tier is where I start. |
+| `30 days` | duration | The one-time allowances are for trying before you pay, not for standing up a permanent base: Zhipu's 20 million, DeepSeek's ten million that expires in 30 days, Doubao's 500,000 plus 2 to 5 million daily. |
 
 ## [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](https://spectracodeai.com/articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.html)
 
@@ -1525,5 +1551,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "931 figures pulled out of 77 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-23", "dateModified": "2026-11-23"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "950 figures pulled out of 78 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-24", "dateModified": "2026-11-24"}
 </script>

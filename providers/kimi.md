@@ -1,12 +1,12 @@
 # Kimi API pricing: what 7 models cost a coding agent
 
-Every Kimi model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-23**.
+Every Kimi model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-24**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Kimi discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Kimi charges per million tokens
 
-7 Kimi models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-23**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+7 Kimi models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-24**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Kimi does not have one cache-read rate — it has 7.** Across 7 rows the discount runs from 10.0% to 94.8% of that row's own input price. So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Kimi's list input price overstates what an agent pays by a median **2.9×** (range 0.8×–6.6×).
 
@@ -15,7 +15,7 @@ Every Kimi model in the catalog that has been ranked in an agent category, price
 | $ / 1M at agent mix | $ in / 1M | $ cache read / 1M | $ out / 1M | Model | Context | Long-context step | Best agents rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **$0.127** | $0.372 | $0.10 | $5.583 | [Kimi K3.1 Pro](https://openrouter.ai/moonshotai/kimi-k3.1-pro:batch) `batch` | 1M | — | #3 python-pptxslides |
-| **$0.1479** | $0.60 | $0.12 | $3.00 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code) | 262K | — | #10 htmlslides |
+| **$0.1479** | $0.60 | $0.12 | $3.00 | [Kimi K2.7 Code](https://openrouter.ai/moonshotai/kimi-k2.7-code) | 262K | — | #11 htmlslides |
 | **$0.1711** | $0.50 | $0.15 | $2.50 | [Kimi K2.5](https://openrouter.ai/moonshotai/kimi-k2.5) | 262K | — | #8 godotgamedev |
 | **$0.1798** | $0.65 | $0.15 | $3.41 | [Kimi K2.6](https://openrouter.ai/moonshotai/kimi-k2.6) | 262K | — | #2 agentichtmlslides |
 | **$0.2254** | $0.2403 | $0.20 | $8.4023 | [Kimi K3.1 Pro](https://openrouter.ai/moonshotai/kimi-k3.1-pro) | 1M | — | #3 python-pptxslides |
@@ -31,8 +31,9 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 
 | Vendor | Rows | Cache read, % of its own input | List price overstates the agent bill by | Cheapest non-`batch` row at agent mix |
 | --- | --- | --- | --- | --- |
+| xiaomi | 2 | 0.8–20% | 11.2× | $0.0237 |
 | tencent | 1 | 5% | 10.3× | $0.0407 |
-| DeepSeek | 3 | 2–22.2% | 7.6× | $0.0107 |
+| DeepSeek | 3 | 3.3–8.4% | 7.9× | $0.0028 |
 | Claude | 26 | 2.5–10% | 6.6× | $0.0151 |
 | Gemini | 20 | 5–10% | 6.6× | $0.0769 |
 | OpenAI | 11 | 5–10.4% | 6.5× | $0.2042 |
@@ -42,11 +43,10 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
 | Grok | 8 | 15–25% | 4.2× | $0.2494 |
 | Qwen | 4 | 20% | 4.1× | $0.0779 |
-| xiaomi | 3 | 0.8–20% | 4.1× | $0.0237 |
+| GLM | 12 | 16.7–98.6% | 4.1× | $0.0251 |
 | MiniMax | 3 | 20% | 4.1× | $0.0731 |
 | reflection | 1 | 20% | 4.1× | $0.0609 |
 | stepfun | 1 | 20% | 4.0× | $0.0497 |
-| GLM | 12 | 18.3–98.6% | 4.0× | $0.0305 |
 | **Kimi** | 7 | 10–94.8% | 2.9× | $0.1479 |
 
 The spread in that fourth column is the whole point: Claude at 6.6× against Kimi at 2.9×, across 26 and 7 rows. Two rows with the *same* list price, one from each, are not the same price to an agent — and no published rate card puts those two numbers next to each other.
@@ -56,8 +56,10 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 
 ## What was written about Kimi while these were measured
 
-10 figures in these field notes come from a sentence that names Kimi. These are quoted from the write-up, dated the day it went out — unlike the table above, they are **not** recomputed, so read each one as of its own date.
+12 figures in these field notes come from a sentence that names Kimi. These are quoted from the write-up, dated the day it went out — unlike the table above, they are **not** recomputed, so read each one as of its own date.
 
+- **$0.87 per million output tokens** — “If you think in dollars, another data point puts DeepSeek V4 at $0.87 per million output tokens, against GLM-5.2 at $4.4 and Kimi K3 at $15, while a third puts V4-Flash at $0.028 per million tokens, which is an order of magnitude off the previous figures.” (2026-11-24) [→](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
+- **$0.87 per million tokens** — “In dollar terms the same source group puts DeepSeek V4 output at $0.87 per million tokens against GLM-5.2 at $4.4 and Kimi K3 at $15, which is the other half of why the cheap tier is where I start.” (2026-11-24) [→](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
 - **$3** — “Another framing: Kimi K3 at $3/$15 per million tokens against Fable 5 at $10/$50, with intelligence index scores of 59.7 and 62.1.” (2026-11-19) [→](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - **$15** — “Kimi K3 is $15.” (2026-11-19) [→](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - **$15** — “Kimi K3's $15 output price is expensive by Chinese standards — it only looks cheap next to Fable 5, where it lands under a third.” (2026-11-19) [→](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
@@ -69,10 +71,11 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 - **$0.4525** — “Kimi K3 prices at $0.4525 effective.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 - **60 percent** — “Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requires, not from the price per token.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 
-[All 931 figures, every kind](../figures.md)
+[All 950 figures, every kind](../figures.md)
 
 - [AI Model Costs: Beyond Per-Token Pricing](../articles/ai-model-costs-beyond-per-token-pricing.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20) · [telegra.ph](https://telegra.ph/Beyond-Token-Pricing-How-Indie-Devs-Should-Really-Evaluate-AI-Model-Costs-08-19)
 - [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/66) · [telegra.ph](https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24)
+- [I Ran DeepSeek V4-Pro and GLM-4-Flash in the Same Coding Agent. One Took 24 Minutes and Deployed Without Asking.](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md) · [telegra.ph](https://telegra.ph/I-Ran-DeepSeek-V4-Pro-and-GLM-4-Flash-in-the-Same-Coding-Agent-One-Took-24-Minutes-and-Deployed-Without-Asking-11-24)
 - [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/93) · [telegra.ph](https://telegra.ph/Running-DeepSeek-V4-Pro-Inside-Claude-Code-A-Cost-and-Failure-Checklist-for-Cheap-Chinese-Coding-Models-11-19)
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
 - [This Open-Source Code Review Tool Beats Claude — With 1/9 the Tokens](../articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/86) · [telegra.ph](https://telegra.ph/This-Open-Source-Code-Review-Tool-Beats-Claude--With-19-the-Tokens-11-07)

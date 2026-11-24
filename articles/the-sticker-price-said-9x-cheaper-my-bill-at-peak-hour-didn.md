@@ -89,13 +89,13 @@ It is making your prompts cacheable.
 
 - [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
-- [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
+- [I Ran DeepSeek V4-Pro and GLM-4-Flash in the Same Coding Agent. One Took 24 Minutes and Deployed Without Asking.](i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
 
-[All 77 write-ups](../README.md)
+[All 78 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 913 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 932 more, as JSON and CSV.
 
-Topics: [Artificial Intelligence](../topics/artificial-intelligence.md) · [AI Programming](../topics/ai-programming.md) · [Token Optimization](../topics/token-optimization.md)
+Topics: [AI Programming](../topics/ai-programming.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Token Optimization](../topics/token-optimization.md)
 
 
 ---

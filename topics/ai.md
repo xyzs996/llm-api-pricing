@@ -1,6 +1,6 @@
 # AI
 
-10 of the 77 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+10 of the 78 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$3** — The Reddit forecast was $3-5 a month for three light agents, and GLM-4-Flash's 20M free tokens don't expire, while DeepSeek's sign-up grant of 10M tokens (2026-05-02 article) was valid for only 30 days. [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 - **$3** — A Reddit poster on 2026-04-28 guessed about $3-5 a month for three agents doing email, calendar and research on V4 Flash, against $200-260 for Opus 4.7. [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 
-[All figures, 931 rows](../figures.md)
+[All figures, 950 rows](../figures.md)
 
 ## The write-ups
 
@@ -79,7 +79,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 77 write-ups](../README.md)
+[All 78 write-ups](../README.md)
 
 ---
 
