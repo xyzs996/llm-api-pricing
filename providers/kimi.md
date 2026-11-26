@@ -1,12 +1,12 @@
 # Kimi API pricing: what 7 models cost a coding agent
 
-Every Kimi model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-25**.
+Every Kimi model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-26**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep Kimi discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What Kimi charges per million tokens
 
-7 Kimi models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-25**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+7 Kimi models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-26**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **Kimi does not have one cache-read rate — it has 7.** Across 7 rows the discount runs from 10.0% to 94.8% of that row's own input price. So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, Kimi's list input price overstates what an agent pays by a median **2.9×** (range 0.8×–6.6×).
 
@@ -33,19 +33,19 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | --- | --- | --- | --- | --- |
 | xiaomi | 1 | 0.8% | 18.4× | $0.0237 |
 | tencent | 1 | 5% | 10.3× | $0.0407 |
-| DeepSeek | 3 | 2–8.4% | 7.9× | $0.0107 |
+| DeepSeek | 3 | 2–22.8% | 7.6× | $0.0107 |
 | Claude | 26 | 2.5–10% | 6.6× | $0.0151 |
 | Gemini | 20 | 5–10% | 6.6× | $0.0769 |
 | OpenAI | 11 | 5–10.4% | 6.5× | $0.2042 |
 | Llama | 7 | 5–13.3% | 6.0× | $0.0569 |
+| reflection | 1 | 13.3% | 5.6× | $0.0534 |
 | upstage | 2 | 10–20% | 5.4× | $0.0074 |
 | nvidia | 2 | 13.3–20% | 4.9× | $0.0266 |
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
 | Grok | 8 | 15–25% | 4.2× | $0.2494 |
 | Qwen | 4 | 20% | 4.1× | $0.0779 |
-| GLM | 12 | 16.7–98.6% | 4.1× | $0.0251 |
+| GLM | 12 | 18.3–98.6% | 4.1× | $0.0362 |
 | MiniMax | 3 | 20% | 4.1× | $0.0731 |
-| reflection | 1 | 20% | 4.1× | $0.0609 |
 | stepfun | 1 | 20% | 4.0× | $0.0497 |
 | **Kimi** | 7 | 10–94.8% | 2.9× | $0.1479 |
 
@@ -71,7 +71,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 - **$0.4525** — “Kimi K3 prices at $0.4525 effective.” (2026-08-24) [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 - **60 percent** — “Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requires, not from the price per token.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 
-[All 950 figures, every kind](../figures.md)
+[All 974 figures, every kind](../figures.md)
 
 - [AI Model Costs: Beyond Per-Token Pricing](../articles/ai-model-costs-beyond-per-token-pricing.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20) · [telegra.ph](https://telegra.ph/Beyond-Token-Pricing-How-Indie-Devs-Should-Really-Evaluate-AI-Model-Costs-08-19)
 - [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/66) · [telegra.ph](https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24)

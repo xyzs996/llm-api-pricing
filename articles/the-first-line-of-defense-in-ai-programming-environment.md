@@ -78,11 +78,11 @@ The credential your AI tool never saw is the one you never have to rotate.
 
 - [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](how-chinese-developers-are-using-codex-record-replay-to.md)
 - [Why Your AI Agent Goes Off the Rails: Give It Boring Work First](why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
-- [I Ran DeepSeek V4-Pro and GLM-4-Flash in the Same Coding Agent. One Took 24 Minutes and Deployed Without Asking.](i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
+- [The DeepSeek Quota Math Nobody Publishes: $10/Month, Peak-Hour Doubling, or a 3-Million-Yuan Server](the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
 
-[All 78 write-ups](../README.md)
+[All 79 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 946 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 970 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md)
 

@@ -69,11 +69,11 @@ That trade is usually worth making, and it is worth making deliberately. Start w
 
 - [AI Took Over My Coding. What Broke Was How I Learn.](ai-took-over-my-coding-what-broke-was-how-i-learn.md)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
-- [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
+- [The DeepSeek Quota Math Nobody Publishes: $10/Month, Peak-Hour Doubling, or a 3-Million-Yuan Server](the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
 
-[All 78 write-ups](../README.md)
+[All 79 write-ups](../README.md)
 
-The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 944 more, as JSON and CSV.
+The 6 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 968 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Token Optimization](../topics/token-optimization.md) · [AI Costs](../topics/ai-costs.md) · [Chinese AI](../topics/chinese-ai.md)
 

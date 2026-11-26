@@ -1,21 +1,27 @@
 # AI Costs
 
-8 of the 78 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 79 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$60** — The $60 applies to DeepSeek V4.1 Flash as a model, not as a general-purpose wallet you can spend across whatever OpenCode hosts, and because this credit does not follow you there if your agent workflow leans on a second model for a specific step, it stays tied to that one model rather than extending to any other model your workflow might call on. [→](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
+- **$60** — Here is my read, and it is a read rather than a measurement — namely that $60 of credit is enough for an independent developer running a few hours a day at medium task granularity, whereas if you leave an agent running batches all day, the 5-hour window will reach you before the credit does. [→](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
 - **$3** — For an agent doing email, calendar, and research, one developer's monthly bill came to roughly $3–5 on V4 Flash against $200–260 on Opus 4.7. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - **$10** — OpenCode Go users pay $10/month and receive $60 of DeepSeek V4.1 Flash usage credit that never expires — up from the original $30/month allotment, upgraded in Phase 2 to $60 and kept long-term. [→](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - **9x** — Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **10,000 tokens** — Long coding sessions push entire directory trees into the prompt on every iteration, so gateways have started applying compression algorithms such as RTK and Caveman, which OmniRoute reports can shrink 10,000 tokens to 1,080. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **$4 million** — Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - **$4 million** — This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
-- **900 million tokens** — The free allocation is what people notice, since 900 million tokens is well beyond what most competing tools give away and beyond what a solo developer exhausts in normal work. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
-- **80 percent** — Track consumption from the first week rather than from the first warning at 80 percent. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
-[All figures, 950 rows](../figures.md)
+[All figures, 974 rows](../figures.md)
 
 ## The write-ups
+
+### [The DeepSeek Quota Math Nobody Publishes: $10/Month, Peak-Hour Doubling, or a 3-Million-Yuan Server](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
+
+On September 25, 2026, OpenCode announced that the $60 of DeepSeek V4.1 Flash credit bundled with its $10 monthly plan was no longer a limited-time promotion.
+
+[telegra.ph](https://telegra.ph/The-DeepSeek-Quota-Math-Nobody-Publishes-10Month-Peak-Hour-Doubling-or-a-3-Million-Yuan-Server-11-26)
 
 ### [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 
@@ -67,7 +73,7 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 ---
 
-[All 78 write-ups](../README.md)
+[All 79 write-ups](../README.md)
 
 ---
 

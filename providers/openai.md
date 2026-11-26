@@ -1,12 +1,12 @@
 # OpenAI API pricing: what 11 models cost a coding agent
 
-Every OpenAI model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-25**.
+Every OpenAI model in the catalog that has been ranked in an agent category, priced three ways — list, cache read, and what the two come to at the token mix an agent actually sends. Recomputed from the source catalog on **2026-11-26**.
 
 **List price is not the bill.** A coding agent re-reads its context every step, so about 95.6% of the tokens it sends are cache reads — and how deep OpenAI discounts a cache read decides the bill more than the number printed in the row. That discount is a vendor policy, not a per-model one, and no published rate card puts it next to the other vendors'.
 
 ## What OpenAI charges per million tokens
 
-11 OpenAI models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-25**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
+11 OpenAI models that have been ranked in an agent category of the Design Arena, read from [OpenRouter](https://openrouter.ai/models)'s public catalog on **2026-11-26**. Three prices per row: what the row lists, what a cache read costs, and what the two come to at the token mix a coding agent actually sends.
 
 **OpenAI does not have one cache-read rate — it has 3.** Across 11 rows the discount runs from 5.0% to 10.4% of that row's own input price (5%, 10%, 10.4%). So a cheaper list price here can still be the dearer call once an agent starts caching, and no single discount figure describes this vendor. Repriced at a coding agent's mix, OpenAI's list input price overstates what an agent pays by a median **6.5×** (range 6.1×–9.7×).
 
@@ -39,19 +39,19 @@ Same catalog, same day, same token mix. The column that decides an agent's bill 
 | --- | --- | --- | --- | --- |
 | xiaomi | 1 | 0.8% | 18.4× | $0.0237 |
 | tencent | 1 | 5% | 10.3× | $0.0407 |
-| DeepSeek | 3 | 2–8.4% | 7.9× | $0.0107 |
+| DeepSeek | 3 | 2–22.8% | 7.6× | $0.0107 |
 | Claude | 26 | 2.5–10% | 6.6× | $0.0151 |
 | Gemini | 20 | 5–10% | 6.6× | $0.0769 |
 | **OpenAI** | 11 | 5–10.4% | 6.5× | $0.2042 |
 | Llama | 7 | 5–13.3% | 6.0× | $0.0569 |
+| reflection | 1 | 13.3% | 5.6× | $0.0534 |
 | upstage | 2 | 10–20% | 5.4× | $0.0074 |
 | nvidia | 2 | 13.3–20% | 4.9× | $0.0266 |
 | thinkingmachines | 1 | 17% | 4.7× | $0.215 |
 | Grok | 8 | 15–25% | 4.2× | $0.2494 |
 | Qwen | 4 | 20% | 4.1× | $0.0779 |
-| GLM | 12 | 16.7–98.6% | 4.1× | $0.0251 |
+| GLM | 12 | 18.3–98.6% | 4.1× | $0.0362 |
 | MiniMax | 3 | 20% | 4.1× | $0.0731 |
-| reflection | 1 | 20% | 4.1× | $0.0609 |
 | stepfun | 1 | 20% | 4.0× | $0.0497 |
 | Kimi | 7 | 10–94.8% | 2.9× | $0.1479 |
 
@@ -72,7 +72,7 @@ The spread in that fourth column is the whole point: Claude at 6.6× against Kim
 - **$0.19 per million tokens** — “Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - **4 hours** — “He used OpenAI Codex's Record & Replay to automate monthly report generation, taking it from 4 hours to a few minutes.” (2026-08-05) [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
-[All 950 figures, every kind](../figures.md)
+[All 974 figures, every kind](../figures.md)
 
 - [Chinese Models Are Not 2x Cheaper Once Your Agent Starts Caching](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/66) · [telegra.ph](https://telegra.ph/Chinese-Models-Are-Not-2x-Cheaper-Once-Your-Agent-Starts-Caching-08-24)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)

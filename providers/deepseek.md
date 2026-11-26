@@ -1,6 +1,6 @@
 # DeepSeek costs and claims: every figure from a sentence that names it
 
-55 of the 950 figures in these field notes come from a sentence that names DeepSeek. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+60 of the 974 figures in these field notes come from a sentence that names DeepSeek. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about DeepSeek and some only measure against it — a competitor's price quoted next to DeepSeek's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -8,6 +8,11 @@ Some of these are about DeepSeek and some only measure against it — a competit
 
 ## The figures
 
+- **5-hour** — “If OpenCode widens the 5-hour window, or DeepSeek drops the peak/off-peak doubling, the hybrid combination gets recalculated.” (2026-11-26) [→](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
+- **1M token** — “The same week, DeepSeek's own API changelog listed a 1M token context window and pointed at DeepSWE and NL2Repo results for coding-agent work.” (2026-11-26) [→](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
+- **$60** — “On September 25, 2026, OpenCode announced that the $60 of DeepSeek V4.1 Flash credit bundled with its $10 monthly plan was no longer a limited-time promotion.” (2026-11-26) [→](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
+- **$60** — “The $60 applies to DeepSeek V4.1 Flash as a model, not as a general-purpose wallet you can spend across whatever OpenCode hosts, and because this credit does not follow you there if your agent workflow leans on a second model for a specific step, it stays tied to that one model rather than extending to any other model your workflow might call on.” (2026-11-26) [→](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
+- **$10** — “While you have seen the benchmark charts if you read English-language coverage of DeepSeek, you have not seen anyone put the three ways to actually pay for this model — the $10 subscription, the peak/off-peak API, and self-hosting — into one cost table.” (2026-11-26) [→](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
 - **30 days** — “DeepSeek gives ten million, but they expire in 30 days.” (2026-11-24) [→](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
 - **30 days** — “The one-time allowances are for trying before you pay, not for standing up a permanent base: Zhipu's 20 million, DeepSeek's ten million that expires in 30 days, Doubao's 500,000 plus 2 to 5 million daily.” (2026-11-24) [→](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
 - **24 minutes** — “DeepSeek V4-Pro took 24 minutes to build a recruiting site inside Claude Code, then skipped the skill constraint that said it must confirm the deployment domain with the user, because it picked on its own and shipped it without ever asking.” (2026-11-24) [→](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
@@ -64,9 +69,9 @@ Some of these are about DeepSeek and some only measure against it — a competit
 - **$1 per million tokens** — “Top-tier Chinese models such as GLM5.2 and DeepSeek V4 Pro sit near $1 per million tokens at inference gross margins of 10% to 20%.” (2026-08-19) [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **$1 per million tokens** — “DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin.” (2026-08-05) [→](../articles/ai-model-costs-beyond-per-token-pricing.md)
 
-[All 950 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 974 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
-## Where these 55 came from
+## Where these 60 came from
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/73) · [telegra.ph](https://telegra.ph/63-Billion-Tokens-in-One-Month-Spent-Writing-Google-Ads-for-Amazon-Sellers-09-16)
@@ -79,6 +84,7 @@ Some of these are about DeepSeek and some only measure against it — a competit
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
 - [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/95) · [telegra.ph](https://telegra.ph/The-Cheap-Model-Is-50x-Cheaper-Until-It-Gets-Banned-Real-Per-Token-Costs-vs-What-Actually-Breaks-11-20)
+- [The DeepSeek Quota Math Nobody Publishes: $10/Month, Peak-Hour Doubling, or a 3-Million-Yuan Server](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md) · [telegra.ph](https://telegra.ph/The-DeepSeek-Quota-Math-Nobody-Publishes-10Month-Peak-Hour-Doubling-or-a-3-Million-Yuan-Server-11-26)
 - [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/89) · [telegra.ph](https://telegra.ph/The-Listed-Price-Is-a-Lie-What-DeepSeeks-PeakOff-Peak-Pricing-Rate-Limit-Windows-and-Permanent-Credits-Actually-Cost-Per-Task-11-13)
 - [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/96) · [telegra.ph](https://telegra.ph/The-Same-Model-Costs-2x-More-at-10am--Three-Pricing-Cliffs-That-Blow-Up-Your-Coding-Agents-Bill-11-23)
 - [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](../articles/the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/91) · [telegra.ph](https://telegra.ph/The-Sticker-Price-Said-9x-Cheaper-My-Bill-at-Peak-Hour-Didnt-Move-11-16)
@@ -90,7 +96,7 @@ Some of these are about DeepSeek and some only measure against it — a competit
 
 **A DeepSeek figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=DeepSeek). The form already knows it is about DeepSeek.
 
-**Or is one of the 55 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=DeepSeek&title=%5Bcorrection%5D+DeepSeek) — the form already knows it is about DeepSeek; you only have to say what the number is now.
+**Or is one of the 60 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=DeepSeek&title=%5Bcorrection%5D+DeepSeek) — the form already knows it is about DeepSeek; you only have to say what the number is now.
 
 ---
 

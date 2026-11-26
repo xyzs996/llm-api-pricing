@@ -88,11 +88,11 @@ I could be wrong here. This is one company, one quarter, and Klarna had reasons 
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
-[All 78 write-ups](../README.md)
+[All 79 write-ups](../README.md)
 
-The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 927 more, as JSON and CSV.
+The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 951 more, as JSON and CSV.
 
-Topics: [Niche Market](../topics/niche-market.md) · [AI Implementation](../topics/ai-implementation.md) · [AI Costs](../topics/ai-costs.md)
+Topics: [Niche Market](../topics/niche-market.md) · [AI Costs](../topics/ai-costs.md) · [AI Implementation](../topics/ai-implementation.md)
 
 
 ---

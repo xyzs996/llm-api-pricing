@@ -4,8 +4,16 @@
   <id>https://spectracodeai.com/</id>
   <link href="https://spectracodeai.com/"/>
   <link rel="self" href="https://spectracodeai.com/feed.xml"/>
-  <updated>2026-11-24T07:16:00Z</updated>
+  <updated>2026-11-26T07:16:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>The DeepSeek Quota Math Nobody Publishes: $10/Month, Peak-Hour Doubling, or a 3-Million-Yuan Server</title>
+    <link href="https://spectracodeai.com/articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.html"/>
+    <id>https://spectracodeai.com/articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.html</id>
+    <updated>2026-11-26T07:16:00Z</updated>
+    <published>2026-11-26T07:16:00Z</published>
+    <summary>On September 25, 2026, OpenCode announced that the $60 of DeepSeek V4.1 Flash credit bundled with its $10 monthly plan was no longer a limited-time promotion.</summary>
+  </entry>
   <entry>
     <title>I Ran DeepSeek V4-Pro and GLM-4-Flash in the Same Coding Agent. One Took 24 Minutes and Deployed Without Asking.</title>
     <link href="https://spectracodeai.com/articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.html"/>

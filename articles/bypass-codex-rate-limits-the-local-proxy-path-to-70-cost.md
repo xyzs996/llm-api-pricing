@@ -108,9 +108,9 @@ You’re not replacing Codex. You’re upgrading your control over it.
 - [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 - [How Alibaba’s Open Code Review Slashed AI Code Review Costs by 90% — And What It Means for Independent Developers](how-alibaba-s-open-code-review-slashed-ai-code-review-costs.md)
 
-[All 78 write-ups](../README.md)
+[All 79 write-ups](../README.md)
 
-The 22 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 928 more, as JSON and CSV.
+The 22 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 952 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [Development Tools](../topics/development-tools.md) · [Developer Productivity](../topics/developer-productivity.md)
 

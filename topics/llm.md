@@ -1,6 +1,6 @@
 # LLM
 
-4 of the 78 write-ups here are tagged LLM. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 79 write-ups here are tagged LLM. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$0.81** — Line up 40 models by the price on the card and the Chinese ones look like a rout: the median lists at $0.81 per million input tokens against $2.00 for the American ones, a gap of 2.47x. [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 - **$0.0566** — Gemini 3.7 Flash is the cheapest of the 40 at $0.0566 effective, and DeepSeek V4 Pro sits right next to it — a fact that turned out to be the loose thread in this whole piece. [→](../articles/chinese-models-are-not-2x-cheaper-once-your-agent-starts.md)
 
-[All figures, 950 rows](../figures.md)
+[All figures, 974 rows](../figures.md)
 
 ## The write-ups
 
@@ -43,7 +43,7 @@ Line up 40 models by the price on the card and the Chinese ones look like a rout
 
 ---
 
-[All 78 write-ups](../README.md)
+[All 79 write-ups](../README.md)
 
 ---
 

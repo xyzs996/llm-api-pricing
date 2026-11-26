@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-950 figures pulled out of 78 write-ups in
+974 figures pulled out of 79 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,37 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://sp
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [The DeepSeek Quota Math Nobody Publishes: $10/Month, Peak-Hour Doubling, or a 3-Million-Yuan Server](https://spectracodeai.com/articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.html)
+
+Published 2026-11-26.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$60` | price | On September 25, 2026, OpenCode announced that the $60 of DeepSeek V4.1 Flash credit bundled with its $10 monthly plan was no longer a limited-time promotion. |
+| `$10` per month | price | On September 25, 2026, OpenCode announced that the $60 of DeepSeek V4.1 Flash credit bundled with its $10 monthly plan was no longer a limited-time promotion. |
+| `1M token` | tokens | The same week, DeepSeek's own API changelog listed a 1M token context window and pointed at DeepSWE and NL2Repo results for coding-agent work. |
+| `$10` | price | While you have seen the benchmark charts if you read English-language coverage of DeepSeek, you have not seen anyone put the three ways to actually pay for this model — the $10 subscription, the peak/off-peak API, and self-hosting — into one cost table. |
+| `6x` | multiple | That is a 6x return on paper, and the announcement is specific about how it got there: the plan originally carried $30 a month, and Phase 2 doubled it to $60 while dropping the time limit. |
+| `$30` per month | price | That is a 6x return on paper, and the announcement is specific about how it got there: the plan originally carried $30 a month, and Phase 2 doubled it to $60 while dropping the time limit. |
+| `$60` | price | That is a 6x return on paper, and the announcement is specific about how it got there: the plan originally carried $30 a month, and Phase 2 doubled it to $60 while dropping the time limit. |
+| `$60` | price | The $60 applies to DeepSeek V4.1 Flash as a model, not as a general-purpose wallet you can spend across whatever OpenCode hosts, and because this credit does not follow you there if your agent workflow leans on a second model for a specific step, it stays tied to that one model rather than extending to any other model your workflow might call on. |
+| `5 hours` | duration | OpenCode manages limits across three separate windows — 5 hours, weekly, and monthly. |
+| `5-hour` | duration | Hit the 5-hour ceiling and requests stop, even with most of the $60 still sitting there. |
+| `$60` | price | Hit the 5-hour ceiling and requests stop, even with most of the $60 still sitting there. |
+| `5-hour` | duration | For a coding agent, that 5-hour window is the wall you meet first. |
+| `5-hour` | duration | The 5-hour number is the one that interrupts you at 2pm on a Tuesday. |
+| `5-hour` | duration | The 5-hour wall doesn't convince me. |
+| `$10` | price | How many days a $10 plan survives under heavy agent use varies enormously with how many tokens your tasks burn per round, and I do not have a measured figure for that. |
+| `$60` | price | Here is my read, and it is a read rather than a measurement — namely that $60 of credit is enough for an independent developer running a few hours a day at medium task granularity, whereas if you leave an agent running batches all day, the 5-hour window will reach you before the credit does. |
+| `5-hour` | duration | Here is my read, and it is a read rather than a measurement — namely that $60 of credit is enough for an independent developer running a few hours a day at medium task granularity, whereas if you leave an agent running batches all day, the 5-hour window will reach you before the credit does. |
+| `5-hour` | duration | The subscription is throttled by a 5-hour window — and by weekly and monthly tiers behind it, so a monthly allowance is not the same thing as unlimited calls in any given window. |
+| `$10` per month | price | Subscription: $10/month, $60 of credit that never expires, three-tier throttling at 5 hours, weekly, and monthly. |
+| `$60` | price | Subscription: $10/month, $60 of credit that never expires, three-tier throttling at 5 hours, weekly, and monthly. |
+| `5 hours` | duration | Subscription: $10/month, $60 of credit that never expires, three-tier throttling at 5 hours, weekly, and monthly. |
+| `5-hour` | duration | At that volume the gap between subscription and API is noise; what actually decides it is whether you need burst capacity outside a 5-hour window, and whether your usage is interactive or batch. |
+| `$10` | price | My bet: most independent developers land on a hybrid — off-peak API for batch work, plus the $10 subscription to cover interactive sessions — and pure self-hosting does not enter the individual developer's option set in 2026. |
+| `5-hour` | duration | If OpenCode widens the 5-hour window, or DeepSeek drops the peak/off-peak doubling, the hybrid combination gets recalculated. |
 
 ## [I Ran DeepSeek V4-Pro and GLM-4-Flash in the Same Coding Agent. One Took 24 Minutes and Deployed Without Asking.](https://spectracodeai.com/articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.html)
 
@@ -1551,5 +1582,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "950 figures pulled out of 78 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-24", "dateModified": "2026-11-24"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "974 figures pulled out of 79 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-26", "dateModified": "2026-11-26"}
 </script>
