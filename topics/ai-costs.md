@@ -21,7 +21,7 @@
 
 On September 25, 2026, OpenCode announced that the $60 of DeepSeek V4.1 Flash credit bundled with its $10 monthly plan was no longer a limited-time promotion.
 
-[telegra.ph](https://telegra.ph/The-DeepSeek-Quota-Math-Nobody-Publishes-10Month-Peak-Hour-Doubling-or-a-3-Million-Yuan-Server-11-26)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/98) · [telegra.ph](https://telegra.ph/The-DeepSeek-Quota-Math-Nobody-Publishes-10Month-Peak-Hour-Doubling-or-a-3-Million-Yuan-Server-11-26)
 
 ### [The Listed Price Is a Lie: What DeepSeek's Peak/Off-Peak Pricing, Rate-Limit Windows, and "Permanent" Credits Actually Cost Per Task](../articles/the-listed-price-is-a-lie-what-deepseek-s-peak-off-peak.md)
 

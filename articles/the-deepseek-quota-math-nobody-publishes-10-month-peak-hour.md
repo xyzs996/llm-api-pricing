@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/98) — that copy has a reply box under it, and this one does not.*
+
 On September 25, 2026, OpenCode announced that the $60 of DeepSeek V4.1 Flash credit bundled with its $10 monthly plan was no longer a limited-time promotion. It was permanent. The same week, DeepSeek's own API changelog listed a 1M token context window and pointed at DeepSWE and NL2Repo results for coding-agent work.
 
 While you have seen the benchmark charts if you read English-language coverage of DeepSeek, you have not seen anyone put the three ways to actually pay for this model — the $10 subscription, the peak/off-peak API, and self-hosting — into one cost table. The peak-hour doubling in particular is almost invisible outside Chinese-language sources, and it is the single detail that decides whether your daytime agent bill is what you budgeted or twice that.
@@ -116,6 +118,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** How many hours per day do you actually run your coding agent — reply in one word (light, medium, or heavy) so we can see whether the 5-hour wall or the monthly credit hits you first. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/98).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md). One required field, and the page you came from is already filled
