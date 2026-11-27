@@ -21,7 +21,7 @@
 
 This one is for independent developers running batch coding agent jobs and paying per token.
 
-[telegra.ph](https://telegra.ph/DeepSeeks-Peak-Hour-Price-Is-Double--How-to-Schedule-Your-Batch-Agent-Jobs-Around-It-11-27)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/99) · [telegra.ph](https://telegra.ph/DeepSeeks-Peak-Hour-Price-Is-Double--How-to-Schedule-Your-Batch-Agent-Jobs-Around-It-11-27)
 
 ### [Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
 

@@ -33,7 +33,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 This one is for independent developers running batch coding agent jobs and paying per token.
 
-[telegra.ph](https://telegra.ph/DeepSeeks-Peak-Hour-Price-Is-Double--How-to-Schedule-Your-Batch-Agent-Jobs-Around-It-11-27)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/99) · [telegra.ph](https://telegra.ph/DeepSeeks-Peak-Hour-Price-Is-Double--How-to-Schedule-Your-Batch-Agent-Jobs-Around-It-11-27)
 
 ### [How to Turn the Workflows You Won't Document Into Agent Skills](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 

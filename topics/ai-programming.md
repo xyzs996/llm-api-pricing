@@ -21,7 +21,7 @@
 
 This one is for independent developers running batch coding agent jobs and paying per token.
 
-[telegra.ph](https://telegra.ph/DeepSeeks-Peak-Hour-Price-Is-Double--How-to-Schedule-Your-Batch-Agent-Jobs-Around-It-11-27)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/99) · [telegra.ph](https://telegra.ph/DeepSeeks-Peak-Hour-Price-Is-Double--How-to-Schedule-Your-Batch-Agent-Jobs-Around-It-11-27)
 
 ### [The DeepSeek Quota Math Nobody Publishes: $10/Month, Peak-Hour Doubling, or a 3-Million-Yuan Server](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
 

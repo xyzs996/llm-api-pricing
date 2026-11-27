@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/99) — that copy has a reply box under it, and this one does not.*
+
 This one is for independent developers running batch coding agent jobs and paying per token. It is not for you if your agent has to answer a human in real time, and it is not for you if you have already moved your whole workload onto a local open-weight model where the marginal cost of a call is electricity.
 
 DeepSeek's own pricing page makes the mechanics plain: idle-hour prices are half the peak-hour price, and the peak windows are 9:00–12:00 and 14:00–18:00 on weekdays, billed at twice the table rate, while weekends are idle all day, and so is the 12:00–14:00 lunch gap and everything after 18:00.
@@ -114,6 +116,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** What share of your own DeepSeek token spend lands inside the 9:00–12:00 and 14:00–18:00 weekday peak windows? Reply with that one percentage in the comments — answer from memory, no looking it up. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/99).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fdeepseek-s-peak-hour-price-is-double-how-to-schedule-your.md). One required field, and the page you came from is already filled
