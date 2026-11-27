@@ -1,21 +1,27 @@
 # AI Programming
 
-14 of the 79 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+15 of the 80 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — A developer running three agents for daily work — email, calendar, research — reported a real cost of roughly $3–5 per month on DeepSeek V4 Flash, against $200–260 per month for the same workload on Opus 4.7. [→](../articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md)
+- **$3** — At $3–5, the savings are a few dollars, and the engineering — scheduler changes, retry handling, a queue, monitoring for jobs that did not fire — costs more than it returns. [→](../articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md)
 - **$60** — The $60 applies to DeepSeek V4.1 Flash as a model, not as a general-purpose wallet you can spend across whatever OpenCode hosts, and because this credit does not follow you there if your agent workflow leans on a second model for a specific step, it stays tied to that one model rather than extending to any other model your workflow might call on. [→](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
 - **$60** — Here is my read, and it is a read rather than a measurement — namely that $60 of credit is enough for an independent developer running a few hours a day at medium task granularity, whereas if you leave an agent running batches all day, the 5-hour window will reach you before the credit does. [→](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
 - **$0.87** — If you think in dollars, another data point puts DeepSeek V4 at $0.87 per million output tokens, against GLM-5.2 at $4.4 and Kimi K3 at $15, while a third puts V4-Flash at $0.028 per million tokens, which is an order of magnitude off the previous figures. [→](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
 - **$0.87** — In dollar terms the same source group puts DeepSeek V4 output at $0.87 per million tokens against GLM-5.2 at $4.4 and Kimi K3 at $15, which is the other half of why the cheap tier is where I start. [→](../articles/i-ran-deepseek-v4-pro-and-glm-4-flash-in-the-same-coding.md)
 - **$3** — Those numbers aren't marketing, because they show up in real monthly bills, where one developer running three agents for email, calendar, and research put DeepSeek V4 Flash at roughly $3–5 per month against Opus 4.7 at $200–260 — with what they described as a small quality gap. [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - **$0.26** — DeepSeek V3.2 under the OpenClaw framework comes in at $0.26 per million input tokens and $0.38 output, the lowest-cost model in that particular comparison, while MiniMax M2.7 sits at $0.30 input and $1.20 output with a 204.8K context window, built for coding and agent workflows. [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
-- **$3** — One user running three agents for email, calendar, and research put their monthly bill at $3–5 on DeepSeek V4 Flash against $200–260 on Opus 4.7, and described the quality gap as small rather than night-and-day. [→](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
-- **$0.30** — Compare MiniMax M2.7 at $0.30 in and $1.20 out with 204.8K context, where the output spread is compressed and the pricing is easier to reason about for multi-turn agent work. [→](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 
-[All figures, 974 rows](../figures.md)
+[All figures, 978 rows](../figures.md)
 
 ## The write-ups
+
+### [DeepSeek's Peak-Hour Price Is Double — How to Schedule Your Batch Agent Jobs Around It](../articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md)
+
+This one is for independent developers running batch coding agent jobs and paying per token.
+
+[telegra.ph](https://telegra.ph/DeepSeeks-Peak-Hour-Price-Is-Double--How-to-Schedule-Your-Batch-Agent-Jobs-Around-It-11-27)
 
 ### [The DeepSeek Quota Math Nobody Publishes: $10/Month, Peak-Hour Doubling, or a 3-Million-Yuan Server](../articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
 
@@ -103,7 +109,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 79 write-ups](../README.md)
+[All 80 write-ups](../README.md)
 
 ---
 

@@ -57,9 +57,9 @@ The six-hour build is real, and it is also the cheapest part of what happened. T
 - [Building High-Income Single-Page Tool Sites via SEO](building-high-income-single-page-tool-sites-via-seo.md)
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-[All 79 write-ups](../README.md)
+[All 80 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 956 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 960 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md)
 

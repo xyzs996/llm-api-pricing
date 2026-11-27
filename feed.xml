@@ -4,8 +4,16 @@
   <id>https://spectracodeai.com/</id>
   <link href="https://spectracodeai.com/"/>
   <link rel="self" href="https://spectracodeai.com/feed.xml"/>
-  <updated>2026-11-26T07:16:00Z</updated>
+  <updated>2026-11-27T07:16:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>DeepSeek's Peak-Hour Price Is Double — How to Schedule Your Batch Agent Jobs Around It</title>
+    <link href="https://spectracodeai.com/articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.html"/>
+    <id>https://spectracodeai.com/articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.html</id>
+    <updated>2026-11-27T07:16:00Z</updated>
+    <published>2026-11-27T07:16:00Z</published>
+    <summary>This one is for independent developers running batch coding agent jobs and paying per token.</summary>
+  </entry>
   <entry>
     <title>The DeepSeek Quota Math Nobody Publishes: $10/Month, Peak-Hour Doubling, or a 3-Million-Yuan Server</title>
     <link href="https://spectracodeai.com/articles/the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.html"/>

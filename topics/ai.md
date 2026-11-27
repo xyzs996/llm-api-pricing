@@ -1,21 +1,27 @@
 # AI
 
-10 of the 79 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+11 of the 80 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — A developer running three agents for daily work — email, calendar, research — reported a real cost of roughly $3–5 per month on DeepSeek V4 Flash, against $200–260 per month for the same workload on Opus 4.7. [→](../articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md)
+- **$3** — At $3–5, the savings are a few dollars, and the engineering — scheduler changes, retry handling, a queue, monitoring for jobs that did not fire — costs more than it returns. [→](../articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md)
 - **$7** — One developer launched a SaaS and waited 2.5 months for the first paying customer, a $7 sale, and reported that the customer found the product through Google organic search. [→](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
 - **$2,150** — ReelDrop launched two months ago and collected 1,118 signups, 28 paying customers, and about CA$2,150 after refunds and before Stripe fees. [→](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
 - **$462.60** — One estimate has two models both scoring 99/100 on writing tasks with monthly API bills of $462.60 and $116.10 — roughly a 4x gap on similar list prices. [→](../articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 - **$0.181** — Sources are already presenting $0.181 per successful task next to a coding score of 96.0, side by side, which is the shape the conversation is heading toward. [→](../articles/your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 - **4-year** — For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 - **$80** — In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
-- **$3** — The Reddit forecast was $3-5 a month for three light agents, and GLM-4-Flash's 20M free tokens don't expire, while DeepSeek's sign-up grant of 10M tokens (2026-05-02 article) was valid for only 30 days. [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
-- **$3** — A Reddit poster on 2026-04-28 guessed about $3-5 a month for three agents doing email, calendar and research on V4 Flash, against $200-260 for Opus 4.7. [→](../articles/what-deepseek-v4-1-flash-really-costs-per-month-a-five-step.md)
 
-[All figures, 974 rows](../figures.md)
+[All figures, 978 rows](../figures.md)
 
 ## The write-ups
+
+### [DeepSeek's Peak-Hour Price Is Double — How to Schedule Your Batch Agent Jobs Around It](../articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md)
+
+This one is for independent developers running batch coding agent jobs and paying per token.
+
+[telegra.ph](https://telegra.ph/DeepSeeks-Peak-Hour-Price-Is-Double--How-to-Schedule-Your-Batch-Agent-Jobs-Around-It-11-27)
 
 ### [Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
 
@@ -79,7 +85,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 79 write-ups](../README.md)
+[All 80 write-ups](../README.md)
 
 ---
 

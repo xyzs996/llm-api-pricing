@@ -97,9 +97,9 @@ So: V4-Flash is my default, GLM-4-Flash handles the long tail, and Pro only gets
 - [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 
-[All 79 write-ups](../README.md)
+[All 80 write-ups](../README.md)
 
-The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 955 more, as JSON and CSV.
+The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 959 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [Token Optimization](../topics/token-optimization.md) · [AI Agents](../topics/ai-agents.md) · [LLM](../topics/llm.md)
 

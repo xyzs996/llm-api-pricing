@@ -79,9 +79,9 @@ One last caveat on every number in this piece: model names and prices move fast,
 - [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 
-[All 79 write-ups](../README.md)
+[All 80 write-ups](../README.md)
 
-The 26 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 948 more, as JSON and CSV.
+The 26 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 952 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [Token Optimization](../topics/token-optimization.md) · [AI Agents](../topics/ai-agents.md) · [LLM](../topics/llm.md)
 

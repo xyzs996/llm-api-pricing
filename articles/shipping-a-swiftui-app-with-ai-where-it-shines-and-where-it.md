@@ -66,12 +66,12 @@ You can take this even further by formalizing your upfront context. One develope
 **Read next**
 
 - [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
+- [DeepSeek's Peak-Hour Price Is Double — How to Schedule Your Batch Agent Jobs Around It](deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md)
 - [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
-- [Your LLM Bill Is 2x the Sticker Price: Peak-Hour Pricing and the 272K Token Cliff](your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 
-[All 79 write-ups](../README.md)
+[All 80 write-ups](../README.md)
 
-The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 966 more, as JSON and CSV.
+The 8 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 970 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Programming](../topics/ai-programming.md) · [AI](../topics/ai.md) · [Software Development](../topics/software-development.md)
 

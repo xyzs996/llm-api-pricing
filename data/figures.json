@@ -231,6 +231,50 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/10"
   },
   {
+    "value": "$0.181",
+    "kind": "price",
+    "unit": "",
+    "context": "In one set of coding evaluations, DeepSeek V4.1 Flash scored 96.0 with a cost of $0.181 per successful task, against Mistral Large 4 at 95.4 and Fable 5.1 at 97.7.",
+    "article": "DeepSeek's Peak-Hour Price Is Double — How to Schedule Your Batch Agent Jobs Around It",
+    "published": "2026-11-27",
+    "url": "https://spectracodeai.com/articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$3",
+    "kind": "price",
+    "unit": "per month",
+    "context": "A developer running three agents for daily work — email, calendar, research — reported a real cost of roughly $3–5 per month on DeepSeek V4 Flash, against $200–260 per month for the same workload on Opus 4.7.",
+    "article": "DeepSeek's Peak-Hour Price Is Double — How to Schedule Your Batch Agent Jobs Around It",
+    "published": "2026-11-27",
+    "url": "https://spectracodeai.com/articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$200",
+    "kind": "price",
+    "unit": "per month",
+    "context": "A developer running three agents for daily work — email, calendar, research — reported a real cost of roughly $3–5 per month on DeepSeek V4 Flash, against $200–260 per month for the same workload on Opus 4.7.",
+    "article": "DeepSeek's Peak-Hour Price Is Double — How to Schedule Your Batch Agent Jobs Around It",
+    "published": "2026-11-27",
+    "url": "https://spectracodeai.com/articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "$3",
+    "kind": "price",
+    "unit": "",
+    "context": "At $3–5, the savings are a few dollars, and the engineering — scheduler changes, retry handling, a queue, monitoring for jobs that did not fire — costs more than it returns.",
+    "article": "DeepSeek's Peak-Hour Price Is Double — How to Schedule Your Batch Agent Jobs Around It",
+    "published": "2026-11-27",
+    "url": "https://spectracodeai.com/articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "$60",
     "kind": "price",
     "unit": "",

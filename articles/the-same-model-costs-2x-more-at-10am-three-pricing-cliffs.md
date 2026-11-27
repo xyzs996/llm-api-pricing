@@ -99,9 +99,9 @@ All prices above are as of their capture dates; check each vendor's official pag
 - [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 - [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 
-[All 79 write-ups](../README.md)
+[All 80 write-ups](../README.md)
 
-The 30 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 944 more, as JSON and CSV.
+The 30 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 948 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Token Optimization](../topics/token-optimization.md) · [Software Development](../topics/software-development.md)
 

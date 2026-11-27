@@ -1,6 +1,6 @@
 # Fable 5 costs and claims: every figure from a sentence that names it
 
-18 of the 974 figures in these field notes come from a sentence that names Fable 5. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+19 of the 978 figures in these field notes come from a sentence that names Fable 5. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about Fable 5 and some only measure against it — a competitor's price quoted next to Fable 5's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -8,6 +8,7 @@ Some of these are about Fable 5 and some only measure against it — a competito
 
 ## The figures
 
+- **$0.181** — “In one set of coding evaluations, DeepSeek V4.1 Flash scored 96.0 with a cost of $0.181 per successful task, against Mistral Large 4 at 95.4 and Fable 5.1 at 97.7.” (2026-11-27) [→](../articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md)
 - **$462.60** — “On a writing task where Claude Fable 5.2 and Gemini 4 Carbon both scored 99/100, the monthly API bills came to $462.60 and $116.10 — roughly a 4x gap.” (2026-11-23) [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - **$3** — “Another framing: Kimi K3 at $3/$15 per million tokens against Fable 5 at $10/$50, with intelligence index scores of 59.7 and 62.1.” (2026-11-19) [→](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - **$15** — “Kimi K3's $15 output price is expensive by Chinese standards — it only looks cheap next to Fable 5, where it lands under a third.” (2026-11-19) [→](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
@@ -27,12 +28,13 @@ Some of these are about Fable 5 and some only measure against it — a competito
 - **$9.05 per run** — “The most affordable AI model option, Fable 5, costs just $9.05 per run, but delivers only 41.2% accuracy in React projects.” (2026-08-12) [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - **$1.43** — “On ReactBench, one run of GPT-5.6 Sol costs about $1.43 while Fable 5 costs $9.05 for the same work — a gap that no per-token price list would have predicted, because the expensive model is not six times more expensive per token, it is six times less efficient at finishing the job.” (2026-08-10) [→](../articles/the-token-cost-war-why-price-per-million-tokens-now-decides.md)
 
-[All 974 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 978 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
-## Where these 18 came from
+## Where these 19 came from
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22) · [telegra.ph](https://telegra.ph/Choosing-the-Right-AI-Model-for-Coding-Cost-vs-Efficiency-08-19)
+- [DeepSeek's Peak-Hour Price Is Double — How to Schedule Your Batch Agent Jobs Around It](../articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md) · [telegra.ph](https://telegra.ph/DeepSeeks-Peak-Hour-Price-Is-Double--How-to-Schedule-Your-Batch-Agent-Jobs-Around-It-11-27)
 - [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](../articles/running-deepseek-v4-pro-inside-claude-code-a-cost-and.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/93) · [telegra.ph](https://telegra.ph/Running-DeepSeek-V4-Pro-Inside-Claude-Code-A-Cost-and-Failure-Checklist-for-Cheap-Chinese-Coding-Models-11-19)
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
 - [The "10x Cheaper" Trap: How to Read AI Coding Costs](../articles/the-10x-cheaper-trap-how-to-read-ai-coding-costs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/85) · [telegra.ph](https://telegra.ph/The-10x-Cheaper-Trap-How-to-Read-AI-Coding-Costs-11-07)
@@ -46,7 +48,7 @@ Some of these are about Fable 5 and some only measure against it — a competito
 
 **A Fable 5 figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=Fable+5). The form already knows it is about Fable 5.
 
-**Or is one of the 18 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=Fable+5&title=%5Bcorrection%5D+Fable+5) — the form already knows it is about Fable 5; you only have to say what the number is now.
+**Or is one of the 19 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=Fable+5&title=%5Bcorrection%5D+Fable+5) — the form already knows it is about Fable 5; you only have to say what the number is now.
 
 ---
 

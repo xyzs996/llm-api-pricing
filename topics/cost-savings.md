@@ -1,19 +1,19 @@
 # Cost Savings
 
-6 of the 79 write-ups here are tagged Cost Savings. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 80 write-ups here are tagged Cost Savings. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$3** — A developer running three agents for daily work — email, calendar, research — reported a real cost of roughly $3–5 per month on DeepSeek V4 Flash, against $200–260 per month for the same workload on Opus 4.7. [→](../articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md)
+- **$3** — At $3–5, the savings are a few dollars, and the engineering — scheduler changes, retry handling, a queue, monitoring for jobs that did not fire — costs more than it returns. [→](../articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md)
 - **70%** — In that WeChat publication, 70% of the solo workflow was repetitive: organizing source material, checking drafts for AI-sounding prose, making covers, converting to HTML layout and publishing. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **60%** — The tool has been through 28 iterations, and repetitive work on public recruiting platforms got 60% more efficient. [→](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 - **$63,000** — Jordan's success with Resellbot, a Micro-SaaS that automates Poshmark sharing, is a notable example: he earns $63,000 a month with just 30 lines of JavaScript. [→](../articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md)
 - **$500** — After generating content, they can rent these websites to local businesses for monthly subscriptions, earning $500-$3,000 per website per month. [→](../articles/automating-short-video-marketing-with-ai-a-low-cost-growth.md)
 - **5 minutes** — Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **20%** — Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
-- **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
-- **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
-[All figures, 974 rows](../figures.md)
+[All figures, 978 rows](../figures.md)
 
 ## The write-ups
 
@@ -28,6 +28,12 @@ Open Code Review is an open-source review tool built for AI-assisted development
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
 [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
+
+### [DeepSeek's Peak-Hour Price Is Double — How to Schedule Your Batch Agent Jobs Around It](../articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md)
+
+This one is for independent developers running batch coding agent jobs and paying per token.
+
+[telegra.ph](https://telegra.ph/DeepSeeks-Peak-Hour-Price-Is-Double--How-to-Schedule-Your-Batch-Agent-Jobs-Around-It-11-27)
 
 ### [How to Turn the Workflows You Won't Document Into Agent Skills](../articles/how-to-turn-the-workflows-you-won-t-document-into-agent.md)
 
@@ -55,7 +61,7 @@ OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free token
 
 ---
 
-[All 79 write-ups](../README.md)
+[All 80 write-ups](../README.md)
 
 ---
 

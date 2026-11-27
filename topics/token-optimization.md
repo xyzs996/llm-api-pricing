@@ -1,6 +1,6 @@
 # Token Optimization
 
-10 of the 79 write-ups here are tagged Token Optimization. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+10 of the 80 write-ups here are tagged Token Optimization. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$3** — One user running three agents for email, calendar, and research put their monthly bill at $3–5 on DeepSeek V4 Flash against $200–260 on Opus 4.7, and described the quality gap as small rather than night-and-day. [→](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 - **$0.30** — Compare MiniMax M2.7 at $0.30 in and $1.20 out with 204.8K context, where the output spread is compressed and the pricing is easier to reason about for multi-turn agent work. [→](../articles/the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 
-[All figures, 974 rows](../figures.md)
+[All figures, 978 rows](../figures.md)
 
 ## The write-ups
 
@@ -79,7 +79,7 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 79 write-ups](../README.md)
+[All 80 write-ups](../README.md)
 
 ---
 
