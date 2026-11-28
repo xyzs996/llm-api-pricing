@@ -1,6 +1,6 @@
 # AI Costs
 
-9 of the 80 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 81 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$4 million** — Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - **$4 million** — This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
-[All figures, 978 rows](../figures.md)
+[All figures, 999 rows](../figures.md)
 
 ## The write-ups
 
@@ -73,7 +73,7 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 
 ---
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
 ---
 

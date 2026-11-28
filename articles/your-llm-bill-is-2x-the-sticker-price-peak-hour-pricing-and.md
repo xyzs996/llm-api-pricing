@@ -77,9 +77,9 @@ The one thing you can do today without switching models: schedule non-realtime b
 - [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - [The Sticker Price Said 9x Cheaper. My Bill at Peak Hour Didn't Move.](the-sticker-price-said-9x-cheaper-my-bill-at-peak-hour-didn.md)
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 960 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 981 more, as JSON and CSV.
 
 Topics: [AI](../topics/ai.md) · [Token Optimization](../topics/token-optimization.md) · [Software Development](../topics/software-development.md) · [AI Pricing](../topics/ai-pricing.md)
 

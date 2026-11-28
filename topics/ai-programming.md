@@ -1,6 +1,6 @@
 # AI Programming
 
-15 of the 80 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+15 of the 81 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$3** — Those numbers aren't marketing, because they show up in real monthly bills, where one developer running three agents for email, calendar, and research put DeepSeek V4 Flash at roughly $3–5 per month against Opus 4.7 at $200–260 — with what they described as a small quality gap. [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - **$0.26** — DeepSeek V3.2 under the OpenClaw framework comes in at $0.26 per million input tokens and $0.38 output, the lowest-cost model in that particular comparison, while MiniMax M2.7 sits at $0.30 input and $1.20 output with a 204.8K context window, built for coding and agent workflows. [→](../articles/the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 
-[All figures, 978 rows](../figures.md)
+[All figures, 999 rows](../figures.md)
 
 ## The write-ups
 
@@ -109,7 +109,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
 ---
 

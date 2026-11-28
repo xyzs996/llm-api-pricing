@@ -1,6 +1,6 @@
 # Niche Market
 
-11 of the 80 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+11 of the 81 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$55k** — James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-[All figures, 978 rows](../figures.md)
+[All figures, 999 rows](../figures.md)
 
 ## The write-ups
 
@@ -85,7 +85,7 @@ Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 
 
 ---
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
 ---
 

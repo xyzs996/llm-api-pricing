@@ -101,9 +101,9 @@ The judgment call I would put to you: if a batch finishes in the afternoon inste
 - [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 - [Shipping a SwiftUI App with AI: Where It Shines and Where It Crashes](shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 974 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 995 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [AI](../topics/ai.md) · [Cost Savings](../topics/cost-savings.md) · [LLM](../topics/llm.md)
 

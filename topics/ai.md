@@ -1,6 +1,6 @@
 # AI
 
-11 of the 80 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+11 of the 81 write-ups here are tagged AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **4-year** — For solo devs with coding experience, this compression of timeline scales even further for focused tools: a 4-year veteran developer used OpenCode (powered by Claude Sonnet 4.5) and 7 custom sub-agents to launch a code snippet sharing tool called CodeClip entirely from zero to production in approximately 4 hours, skipping weeks of setup, scaffolding, and initial feature drafting that would have been standard pre-AI. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 - **$80** — In one documented case, a developer spent roughly 4 hours of total human time over 5 days — reviewing, pivoting, and debugging — while an AI agent built the SaaS product, with API token costs for the entire build coming in at $80–120. [→](../articles/shipping-a-swiftui-app-with-ai-where-it-shines-and-where-it.md)
 
-[All figures, 978 rows](../figures.md)
+[All figures, 999 rows](../figures.md)
 
 ## The write-ups
 
@@ -85,7 +85,7 @@ The competition among model vendors used to be argued in benchmark scores, and i
 
 ---
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
 ---
 

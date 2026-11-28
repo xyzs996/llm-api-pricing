@@ -91,9 +91,9 @@ It is making your prompts cacheable.
 - [Running DeepSeek V4-Pro Inside Claude Code: A Cost-and-Failure Checklist for Cheap Chinese Coding Models](running-deepseek-v4-pro-inside-claude-code-a-cost-and.md)
 - [The DeepSeek Quota Math Nobody Publishes: $10/Month, Peak-Hour Doubling, or a 3-Million-Yuan Server](the-deepseek-quota-math-nobody-publishes-10-month-peak-hour.md)
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 960 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 981 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [Artificial Intelligence](../topics/artificial-intelligence.md) · [Token Optimization](../topics/token-optimization.md)
 

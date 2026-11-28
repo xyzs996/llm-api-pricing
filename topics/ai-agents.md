@@ -1,6 +1,6 @@
 # AI Agents
 
-5 of the 80 write-ups here are tagged AI Agents. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 81 write-ups here are tagged AI Agents. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **300 million tokens** — One developer logged token consumption across the first three days of an agent-driven project in July 2026 and got a curve that says almost everything I think is worth saying about this technology: 300 million tokens on day one, about 200 million on day two, about 100 million on day three. [→](../articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
 - **3 weeks** — Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. [→](../articles/why-your-ai-agent-goes-off-the-rails-give-it-boring-work.md)
 
-[All figures, 978 rows](../figures.md)
+[All figures, 999 rows](../figures.md)
 
 ## The write-ups
 
@@ -49,7 +49,7 @@ One developer logged token consumption across the first three days of an agent-d
 
 ---
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
 ---
 

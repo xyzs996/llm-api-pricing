@@ -103,9 +103,9 @@ If you are considering a server, price the reason first, not the hardware.
 - [The Same Model Costs 2x More at 10am — Three Pricing Cliffs That Blow Up Your Coding Agent's Bill](the-same-model-costs-2x-more-at-10am-three-pricing-cliffs.md)
 - [The Cheap Model Is 50x Cheaper Until It Gets Banned: Real Per-Token Costs vs. What Actually Breaks](the-cheap-model-is-50x-cheaper-until-it-gets-banned-real.md)
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
-The 24 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 954 more, as JSON and CSV.
+The 24 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 975 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md) · [Token Optimization](../topics/token-optimization.md) · [AI Costs](../topics/ai-costs.md)
 

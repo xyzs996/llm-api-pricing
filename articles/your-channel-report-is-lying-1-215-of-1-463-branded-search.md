@@ -83,9 +83,9 @@ One of them is right.
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 - [Your LLM Bill Is 2x the Sticker Price: Peak-Hour Pricing and the 272K Token Cliff](your-llm-bill-is-2x-the-sticker-price-peak-hour-pricing-and.md)
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
-The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 960 more, as JSON and CSV.
+The 18 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 981 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [AI](../topics/ai.md) · [Micro SaaS](../topics/micro-saas.md)
 

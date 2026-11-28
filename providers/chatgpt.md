@@ -1,6 +1,6 @@
 # ChatGPT costs and claims: every figure from a sentence that names it
 
-7 of the 978 figures in these field notes come from a sentence that names ChatGPT. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+10 of the 999 figures in these field notes come from a sentence that names ChatGPT. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
 
 Some of these are about ChatGPT and some only measure against it — a competitor's price quoted next to ChatGPT's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
 
@@ -8,6 +8,9 @@ Some of these are about ChatGPT and some only measure against it — a competito
 
 ## The figures
 
+- **1.7%** — “ReelDrop's aligned numbers are search 1.7%, ChatGPT 1.2%, X about 7%, UGC and referral 0%.” (2026-11-28) [→](../articles/your-channel-report-is-lying-107-signups-0-paying-customers.md)
+- **1.7%** — “ReelDrop's joined output is the template: search 1.7%, ChatGPT 1.2%, X about 7%, UGC and referral 0%.” (2026-11-28) [→](../articles/your-channel-report-is-lying-107-signups-0-paying-customers.md)
+- **1.2%** — “ChatGPT accounts for 6 confirmed paid customers from 83 signups, 1.2%.” (2026-11-28) [→](../articles/your-channel-report-is-lying-107-signups-0-paying-customers.md)
 - **1.2%** — “ChatGPT brought 83 signups and 6 paid, 1.2%.” (2026-11-19) [→](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
 - **20%** — “OpenAI is positioning ChatGPT Work as a productivity platform for business teams, and the share of its users who don't code is projected to grow from 20% to 60% within 12 months.” (2026-09-25) [→](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md)
 - **20%** — “I’d argue that building these decoupling layers is the only way to survive the shift toward platforms like ChatGPT Work, where non-programming users are expected to jump from 20% to 60% of the total user base within a year.” (2026-09-24) [→](../articles/four-circuit-breakers-every-unattended-ai-pipeline-needs.md)
@@ -16,9 +19,9 @@ Some of these are about ChatGPT and some only measure against it — a competito
 - **20%** — “ChatGPT Work's user profile is projected to shift from 20% non-programmers to 60% within 12 months, showing its growing appeal across different professional backgrounds.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - **70%** — “Meanwhile ChatGPT Work saves non-technical staff up to 70% of their time on cross-application tasks, and those same people would get nothing out of an IDE.” (2026-08-07) [→](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
-[All 978 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
+[All 999 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
-## Where these 7 came from
+## Where these 10 came from
 
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12) · [telegra.ph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19)
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](../articles/ai-programming-tool-selection-strategy-from-rapid.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/16) · [telegra.ph](https://telegra.ph/AI-Programming-Tool-Selection-Strategy-From-Rapid-Prototyping-to-Long-term-Collaboration-08-19)
@@ -27,12 +30,13 @@ Some of these are about ChatGPT and some only measure against it — a competito
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10) · [telegra.ph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19)
 - [Stop Hitting the 5-Hour Limit: Routing Your IDE’s AI Requests to Local Models](../articles/stop-hitting-the-5-hour-limit-routing-your-ide-s-ai.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/76) · [telegra.ph](https://telegra.ph/Stop-Hitting-the-5-Hour-Limit-Routing-Your-IDEs-AI-Requests-to-Local-Models-09-25)
 - [Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/94) · [telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--1215-of-1463-Branded-Search-Clicks-Came-From-Somewhere-Else-11-19)
+- [Your Channel Report Is Lying — 107 Signups, 0 Paying Customers](../articles/your-channel-report-is-lying-107-signups-0-paying-customers.md) · [telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--107-Signups-0-Paying-Customers-11-28)
 
 **Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.
 
 **A ChatGPT figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=ChatGPT). The form already knows it is about ChatGPT.
 
-**Or is one of the 7 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=ChatGPT&title=%5Bcorrection%5D+ChatGPT) — the form already knows it is about ChatGPT; you only have to say what the number is now.
+**Or is one of the 10 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=ChatGPT&title=%5Bcorrection%5D+ChatGPT) — the form already knows it is about ChatGPT; you only have to say what the number is now.
 
 ---
 

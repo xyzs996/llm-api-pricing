@@ -1,6 +1,6 @@
 # LLM
 
-5 of the 80 write-ups here are tagged LLM. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 81 write-ups here are tagged LLM. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **36.6 billion tokens** — I don't think chasing raw token volume scales—some projects burned through 36.6 billion tokens, rebuilt twice, still ended up brittle. [→](../articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md)
 - **$15** — Kimi K3 charges $15 per million output tokens, DeepSeek V4 at $0.87, and GLM-5.2 at $4.40—far below Anthropic Fable 5’s $50. [→](../articles/this-open-source-code-review-tool-beats-claude-with-1-9-the.md)
 
-[All figures, 978 rows](../figures.md)
+[All figures, 999 rows](../figures.md)
 
 ## The write-ups
 
@@ -49,7 +49,7 @@ Line up 40 models by the price on the card and the Chinese ones look like a rout
 
 ---
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
 ---
 

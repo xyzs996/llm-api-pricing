@@ -1,6 +1,6 @@
 # Cost Savings
 
-7 of the 80 write-ups here are tagged Cost Savings. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+7 of the 81 write-ups here are tagged Cost Savings. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **5 minutes** — Pair WorkBuddy with BrowserAct and a complex pricing table takes 5 minutes, a product opportunity report 7. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 - **20%** — Automation of this shape has cut task delivery down to 20% of the manual effort in workflows like WorkBuddy. [→](../articles/how-to-turn-your-obsidian-vault-into-an-autonomous-ai.md)
 
-[All figures, 978 rows](../figures.md)
+[All figures, 999 rows](../figures.md)
 
 ## The write-ups
 
@@ -61,7 +61,7 @@ OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free token
 
 ---
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
 ---
 

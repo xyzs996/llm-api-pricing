@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-978 figures pulled out of 80 write-ups in
+999 figures pulled out of 81 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -88,6 +88,34 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://sp
 | `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [Your Channel Report Is Lying — 107 Signups, 0 Paying Customers](https://spectracodeai.com/articles/your-channel-report-is-lying-107-signups-0-paying-customers.html)
+
+Published 2026-11-28.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$2,150` | price | ReelDrop's first two months produced 1,118 signups and 28 paying customers, about CA$2,150 collected after refunds and before Stripe fees. |
+| `2.5%` | percent | That works out to roughly 2.5% signup-to-paid overall, which sounds like a mediocre but unremarkable early SaaS number. |
+| `1.7%` | percent | ReelDrop's first-touch attribution puts search at 8 paid customers from 472 signups, a 1.7% conversion rate. |
+| `1.2%` | percent | ChatGPT accounts for 6 confirmed paid customers from 83 signups, 1.2%. |
+| `7%` | percent | X's "7%" is 3 out of 42 — shift one or two customers either way and the rate moves by several points. |
+| `83%` | percent | That's about 83%. |
+| `1.7%` | percent | This is why "search has the most signups" and "search has a 1.7% conversion rate" can both be true at once without meaning what they appear to mean. |
+| `1.7%` | percent | ReelDrop's aligned numbers are search 1.7%, ChatGPT 1.2%, X about 7%, UGC and referral 0%. |
+| `1.2%` | percent | ReelDrop's aligned numbers are search 1.7%, ChatGPT 1.2%, X about 7%, UGC and referral 0%. |
+| `7%` | percent | ReelDrop's aligned numbers are search 1.7%, ChatGPT 1.2%, X about 7%, UGC and referral 0%. |
+| `0%` | percent | ReelDrop's aligned numbers are search 1.7%, ChatGPT 1.2%, X about 7%, UGC and referral 0%. |
+| `$5` per day | price | For contrast, consider a developer who ran Google Ads at $5/day, initially picking up 7–8 users per day, and reached 20-plus paying customers in 65 days. |
+| `65 days` | duration | For contrast, consider a developer who ran Google Ads at $5/day, initially picking up 7–8 users per day, and reached 20-plus paying customers in 65 days. |
+| `90%` | percent | One AI micro-SaaS pulled 90% of its organic traffic from TikTok and Instagram Reels — raw, native content, before-and-after clips of a messy voice note versus the cleaned-up text. |
+| `$4,500` | price | The payoff was real: about 6,000 users, $4,500 MRR, eventually sold for a low-to-mid five-figure sum. |
+| `90%` | percent | But "90% of traffic" is a revenue-side statistic with no hours column attached. |
+| `$2,150` | price | The CA$2,150 is revenue, not profit, and the gap between those two words is where most channel reports quietly die. |
+| `1.7%` | percent | ReelDrop's joined output is the template: search 1.7%, ChatGPT 1.2%, X about 7%, UGC and referral 0%. |
+| `1.2%` | percent | ReelDrop's joined output is the template: search 1.7%, ChatGPT 1.2%, X about 7%, UGC and referral 0%. |
+| `7%` | percent | ReelDrop's joined output is the template: search 1.7%, ChatGPT 1.2%, X about 7%, UGC and referral 0%. |
+| `0%` | percent | ReelDrop's joined output is the template: search 1.7%, ChatGPT 1.2%, X about 7%, UGC and referral 0%. |
 
 ## [DeepSeek's Peak-Hour Price Is Double — How to Schedule Your Batch Agent Jobs Around It](https://spectracodeai.com/articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.html)
 
@@ -1593,5 +1621,5 @@ Published 2026-08-05.
 | `3 weeks` | duration | Version your skills like software. treats AI skills as packages with rollback and permission control, which is the difference between a team that can undo a bad change and a team whose output quality quietly degrades because somebody edited a prompt in place 3 weeks ago. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "978 figures pulled out of 80 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-27", "dateModified": "2026-11-27"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "999 figures pulled out of 81 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://spectracodeai.com/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-11-28", "dateModified": "2026-11-28"}
 </script>

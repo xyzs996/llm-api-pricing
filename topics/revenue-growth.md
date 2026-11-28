@@ -1,21 +1,27 @@
 # Revenue Growth
 
-5 of the 80 write-ups here are tagged Revenue Growth. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 81 write-ups here are tagged Revenue Growth. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **$5** — For contrast, consider a developer who ran Google Ads at $5/day, initially picking up 7–8 users per day, and reached 20-plus paying customers in 65 days. [→](../articles/your-channel-report-is-lying-107-signups-0-paying-customers.md)
+- **$2,150** — ReelDrop's first two months produced 1,118 signups and 28 paying customers, about CA$2,150 collected after refunds and before Stripe fees. [→](../articles/your-channel-report-is-lying-107-signups-0-paying-customers.md)
 - **$62.50** — It does about 80,000 visits a month and around ¥5,000 a month in affiliate revenue, an effective RPM of $62.50 — five to ten times what most content sites earn per thousand reads. [→](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 - **$10** — An AI image generation tool used Google Ads to boost its monthly paying subscribers from approximately 80 to over 500, maintaining a customer acquisition cost of around $10 per paying user. [→](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 - **$22,000** — Small and verified beats big and vague, and the comparison case makes the point better than I can: StoryShort, an AI short-video tool, matched in 3 months the cumulative revenue that the B2B tool useArtemis took 2 years to accumulate — around $22,000 in monthly Stripe-verified revenue against nearly $500,000 cumulative. [→](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 - **$1,000,000** — Breaking a $1,000,000 annual revenue goal into a daily intake of $2,777 — eighteen standardized units at $150 a day — is the same discipline applied with a bigger numerator, and it works for the same reason: it converts an ambition into a countable daily event. [→](../articles/why-vanity-metrics-kill-ai-startups-700-customers-and-60.md)
 - **3 months** — A former Alibaba P8 engineer, laid off and 3 months into an unsuccessful job search, ended up running three separate AI instances — one tracking competitor pricing, one generating ad creative, one handling customer service — and reports about 170,000 yuan a month. [→](../articles/charge-per-conversation-not-per-seat-the-billing-model.md)
 - **$500** — You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
-- **$3,000** — High-ticket services in low-competition cities often sit at the $3,000 end for websites that actually deliver customers. [→](../articles/ai-local-websites-don-t-rent-for-3k-month-until-you-do-this.md)
-- **3 minutes** — The numbers underneath that headline are the interesting part: 3 minutes for a deep market research pass, 1,800 designs produced in a month, 12 minutes from a customer request to a rendering, and orders signed on the spot while the buyer was still in the conversation. [→](../articles/one-person-8-ai-agents-3-000-baseball-caps-in-two-months.md)
 
-[All figures, 978 rows](../figures.md)
+[All figures, 999 rows](../figures.md)
 
 ## The write-ups
+
+### [Your Channel Report Is Lying — 107 Signups, 0 Paying Customers](../articles/your-channel-report-is-lying-107-signups-0-paying-customers.md)
+
+ReelDrop's first two months produced 1,118 signups and 28 paying customers, about CA$2,150 collected after refunds and before Stripe fees.
+
+[telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--107-Signups-0-Paying-Customers-11-28)
 
 ### [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 
@@ -49,7 +55,7 @@ Zhang Qianchao runs a custom baseball cap export business on Alibaba.com with 8 
 
 ---
 
-[All 80 write-ups](../README.md)
+[All 81 write-ups](../README.md)
 
 ---
 
