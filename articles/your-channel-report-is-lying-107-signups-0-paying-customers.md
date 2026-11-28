@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/100) — that copy has a reply box under it, and this one does not.*
+
 ReelDrop's first two months produced 1,118 signups and 28 paying customers, about CA$2,150 collected after refunds and before Stripe fees. That works out to roughly 2.5% signup-to-paid overall, which sounds like a mediocre but unremarkable early SaaS number.
 
 Then you break it out by channel and the mediocrity disappears.
@@ -104,6 +106,9 @@ agents.*
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** How many of your own product's search clicks are brand-name queries — reply with your rough percentage, or reply saying you don't know, so we can see the spread. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/100).
+
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fyour-channel-report-is-lying-107-signups-0-paying-customers.md). One required field, and the page you came from is already filled

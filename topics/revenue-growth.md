@@ -21,7 +21,7 @@
 
 ReelDrop's first two months produced 1,118 signups and 28 paying customers, about CA$2,150 collected after refunds and before Stripe fees.
 
-[telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--107-Signups-0-Paying-Customers-11-28)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/100) · [telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--107-Signups-0-Paying-Customers-11-28)
 
 ### [63 Billion Tokens in One Month, Spent Writing Google Ads for Amazon Sellers](../articles/63-billion-tokens-in-one-month-spent-writing-google-ads-for.md)
 

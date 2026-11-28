@@ -27,7 +27,7 @@ Open Code Review is an open-source review tool built for AI-assisted development
 
 ReelDrop's first two months produced 1,118 signups and 28 paying customers, about CA$2,150 collected after refunds and before Stripe fees.
 
-[telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--107-Signups-0-Paying-Customers-11-28)
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/100) · [telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--107-Signups-0-Paying-Customers-11-28)
 
 ### [Your Channel Report Is Lying — 1,215 of 1,463 Branded Search Clicks Came From Somewhere Else](../articles/your-channel-report-is-lying-1-215-of-1-463-branded-search.md)
 

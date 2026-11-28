@@ -175,7 +175,7 @@ Chinese AI agent tools offer a game-changing strategy for independent developers
 
 ReelDrop's first two months produced 1,118 signups and 28 paying customers, about CA$2,150 collected after refunds and before Stripe fees.
 
-`Revenue Growth` `User Acquisition` `SaaS Business` `Profitable Business` · [telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--107-Signups-0-Paying-Customers-11-28)
+`Revenue Growth` `User Acquisition` `SaaS Business` `Profitable Business` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/100) · [telegra.ph](https://telegra.ph/Your-Channel-Report-Is-Lying--107-Signups-0-Paying-Customers-11-28)
 
 ### [DeepSeek's Peak-Hour Price Is Double — How to Schedule Your Batch Agent Jobs Around It](articles/deepseek-s-peak-hour-price-is-double-how-to-schedule-your.md)
 
